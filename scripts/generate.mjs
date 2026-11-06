@@ -48,15 +48,15 @@ async function fetchJson(url, init) {
 
 async function generate(prompt) {
   const headers = { 'Content-Type': 'application/json', Authorization: `Bearer ${KEY}` };
-  let { status, json } = await fetchJson(`${BASE}/v1/images/generations/sync`, {
+  const { json } = await fetchJson(`${BASE}/v1/images/generations/sync`, {
     method: 'POST',
     headers,
     body: JSON.stringify({ model: MODEL, prompt, output_format: 'gif' }),
   });
   let url = json?.data?.[0]?.url;
   let b64 = json?.data?.[0]?.b64_json;
-  if (status === 202 && json.task_id) {
-    // 同步接口超时会转成异步任务，轮询直到完成
+  // 同步接口超时会返回任务号（状态码可能是 202，也可能是 200 + status: pending），需要轮询
+  if (!url && !b64 && json.task_id) {
     const pollUrl = json.poll_url?.startsWith('http') ? json.poll_url : `${BASE}/v1/tasks/${json.task_id}`;
     for (let i = 0; i < 200 && !url; i++) {
       await new Promise((r) => setTimeout(r, 3000));
