@@ -2,7 +2,7 @@
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-26-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-41-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.
 
@@ -18,10 +18,10 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 ## Contents
 
 - [How these GIFs are made](#how-these-gifs-are-made)
-- [Stickers & Reactions](#stickers-reactions) · 9 prompts
-- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 4 prompts
-- [Ambient Loops](#ambient-loops) · 8 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 5 prompts
+- [Stickers & Reactions](#stickers-reactions) · 15 prompts
+- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 5 prompts
+- [Ambient Loops](#ambient-loops) · 12 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 9 prompts
 - [Generate them yourself](#generate-them-yourself)
 
 ## How these GIFs are made
@@ -184,9 +184,97 @@ A chubby cartoon penguin slowly raising one flipper and slapping it onto its for
 
 `sticker` `reaction` `facepalm`
 
+### 10. Basketball shot celebration
+
+<img src="gifs/basketball-shot-sticker.gif" alt="Basketball shot celebration" width="360">
+
+<sub>16 frames · 380×251 · 1.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes through the hoop, then the kid lands and pumps a fist in celebration before returning to the starting pose. Bold-outline sticker style, plain light orange background.
+```
+
+> 💡 **Tip:** For sports moves, break the action into 3 clear beats (jump, shot, celebrate). Complex tricks like a 360 kickflip still tend to fail.
+
+`sticker` `sports` `celebration`
+
+### 11. Cat chef tossing fried rice
+
+<img src="gifs/cat-chef-fried-rice.gif" alt="Cat chef tossing fried rice" width="360">
+
+<sub>16 frames · 323×295 · 1.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies up in a little arc and lands back in the pan, a puff of steam rising each time. Comic cartoon style, warm kitchen background kept still.
+```
+
+`sticker` `food` `cat`
+
+### 12. Black cat punch
+
+<img src="gifs/black-cat-punch.gif" alt="Black cat punch" width="360">
+
+<sub>9 frames · 437×390 · 1.3s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A round black cat with big yellow eyes throwing a quick one-two punch toward the viewer with its front paws, little impact stars popping, then settling back into a boxing stance. Chibi sticker style, bold outline, plain pastel purple background.
+```
+
+`sticker` `reaction` `cat`
+
+### 13. Office cat: exhausted
+
+<img src="gifs/office-cat-exhausted.gif" alt="Office cat: exhausted" width="360">
+
+<sub>9 frames · 438×387 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A chubby orange tabby cat office worker with a tiny blue tie and an employee badge slumps face-down onto a pile of papers on its desk, ears drooping, a tiny ghost of a sigh floating up, then twitches one paw. Flat cartoon sticker style, bold outline, plain pale grey background.
+```
+
+> 💡 **Tip:** Part of a set: repeat the exact same character description and only change the action — that is how real sticker packs stay consistent.
+
+`sticker` `work` `sticker-pack`
+
+### 14. Office cat: clocking out
+
+<img src="gifs/office-cat-clock-out.gif" alt="Office cat: clocking out" width="360">
+
+<sub>16 frames · 374×249 · 2.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A chubby orange tabby cat office worker with a tiny blue tie and an employee badge tosses its badge in the air, grabs a tiny backpack and does a happy little hop toward the door, tail swishing. Flat cartoon sticker style, bold outline, plain pale yellow background.
+```
+
+`sticker` `work` `sticker-pack`
+
+### 15. Roaring duck
+
+<img src="gifs/roaring-duck.gif" alt="Roaring duck" width="360">
+
+<sub>9 frames · 433×394 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A small round yellow duck suddenly opening its beak wide and roaring like a lion, feathers blown back, the screen shaking slightly, then it calmly closes its beak. Cute cartoon sticker style, bold outline, plain sky-blue background.
+```
+
+`sticker` `reaction` `funny`
+
 ## Flash Cuts & Brand Reels
 
-### 10. Flower macro flash cut
+### 16. Flower macro flash cut
 
 <img src="gifs/flower-macro-flash.gif" alt="Flower macro flash cut" width="360">
 
@@ -202,7 +290,7 @@ A fast flash-cut sequence of eight different flower photographs, one per frame, 
 
 `flash-cut` `photography` `editorial`
 
-### 11. Cat-head logo brand reel
+### 17. Cat-head logo brand reel
 
 <img src="gifs/cat-brand-reel.gif" alt="Cat-head logo brand reel" width="360">
 
@@ -218,7 +306,7 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
-### 12. Sneaker colorway flash
+### 18. Sneaker colorway flash
 
 <img src="gifs/sneaker-colorway-flash.gif" alt="Sneaker colorway flash" width="360">
 
@@ -234,7 +322,7 @@ A fast flash-cut in a square frame: the same chunky sneaker seen from the side, 
 
 `flash-cut` `product` `fashion`
 
-### 13. One tree, four seasons
+### 19. One tree, four seasons
 
 <img src="gifs/four-seasons-tree.gif" alt="One tree, four seasons" width="360">
 
@@ -248,9 +336,25 @@ The same lone round tree on a small hill, framed identically in every frame, cyc
 
 `flash-cut` `nature` `seasons`
 
+### 20. Magazine collage panels pop in
+
+<img src="gifs/magazine-panels-pop.gif" alt="Magazine collage panels pop in" width="360">
+
+<sub>9 frames · 438×387 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A fashion-magazine collage layout where photo panels pop in one by one — a flower, a pair of sunglasses, a coffee cup, a city skyline — each with a small bounce, and finally a bold title bar reading "WEEKEND" slides in. Clean editorial design, cream background, coral and navy accents.
+```
+
+> 💡 **Tip:** Keep the text to one short word; long titles still warp between frames.
+
+`flash-cut` `editorial` `layout`
+
 ## Ambient Loops
 
-### 14. Reading by the window, day to night
+### 21. Reading by the window, day to night
 
 <img src="gifs/window-day-to-night.gif" alt="Reading by the window, day to night" width="360">
 
@@ -266,7 +370,7 @@ A girl with a short bob reading a book on a cushion by a big window, seen from t
 
 `loop` `character` `time-lapse`
 
-### 15. Steaming coffee loop
+### 22. Steaming coffee loop
 
 <img src="gifs/steaming-coffee.gif" alt="Steaming coffee loop" width="360">
 
@@ -280,7 +384,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 16. Rainy window and plant
+### 23. Rainy window and plant
 
 <img src="gifs/rain-on-window.gif" alt="Rainy window and plant" width="360">
 
@@ -294,7 +398,7 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
-### 17. Goldfish in a bowl
+### 24. Goldfish in a bowl
 
 <img src="gifs/goldfish-bowl.gif" alt="Goldfish in a bowl" width="360">
 
@@ -308,7 +412,7 @@ A round glass fishbowl on a windowsill with one orange goldfish swimming a slow 
 
 `loop` `pet` `calm`
 
-### 18. Lighthouse at night
+### 25. Lighthouse at night
 
 <img src="gifs/lighthouse-night.gif" alt="Lighthouse at night" width="360">
 
@@ -322,7 +426,7 @@ A white lighthouse on a rocky shore at night, its beam sweeping slowly across a 
 
 `loop` `seascape` `night`
 
-### 19. Cat sleeping by the fireplace
+### 26. Cat sleeping by the fireplace
 
 <img src="gifs/cat-by-fireplace.gif" alt="Cat sleeping by the fireplace" width="360">
 
@@ -338,7 +442,7 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
-### 20. Lantern monkey in the snow
+### 27. Lantern monkey in the snow
 
 <img src="gifs/lantern-monkey-snow.gif" alt="Lantern monkey in the snow" width="360">
 
@@ -354,7 +458,7 @@ A small monkey in an olive-green hooded coat standing in a snowy pine forest at 
 
 `loop` `character` `winter`
 
-### 21. Sleepy fox on a mossy rock
+### 28. Sleepy fox on a mossy rock
 
 <img src="gifs/sleepy-fox-rock.gif" alt="Sleepy fox on a mossy rock" width="360">
 
@@ -368,9 +472,67 @@ A small orange fox curled up asleep on a mossy rock, its tail gently swaying and
 
 `loop` `animal` `calm`
 
+### 29. Lo-fi study loop
+
+<img src="gifs/lofi-study-loop.gif" alt="Lo-fi study loop" width="360">
+
+<sub>9 frames · 434×383 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A girl with headphones writing in a notebook at a desk at night, her pencil moving, steam rising from a mug, rain sliding down the window behind her and a desk lamp glowing. Lo-fi anime illustration, muted purple and blue palette, locked camera.
+```
+
+`loop` `lofi` `study`
+
+### 30. Café cinemagraph
+
+<img src="gifs/cafe-cinemagraph.gif" alt="Café cinemagraph" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A cinemagraph of a quiet street café terrace in the morning: everything is perfectly still except the steam curling from a cup on the table and a striped awning flag fluttering in the breeze. Realistic photography, soft warm light, locked camera.
+```
+
+> 💡 **Tip:** For a cinemagraph, say explicitly that everything is still except one or two named elements.
+
+`loop` `cinemagraph` `photo`
+
+### 31. Ink-wash galloping horse
+
+<img src="gifs/ink-wash-horse.gif" alt="Ink-wash galloping horse" width="360">
+
+<sub>16 frames · 380×252 · 1.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A racehorse with a jockey galloping to the right in a loose Chinese ink-wash painting style, legs cycling through a full gallop stride, the jockey bobbing up and down, ink splashes kicking up behind the hooves. Rice-paper background, black ink with a touch of red.
+```
+
+`loop` `ink-wash` `animal`
+
+### 32. Doodle monster comes alive
+
+<img src="gifs/doodle-monster.gif" alt="Doodle monster comes alive" width="360">
+
+<sub>9 frames · 440×386 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.
+```
+
+`loop` `doodle` `cute`
+
 ## Pixel Art & UI Motion
 
-### 22. Pixel art campfire
+### 33. Pixel art campfire
 
 <img src="gifs/pixel-campfire.gif" alt="Pixel art campfire" width="360">
 
@@ -384,7 +546,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 23. Bouncing dots loader
+### 34. Bouncing dots loader
 
 <img src="gifs/bouncing-dots-loader.gif" alt="Bouncing dots loader" width="360">
 
@@ -400,7 +562,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 24. Pixel knight run cycle
+### 35. Pixel knight run cycle
 
 <img src="gifs/pixel-knight-run.gif" alt="Pixel knight run cycle" width="360">
 
@@ -416,7 +578,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 25. Like button heart burst
+### 36. Like button heart burst
 
 <img src="gifs/like-heart-burst.gif" alt="Like button heart burst" width="360">
 
@@ -430,7 +592,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 26. Hourglass loading
+### 37. Hourglass loading
 
 <img src="gifs/hourglass-flip.gif" alt="Hourglass loading" width="360">
 
@@ -443,6 +605,64 @@ A simple flat hourglass icon with sand pouring from the top to the bottom, then 
 ```
 
 `ui` `loader` `icon`
+
+### 38. Arcade VS screen
+
+<img src="gifs/arcade-vs-screen.gif" alt="Arcade VS screen" width="360">
+
+<sub>16 frames · 376×251 · 2.2s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A retro arcade versus screen: on the left a chubby panda wrestler in a yellow cape, on the right a lanky girl skateboarder with a green ponytail and a hoodie, both slide in from the edges, a huge "VS" slams into the center with lightning flashes, then both strike a pose. 16-bit pixel art, bold colors.
+```
+
+> 💡 **Tip:** Use clearly original characters (animals, unusual outfits). Generic "martial artist in a headband" drifts toward famous fighting-game heroes.
+
+`pixel-art` `game` `versus`
+
+### 39. 8-bit slime boss battle
+
+<img src="gifs/pixel-slime-boss.gif" alt="8-bit slime boss battle" width="360">
+
+<sub>16 frames · 375×240 · 2.2s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squishes in the center of a dungeon arena, its health bar at the top flashing, while a small pixel hero on the left raises a shield. Retro NES pixel art, dark stone background.
+```
+
+`pixel-art` `game` `boss`
+
+### 40. Love-burst skill animation
+
+<img src="gifs/love-burst-skill.gif" alt="Love-burst skill animation" width="360">
+
+<sub>16 frames · 369×239 · 1.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A chibi magical girl with a pink bob raises her wand and casts a "love burst" skill: a ring of glowing pink hearts explodes outward from her and fades, then she returns to her idle pose. Game skill-card style animation, sparkly effects, dark purple background.
+```
+
+`game` `skill` `effects`
+
+### 41. Junkyard robot walk cycle
+
+<img src="gifs/junkyard-robot-walk.gif" alt="Junkyard robot walk cycle" width="360">
+
+<sub>16 frames · 380×252 · 1.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A rusty little scrap-metal robot with one antenna and a mismatched arm walking to the right in a side-view walk cycle, bolts jiggling, a puff of dust at each step. Pixel art game sprite on a plain dark background, crisp pixels.
+```
+
+`pixel-art` `sprite` `game`
 
 ## Generate them yourself
 

@@ -140,6 +140,82 @@
       ]
     },
     {
+      "id": "basketball-shot-sticker",
+      "category": "stickers",
+      "title": "Basketball shot celebration",
+      "title_zh": "投篮命中庆祝",
+      "prompt": "A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes through the hoop, then the kid lands and pumps a fist in celebration before returning to the starting pose. Bold-outline sticker style, plain light orange background.",
+      "tips": "For sports moves, break the action into 3 clear beats (jump, shot, celebrate). Complex tricks like a 360 kickflip still tend to fail.",
+      "tips_zh": "运动类动作拆成三个清楚的节拍（起跳、出手、庆祝）。360 度踢板这类复杂花式目前仍容易失败。",
+      "tags": [
+        "sticker",
+        "sports",
+        "celebration"
+      ]
+    },
+    {
+      "id": "cat-chef-fried-rice",
+      "category": "stickers",
+      "title": "Cat chef tossing fried rice",
+      "title_zh": "猫厨师颠勺炒饭",
+      "prompt": "A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies up in a little arc and lands back in the pan, a puff of steam rising each time. Comic cartoon style, warm kitchen background kept still.",
+      "tags": [
+        "sticker",
+        "food",
+        "cat"
+      ]
+    },
+    {
+      "id": "black-cat-punch",
+      "category": "stickers",
+      "title": "Black cat punch",
+      "title_zh": "黑猫出拳",
+      "prompt": "A round black cat with big yellow eyes throwing a quick one-two punch toward the viewer with its front paws, little impact stars popping, then settling back into a boxing stance. Chibi sticker style, bold outline, plain pastel purple background.",
+      "tags": [
+        "sticker",
+        "reaction",
+        "cat"
+      ]
+    },
+    {
+      "id": "office-cat-exhausted",
+      "category": "stickers",
+      "title": "Office cat: exhausted",
+      "title_zh": "打工猫：累瘫",
+      "prompt": "A chubby orange tabby cat office worker with a tiny blue tie and an employee badge slumps face-down onto a pile of papers on its desk, ears drooping, a tiny ghost of a sigh floating up, then twitches one paw. Flat cartoon sticker style, bold outline, plain pale grey background.",
+      "tips": "Part of a set: repeat the exact same character description and only change the action — that is how real sticker packs stay consistent.",
+      "tips_zh": "成套表情：角色描述一字不改，只换动作，真实上架的表情包都是这样保持一致的。",
+      "tags": [
+        "sticker",
+        "work",
+        "sticker-pack"
+      ]
+    },
+    {
+      "id": "office-cat-clock-out",
+      "category": "stickers",
+      "title": "Office cat: clocking out",
+      "title_zh": "打工猫：下班啦",
+      "prompt": "A chubby orange tabby cat office worker with a tiny blue tie and an employee badge tosses its badge in the air, grabs a tiny backpack and does a happy little hop toward the door, tail swishing. Flat cartoon sticker style, bold outline, plain pale yellow background.",
+      "tags": [
+        "sticker",
+        "work",
+        "sticker-pack"
+      ]
+    },
+    {
+      "id": "roaring-duck",
+      "category": "stickers",
+      "title": "Roaring duck",
+      "title_zh": "咆哮的小黄鸭",
+      "prompt": "A small round yellow duck suddenly opening its beak wide and roaring like a lion, feathers blown back, the screen shaking slightly, then it calmly closes its beak. Cute cartoon sticker style, bold outline, plain sky-blue background.",
+      "tags": [
+        "sticker",
+        "reaction",
+        "funny"
+      ]
+    },
+    {
       "id": "flower-macro-flash",
       "category": "flash",
       "title": "Flower macro flash cut",
@@ -191,6 +267,20 @@
         "flash-cut",
         "nature",
         "seasons"
+      ]
+    },
+    {
+      "id": "magazine-panels-pop",
+      "category": "flash",
+      "title": "Magazine collage panels pop in",
+      "title_zh": "杂志拼贴逐格弹出",
+      "prompt": "A fashion-magazine collage layout where photo panels pop in one by one — a flower, a pair of sunglasses, a coffee cup, a city skyline — each with a small bounce, and finally a bold title bar reading \"WEEKEND\" slides in. Clean editorial design, cream background, coral and navy accents.",
+      "tips": "Keep the text to one short word; long titles still warp between frames.",
+      "tips_zh": "文字只放一个短单词，长标题在帧间仍会变形。",
+      "tags": [
+        "flash-cut",
+        "editorial",
+        "layout"
       ]
     },
     {
@@ -296,6 +386,56 @@
       ]
     },
     {
+      "id": "lofi-study-loop",
+      "category": "loops",
+      "title": "Lo-fi study loop",
+      "title_zh": "Lo-fi 学习循环",
+      "prompt": "A girl with headphones writing in a notebook at a desk at night, her pencil moving, steam rising from a mug, rain sliding down the window behind her and a desk lamp glowing. Lo-fi anime illustration, muted purple and blue palette, locked camera.",
+      "tags": [
+        "loop",
+        "lofi",
+        "study"
+      ]
+    },
+    {
+      "id": "cafe-cinemagraph",
+      "category": "loops",
+      "title": "Café cinemagraph",
+      "title_zh": "街角咖啡馆动态照片",
+      "prompt": "A cinemagraph of a quiet street café terrace in the morning: everything is perfectly still except the steam curling from a cup on the table and a striped awning flag fluttering in the breeze. Realistic photography, soft warm light, locked camera.",
+      "tips": "For a cinemagraph, say explicitly that everything is still except one or two named elements.",
+      "tips_zh": "做动态照片（cinemagraph）要明确写“除了某一两个元素，其他都静止”。",
+      "tags": [
+        "loop",
+        "cinemagraph",
+        "photo"
+      ]
+    },
+    {
+      "id": "ink-wash-horse",
+      "category": "loops",
+      "title": "Ink-wash galloping horse",
+      "title_zh": "水墨奔马",
+      "prompt": "A racehorse with a jockey galloping to the right in a loose Chinese ink-wash painting style, legs cycling through a full gallop stride, the jockey bobbing up and down, ink splashes kicking up behind the hooves. Rice-paper background, black ink with a touch of red.",
+      "tags": [
+        "loop",
+        "ink-wash",
+        "animal"
+      ]
+    },
+    {
+      "id": "doodle-monster",
+      "category": "loops",
+      "title": "Doodle monster comes alive",
+      "title_zh": "涂鸦小怪兽活了",
+      "prompt": "A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.",
+      "tags": [
+        "loop",
+        "doodle",
+        "cute"
+      ]
+    },
+    {
       "id": "pixel-campfire",
       "category": "pixel-ui",
       "title": "Pixel art campfire",
@@ -357,6 +497,56 @@
         "ui",
         "loader",
         "icon"
+      ]
+    },
+    {
+      "id": "arcade-vs-screen",
+      "category": "pixel-ui",
+      "title": "Arcade VS screen",
+      "title_zh": "街机对战 VS 画面",
+      "prompt": "A retro arcade versus screen: on the left a chubby panda wrestler in a yellow cape, on the right a lanky girl skateboarder with a green ponytail and a hoodie, both slide in from the edges, a huge \"VS\" slams into the center with lightning flashes, then both strike a pose. 16-bit pixel art, bold colors.",
+      "tags": [
+        "pixel-art",
+        "game",
+        "versus"
+      ],
+      "tips": "Use clearly original characters (animals, unusual outfits). Generic \"martial artist in a headband\" drifts toward famous fighting-game heroes.",
+      "tips_zh": "用一眼就是原创的角色（动物、少见的服装）。写“头戴发带的武术家”这类泛称，容易画成知名格斗游戏主角。"
+    },
+    {
+      "id": "pixel-slime-boss",
+      "category": "pixel-ui",
+      "title": "8-bit slime boss battle",
+      "title_zh": "8-bit 史莱姆 Boss 战",
+      "prompt": "An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squishes in the center of a dungeon arena, its health bar at the top flashing, while a small pixel hero on the left raises a shield. Retro NES pixel art, dark stone background.",
+      "tags": [
+        "pixel-art",
+        "game",
+        "boss"
+      ]
+    },
+    {
+      "id": "love-burst-skill",
+      "category": "pixel-ui",
+      "title": "Love-burst skill animation",
+      "title_zh": "爱心爆发技能动画",
+      "prompt": "A chibi magical girl with a pink bob raises her wand and casts a \"love burst\" skill: a ring of glowing pink hearts explodes outward from her and fades, then she returns to her idle pose. Game skill-card style animation, sparkly effects, dark purple background.",
+      "tags": [
+        "game",
+        "skill",
+        "effects"
+      ]
+    },
+    {
+      "id": "junkyard-robot-walk",
+      "category": "pixel-ui",
+      "title": "Junkyard robot walk cycle",
+      "title_zh": "废品场机器人行走",
+      "prompt": "A rusty little scrap-metal robot with one antenna and a mismatched arm walking to the right in a side-view walk cycle, bolts jiggling, a puff of dust at each step. Pixel art game sprite on a plain dark background, crisp pixels.",
+      "tags": [
+        "pixel-art",
+        "sprite",
+        "game"
       ]
     }
   ]

@@ -257,5 +257,170 @@
     "generatedAt": "2026-11-06",
     "seconds": 41,
     "via": "chatgpt-image-2.com"
+  },
+  "basketball-shot-sticker": {
+    "width": 380,
+    "height": 251,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 501941,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 49,
+    "via": "chatgpt-image-2.com"
+  },
+  "cat-chef-fried-rice": {
+    "width": 323,
+    "height": 295,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 756585,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 41,
+    "via": "chatgpt-image-2.com"
+  },
+  "black-cat-punch": {
+    "width": 437,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1260,
+    "bytes": 300458,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 173,
+    "via": "chatgpt-image-2.com"
+  },
+  "office-cat-exhausted": {
+    "width": 438,
+    "height": 387,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 493942,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 63,
+    "via": "chatgpt-image-2.com"
+  },
+  "office-cat-clock-out": {
+    "width": 374,
+    "height": 249,
+    "frames": 16,
+    "durationMs": 2560,
+    "bytes": 457263,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 54,
+    "via": "chatgpt-image-2.com"
+  },
+  "roaring-duck": {
+    "width": 433,
+    "height": 394,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 346818,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 158,
+    "via": "chatgpt-image-2.com"
+  },
+  "magazine-panels-pop": {
+    "width": 438,
+    "height": 387,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 415910,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 42,
+    "via": "chatgpt-image-2.com"
+  },
+  "lofi-study-loop": {
+    "width": 434,
+    "height": 383,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 790745,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 64,
+    "via": "chatgpt-image-2.com"
+  },
+  "cafe-cinemagraph": {
+    "width": 439,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 970740,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 52,
+    "via": "chatgpt-image-2.com"
+  },
+  "ink-wash-horse": {
+    "width": 380,
+    "height": 252,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 900856,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 57,
+    "via": "chatgpt-image-2.com"
+  },
+  "doodle-monster": {
+    "width": 440,
+    "height": 386,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 543774,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 64,
+    "via": "chatgpt-image-2.com"
+  },
+  "arcade-vs-screen": {
+    "width": 376,
+    "height": 251,
+    "frames": 16,
+    "durationMs": 2240,
+    "bytes": 950129,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 56,
+    "via": "chatgpt-image-2.com"
+  },
+  "pixel-slime-boss": {
+    "width": 375,
+    "height": 240,
+    "frames": 16,
+    "durationMs": 2240,
+    "bytes": 619060,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 63,
+    "via": "chatgpt-image-2.com"
+  },
+  "love-burst-skill": {
+    "width": 369,
+    "height": 239,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 631097,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 57,
+    "via": "chatgpt-image-2.com"
+  },
+  "junkyard-robot-walk": {
+    "width": 380,
+    "height": 252,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 390226,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 51,
+    "via": "chatgpt-image-2.com"
   }
 }
