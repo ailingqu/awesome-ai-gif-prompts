@@ -1,0 +1,13 @@
+{
+  "name": "awesome-ai-gif-prompts",
+  "private": true,
+  "description": "Curated prompts for generating animated GIFs with AI (GPT Image 2.6), each with a real example GIF.",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "scan": "node scripts/generate.mjs --scan",
+    "build": "node scripts/build-readme.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "license": "CC-BY-4.0"
+}
