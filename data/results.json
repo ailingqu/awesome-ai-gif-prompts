@@ -236,5 +236,26 @@
     "model": "gpt-image-2.6",
     "generatedAt": "2026-11-06",
     "seconds": 58
+  },
+  "sleepy-fox-rock": {
+    "width": 432,
+    "height": 394,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 842803,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "via": "chatgpt-image-2.com"
+  },
+  "lantern-monkey-snow": {
+    "width": 380,
+    "height": 241,
+    "frames": 16,
+    "durationMs": 2880,
+    "bytes": 1019333,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 41,
+    "via": "chatgpt-image-2.com"
   }
 }

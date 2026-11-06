@@ -2,7 +2,7 @@
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-24-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-26-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.
 
@@ -20,7 +20,7 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 - [How these GIFs are made](#how-these-gifs-are-made)
 - [Stickers & Reactions](#stickers-reactions) · 9 prompts
 - [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 4 prompts
-- [Ambient Loops](#ambient-loops) · 6 prompts
+- [Ambient Loops](#ambient-loops) · 8 prompts
 - [Pixel Art & UI Motion](#pixel-art-ui-motion) · 5 prompts
 - [Generate them yourself](#generate-them-yourself)
 
@@ -338,9 +338,39 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
+### 20. Lantern monkey in the snow
+
+<img src="gifs/lantern-monkey-snow.gif" alt="Lantern monkey in the snow" width="360">
+
+<sub>16 frames · 380×241 · 2.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A small monkey in an olive-green hooded coat standing in a snowy pine forest at dusk, lifting a glowing amber paper lantern, looking up and blinking, then lowering the lantern back to where it started. Snow falls gently and a tiny cabin glows in the background. Soft storybook illustration, locked camera.
+```
+
+> 💡 **Tip:** Give the subject a pose to return to and lock the camera — the easiest way to get a clean loop.
+
+`loop` `character` `winter`
+
+### 21. Sleepy fox on a mossy rock
+
+<img src="gifs/sleepy-fox-rock.gif" alt="Sleepy fox on a mossy rock" width="360">
+
+<sub>9 frames · 432×394 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.
+```
+
+`loop` `animal` `calm`
+
 ## Pixel Art & UI Motion
 
-### 20. Pixel art campfire
+### 22. Pixel art campfire
 
 <img src="gifs/pixel-campfire.gif" alt="Pixel art campfire" width="360">
 
@@ -354,7 +384,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 21. Bouncing dots loader
+### 23. Bouncing dots loader
 
 <img src="gifs/bouncing-dots-loader.gif" alt="Bouncing dots loader" width="360">
 
@@ -370,7 +400,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 22. Pixel knight run cycle
+### 24. Pixel knight run cycle
 
 <img src="gifs/pixel-knight-run.gif" alt="Pixel knight run cycle" width="360">
 
@@ -386,7 +416,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 23. Like button heart burst
+### 25. Like button heart burst
 
 <img src="gifs/like-heart-burst.gif" alt="Like button heart burst" width="360">
 
@@ -400,7 +430,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 24. Hourglass loading
+### 26. Hourglass loading
 
 <img src="gifs/hourglass-flip.gif" alt="Hourglass loading" width="360">
 

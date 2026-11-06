@@ -270,6 +270,32 @@
       ]
     },
     {
+      "id": "lantern-monkey-snow",
+      "category": "loops",
+      "title": "Lantern monkey in the snow",
+      "title_zh": "雪林提灯的小猴子",
+      "prompt": "A small monkey in an olive-green hooded coat standing in a snowy pine forest at dusk, lifting a glowing amber paper lantern, looking up and blinking, then lowering the lantern back to where it started. Snow falls gently and a tiny cabin glows in the background. Soft storybook illustration, locked camera.",
+      "tips": "Give the subject a pose to return to and lock the camera — the easiest way to get a clean loop.",
+      "tips_zh": "给主体一个能回去的起始姿势，并锁定镜头，循环最容易接得上。",
+      "tags": [
+        "loop",
+        "character",
+        "winter"
+      ]
+    },
+    {
+      "id": "sleepy-fox-rock",
+      "category": "loops",
+      "title": "Sleepy fox on a mossy rock",
+      "title_zh": "苔石上打盹的小狐狸",
+      "prompt": "A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.",
+      "tags": [
+        "loop",
+        "animal",
+        "calm"
+      ]
+    },
+    {
       "id": "pixel-campfire",
       "category": "pixel-ui",
       "title": "Pixel art campfire",

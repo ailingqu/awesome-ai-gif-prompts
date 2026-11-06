@@ -2,7 +2,7 @@
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-24-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-26-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。下面每个示例都是用所列提示词原样生成的，未做任何后期修改。
 
@@ -20,7 +20,7 @@
 - [这些 GIF 是怎么生成的](#这些-gif-是怎么生成的)
 - [表情包与贴纸](#表情包与贴纸) · 9 条提示词
 - [快闪与品牌动效](#快闪与品牌动效) · 4 条提示词
-- [氛围循环动画](#氛围循环动画) · 6 条提示词
+- [氛围循环动画](#氛围循环动画) · 8 条提示词
 - [像素风与界面动效](#像素风与界面动效) · 5 条提示词
 - [自己动手生成](#自己动手生成)
 
@@ -338,9 +338,39 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
+### 20. 雪林提灯的小猴子
+
+<img src="gifs/lantern-monkey-snow.gif" alt="雪林提灯的小猴子" width="360">
+
+<sub>16 帧 · 380×241 · 2.9s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A small monkey in an olive-green hooded coat standing in a snowy pine forest at dusk, lifting a glowing amber paper lantern, looking up and blinking, then lowering the lantern back to where it started. Snow falls gently and a tiny cabin glows in the background. Soft storybook illustration, locked camera.
+```
+
+> 💡 **技巧：** 给主体一个能回去的起始姿势，并锁定镜头，循环最容易接得上。
+
+`loop` `character` `winter`
+
+### 21. 苔石上打盹的小狐狸
+
+<img src="gifs/sleepy-fox-rock.gif" alt="苔石上打盹的小狐狸" width="360">
+
+<sub>9 帧 · 432×394 · 1.6s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.
+```
+
+`loop` `animal` `calm`
+
 ## 像素风与界面动效
 
-### 20. 像素风篝火
+### 22. 像素风篝火
 
 <img src="gifs/pixel-campfire.gif" alt="像素风篝火" width="360">
 
@@ -354,7 +384,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 21. 弹跳圆点加载动画
+### 23. 弹跳圆点加载动画
 
 <img src="gifs/bouncing-dots-loader.gif" alt="弹跳圆点加载动画" width="360">
 
@@ -370,7 +400,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 22. 像素骑士跑步循环
+### 24. 像素骑士跑步循环
 
 <img src="gifs/pixel-knight-run.gif" alt="像素骑士跑步循环" width="360">
 
@@ -386,7 +416,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 23. 点赞爱心爆开
+### 25. 点赞爱心爆开
 
 <img src="gifs/like-heart-burst.gif" alt="点赞爱心爆开" width="360">
 
@@ -400,7 +430,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 24. 沙漏加载
+### 26. 沙漏加载
 
 <img src="gifs/hourglass-flip.gif" alt="沙漏加载" width="360">
 
