@@ -1,0 +1,185 @@
+{
+  "loopSuffix": "Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+  "categories": [
+    {
+      "id": "stickers",
+      "title": "Stickers & Reactions",
+      "title_zh": "表情包与贴纸"
+    },
+    {
+      "id": "flash",
+      "title": "Flash Cuts & Brand Reels",
+      "title_zh": "快闪与品牌动效"
+    },
+    {
+      "id": "loops",
+      "title": "Ambient Loops",
+      "title_zh": "氛围循环动画"
+    },
+    {
+      "id": "pixel-ui",
+      "title": "Pixel Art & UI Motion",
+      "title_zh": "像素风与界面动效"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "jelly-bear-wobble",
+      "category": "stickers",
+      "title": "Jelly bear wobble",
+      "title_zh": "Q 弹果冻熊摇晃",
+      "prompt": "A chubby round cartoon bear with a soft jelly-like body and stubby arms, squishing down and springing back up while wobbling side to side, cheeks jiggling on every bounce. Thick clean outlines, flat pastel colors, centered on a plain solid mint-green background that contrasts strongly with the bear.",
+      "tips": "Keep the background one flat color far from the character's colors so it can be keyed out as a transparent sticker later.",
+      "tips_zh": "背景用一种和角色颜色完全拉开的纯色，之后才方便抠成透明贴纸。",
+      "tags": [
+        "sticker",
+        "bouncy",
+        "cute"
+      ]
+    },
+    {
+      "id": "bunny-thumbs-up",
+      "category": "stickers",
+      "title": "Bunny thumbs-up",
+      "title_zh": "兔兔点赞",
+      "prompt": "A small white cartoon bunny with long floppy ears and a pink nose, giving an enthusiastic thumbs-up with one paw, the paw pumping forward twice while the ears bounce. Chibi sticker style, bold outline, plain warm yellow background.",
+      "tips": "Reuse the same character description across a set (see the next two prompts) so the whole sticker pack stays consistent.",
+      "tips_zh": "一整套表情包都复用同一段角色描述（见后面两条），风格才能保持一致。",
+      "tags": [
+        "sticker",
+        "reaction",
+        "sticker-pack"
+      ]
+    },
+    {
+      "id": "bunny-laughing",
+      "category": "stickers",
+      "title": "Bunny laughing to tears",
+      "title_zh": "兔兔笑出眼泪",
+      "prompt": "A small white cartoon bunny with long floppy ears and a pink nose, laughing so hard it rocks back and forth, eyes squeezed shut and two little tears flying out. Chibi sticker style, bold outline, plain warm yellow background.",
+      "tags": [
+        "sticker",
+        "reaction",
+        "sticker-pack"
+      ]
+    },
+    {
+      "id": "bunny-sleepy",
+      "category": "stickers",
+      "title": "Sleepy bunny",
+      "title_zh": "兔兔犯困",
+      "prompt": "A small white cartoon bunny with long floppy ears and a pink nose, sitting and nodding off, head slowly drooping then jerking back up, a small bubble swelling and shrinking from its nose. Chibi sticker style, bold outline, plain warm yellow background.",
+      "tags": [
+        "sticker",
+        "reaction",
+        "sticker-pack"
+      ]
+    },
+    {
+      "id": "cat-waving-hello",
+      "category": "stickers",
+      "title": "Cartoon cat waving hello",
+      "title_zh": "卡通猫挥手打招呼",
+      "prompt": "A cheerful cartoon cat waving hello.",
+      "tips": "Even a one-line prompt works for simple greetings — the model fills in style and timing.",
+      "tips_zh": "简单的打招呼动作，一句话提示词也够用，风格和节奏交给模型。",
+      "tags": [
+        "sticker",
+        "greeting",
+        "minimal-prompt"
+      ]
+    },
+    {
+      "id": "flower-macro-flash",
+      "category": "flash",
+      "title": "Flower macro flash cut",
+      "title_zh": "花卉微距快闪",
+      "prompt": "A fast flash-cut sequence of eight different flower photographs, one per frame, each filling the whole frame: a red poppy shot from above with light glowing through its petals, a creamy gardenia in soft side light, blue delphinium against a deep blue background, a golden marigold macro, a pink peony from a high angle, a dark purple iris close-up, an orange lily with curled petals, and pale green hydrangea with dew drops. Realistic botanical fashion photography, each frame with a different color, distance and composition.",
+      "tips": "Describe every frame as a distinct shot. Changing color, angle and framing between frames is what makes a flash cut feel energetic.",
+      "tips_zh": "把每一帧写成独立的镜头。帧与帧之间颜色、角度、景别差异越大，快闪越有冲击力。",
+      "tags": [
+        "flash-cut",
+        "photography",
+        "editorial"
+      ]
+    },
+    {
+      "id": "cat-brand-reel",
+      "category": "flash",
+      "title": "Cat-head logo brand reel",
+      "title_zh": "猫头 Logo 品牌快闪",
+      "prompt": "A quick-cut brand reel for a fictional cat food brand called \"MEOWBITE\". The same flat dark-brown cat-head logo — round face, two short pointed ears, cream almond eyes, short whiskers — stays fixed at the center of every frame while everything around it changes: an orange full-bleed poster, a pink pouch of cat food, a blue ceramic cat bowl seen from above, a kraft shipping box, a round sticker, and a final dark frame with the word MEOWBITE in big cream letters. Bold graphic design, flat colors, citrus orange, cream and dark brown palette.",
+      "tips": "Lock the logo's position and size in every frame and only change the surroundings — that is what makes a brand flash read as one identity.",
+      "tips_zh": "每一帧都锁定 Logo 的位置和大小，只换周围的场景，快闪才像同一个品牌。",
+      "tags": [
+        "flash-cut",
+        "branding",
+        "logo"
+      ]
+    },
+    {
+      "id": "window-day-to-night",
+      "category": "loops",
+      "title": "Reading by the window, day to night",
+      "title_zh": "窗边读书·白天到夜晚",
+      "prompt": "A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.",
+      "tips": "Day-to-night loops are harder than simple motions. Keep the character mostly still and let the light and sky carry the change.",
+      "tips_zh": "昼夜循环比简单动作难得多。让人物基本保持不动，用天空和光线来表现变化。",
+      "tags": [
+        "loop",
+        "character",
+        "time-lapse"
+      ]
+    },
+    {
+      "id": "steaming-coffee",
+      "category": "loops",
+      "title": "Steaming coffee loop",
+      "title_zh": "冒热气的咖啡",
+      "prompt": "A steaming cup of coffee on a small wooden table, steam curling and drifting upward, a tiny spoon wobbling on the saucer. Cozy flat illustration with warm colors.",
+      "tags": [
+        "loop",
+        "food",
+        "cozy"
+      ]
+    },
+    {
+      "id": "rain-on-window",
+      "category": "loops",
+      "title": "Rainy window and plant",
+      "title_zh": "雨窗与绿植",
+      "prompt": "A rainy window at dusk with a small potted plant on the sill, raindrops sliding down the glass and blurry city lights twinkling outside. Soft muted blue palette, lo-fi illustration style.",
+      "tags": [
+        "loop",
+        "lofi",
+        "weather"
+      ]
+    },
+    {
+      "id": "pixel-campfire",
+      "category": "pixel-ui",
+      "title": "Pixel art campfire",
+      "title_zh": "像素风篝火",
+      "prompt": "A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.",
+      "tags": [
+        "pixel-art",
+        "loop",
+        "game"
+      ]
+    },
+    {
+      "id": "bouncing-dots-loader",
+      "category": "pixel-ui",
+      "title": "Bouncing dots loader",
+      "title_zh": "弹跳圆点加载动画",
+      "prompt": "A minimal loading animation: three rounded dots in coral, violet and teal bouncing up and down one after another in a wave, with soft squash on landing. Flat vector style on a plain off-white background.",
+      "tips": "UI loaders work best with very few elements and a plain background.",
+      "tips_zh": "界面加载动画元素越少越好，背景保持纯色。",
+      "tags": [
+        "ui",
+        "loader",
+        "minimal"
+      ]
+    }
+  ]
+}

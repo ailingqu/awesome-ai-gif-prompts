@@ -1,0 +1,120 @@
+{
+  "cat-waving-hello": {
+    "width": 438,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1260,
+    "bytes": 414879,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-05"
+  },
+  "steaming-coffee": {
+    "width": 379,
+    "height": 252,
+    "frames": 16,
+    "durationMs": 2560,
+    "bytes": 881163,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-05"
+  },
+  "bouncing-dots-loader": {
+    "width": 385,
+    "height": 266,
+    "frames": 16,
+    "durationMs": 1440,
+    "bytes": 331852,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 39
+  },
+  "jelly-bear-wobble": {
+    "width": 438,
+    "height": 388,
+    "frames": 9,
+    "durationMs": 1260,
+    "bytes": 325319,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 51
+  },
+  "bunny-thumbs-up": {
+    "width": 438,
+    "height": 388,
+    "frames": 9,
+    "durationMs": 1260,
+    "bytes": 319815,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 38
+  },
+  "bunny-laughing": {
+    "width": 440,
+    "height": 389,
+    "frames": 8,
+    "durationMs": 1120,
+    "bytes": 312191,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 35
+  },
+  "bunny-sleepy": {
+    "width": 439,
+    "height": 387,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 364752,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 35
+  },
+  "flower-macro-flash": {
+    "width": 380,
+    "height": 508,
+    "frames": 8,
+    "durationMs": 3600,
+    "bytes": 424495,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 45
+  },
+  "cat-brand-reel": {
+    "width": 380,
+    "height": 507,
+    "frames": 8,
+    "durationMs": 2800,
+    "bytes": 325562,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 52
+  },
+  "window-day-to-night": {
+    "width": 413,
+    "height": 412,
+    "frames": 9,
+    "durationMs": 3150,
+    "bytes": 680164,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 42
+  },
+  "rain-on-window": {
+    "width": 378,
+    "height": 252,
+    "frames": 16,
+    "durationMs": 2880,
+    "bytes": 647751,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 43
+  },
+  "pixel-campfire": {
+    "width": 378,
+    "height": 240,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 504252,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 50
+  }
+}
