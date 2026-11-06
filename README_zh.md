@@ -2,7 +2,7 @@
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-12-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-24-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。下面每个示例都是用所列提示词原样生成的，未做任何后期修改。
 
@@ -18,10 +18,10 @@
 ## 目录
 
 - [这些 GIF 是怎么生成的](#这些-gif-是怎么生成的)
-- [表情包与贴纸](#表情包与贴纸) · 5 条提示词
-- [快闪与品牌动效](#快闪与品牌动效) · 2 条提示词
-- [氛围循环动画](#氛围循环动画) · 3 条提示词
-- [像素风与界面动效](#像素风与界面动效) · 2 条提示词
+- [表情包与贴纸](#表情包与贴纸) · 9 条提示词
+- [快闪与品牌动效](#快闪与品牌动效) · 4 条提示词
+- [氛围循环动画](#氛围循环动画) · 6 条提示词
+- [像素风与界面动效](#像素风与界面动效) · 5 条提示词
 - [自己动手生成](#自己动手生成)
 
 ## 这些 GIF 是怎么生成的
@@ -126,9 +126,67 @@ A cheerful cartoon cat waving hello.
 
 `sticker` `greeting` `minimal-prompt`
 
+### 6. 柴犬歪头疑惑
+
+<img src="gifs/shiba-head-tilt.gif" alt="柴犬歪头疑惑" width="360">
+
+<sub>9 帧 · 439×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A fluffy orange shiba inu puppy tilting its head to one side and back again, ears twitching, a small question mark popping above its head. Chibi sticker style, bold outline, plain light blue background.
+```
+
+`sticker` `reaction` `dog`
+
+### 7. 猫猫疯狂打字
+
+<img src="gifs/cat-typing-laptop.gif" alt="猫猫疯狂打字" width="360">
+
+<sub>16 帧 · 380×242 · 1.9s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A grey tabby cat sitting at a tiny laptop and typing furiously with both front paws, paws blurring, little speed lines and sweat drops flying off. Flat cartoon sticker style, bold outline, plain pale pink background.
+```
+
+> 💡 **技巧：** 速度线和汗珠能让快速动作在帧数很少时也看得清。
+
+`sticker` `work` `cat`
+
+### 8. 青蛙吹出爱心
+
+<img src="gifs/frog-heart-bubble.gif" alt="青蛙吹出爱心" width="360">
+
+<sub>16 帧 · 380×252 · 2.2s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bubble that floats up and pops into tiny sparkles. Cute flat sticker style, bold outline, plain cream background.
+```
+
+`sticker` `love` `cute`
+
+### 9. 企鹅捂脸
+
+<img src="gifs/penguin-facepalm.gif" alt="企鹅捂脸" width="360">
+
+<sub>9 帧 · 435×389 · 1.4s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A chubby cartoon penguin slowly raising one flipper and slapping it onto its forehead, then shaking its head in disbelief. Chibi sticker style, bold outline, plain light grey background.
+```
+
+`sticker` `reaction` `facepalm`
+
 ## 快闪与品牌动效
 
-### 6. 花卉微距快闪
+### 10. 花卉微距快闪
 
 <img src="gifs/flower-macro-flash.gif" alt="花卉微距快闪" width="360">
 
@@ -144,7 +202,7 @@ A fast flash-cut sequence of eight different flower photographs, one per frame, 
 
 `flash-cut` `photography` `editorial`
 
-### 7. 猫头 Logo 品牌快闪
+### 11. 猫头 Logo 品牌快闪
 
 <img src="gifs/cat-brand-reel.gif" alt="猫头 Logo 品牌快闪" width="360">
 
@@ -160,9 +218,39 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
+### 12. 球鞋配色快闪
+
+<img src="gifs/sneaker-colorway-flash.gif" alt="球鞋配色快闪" width="360">
+
+<sub>5 帧 · 349×883 · 1.8s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A fast flash-cut in a square frame: the same chunky sneaker seen from the side, centered and the same size in every frame, while its colorway and the full-bleed solid background change each frame: white and red on blue, black and lime on pink, cream and brown on orange, purple and silver on yellow, all-white on black. Clean studio product photography, the background fills the whole frame edge to edge.
+```
+
+> 💡 **技巧：** 固定产品角度和位置，只换配色，就是最经典的产品配色快闪。
+
+`flash-cut` `product` `fashion`
+
+### 13. 一棵树的四季
+
+<img src="gifs/four-seasons-tree.gif" alt="一棵树的四季" width="360">
+
+<sub>4 帧 · 764×508 · 2.6s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
+```
+
+`flash-cut` `nature` `seasons`
+
 ## 氛围循环动画
 
-### 8. 窗边读书·白天到夜晚
+### 14. 窗边读书·白天到夜晚
 
 <img src="gifs/window-day-to-night.gif" alt="窗边读书·白天到夜晚" width="360">
 
@@ -178,7 +266,7 @@ A girl with a short bob reading a book on a cushion by a big window, seen from t
 
 `loop` `character` `time-lapse`
 
-### 9. 冒热气的咖啡
+### 15. 冒热气的咖啡
 
 <img src="gifs/steaming-coffee.gif" alt="冒热气的咖啡" width="360">
 
@@ -192,7 +280,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 10. 雨窗与绿植
+### 16. 雨窗与绿植
 
 <img src="gifs/rain-on-window.gif" alt="雨窗与绿植" width="360">
 
@@ -206,9 +294,53 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
+### 17. 鱼缸里的金鱼
+
+<img src="gifs/goldfish-bowl.gif" alt="鱼缸里的金鱼" width="360">
+
+<sub>16 帧 · 380×243 · 2.9s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
+```
+
+`loop` `pet` `calm`
+
+### 18. 夜晚的灯塔
+
+<img src="gifs/lighthouse-night.gif" alt="夜晚的灯塔" width="360">
+
+<sub>16 帧 · 380×247 · 2.9s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A white lighthouse on a rocky shore at night, its beam sweeping slowly across a dark blue sky, waves rolling and splashing against the rocks below. Flat illustration with a deep navy and warm yellow palette.
+```
+
+`loop` `seascape` `night`
+
+### 19. 壁炉边睡觉的猫
+
+<img src="gifs/cat-by-fireplace.gif" alt="壁炉边睡觉的猫" width="360">
+
+<sub>16 帧 · 380×243 · 2.9s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A ginger cat curled up asleep on a rug in front of a crackling fireplace, its body gently rising and falling with each breath, flames flickering and casting warm light. Cozy flat illustration, warm orange and brown tones.
+```
+
+> 💡 **技巧：** “呼吸起伏”这种小动作很适合做安静的循环，看得清又天然能循环。
+
+`loop` `cozy` `cat`
+
 ## 像素风与界面动效
 
-### 11. 像素风篝火
+### 20. 像素风篝火
 
 <img src="gifs/pixel-campfire.gif" alt="像素风篝火" width="360">
 
@@ -222,7 +354,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 12. 弹跳圆点加载动画
+### 21. 弹跳圆点加载动画
 
 <img src="gifs/bouncing-dots-loader.gif" alt="弹跳圆点加载动画" width="360">
 
@@ -237,6 +369,50 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 > 💡 **技巧：** 界面加载动画元素越少越好，背景保持纯色。
 
 `ui` `loader` `minimal`
+
+### 22. 像素骑士跑步循环
+
+<img src="gifs/pixel-knight-run.gif" alt="像素骑士跑步循环" width="360">
+
+<sub>8 帧 · 380×508 · 1.0s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A pixel art knight with a blue cape and a small sword running to the right in a side view run cycle, cape flapping, on a plain dark background. 16-bit retro game sprite style, crisp pixels.
+```
+
+> 💡 **技巧：** 写明 “side view” 和 “run cycle”，就能得到游戏精灵图那样的动画。
+
+`pixel-art` `sprite` `game`
+
+### 23. 点赞爱心爆开
+
+<img src="gifs/like-heart-burst.gif" alt="点赞爱心爆开" width="360">
+
+<sub>16 帧 · 379×246 · 1.8s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A rounded outline heart icon that fills with red, pops bigger with a bounce and bursts into small colorful confetti dots around it, then settles back. Flat vector UI animation on a plain white background.
+```
+
+`ui` `icon` `micro-interaction`
+
+### 24. 沙漏加载
+
+<img src="gifs/hourglass-flip.gif" alt="沙漏加载" width="360">
+
+<sub>16 帧 · 379×252 · 2.2s · gpt-image-2.6 · 生成于 2026-11-06</sub>
+
+**提示词**
+
+```text
+A simple flat hourglass icon with sand pouring from the top to the bottom, then the hourglass flips over and starts again. Minimal vector style, teal frame and golden sand on a plain off-white background.
+```
+
+`ui` `loader` `icon`
 
 ## 自己动手生成
 

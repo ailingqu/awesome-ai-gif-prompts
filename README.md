@@ -2,7 +2,7 @@
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-12-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-24-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.
 
@@ -18,10 +18,10 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 ## Contents
 
 - [How these GIFs are made](#how-these-gifs-are-made)
-- [Stickers & Reactions](#stickers-reactions) · 5 prompts
-- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 2 prompts
-- [Ambient Loops](#ambient-loops) · 3 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 2 prompts
+- [Stickers & Reactions](#stickers-reactions) · 9 prompts
+- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 4 prompts
+- [Ambient Loops](#ambient-loops) · 6 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 5 prompts
 - [Generate them yourself](#generate-them-yourself)
 
 ## How these GIFs are made
@@ -126,9 +126,67 @@ A cheerful cartoon cat waving hello.
 
 `sticker` `greeting` `minimal-prompt`
 
+### 6. Confused shiba head tilt
+
+<img src="gifs/shiba-head-tilt.gif" alt="Confused shiba head tilt" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A fluffy orange shiba inu puppy tilting its head to one side and back again, ears twitching, a small question mark popping above its head. Chibi sticker style, bold outline, plain light blue background.
+```
+
+`sticker` `reaction` `dog`
+
+### 7. Cat typing furiously
+
+<img src="gifs/cat-typing-laptop.gif" alt="Cat typing furiously" width="360">
+
+<sub>16 frames · 380×242 · 1.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A grey tabby cat sitting at a tiny laptop and typing furiously with both front paws, paws blurring, little speed lines and sweat drops flying off. Flat cartoon sticker style, bold outline, plain pale pink background.
+```
+
+> 💡 **Tip:** Speed lines and sweat drops make fast motion readable even with only a few frames.
+
+`sticker` `work` `cat`
+
+### 8. Frog blowing a heart
+
+<img src="gifs/frog-heart-bubble.gif" alt="Frog blowing a heart" width="360">
+
+<sub>16 frames · 380×252 · 2.2s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bubble that floats up and pops into tiny sparkles. Cute flat sticker style, bold outline, plain cream background.
+```
+
+`sticker` `love` `cute`
+
+### 9. Penguin facepalm
+
+<img src="gifs/penguin-facepalm.gif" alt="Penguin facepalm" width="360">
+
+<sub>9 frames · 435×389 · 1.4s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A chubby cartoon penguin slowly raising one flipper and slapping it onto its forehead, then shaking its head in disbelief. Chibi sticker style, bold outline, plain light grey background.
+```
+
+`sticker` `reaction` `facepalm`
+
 ## Flash Cuts & Brand Reels
 
-### 6. Flower macro flash cut
+### 10. Flower macro flash cut
 
 <img src="gifs/flower-macro-flash.gif" alt="Flower macro flash cut" width="360">
 
@@ -144,7 +202,7 @@ A fast flash-cut sequence of eight different flower photographs, one per frame, 
 
 `flash-cut` `photography` `editorial`
 
-### 7. Cat-head logo brand reel
+### 11. Cat-head logo brand reel
 
 <img src="gifs/cat-brand-reel.gif" alt="Cat-head logo brand reel" width="360">
 
@@ -160,9 +218,39 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
+### 12. Sneaker colorway flash
+
+<img src="gifs/sneaker-colorway-flash.gif" alt="Sneaker colorway flash" width="360">
+
+<sub>5 frames · 349×883 · 1.8s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A fast flash-cut in a square frame: the same chunky sneaker seen from the side, centered and the same size in every frame, while its colorway and the full-bleed solid background change each frame: white and red on blue, black and lime on pink, cream and brown on orange, purple and silver on yellow, all-white on black. Clean studio product photography, the background fills the whole frame edge to edge.
+```
+
+> 💡 **Tip:** Fix the product's angle and position, change only colors — the classic product colorway reel.
+
+`flash-cut` `product` `fashion`
+
+### 13. One tree, four seasons
+
+<img src="gifs/four-seasons-tree.gif" alt="One tree, four seasons" width="360">
+
+<sub>4 frames · 764×508 · 2.6s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
+```
+
+`flash-cut` `nature` `seasons`
+
 ## Ambient Loops
 
-### 8. Reading by the window, day to night
+### 14. Reading by the window, day to night
 
 <img src="gifs/window-day-to-night.gif" alt="Reading by the window, day to night" width="360">
 
@@ -178,7 +266,7 @@ A girl with a short bob reading a book on a cushion by a big window, seen from t
 
 `loop` `character` `time-lapse`
 
-### 9. Steaming coffee loop
+### 15. Steaming coffee loop
 
 <img src="gifs/steaming-coffee.gif" alt="Steaming coffee loop" width="360">
 
@@ -192,7 +280,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 10. Rainy window and plant
+### 16. Rainy window and plant
 
 <img src="gifs/rain-on-window.gif" alt="Rainy window and plant" width="360">
 
@@ -206,9 +294,53 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
+### 17. Goldfish in a bowl
+
+<img src="gifs/goldfish-bowl.gif" alt="Goldfish in a bowl" width="360">
+
+<sub>16 frames · 380×243 · 2.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
+```
+
+`loop` `pet` `calm`
+
+### 18. Lighthouse at night
+
+<img src="gifs/lighthouse-night.gif" alt="Lighthouse at night" width="360">
+
+<sub>16 frames · 380×247 · 2.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A white lighthouse on a rocky shore at night, its beam sweeping slowly across a dark blue sky, waves rolling and splashing against the rocks below. Flat illustration with a deep navy and warm yellow palette.
+```
+
+`loop` `seascape` `night`
+
+### 19. Cat sleeping by the fireplace
+
+<img src="gifs/cat-by-fireplace.gif" alt="Cat sleeping by the fireplace" width="360">
+
+<sub>16 frames · 380×243 · 2.9s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A ginger cat curled up asleep on a rug in front of a crackling fireplace, its body gently rising and falling with each breath, flames flickering and casting warm light. Cozy flat illustration, warm orange and brown tones.
+```
+
+> 💡 **Tip:** Breathing is a great tiny motion for calm loops — it reads clearly and loops naturally.
+
+`loop` `cozy` `cat`
+
 ## Pixel Art & UI Motion
 
-### 11. Pixel art campfire
+### 20. Pixel art campfire
 
 <img src="gifs/pixel-campfire.gif" alt="Pixel art campfire" width="360">
 
@@ -222,7 +354,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 12. Bouncing dots loader
+### 21. Bouncing dots loader
 
 <img src="gifs/bouncing-dots-loader.gif" alt="Bouncing dots loader" width="360">
 
@@ -237,6 +369,50 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 > 💡 **Tip:** UI loaders work best with very few elements and a plain background.
 
 `ui` `loader` `minimal`
+
+### 22. Pixel knight run cycle
+
+<img src="gifs/pixel-knight-run.gif" alt="Pixel knight run cycle" width="360">
+
+<sub>8 frames · 380×508 · 1.0s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A pixel art knight with a blue cape and a small sword running to the right in a side view run cycle, cape flapping, on a plain dark background. 16-bit retro game sprite style, crisp pixels.
+```
+
+> 💡 **Tip:** Ask for a "run cycle" in "side view" to get game-sprite style animation.
+
+`pixel-art` `sprite` `game`
+
+### 23. Like button heart burst
+
+<img src="gifs/like-heart-burst.gif" alt="Like button heart burst" width="360">
+
+<sub>16 frames · 379×246 · 1.8s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A rounded outline heart icon that fills with red, pops bigger with a bounce and bursts into small colorful confetti dots around it, then settles back. Flat vector UI animation on a plain white background.
+```
+
+`ui` `icon` `micro-interaction`
+
+### 24. Hourglass loading
+
+<img src="gifs/hourglass-flip.gif" alt="Hourglass loading" width="360">
+
+<sub>16 frames · 379×252 · 2.2s · gpt-image-2.6 · generated 2026-11-06</sub>
+
+**Prompt**
+
+```text
+A simple flat hourglass icon with sand pouring from the top to the bottom, then the hourglass flips over and starts again. Minimal vector style, teal frame and golden sand on a plain off-white background.
+```
+
+`ui` `loader` `icon`
 
 ## Generate them yourself
 

@@ -116,5 +116,125 @@
     "model": "gpt-image-2.6",
     "generatedAt": "2026-11-06",
     "seconds": 50
+  },
+  "shiba-head-tilt": {
+    "width": 439,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 447418,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 49
+  },
+  "cat-typing-laptop": {
+    "width": 380,
+    "height": 242,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 586361,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 44
+  },
+  "frog-heart-bubble": {
+    "width": 380,
+    "height": 252,
+    "frames": 16,
+    "durationMs": 2240,
+    "bytes": 307101,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 58
+  },
+  "penguin-facepalm": {
+    "width": 435,
+    "height": 389,
+    "frames": 9,
+    "durationMs": 1440,
+    "bytes": 350687,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 36
+  },
+  "sneaker-colorway-flash": {
+    "width": 349,
+    "height": 883,
+    "frames": 5,
+    "durationMs": 1750,
+    "bytes": 128980,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 68
+  },
+  "four-seasons-tree": {
+    "width": 764,
+    "height": 508,
+    "frames": 4,
+    "durationMs": 2600,
+    "bytes": 391533,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 36
+  },
+  "lighthouse-night": {
+    "width": 380,
+    "height": 247,
+    "frames": 16,
+    "durationMs": 2880,
+    "bytes": 485301,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 76
+  },
+  "cat-by-fireplace": {
+    "width": 380,
+    "height": 243,
+    "frames": 16,
+    "durationMs": 2880,
+    "bytes": 835259,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 47
+  },
+  "pixel-knight-run": {
+    "width": 380,
+    "height": 508,
+    "frames": 8,
+    "durationMs": 960,
+    "bytes": 215969,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 52
+  },
+  "like-heart-burst": {
+    "width": 379,
+    "height": 246,
+    "frames": 16,
+    "durationMs": 1760,
+    "bytes": 97378,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 64
+  },
+  "hourglass-flip": {
+    "width": 379,
+    "height": 252,
+    "frames": 16,
+    "durationMs": 2240,
+    "bytes": 308382,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 55
+  },
+  "goldfish-bowl": {
+    "width": 380,
+    "height": 243,
+    "frames": 16,
+    "durationMs": 2880,
+    "bytes": 758772,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-06",
+    "seconds": 58
   }
 }
