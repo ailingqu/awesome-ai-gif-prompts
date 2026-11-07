@@ -2,7 +2,7 @@
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-41-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-96-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.
 
@@ -18,10 +18,10 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 ## Contents
 
 - [How these GIFs are made](#how-these-gifs-are-made)
-- [Stickers & Reactions](#stickers-reactions) · 15 prompts
-- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 5 prompts
-- [Ambient Loops](#ambient-loops) · 12 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 9 prompts
+- [Stickers & Reactions](#stickers-reactions) · 37 prompts
+- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 15 prompts
+- [Ambient Loops](#ambient-loops) · 30 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 14 prompts
 - [Generate them yourself](#generate-them-yourself)
 
 ## How these GIFs are made
@@ -272,9 +272,317 @@ A small round yellow duck suddenly opening its beak wide and roaring like a lion
 
 `sticker` `reaction` `funny`
 
+### 16. Chibi trader watching stocks crash
+
+<img src="gifs/chibi-trader-crash.gif" alt="Chibi trader watching stocks crash" width="360">
+
+<sub>9 frames · 438×388 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A chibi office worker in a white shirt and loose tie staring at a laptop where a red stock line plunges, his hopeful smile crumbling into big wobbling tears. Flat pastel sticker style on a plain light background.
+```
+
+`sticker` `office` `finance`
+
+### 17. Chibi trader celebrating a rally
+
+<img src="gifs/chibi-trader-moon.gif" alt="Chibi trader celebrating a rally" width="360">
+
+<sub>9 frames · 414×410 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A chibi office worker in a white shirt and loose tie jumping up from his chair as a green stock line shoots upward on his laptop, throwing paper banknotes into the air with both hands. Flat pastel sticker style on a plain light background.
+```
+
+`sticker` `office` `finance`
+
+### 18. Cat in sunglasses dancing
+
+<img src="gifs/sunglasses-cat-dance.gif" alt="Cat in sunglasses dancing" width="360">
+
+<sub>12 frames · 356×357 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A cool grey cat wearing tiny black sunglasses doing a side-to-side groove dance, hips swaying and one paw pointing up then down. Bold cartoon sticker style on a plain yellow background.
+```
+
+`sticker` `cat` `dance`
+
+### 19. Top-hat frog shooing bad vibes
+
+<img src="gifs/top-hat-frog-shoo.gif" alt="Top-hat frog shooing bad vibes" width="360">
+
+<sub>9 frames · 438×390 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A small green frog in a tall black top hat and a monocle waving a tiny cane in circles as if shooing away bad luck, little grey smoke puffs scattering. Cute storybook sticker style on a cream background.
+```
+
+`sticker` `frog` `reaction`
+
+### 20. Busy bee clocking in
+
+<img src="gifs/busy-bee-clock-in.gif" alt="Busy bee clocking in" width="360">
+
+<sub>9 frames · 439×390 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A round fuzzy cartoon bee with a tiny lanyard badge buzzing in place, wings fluttering fast, then giving a crisp salute. Soft flat sticker style on a plain mint background.
+```
+
+`sticker` `bee` `work`
+
+### 21. Puppy swaying with hearts
+
+<img src="gifs/puppy-heart-sway.gif" alt="Puppy swaying with hearts" width="360">
+
+<sub>9 frames · 437×389 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A fluffy cream-colored puppy sitting and swaying its head left and right with its eyes closed happily, small pink hearts floating up around it. Kawaii sticker style on a plain white background.
+```
+
+`sticker` `dog` `love`
+
+### 22. Goodnight kitty
+
+<img src="gifs/goodnight-cat.gif" alt="Goodnight kitty" width="360">
+
+<sub>16 frames · 380×251 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A sleepy white kitten in a blue nightcap hugging a small pillow, slowly yawning and then nodding off as a tiny crescent moon bobs beside it. Soft pastel sticker style on a dark navy background.
+```
+
+`sticker` `cat` `goodnight`
+
+### 23. Orange cat pouncing at the camera
+
+<img src="gifs/orange-cat-pounce-lens.gif" alt="Orange cat pouncing at the camera" width="360">
+
+<sub>9 frames · 433×395 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A chubby orange cat crouching, wiggling its rear, then leaping straight toward the viewer with paws spread wide until its face squishes against the glass. Funny cartoon style on a plain living room background.
+```
+
+`sticker` `cat` `funny`
+
+### 24. Laughing so hard it cries
+
+<img src="gifs/laughing-tears-blob.gif" alt="Laughing so hard it cries" width="360">
+
+<sub>16 frames · 306×307 · 2.2s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A round pink mochi blob character throwing its head back and laughing hysterically, tears spraying from its eyes, body shaking. Cute sticker style on a plain white background.
+```
+
+`sticker` `laugh` `reaction`
+
+### 25. Apprentice spell backfires
+
+<img src="gifs/wizard-spell-backfire.gif" alt="Apprentice spell backfires" width="360">
+
+<sub>8 frames · 439×388 · 1.3s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A chibi wizard apprentice in an oversized purple hat waves a wand, a small puff explodes in front of her, and she is left blinking with a soot-black face and frizzy hair. Cute cartoon sticker style on a plain lilac background.
+```
+
+`sticker` `magic` `fail`
+
+### 26. Cat baker sneezes flour
+
+<img src="gifs/cat-baker-sneeze.gif" alt="Cat baker sneezes flour" width="360">
+
+<sub>9 frames · 440×389 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+An anthropomorphic orange cat in an apron kneading dough on a wooden counter, then sneezing and blowing a big white cloud of flour into the air. Warm cartoon style.
+```
+
+`sticker` `cat` `cooking`
+
+### 27. Lobster working overtime
+
+<img src="gifs/lobster-overtime.gif" alt="Lobster working overtime" width="360">
+
+<sub>9 frames · 437×388 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A red cartoon lobster wearing round glasses typing furiously on a keyboard with both claws at a desk late at night, lit by the blue glow of a monitor, a coffee mug steaming beside it. Cartoon sticker style.
+```
+
+`sticker` `work` `funny`
+
+### 28. Penguin panics after hitting send
+
+<img src="gifs/penguin-send-panic.gif" alt="Penguin panics after hitting send" width="360">
+
+<sub>9 frames · 435×390 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A small cartoon penguin slapping a big round red button labeled "SEND", then freezing as its eyes go wide and it grabs its head with both flippers in panic, sweat drops flying. Flat sticker style on a plain white background.
+```
+
+`sticker` `penguin` `reaction`
+
+### 29. Otter in a teal scarf waving
+
+<img src="gifs/otter-scarf-wave.gif" alt="Otter in a teal scarf waving" width="360">
+
+<sub>9 frames · 438×389 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A small brown sea otter with a cream muzzle and a teal knitted scarf turning toward the viewer, waving one paw twice and blinking. Soft sticker style on a plain cream background.
+```
+
+`sticker` `otter` `hello`
+
+### 30. Office worker: received!
+
+<img src="gifs/office-worker-received.gif" alt="Office worker: received!" width="360">
+
+<sub>9 frames · 436×392 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A chibi office worker with a tidy bob and a lanyard snapping to attention and giving a firm thumbs-up with a determined nod. Flat sticker style on a plain light blue background.
+```
+
+`sticker` `office` `reply`
+
+### 31. Cat flying on a broomstick
+
+<img src="gifs/cat-on-broom.gif" alt="Cat flying on a broomstick" width="360">
+
+<sub>16 frames · 378×252 · 2.2s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A black cat with a tiny red scarf riding a wooden broomstick across a night sky, bobbing up and down, the scarf fluttering behind it. Cute storybook sticker style.
+```
+
+`sticker` `cat` `magic`
+
+### 32. Baby robot wave and hop
+
+<img src="gifs/baby-robot-hop.gif" alt="Baby robot wave and hop" width="360">
+
+<sub>9 frames · 440×388 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A tiny round white baby robot with a glowing blue face screen and stubby legs waving one hand and doing a small happy hop, its antenna wobbling. Clean 3D toy style on a plain pastel background.
+```
+
+`sticker` `robot` `hello`
+
+### 33. Hamster stuffing its cheeks
+
+<img src="gifs/hamster-cheek-stuff.gif" alt="Hamster stuffing its cheeks" width="360">
+
+<sub>9 frames · 433×395 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A golden hamster sitting up and stuffing sunflower seeds into its cheeks until they balloon comically, then blinking proudly. Cute cartoon style on a plain white background.
+```
+
+`sticker` `hamster` `food`
+
+### 34. Duckling with a tiny umbrella
+
+<img src="gifs/duck-dance-umbrella.gif" alt="Duckling with a tiny umbrella" width="360">
+
+<sub>16 frames · 380×252 · 2.2s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A yellow duckling holding a tiny red umbrella hopping in a small puddle, splashes rising with each hop while rain falls. Soft watercolor sticker style.
+```
+
+`sticker` `duck` `rain`
+
+### 35. Gym bear doing chest presses
+
+<img src="gifs/gym-chest-press.gif" alt="Gym bear doing chest presses" width="360">
+
+<sub>9 frames · 433×395 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A muscular cartoon brown bear in a red tank top lying on a bench and pressing a barbell up and down, cheeks puffing with each rep. Bold cartoon sticker style on a plain grey background.
+```
+
+`sticker` `fitness` `bear`
+
+### 36. Cat dozing in a VR headset
+
+<img src="gifs/vr-cat-nap.gif" alt="Cat dozing in a VR headset" width="360">
+
+<sub>16 frames · 328×291 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A fluffy grey cat wearing a sleek white VR headset slowly nodding off, its head drooping and jerking back up, a small Zzz bubble floating up. Soft 3D render on a plain lavender background.
+```
+
+`sticker` `cat` `tech`
+
+### 37. Grateful shrimp bows deeply
+
+<img src="gifs/grateful-shrimp-bow.gif" alt="Grateful shrimp bows deeply" width="360">
+
+<sub>9 frames · 439×389 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A small pink cartoon shrimp pressing its claws together, raising them high over its head and then bowing dramatically low, with the caption "THANK YOU!" fixed at the bottom. Flat sticker style on a white background.
+```
+
+`sticker` `caption` `thanks`
+
 ## Flash Cuts & Brand Reels
 
-### 16. Flower macro flash cut
+### 38. Flower macro flash cut
 
 <img src="gifs/flower-macro-flash.gif" alt="Flower macro flash cut" width="360">
 
@@ -290,7 +598,7 @@ A fast flash-cut sequence of eight different flower photographs, one per frame, 
 
 `flash-cut` `photography` `editorial`
 
-### 17. Cat-head logo brand reel
+### 39. Cat-head logo brand reel
 
 <img src="gifs/cat-brand-reel.gif" alt="Cat-head logo brand reel" width="360">
 
@@ -306,7 +614,7 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
-### 18. Sneaker colorway flash
+### 40. Sneaker colorway flash
 
 <img src="gifs/sneaker-colorway-flash.gif" alt="Sneaker colorway flash" width="360">
 
@@ -322,7 +630,7 @@ A fast flash-cut in a square frame: the same chunky sneaker seen from the side, 
 
 `flash-cut` `product` `fashion`
 
-### 19. One tree, four seasons
+### 41. One tree, four seasons
 
 <img src="gifs/four-seasons-tree.gif" alt="One tree, four seasons" width="360">
 
@@ -336,7 +644,7 @@ The same lone round tree on a small hill, framed identically in every frame, cyc
 
 `flash-cut` `nature` `seasons`
 
-### 20. Magazine collage panels pop in
+### 42. Magazine collage panels pop in
 
 <img src="gifs/magazine-panels-pop.gif" alt="Magazine collage panels pop in" width="360">
 
@@ -352,9 +660,149 @@ A fashion-magazine collage layout where photo panels pop in one by one — a flo
 
 `flash-cut` `editorial` `layout`
 
+### 43. Paper airplane desk to notebook
+
+<img src="gifs/paper-airplane-glide.gif" alt="Paper airplane desk to notebook" width="360">
+
+<sub>12 frames · 358×358 · 1.7s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+An orange paper airplane with one navy stripe lifting off a wooden desk, gliding in a gentle arc and landing on an open notebook beside a pencil. Fixed camera, soft daylight, realistic photo style.
+```
+
+`storyboard` `object` `desk`
+
+### 44. Neon OPEN sign flicker
+
+<img src="gifs/neon-open-sign.gif" alt="Neon OPEN sign flicker" width="360">
+
+<sub>12 frames · 350×358 · 2.2s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A pink and blue neon "OPEN" sign in a dark shop window at night, buzzing and flickering on letter by letter, then glowing steadily. Realistic photo style.
+```
+
+`neon` `sign` `text`
+
+### 45. Light sweep over a product
+
+<img src="gifs/product-light-sweep.gif" alt="Light sweep over a product" width="360">
+
+<sub>16 frames · 379×252 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A frosted glass skincare bottle standing still on a beige stone plinth while a soft diagonal band of light sweeps slowly across the background from left to right. Minimal product photography.
+```
+
+`product` `ad` `light`
+
+### 46. Perfume bottle spinning on water
+
+<img src="gifs/perfume-water-spin.gif" alt="Perfume bottle spinning on water" width="360">
+
+<sub>9 frames · 414×414 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A square amber perfume bottle labeled "SOL" slowly rotating on the surface of still water, rings of ripples spreading out, warm sunset reflections. Luxury product photography.
+```
+
+`product` `perfume` `water`
+
+### 47. Two-line event title reveal
+
+<img src="gifs/event-title-reveal.gif" alt="Two-line event title reveal" width="360">
+
+<sub>9 frames · 439×388 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A bold two-line title "SUMMER" and "MARKET 2026" sliding in from the left one line after the other on a sunny orange background, with small confetti pieces popping. Clean flat motion graphics.
+```
+
+`text` `title` `motion-graphics`
+
+### 48. Chat bubbles popping in
+
+<img src="gifs/chat-bubbles-pop.gif" alt="Chat bubbles popping in" width="360">
+
+<sub>9 frames · 430×397 · 3.1s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A phone chat screen where three message bubbles pop in one by one: grey "Are you done yet?", blue "Almost!", grey "Send it!". Clean flat UI style on a white background.
+```
+
+`ui` `chat` `text`
+
+### 49. City jumps a thousand years
+
+<img src="gifs/city-future-timelapse.gif" alt="City jumps a thousand years" width="360">
+
+<sub>9 frames · 439×385 · 4.0s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+The same riverside city skyline from a fixed viewpoint changing era by era: low brick buildings, then glass towers, then floating platforms with glowing sky bridges. Cinematic matte painting style.
+```
+
+`timelapse` `city` `sci-fi`
+
+### 50. Tiny people building a sandwich
+
+<img src="gifs/tiny-chefs-sandwich.gif" alt="Tiny people building a sandwich" width="360">
+
+<sub>9 frames · 438×389 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A team of miniature people in aprons on a full-size kitchen table hauling a lettuce leaf, a tomato slice and a cheese square onto a giant slice of bread using ropes and a tiny ladder. Tilt-shift macro photo style.
+```
+
+`miniature` `food` `funny`
+
+### 51. Castle rising stone by stone
+
+<img src="gifs/castle-builds-up.gif" alt="Castle rising stone by stone" width="360">
+
+<sub>16 frames · 380×252 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A medieval stone castle on a green hill building itself up from the foundation: walls rise, towers grow, then flags pop up on top. Fixed camera, isometric storybook illustration.
+```
+
+`build` `castle` `timelapse`
+
+### 52. Same fox in six materials
+
+<img src="gifs/material-style-flip.gif" alt="Same fox in six materials" width="360">
+
+<sub>6 frames · 508×508 · 3.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+The same sitting fox in the same pose, each frame rendered in a different material: felt, paper cut, risograph print, pixel art, glossy Y2K chrome, clay. Centered, identical framing, plain background.
+```
+
+`style` `material` `comparison`
+
 ## Ambient Loops
 
-### 21. Reading by the window, day to night
+### 53. Reading by the window, day to night
 
 <img src="gifs/window-day-to-night.gif" alt="Reading by the window, day to night" width="360">
 
@@ -370,7 +818,7 @@ A girl with a short bob reading a book on a cushion by a big window, seen from t
 
 `loop` `character` `time-lapse`
 
-### 22. Steaming coffee loop
+### 54. Steaming coffee loop
 
 <img src="gifs/steaming-coffee.gif" alt="Steaming coffee loop" width="360">
 
@@ -384,7 +832,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 23. Rainy window and plant
+### 55. Rainy window and plant
 
 <img src="gifs/rain-on-window.gif" alt="Rainy window and plant" width="360">
 
@@ -398,7 +846,7 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
-### 24. Goldfish in a bowl
+### 56. Goldfish in a bowl
 
 <img src="gifs/goldfish-bowl.gif" alt="Goldfish in a bowl" width="360">
 
@@ -412,7 +860,7 @@ A round glass fishbowl on a windowsill with one orange goldfish swimming a slow 
 
 `loop` `pet` `calm`
 
-### 25. Lighthouse at night
+### 57. Lighthouse at night
 
 <img src="gifs/lighthouse-night.gif" alt="Lighthouse at night" width="360">
 
@@ -426,7 +874,7 @@ A white lighthouse on a rocky shore at night, its beam sweeping slowly across a 
 
 `loop` `seascape` `night`
 
-### 26. Cat sleeping by the fireplace
+### 58. Cat sleeping by the fireplace
 
 <img src="gifs/cat-by-fireplace.gif" alt="Cat sleeping by the fireplace" width="360">
 
@@ -442,7 +890,7 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
-### 27. Lantern monkey in the snow
+### 59. Lantern monkey in the snow
 
 <img src="gifs/lantern-monkey-snow.gif" alt="Lantern monkey in the snow" width="360">
 
@@ -458,7 +906,7 @@ A small monkey in an olive-green hooded coat standing in a snowy pine forest at 
 
 `loop` `character` `winter`
 
-### 28. Sleepy fox on a mossy rock
+### 60. Sleepy fox on a mossy rock
 
 <img src="gifs/sleepy-fox-rock.gif" alt="Sleepy fox on a mossy rock" width="360">
 
@@ -472,7 +920,7 @@ A small orange fox curled up asleep on a mossy rock, its tail gently swaying and
 
 `loop` `animal` `calm`
 
-### 29. Lo-fi study loop
+### 61. Lo-fi study loop
 
 <img src="gifs/lofi-study-loop.gif" alt="Lo-fi study loop" width="360">
 
@@ -486,7 +934,7 @@ A girl with headphones writing in a notebook at a desk at night, her pencil movi
 
 `loop` `lofi` `study`
 
-### 30. Café cinemagraph
+### 62. Café cinemagraph
 
 <img src="gifs/cafe-cinemagraph.gif" alt="Café cinemagraph" width="360">
 
@@ -502,7 +950,7 @@ A cinemagraph of a quiet street café terrace in the morning: everything is perf
 
 `loop` `cinemagraph` `photo`
 
-### 31. Ink-wash galloping horse
+### 63. Ink-wash galloping horse
 
 <img src="gifs/ink-wash-horse.gif" alt="Ink-wash galloping horse" width="360">
 
@@ -516,7 +964,7 @@ A racehorse with a jockey galloping to the right in a loose Chinese ink-wash pai
 
 `loop` `ink-wash` `animal`
 
-### 32. Doodle monster comes alive
+### 64. Doodle monster comes alive
 
 <img src="gifs/doodle-monster.gif" alt="Doodle monster comes alive" width="360">
 
@@ -530,9 +978,261 @@ A crude crayon doodle of a little purple blob monster with two eyes on wobbly st
 
 `loop` `doodle` `cute`
 
+### 65. Teapot steam turns into a heart
+
+<img src="gifs/teapot-steam-heart.gif" alt="Teapot steam turns into a heart" width="360">
+
+<sub>16 frames · 380×252 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A copper teapot on a windowsill on a rainy afternoon, steam rising from the spout and briefly curling into a heart shape before drifting apart. Clay stop-motion style, fixed camera.
+```
+
+`steam` `cozy` `clay`
+
+### 66. Husky howling in a snow globe
+
+<img src="gifs/husky-snow-globe.gif" alt="Husky howling in a snow globe" width="360">
+
+<sub>9 frames · 433×393 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A tiny husky inside a glass snow globe sitting on a snowy mound and howling up at the sky as glitter snow swirls around it. Product photo style on a dark wooden table.
+```
+
+`snow-globe` `dog` `winter`
+
+### 67. City in a snow globe
+
+<img src="gifs/city-snow-globe.gif" alt="City in a snow globe" width="360">
+
+<sub>16 frames · 380×252 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A snow globe holding a miniature city of red-brick apartment blocks and a little yellow taxi, snow drifting down slowly inside the glass. Warm studio lighting, macro photo.
+```
+
+`snow-globe` `city` `winter`
+
+### 68. Clay kitten in a ball pit
+
+<img src="gifs/clay-kitten-ballpit.gif" alt="Clay kitten in a ball pit" width="360">
+
+<sub>16 frames · 380×250 · 2.2s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A clay kitten popping its head out of a ball pit full of colorful plastic balls, balls tumbling off its head as it wiggles. Claymation style.
+```
+
+`clay` `cat` `playful`
+
+### 69. Pelican riding a bicycle
+
+<img src="gifs/pelican-bicycle.gif" alt="Pelican riding a bicycle" width="360">
+
+<sub>16 frames · 380×250 · 2.2s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A pelican riding a red bicycle along a seaside promenade, legs pedaling and its big beak bobbing, waves rolling in behind. Flat vector illustration, side view.
+```
+
+`animal` `bicycle` `classic-test`
+
+### 70. Windmill on green hills
+
+<img src="gifs/windmill-hills.gif" alt="Windmill on green hills" width="360">
+
+<sub>9 frames · 439×388 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A white wooden windmill on rolling green hills, its four sails turning slowly while clouds drift across a blue sky. Soft painterly landscape.
+```
+
+`landscape` `windmill` `calm`
+
+### 71. Paper boat bobbing on water
+
+<img src="gifs/paper-boat-ripples.gif" alt="Paper boat bobbing on water" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A white folded paper boat bobbing gently on calm water, small ripples spreading outward, fixed overhead camera. Soft natural light photo style.
+```
+
+`water` `paper` `calm`
+
+### 72. Robot dancing on the street
+
+<img src="gifs/street-robot-dance.gif" alt="Robot dancing on the street" width="360">
+
+<sub>9 frames · 439×390 · 1.3s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A boxy orange robot doing a robotic pop-and-lock dance on a graffiti-covered city street, arms snapping between poses. Fixed camera, vibrant 3D render.
+```
+
+`robot` `dance` `street`
+
+### 73. Chopping wood in winter
+
+<img src="gifs/woodcutter-winter.gif" alt="Chopping wood in winter" width="360">
+
+<sub>9 frames · 433×395 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+An old man in a thick wool coat raising an axe and splitting a log on a stump in a snowy backyard, wood halves falling to the sides, his breath visible in the cold air. Painterly illustration.
+```
+
+`winter` `rural` `work`
+
+### 74. Petting a shiba in the rain
+
+<img src="gifs/rain-shiba-pet.gif" alt="Petting a shiba in the rain" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A girl with a clear umbrella crouching on a wet city street at night to pet a shiba inu, the dog's tail wagging, rain glittering under neon reflections. Anime-style illustration.
+```
+
+`rain` `dog` `night`
+
+### 75. Canyon waterfall mist
+
+<img src="gifs/canyon-waterfall.gif" alt="Canyon waterfall mist" width="360">
+
+<sub>9 frames · 431×396 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A tall waterfall pouring into a deep green canyon pool, mist rising and ripples spreading across the water. Fixed wide shot, realistic landscape photo.
+```
+
+`nature` `waterfall` `cinemagraph`
+
+### 76. Glass butterfly with shifting shadows
+
+<img src="gifs/glass-butterfly.gif" alt="Glass butterfly with shifting shadows" width="360">
+
+<sub>16 frames · 324×291 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A butterfly made of clear glass perched on a white table, slowly opening and closing its wings while the colorful refracted shadow on the table changes in sync. Macro photo, soft light.
+```
+
+`glass` `butterfly` `light`
+
+### 77. Glowing beaker vortex
+
+<img src="gifs/beaker-glow-vortex.gif" alt="Glowing beaker vortex" width="360">
+
+<sub>16 frames · 379×250 · 2.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A glass lab beaker on a dark bench with a swirling vortex of glowing teal liquid inside, tiny bubbles rising and the glow pulsing. Moody lab photography.
+```
+
+`science` `glow` `liquid`
+
+### 78. Eagle flapping its wings
+
+<img src="gifs/eagle-wing-flap.gif" alt="Eagle flapping its wings" width="360">
+
+<sub>9 frames · 439×390 · 1.1s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A golden eagle flying in place with powerful wing beats, feathers rippling, isolated on a plain sky-blue background. Realistic illustration.
+```
+
+`bird` `flight` `animal`
+
+### 79. Paper lantern Jiangnan with koi
+
+<img src="gifs/lantern-koi-garden.gif" alt="Paper lantern Jiangnan with koi" width="360">
+
+<sub>16 frames · 380×245 · 2.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A layered paper-cut lantern scene of a southern Chinese water town with a stone arch bridge and a pavilion, two golden koi swimming beneath the bridge while the warm light flickers. Paper-sculpture style.
+```
+
+`paper-cut` `chinese` `lantern`
+
+### 80. Clay dough baker mascot
+
+<img src="gifs/clay-baker-mascot.gif" alt="Clay dough baker mascot" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A round clay dough mascot in a little white chef hat kneading a piece of dough on a floured board, folding it over and giving a small wave. Claymation style, fixed camera.
+```
+
+`clay` `mascot` `cooking`
+
+### 81. Robot barista pouring coffee
+
+<img src="gifs/robot-barista.gif" alt="Robot barista pouring coffee" width="360">
+
+<sub>9 frames · 432×394 · 1.6s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A small white robot barista with one arm pouring steamed milk into a cup of coffee on a café counter, drawing a leaf pattern in the foam. Clean 3D render.
+```
+
+`robot` `coffee` `cafe`
+
+### 82. Train wind on the platform
+
+<img src="gifs/subway-wind-girl.gif" alt="Train wind on the platform" width="360">
+
+<sub>16 frames · 380×252 · 1.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A girl with long dark hair and a yellow raincoat standing on a subway platform as a train rushes past behind her, her hair and coat whipping sideways in the gust while she squints. Anime film still style, fixed camera.
+```
+
+`anime` `wind` `cinemagraph`
+
 ## Pixel Art & UI Motion
 
-### 33. Pixel art campfire
+### 83. Pixel art campfire
 
 <img src="gifs/pixel-campfire.gif" alt="Pixel art campfire" width="360">
 
@@ -546,7 +1246,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 34. Bouncing dots loader
+### 84. Bouncing dots loader
 
 <img src="gifs/bouncing-dots-loader.gif" alt="Bouncing dots loader" width="360">
 
@@ -562,7 +1262,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 35. Pixel knight run cycle
+### 85. Pixel knight run cycle
 
 <img src="gifs/pixel-knight-run.gif" alt="Pixel knight run cycle" width="360">
 
@@ -578,7 +1278,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 36. Like button heart burst
+### 86. Like button heart burst
 
 <img src="gifs/like-heart-burst.gif" alt="Like button heart burst" width="360">
 
@@ -592,7 +1292,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 37. Hourglass loading
+### 87. Hourglass loading
 
 <img src="gifs/hourglass-flip.gif" alt="Hourglass loading" width="360">
 
@@ -606,7 +1306,7 @@ A simple flat hourglass icon with sand pouring from the top to the bottom, then 
 
 `ui` `loader` `icon`
 
-### 38. Arcade VS screen
+### 88. Arcade VS screen
 
 <img src="gifs/arcade-vs-screen.gif" alt="Arcade VS screen" width="360">
 
@@ -622,7 +1322,7 @@ A retro arcade versus screen: on the left a chubby panda wrestler in a yellow ca
 
 `pixel-art` `game` `versus`
 
-### 39. 8-bit slime boss battle
+### 89. 8-bit slime boss battle
 
 <img src="gifs/pixel-slime-boss.gif" alt="8-bit slime boss battle" width="360">
 
@@ -636,7 +1336,7 @@ An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squ
 
 `pixel-art` `game` `boss`
 
-### 40. Love-burst skill animation
+### 90. Love-burst skill animation
 
 <img src="gifs/love-burst-skill.gif" alt="Love-burst skill animation" width="360">
 
@@ -650,7 +1350,7 @@ A chibi magical girl with a pink bob raises her wand and casts a "love burst" sk
 
 `game` `skill` `effects`
 
-### 41. Junkyard robot walk cycle
+### 91. Junkyard robot walk cycle
 
 <img src="gifs/junkyard-robot-walk.gif" alt="Junkyard robot walk cycle" width="360">
 
@@ -663,6 +1363,76 @@ A rusty little scrap-metal robot with one antenna and a mismatched arm walking t
 ```
 
 `pixel-art` `sprite` `game`
+
+### 92. Pixel hero sword slash
+
+<img src="gifs/pixel-hero-slash.gif" alt="Pixel hero sword slash" width="360">
+
+<sub>12 frames · 358×358 · 1.3s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a bright white slash trail. Side view game sprite on a plain dark background, crisp pixels.
+```
+
+`pixel-art` `sprite` `attack`
+
+### 93. Handheld-style castle run
+
+<img src="gifs/pixel-castle-scroller.gif" alt="Handheld-style castle run" width="360">
+
+<sub>12 frames · 380×336 · 1.4s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A 32-bit handheld-style side-scrolling level: a small round armadillo knight in shiny orange armor with a feathered helmet running and jumping across castle battlements while the background parallax scrolls. Pixel art.
+```
+
+`pixel-art` `platformer` `game`
+
+### 94. Squash and stretch bouncing ball
+
+<img src="gifs/bouncing-ball-squash.gif" alt="Squash and stretch bouncing ball" width="360">
+
+<sub>16 frames · 379×243 · 1.9s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A red rubber ball bouncing on a flat floor with classic squash and stretch, a soft shadow growing and shrinking underneath. Clean flat animation on a plain white background.
+```
+
+`animation-basics` `ball` `loop`
+
+### 95. AI assistant typing indicator
+
+<img src="gifs/ai-typing-indicator.gif" alt="AI assistant typing indicator" width="360">
+
+<sub>12 frames · 356×356 · 1.7s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A chat interface where a small rounded robot avatar sits beside a grey bubble with three dots pulsing one after another, the avatar's eyes blinking. Clean modern UI style on white.
+```
+
+`ui` `chat` `loader`
+
+### 96. 16-bit fighter punch combo
+
+<img src="gifs/arcade-fighter-punch.gif" alt="16-bit fighter punch combo" width="360">
+
+<sub>9 frames · 439×390 · 1.3s · gpt-image-2.6 · generated 2026-11-07</sub>
+
+**Prompt**
+
+```text
+A 16-bit arcade fighter, a stocky red panda in a blue gi, throwing a jab and a straight punch from a fighting stance with hit sparks. Side view sprite on a dojo background.
+```
+
+`pixel-art` `fighting` `sprite`
 
 ## Generate them yourself
 

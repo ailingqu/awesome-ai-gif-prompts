@@ -548,6 +548,666 @@
         "sprite",
         "game"
       ]
+    },
+    {
+      "id": "chibi-trader-crash",
+      "category": "stickers",
+      "title": "Chibi trader watching stocks crash",
+      "title_zh": "Q 版上班族看股价暴跌",
+      "prompt": "A chibi office worker in a white shirt and loose tie staring at a laptop where a red stock line plunges, his hopeful smile crumbling into big wobbling tears. Flat pastel sticker style on a plain light background.",
+      "tags": [
+        "sticker",
+        "office",
+        "finance"
+      ]
+    },
+    {
+      "id": "chibi-trader-moon",
+      "category": "stickers",
+      "title": "Chibi trader celebrating a rally",
+      "title_zh": "Q 版上班族看股价暴涨",
+      "prompt": "A chibi office worker in a white shirt and loose tie jumping up from his chair as a green stock line shoots upward on his laptop, throwing paper banknotes into the air with both hands. Flat pastel sticker style on a plain light background.",
+      "tags": [
+        "sticker",
+        "office",
+        "finance"
+      ]
+    },
+    {
+      "id": "sunglasses-cat-dance",
+      "category": "stickers",
+      "title": "Cat in sunglasses dancing",
+      "title_zh": "戴墨镜的猫跳舞",
+      "prompt": "A cool grey cat wearing tiny black sunglasses doing a side-to-side groove dance, hips swaying and one paw pointing up then down. Bold cartoon sticker style on a plain yellow background.",
+      "tags": [
+        "sticker",
+        "cat",
+        "dance"
+      ]
+    },
+    {
+      "id": "top-hat-frog-shoo",
+      "category": "stickers",
+      "title": "Top-hat frog shooing bad vibes",
+      "title_zh": "高礼帽青蛙驱散霉运",
+      "prompt": "A small green frog in a tall black top hat and a monocle waving a tiny cane in circles as if shooing away bad luck, little grey smoke puffs scattering. Cute storybook sticker style on a cream background.",
+      "tags": [
+        "sticker",
+        "frog",
+        "reaction"
+      ]
+    },
+    {
+      "id": "busy-bee-clock-in",
+      "category": "stickers",
+      "title": "Busy bee clocking in",
+      "title_zh": "勤劳小蜜蜂打卡上班",
+      "prompt": "A round fuzzy cartoon bee with a tiny lanyard badge buzzing in place, wings fluttering fast, then giving a crisp salute. Soft flat sticker style on a plain mint background.",
+      "tags": [
+        "sticker",
+        "bee",
+        "work"
+      ]
+    },
+    {
+      "id": "puppy-heart-sway",
+      "category": "stickers",
+      "title": "Puppy swaying with hearts",
+      "title_zh": "小狗摇摆冒爱心",
+      "prompt": "A fluffy cream-colored puppy sitting and swaying its head left and right with its eyes closed happily, small pink hearts floating up around it. Kawaii sticker style on a plain white background.",
+      "tags": [
+        "sticker",
+        "dog",
+        "love"
+      ]
+    },
+    {
+      "id": "goodnight-cat",
+      "category": "stickers",
+      "title": "Goodnight kitty",
+      "title_zh": "晚安喵",
+      "prompt": "A sleepy white kitten in a blue nightcap hugging a small pillow, slowly yawning and then nodding off as a tiny crescent moon bobs beside it. Soft pastel sticker style on a dark navy background.",
+      "tags": [
+        "sticker",
+        "cat",
+        "goodnight"
+      ]
+    },
+    {
+      "id": "orange-cat-pounce-lens",
+      "category": "stickers",
+      "title": "Orange cat pouncing at the camera",
+      "title_zh": "橘猫扑向镜头",
+      "prompt": "A chubby orange cat crouching, wiggling its rear, then leaping straight toward the viewer with paws spread wide until its face squishes against the glass. Funny cartoon style on a plain living room background.",
+      "tags": [
+        "sticker",
+        "cat",
+        "funny"
+      ]
+    },
+    {
+      "id": "laughing-tears-blob",
+      "category": "stickers",
+      "title": "Laughing so hard it cries",
+      "title_zh": "笑出眼泪的小团子",
+      "prompt": "A round pink mochi blob character throwing its head back and laughing hysterically, tears spraying from its eyes, body shaking. Cute sticker style on a plain white background.",
+      "tags": [
+        "sticker",
+        "laugh",
+        "reaction"
+      ]
+    },
+    {
+      "id": "wizard-spell-backfire",
+      "category": "stickers",
+      "title": "Apprentice spell backfires",
+      "title_zh": "魔法学徒咒语失控",
+      "prompt": "A chibi wizard apprentice in an oversized purple hat waves a wand, a small puff explodes in front of her, and she is left blinking with a soot-black face and frizzy hair. Cute cartoon sticker style on a plain lilac background.",
+      "tags": [
+        "sticker",
+        "magic",
+        "fail"
+      ]
+    },
+    {
+      "id": "cat-baker-sneeze",
+      "category": "stickers",
+      "title": "Cat baker sneezes flour",
+      "title_zh": "橘猫揉面打喷嚏",
+      "prompt": "An anthropomorphic orange cat in an apron kneading dough on a wooden counter, then sneezing and blowing a big white cloud of flour into the air. Warm cartoon style.",
+      "tags": [
+        "sticker",
+        "cat",
+        "cooking"
+      ]
+    },
+    {
+      "id": "lobster-overtime",
+      "category": "stickers",
+      "title": "Lobster working overtime",
+      "title_zh": "深夜加班的龙虾",
+      "prompt": "A red cartoon lobster wearing round glasses typing furiously on a keyboard with both claws at a desk late at night, lit by the blue glow of a monitor, a coffee mug steaming beside it. Cartoon sticker style.",
+      "tags": [
+        "sticker",
+        "work",
+        "funny"
+      ]
+    },
+    {
+      "id": "penguin-send-panic",
+      "category": "stickers",
+      "title": "Penguin panics after hitting send",
+      "title_zh": "按下发送后慌了的企鹅",
+      "prompt": "A small cartoon penguin slapping a big round red button labeled \"SEND\", then freezing as its eyes go wide and it grabs its head with both flippers in panic, sweat drops flying. Flat sticker style on a plain white background.",
+      "tags": [
+        "sticker",
+        "penguin",
+        "reaction"
+      ]
+    },
+    {
+      "id": "otter-scarf-wave",
+      "category": "stickers",
+      "title": "Otter in a teal scarf waving",
+      "title_zh": "围巾小水獭挥手",
+      "prompt": "A small brown sea otter with a cream muzzle and a teal knitted scarf turning toward the viewer, waving one paw twice and blinking. Soft sticker style on a plain cream background.",
+      "tags": [
+        "sticker",
+        "otter",
+        "hello"
+      ]
+    },
+    {
+      "id": "office-worker-received",
+      "category": "stickers",
+      "title": "Office worker: received!",
+      "title_zh": "打工人：收到",
+      "prompt": "A chibi office worker with a tidy bob and a lanyard snapping to attention and giving a firm thumbs-up with a determined nod. Flat sticker style on a plain light blue background.",
+      "tags": [
+        "sticker",
+        "office",
+        "reply"
+      ]
+    },
+    {
+      "id": "cat-on-broom",
+      "category": "stickers",
+      "title": "Cat flying on a broomstick",
+      "title_zh": "骑扫把飞行的猫",
+      "prompt": "A black cat with a tiny red scarf riding a wooden broomstick across a night sky, bobbing up and down, the scarf fluttering behind it. Cute storybook sticker style.",
+      "tags": [
+        "sticker",
+        "cat",
+        "magic"
+      ]
+    },
+    {
+      "id": "baby-robot-hop",
+      "category": "stickers",
+      "title": "Baby robot wave and hop",
+      "title_zh": "小机器人挥手蹦跳",
+      "prompt": "A tiny round white baby robot with a glowing blue face screen and stubby legs waving one hand and doing a small happy hop, its antenna wobbling. Clean 3D toy style on a plain pastel background.",
+      "tags": [
+        "sticker",
+        "robot",
+        "hello"
+      ]
+    },
+    {
+      "id": "hamster-cheek-stuff",
+      "category": "stickers",
+      "title": "Hamster stuffing its cheeks",
+      "title_zh": "仓鼠塞满腮帮子",
+      "prompt": "A golden hamster sitting up and stuffing sunflower seeds into its cheeks until they balloon comically, then blinking proudly. Cute cartoon style on a plain white background.",
+      "tags": [
+        "sticker",
+        "hamster",
+        "food"
+      ]
+    },
+    {
+      "id": "duck-dance-umbrella",
+      "category": "stickers",
+      "title": "Duckling with a tiny umbrella",
+      "title_zh": "撑伞小黄鸭",
+      "prompt": "A yellow duckling holding a tiny red umbrella hopping in a small puddle, splashes rising with each hop while rain falls. Soft watercolor sticker style.",
+      "tags": [
+        "sticker",
+        "duck",
+        "rain"
+      ]
+    },
+    {
+      "id": "paper-airplane-glide",
+      "category": "flash",
+      "title": "Paper airplane desk to notebook",
+      "title_zh": "纸飞机从桌面滑到笔记本",
+      "prompt": "An orange paper airplane with one navy stripe lifting off a wooden desk, gliding in a gentle arc and landing on an open notebook beside a pencil. Fixed camera, soft daylight, realistic photo style.",
+      "tags": [
+        "storyboard",
+        "object",
+        "desk"
+      ]
+    },
+    {
+      "id": "neon-open-sign",
+      "category": "flash",
+      "title": "Neon OPEN sign flicker",
+      "title_zh": "霓虹 OPEN 招牌闪烁",
+      "prompt": "A pink and blue neon \"OPEN\" sign in a dark shop window at night, buzzing and flickering on letter by letter, then glowing steadily. Realistic photo style.",
+      "tags": [
+        "neon",
+        "sign",
+        "text"
+      ]
+    },
+    {
+      "id": "product-light-sweep",
+      "category": "flash",
+      "title": "Light sweep over a product",
+      "title_zh": "产品背景光掠过",
+      "prompt": "A frosted glass skincare bottle standing still on a beige stone plinth while a soft diagonal band of light sweeps slowly across the background from left to right. Minimal product photography.",
+      "tags": [
+        "product",
+        "ad",
+        "light"
+      ]
+    },
+    {
+      "id": "perfume-water-spin",
+      "category": "flash",
+      "title": "Perfume bottle spinning on water",
+      "title_zh": "香水瓶在水面旋转",
+      "prompt": "A square amber perfume bottle labeled \"SOL\" slowly rotating on the surface of still water, rings of ripples spreading out, warm sunset reflections. Luxury product photography.",
+      "tags": [
+        "product",
+        "perfume",
+        "water"
+      ]
+    },
+    {
+      "id": "event-title-reveal",
+      "category": "flash",
+      "title": "Two-line event title reveal",
+      "title_zh": "两行活动标题动效",
+      "prompt": "A bold two-line title \"SUMMER\" and \"MARKET 2026\" sliding in from the left one line after the other on a sunny orange background, with small confetti pieces popping. Clean flat motion graphics.",
+      "tags": [
+        "text",
+        "title",
+        "motion-graphics"
+      ]
+    },
+    {
+      "id": "chat-bubbles-pop",
+      "category": "flash",
+      "title": "Chat bubbles popping in",
+      "title_zh": "聊天气泡逐条弹出",
+      "prompt": "A phone chat screen where three message bubbles pop in one by one: grey \"Are you done yet?\", blue \"Almost!\", grey \"Send it!\". Clean flat UI style on a white background.",
+      "tags": [
+        "ui",
+        "chat",
+        "text"
+      ]
+    },
+    {
+      "id": "city-future-timelapse",
+      "category": "flash",
+      "title": "City jumps a thousand years",
+      "title_zh": "城市千年变迁",
+      "prompt": "The same riverside city skyline from a fixed viewpoint changing era by era: low brick buildings, then glass towers, then floating platforms with glowing sky bridges. Cinematic matte painting style.",
+      "tags": [
+        "timelapse",
+        "city",
+        "sci-fi"
+      ]
+    },
+    {
+      "id": "tiny-chefs-sandwich",
+      "category": "flash",
+      "title": "Tiny people building a sandwich",
+      "title_zh": "小人们搭建三明治",
+      "prompt": "A team of miniature people in aprons on a full-size kitchen table hauling a lettuce leaf, a tomato slice and a cheese square onto a giant slice of bread using ropes and a tiny ladder. Tilt-shift macro photo style.",
+      "tags": [
+        "miniature",
+        "food",
+        "funny"
+      ]
+    },
+    {
+      "id": "castle-builds-up",
+      "category": "flash",
+      "title": "Castle rising stone by stone",
+      "title_zh": "城堡拔地而起",
+      "prompt": "A medieval stone castle on a green hill building itself up from the foundation: walls rise, towers grow, then flags pop up on top. Fixed camera, isometric storybook illustration.",
+      "tags": [
+        "build",
+        "castle",
+        "timelapse"
+      ]
+    },
+    {
+      "id": "material-style-flip",
+      "category": "flash",
+      "title": "Same fox in six materials",
+      "title_zh": "同一只狐狸换六种材质",
+      "prompt": "The same sitting fox in the same pose, each frame rendered in a different material: felt, paper cut, risograph print, pixel art, glossy Y2K chrome, clay. Centered, identical framing, plain background.",
+      "tags": [
+        "style",
+        "material",
+        "comparison"
+      ]
+    },
+    {
+      "id": "teapot-steam-heart",
+      "category": "loops",
+      "title": "Teapot steam turns into a heart",
+      "title_zh": "茶壶蒸汽变成爱心",
+      "prompt": "A copper teapot on a windowsill on a rainy afternoon, steam rising from the spout and briefly curling into a heart shape before drifting apart. Clay stop-motion style, fixed camera.",
+      "tags": [
+        "steam",
+        "cozy",
+        "clay"
+      ]
+    },
+    {
+      "id": "husky-snow-globe",
+      "category": "loops",
+      "title": "Husky howling in a snow globe",
+      "title_zh": "雪花球里嚎叫的哈士奇",
+      "prompt": "A tiny husky inside a glass snow globe sitting on a snowy mound and howling up at the sky as glitter snow swirls around it. Product photo style on a dark wooden table.",
+      "tags": [
+        "snow-globe",
+        "dog",
+        "winter"
+      ]
+    },
+    {
+      "id": "city-snow-globe",
+      "category": "loops",
+      "title": "City in a snow globe",
+      "title_zh": "雪花球里的城市",
+      "prompt": "A snow globe holding a miniature city of red-brick apartment blocks and a little yellow taxi, snow drifting down slowly inside the glass. Warm studio lighting, macro photo.",
+      "tags": [
+        "snow-globe",
+        "city",
+        "winter"
+      ]
+    },
+    {
+      "id": "clay-kitten-ballpit",
+      "category": "loops",
+      "title": "Clay kitten in a ball pit",
+      "title_zh": "球池里的黏土小猫",
+      "prompt": "A clay kitten popping its head out of a ball pit full of colorful plastic balls, balls tumbling off its head as it wiggles. Claymation style.",
+      "tags": [
+        "clay",
+        "cat",
+        "playful"
+      ]
+    },
+    {
+      "id": "pelican-bicycle",
+      "category": "loops",
+      "title": "Pelican riding a bicycle",
+      "title_zh": "海边骑车的鹈鹕",
+      "prompt": "A pelican riding a red bicycle along a seaside promenade, legs pedaling and its big beak bobbing, waves rolling in behind. Flat vector illustration, side view.",
+      "tags": [
+        "animal",
+        "bicycle",
+        "classic-test"
+      ]
+    },
+    {
+      "id": "windmill-hills",
+      "category": "loops",
+      "title": "Windmill on green hills",
+      "title_zh": "青山上的风车",
+      "prompt": "A white wooden windmill on rolling green hills, its four sails turning slowly while clouds drift across a blue sky. Soft painterly landscape.",
+      "tags": [
+        "landscape",
+        "windmill",
+        "calm"
+      ]
+    },
+    {
+      "id": "paper-boat-ripples",
+      "category": "loops",
+      "title": "Paper boat bobbing on water",
+      "title_zh": "水面上起伏的纸船",
+      "prompt": "A white folded paper boat bobbing gently on calm water, small ripples spreading outward, fixed overhead camera. Soft natural light photo style.",
+      "tags": [
+        "water",
+        "paper",
+        "calm"
+      ]
+    },
+    {
+      "id": "street-robot-dance",
+      "category": "loops",
+      "title": "Robot dancing on the street",
+      "title_zh": "街头跳舞的机器人",
+      "prompt": "A boxy orange robot doing a robotic pop-and-lock dance on a graffiti-covered city street, arms snapping between poses. Fixed camera, vibrant 3D render.",
+      "tags": [
+        "robot",
+        "dance",
+        "street"
+      ]
+    },
+    {
+      "id": "woodcutter-winter",
+      "category": "loops",
+      "title": "Chopping wood in winter",
+      "title_zh": "冬日院子里劈柴",
+      "prompt": "An old man in a thick wool coat raising an axe and splitting a log on a stump in a snowy backyard, wood halves falling to the sides, his breath visible in the cold air. Painterly illustration.",
+      "tags": [
+        "winter",
+        "rural",
+        "work"
+      ]
+    },
+    {
+      "id": "rain-shiba-pet",
+      "category": "loops",
+      "title": "Petting a shiba in the rain",
+      "title_zh": "雨夜摸柴犬",
+      "prompt": "A girl with a clear umbrella crouching on a wet city street at night to pet a shiba inu, the dog's tail wagging, rain glittering under neon reflections. Anime-style illustration.",
+      "tags": [
+        "rain",
+        "dog",
+        "night"
+      ]
+    },
+    {
+      "id": "canyon-waterfall",
+      "category": "loops",
+      "title": "Canyon waterfall mist",
+      "title_zh": "峡谷瀑布与水雾",
+      "prompt": "A tall waterfall pouring into a deep green canyon pool, mist rising and ripples spreading across the water. Fixed wide shot, realistic landscape photo.",
+      "tags": [
+        "nature",
+        "waterfall",
+        "cinemagraph"
+      ]
+    },
+    {
+      "id": "glass-butterfly",
+      "category": "loops",
+      "title": "Glass butterfly with shifting shadows",
+      "title_zh": "玻璃蝴蝶与投影",
+      "prompt": "A butterfly made of clear glass perched on a white table, slowly opening and closing its wings while the colorful refracted shadow on the table changes in sync. Macro photo, soft light.",
+      "tags": [
+        "glass",
+        "butterfly",
+        "light"
+      ]
+    },
+    {
+      "id": "beaker-glow-vortex",
+      "category": "loops",
+      "title": "Glowing beaker vortex",
+      "title_zh": "烧杯荧光漩涡",
+      "prompt": "A glass lab beaker on a dark bench with a swirling vortex of glowing teal liquid inside, tiny bubbles rising and the glow pulsing. Moody lab photography.",
+      "tags": [
+        "science",
+        "glow",
+        "liquid"
+      ]
+    },
+    {
+      "id": "eagle-wing-flap",
+      "category": "loops",
+      "title": "Eagle flapping its wings",
+      "title_zh": "振翅的老鹰",
+      "prompt": "A golden eagle flying in place with powerful wing beats, feathers rippling, isolated on a plain sky-blue background. Realistic illustration.",
+      "tags": [
+        "bird",
+        "flight",
+        "animal"
+      ]
+    },
+    {
+      "id": "lantern-koi-garden",
+      "category": "loops",
+      "title": "Paper lantern Jiangnan with koi",
+      "title_zh": "纸雕灯里的江南",
+      "prompt": "A layered paper-cut lantern scene of a southern Chinese water town with a stone arch bridge and a pavilion, two golden koi swimming beneath the bridge while the warm light flickers. Paper-sculpture style.",
+      "tags": [
+        "paper-cut",
+        "chinese",
+        "lantern"
+      ]
+    },
+    {
+      "id": "clay-baker-mascot",
+      "category": "loops",
+      "title": "Clay dough baker mascot",
+      "title_zh": "黏土面团面包师",
+      "prompt": "A round clay dough mascot in a little white chef hat kneading a piece of dough on a floured board, folding it over and giving a small wave. Claymation style, fixed camera.",
+      "tags": [
+        "clay",
+        "mascot",
+        "cooking"
+      ]
+    },
+    {
+      "id": "robot-barista",
+      "category": "loops",
+      "title": "Robot barista pouring coffee",
+      "title_zh": "做咖啡的机器人",
+      "prompt": "A small white robot barista with one arm pouring steamed milk into a cup of coffee on a café counter, drawing a leaf pattern in the foam. Clean 3D render.",
+      "tags": [
+        "robot",
+        "coffee",
+        "cafe"
+      ]
+    },
+    {
+      "id": "pixel-hero-slash",
+      "category": "pixel-ui",
+      "title": "Pixel hero sword slash",
+      "title_zh": "像素勇者挥剑",
+      "prompt": "A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a bright white slash trail. Side view game sprite on a plain dark background, crisp pixels.",
+      "tags": [
+        "pixel-art",
+        "sprite",
+        "attack"
+      ]
+    },
+    {
+      "id": "pixel-castle-scroller",
+      "category": "pixel-ui",
+      "title": "Handheld-style castle run",
+      "title_zh": "掌机风城堡横版关卡",
+      "prompt": "A 32-bit handheld-style side-scrolling level: a small round armadillo knight in shiny orange armor with a feathered helmet running and jumping across castle battlements while the background parallax scrolls. Pixel art.",
+      "tags": [
+        "pixel-art",
+        "platformer",
+        "game"
+      ]
+    },
+    {
+      "id": "bouncing-ball-squash",
+      "category": "pixel-ui",
+      "title": "Squash and stretch bouncing ball",
+      "title_zh": "弹跳球挤压拉伸",
+      "prompt": "A red rubber ball bouncing on a flat floor with classic squash and stretch, a soft shadow growing and shrinking underneath. Clean flat animation on a plain white background.",
+      "tags": [
+        "animation-basics",
+        "ball",
+        "loop"
+      ]
+    },
+    {
+      "id": "ai-typing-indicator",
+      "category": "pixel-ui",
+      "title": "AI assistant typing indicator",
+      "title_zh": "AI 助手正在输入",
+      "prompt": "A chat interface where a small rounded robot avatar sits beside a grey bubble with three dots pulsing one after another, the avatar's eyes blinking. Clean modern UI style on white.",
+      "tags": [
+        "ui",
+        "chat",
+        "loader"
+      ]
+    },
+    {
+      "id": "arcade-fighter-punch",
+      "category": "pixel-ui",
+      "title": "16-bit fighter punch combo",
+      "title_zh": "16 位格斗角色出拳",
+      "prompt": "A 16-bit arcade fighter, a stocky red panda in a blue gi, throwing a jab and a straight punch from a fighting stance with hit sparks. Side view sprite on a dojo background.",
+      "tags": [
+        "pixel-art",
+        "fighting",
+        "sprite"
+      ]
+    },
+    {
+      "id": "subway-wind-girl",
+      "category": "loops",
+      "title": "Train wind on the platform",
+      "title_zh": "地铁进站的那阵风",
+      "prompt": "A girl with long dark hair and a yellow raincoat standing on a subway platform as a train rushes past behind her, her hair and coat whipping sideways in the gust while she squints. Anime film still style, fixed camera.",
+      "tags": [
+        "anime",
+        "wind",
+        "cinemagraph"
+      ]
+    },
+    {
+      "id": "gym-chest-press",
+      "category": "stickers",
+      "title": "Gym bear doing chest presses",
+      "title_zh": "健身熊推胸",
+      "prompt": "A muscular cartoon brown bear in a red tank top lying on a bench and pressing a barbell up and down, cheeks puffing with each rep. Bold cartoon sticker style on a plain grey background.",
+      "tags": [
+        "sticker",
+        "fitness",
+        "bear"
+      ]
+    },
+    {
+      "id": "vr-cat-nap",
+      "category": "stickers",
+      "title": "Cat dozing in a VR headset",
+      "title_zh": "戴 VR 眼镜打瞌睡的猫",
+      "prompt": "A fluffy grey cat wearing a sleek white VR headset slowly nodding off, its head drooping and jerking back up, a small Zzz bubble floating up. Soft 3D render on a plain lavender background.",
+      "tags": [
+        "sticker",
+        "cat",
+        "tech"
+      ]
+    },
+    {
+      "id": "grateful-shrimp-bow",
+      "category": "stickers",
+      "title": "Grateful shrimp bows deeply",
+      "title_zh": "感激涕零的小虾",
+      "prompt": "A small pink cartoon shrimp pressing its claws together, raising them high over its head and then bowing dramatically low, with the caption \"THANK YOU!\" fixed at the bottom. Flat sticker style on a white background.",
+      "tags": [
+        "sticker",
+        "caption",
+        "thanks"
+      ]
     }
   ]
 }
