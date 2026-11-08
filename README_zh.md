@@ -2,7 +2,7 @@
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-96-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-152-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。下面每个示例都是用所列提示词原样生成的，未做任何后期修改。
 
@@ -18,10 +18,10 @@
 ## 目录
 
 - [这些 GIF 是怎么生成的](#这些-gif-是怎么生成的)
-- [表情包与贴纸](#表情包与贴纸) · 37 条提示词
-- [快闪与品牌动效](#快闪与品牌动效) · 15 条提示词
-- [氛围循环动画](#氛围循环动画) · 30 条提示词
-- [像素风与界面动效](#像素风与界面动效) · 14 条提示词
+- [表情包与贴纸](#表情包与贴纸) · 63 条提示词
+- [快闪与品牌动效](#快闪与品牌动效) · 25 条提示词
+- [氛围循环动画](#氛围循环动画) · 41 条提示词
+- [像素风与界面动效](#像素风与界面动效) · 23 条提示词
 - [自己动手生成](#自己动手生成)
 
 ## 这些 GIF 是怎么生成的
@@ -580,9 +580,383 @@ A small pink cartoon shrimp pressing its claws together, raising them high over 
 
 `sticker` `caption` `thanks`
 
+### 38. 螳螂虾戳布丁
+
+<img src="gifs/mantis-shrimp-flan.gif" alt="螳螂虾戳布丁" width="360">
+
+<sub>9 帧 · 414×414 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A rainbow-colored cartoon mantis shrimp poking a caramel flan on a plate with both front claws, the flan wobbling wildly while the shrimp's eyes sparkle with delight. Glossy clay-toy style on a pale yellow background.
+```
+
+`sticker` `food` `funny`
+
+### 39. 领结大猩猩摇摆舞
+
+<img src="gifs/gorilla-bowtie-shuffle.gif" alt="领结大猩猩摇摆舞" width="360">
+
+<sub>16 帧 · 320×289 · 1.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A chunky cartoon gorilla wearing a tiny red bow tie doing a side-to-side shuffle dance, swinging its long arms and bobbing its head to the beat. Flat vector sticker on a white background.
+```
+
+`sticker` `dance` `animal`
+
+### 40. 西瓜头小狗刷手机
+
+<img src="gifs/bowl-cut-dog-phone.gif" alt="西瓜头小狗刷手机" width="360">
+
+<sub>9 帧 · 435×391 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A small dog with a perfectly round bowl-cut hairstyle lying on its belly, scrolling a smartphone with one paw and snorting with laughter at the screen. Cute cartoon style on a white background.
+```
+
+`sticker` `phone` `dog`
+
+### 41. 小海豹：震惊
+
+<img src="gifs/seal-shocked.gif" alt="小海豹：震惊" width="360">
+
+<sub>9 帧 · 439×388 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny blue scarf jolting backward in shock, eyes popping wide and whiskers standing straight out, with a small burst of exclamation lines. Flat chat-sticker style on a white background.
+```
+
+> 💡 **技巧：** 做成套表情时，每条都复用完全相同的角色描述。
+
+`sticker` `seal` `shock`
+
+### 42. 小海豹：偷笑
+
+<img src="gifs/seal-giggle.gif" alt="小海豹：偷笑" width="360">
+
+<sub>8 帧 · 439×390 · 1.2s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny blue scarf covering its mouth with one flipper and giggling, shoulders shaking and eyes curved into happy arcs. Flat chat-sticker style on a white background.
+```
+
+> 💡 **技巧：** 做成套表情时，每条都复用完全相同的角色描述。
+
+`sticker` `seal` `laugh`
+
+### 43. 小海豹：摆烂
+
+<img src="gifs/seal-melt-slack.gif" alt="小海豹：摆烂" width="360">
+
+<sub>16 帧 · 376×259 · 2.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny blue scarf lying flat on its belly and slowly melting into a puddle-like blob, then sighing a tiny cloud. Flat chat-sticker style on a white background.
+```
+
+> 💡 **技巧：** 做成套表情时，每条都复用完全相同的角色描述。
+
+`sticker` `seal` `lazy`
+
+### 44. 小海豹：大哭
+
+<img src="gifs/seal-crying.gif" alt="小海豹：大哭" width="360">
+
+<sub>9 帧 · 431×393 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny blue scarf bawling with its mouth wide open, two streams of tears spraying out sideways, flippers flapping. Flat chat-sticker style on a white background.
+```
+
+> 💡 **技巧：** 做成套表情时，每条都复用完全相同的角色描述。
+
+`sticker` `seal` `cry`
+
+### 45. 小海豹：比心
+
+<img src="gifs/seal-heart.gif" alt="小海豹：比心" width="360">
+
+<sub>9 帧 · 435×388 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny blue scarf lifting both flippers together over its head to form a clear heart shape, then small pink hearts float up. Flat chat-sticker style on a white background.
+```
+
+> 💡 **技巧：** 双手比心经常合不拢，要写明两只鳍在头顶碰在一起。
+
+`sticker` `seal` `love`
+
+### 46. 柴犬：在改了在改了
+
+<img src="gifs/shiba-fixing-caption.gif" alt="柴犬：在改了在改了" width="360">
+
+<sub>9 帧 · 436×388 · 1.3s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A cream shiba inu at a desk typing furiously on a keyboard with both paws, sweat drops flying off its head, with the handwritten caption "在改了在改了" fixed at the top. Flat sticker style on a white background.
+```
+
+`sticker` `caption` `work`
+
+### 47. 柴犬被雪球砸脸
+
+<img src="gifs/shiba-snowball-face.gif" alt="柴犬被雪球砸脸" width="360">
+
+<sub>9 帧 · 439×381 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A shiba inu in a red knitted winter hat standing in the snow gets hit in the face by a snowball, snow bursting everywhere, then blinks and shakes its head. Cartoon sticker style on a pale blue background.
+```
+
+`sticker` `winter` `funny`
+
+### 48. 奶牛猫扑逗猫棒
+
+<img src="gifs/tuxedo-cat-foxtail.gif" alt="奶牛猫扑逗猫棒" width="360">
+
+<sub>9 帧 · 390×439 · 1.3s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A simple black-and-white anime-style tuxedo cat sitting up and swatting at a foxtail grass toy dangling from above, ears flattened, tail twitching. Clean line art on a white background.
+```
+
+`sticker` `cat` `monochrome`
+
+### 49. 仓鼠快递员
+
+<img src="gifs/hamster-courier.gif" alt="仓鼠快递员" width="360">
+
+<sub>9 帧 · 433×388 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A small golden hamster in a tiny brown courier cap pushing a cardboard parcel twice its size across the floor, cheeks puffed with effort and feet scrabbling. Cozy cartoon sticker on a white background.
+```
+
+`sticker` `work` `hamster`
+
+### 50. 戴礼帽的奶奶
+
+<img src="gifs/sunday-hat-grandma.gif" alt="戴礼帽的奶奶" width="360">
+
+<sub>9 帧 · 437×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A cheerful cartoon grandma in a big floral Sunday hat and a pearl necklace clapping and swaying side to side to music, eyes closed in joy. Warm flat illustration on a soft pink background.
+```
+
+`sticker` `joy` `character`
+
+### 51. 纸箱机器人霹雳舞
+
+<img src="gifs/box-robot-breakdance.gif" alt="纸箱机器人霹雳舞" width="360">
+
+<sub>9 帧 · 440×388 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A robot made from cardboard boxes with bottle-cap eyes doing a breakdance toprock step, then dropping into a one-hand freeze on a flattened cardboard mat. Hand-drawn marker style on white paper.
+```
+
+`sticker` `dance` `robot`
+
+### 52. 柯基讨零食
+
+<img src="gifs/corgi-snack-beg.gif" alt="柯基讨零食" width="360">
+
+<sub>9 帧 · 412×412 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A fluffy corgi mascot staring up at a treat just above its head, drooling, wiggling its round butt and doing a little hop. Cute vector sticker on a white background.
+```
+
+`sticker` `dog` `food`
+
+### 53. 戏精贵宾犬晕倒
+
+<img src="gifs/poodle-dramatic-faint.gif" alt="戏精贵宾犬晕倒" width="360">
+
+<sub>9 帧 · 439×390 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A white poodle mascot striking a dramatic pose, pressing a paw to its forehead and swooning backward onto a red velvet cushion. Exaggerated theatrical cartoon on a cream background.
+```
+
+`sticker` `drama` `dog`
+
+### 54. 白猫滚毛线球
+
+<img src="gifs/white-cat-yarn.gif" alt="白猫滚毛线球" width="360">
+
+<sub>9 帧 · 439×390 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A fluffy white kitten batting a red yarn ball, rolling onto its back with the ball in its paws, then popping back upright. Soft pastel cartoon on a pale lavender background.
+```
+
+`sticker` `cat` `play`
+
+### 55. 戴花环的猫跳舞
+
+<img src="gifs/flower-crown-cat-dance.gif" alt="戴花环的猫跳舞" width="360">
+
+<sub>9 帧 · 414×414 · 1.3s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A grey cat wearing a crown of small daisies doing a happy side-step dance on its hind legs, front paws swinging. Flat cute illustration on a light green background.
+```
+
+`sticker` `cat` `dance`
+
+### 56. 雨衣小孩起跳落地
+
+<img src="gifs/raincoat-kid-jump.gif" alt="雨衣小孩起跳落地" width="360">
+
+<sub>9 帧 · 431×394 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A chibi kid in a yellow raincoat crouching down, springing into a high jump with arms up, then landing with a little puff of dust. Side view, flat animation style on a white background.
+```
+
+`sticker` `jump` `character`
+
+### 57. 麻薯团子说 OK
+
+<img src="gifs/mochi-ok-bow.gif" alt="麻薯团子说 OK" width="360">
+
+<sub>9 帧 · 414×414 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A round white mochi character with tiny arms bowing politely and then popping up holding an "OK!" sign, cheeks blushing. LINE-sticker style with thick outlines on a white background.
+```
+
+`sticker` `caption` `ok`
+
+### 58. 蜗牛送信
+
+<img src="gifs/snail-mail-delivery.gif" alt="蜗牛送信" width="360">
+
+<sub>9 帧 · 437×387 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A small snail with a tiny leather postbag slowly sliding forward and holding out an envelope with its antennae, smiling proudly. Soft storybook illustration on a cream background.
+```
+
+`sticker` `mail` `slow`
+
+### 59. 吐司弹出吓一跳
+
+<img src="gifs/toaster-pop-surprise.gif" alt="吐司弹出吓一跳" width="360">
+
+<sub>9 帧 · 438×390 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+Two slices of toast with cartoon faces popping out of a chrome toaster, flipping in the air with surprised expressions, then dropping back in. Glossy 3D cartoon on a pale orange background.
+```
+
+`sticker` `food` `surprise`
+
+### 60. 想要抱抱的仙人掌
+
+<img src="gifs/cactus-hug-ouch.gif" alt="想要抱抱的仙人掌" width="360">
+
+<sub>9 帧 · 409×414 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A small potted cactus character opening its spiky arms wide for a hug, then looking down at its spines and drooping sadly. Flat cute illustration on a white background.
+```
+
+`sticker` `hug` `sad`
+
+### 61. 六角恐龙吹泡泡
+
+<img src="gifs/axolotl-bubble.gif" alt="六角恐龙吹泡泡" width="360">
+
+<sub>16 帧 · 378×241 · 2.2s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A pink axolotl with frilly gills puffing its cheeks to blow a round bubble that grows, pops, and leaves it blinking in surprise. Soft cartoon style, light aqua background.
+```
+
+`sticker` `water` `cute`
+
+### 62. 树懒喝咖啡醒了
+
+<img src="gifs/sloth-coffee-wake.gif" alt="树懒喝咖啡醒了" width="360">
+
+<sub>16 帧 · 384×262 · 2.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A sleepy sloth hanging from a branch slowly sipping coffee from a tiny cup, then its eyes pop wide open with sparkles. Soft cartoon sticker on a white background.
+```
+
+`sticker` `coffee` `morning`
+
+### 63. 青蛙跳水坑
+
+<img src="gifs/frog-puddle-jump.gif" alt="青蛙跳水坑" width="360">
+
+<sub>16 帧 · 378×245 · 2.2s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A small green frog in a red raincoat leaping into a puddle, water splashing up in a crown, then giving a happy little wave. Bright cartoon style on a white background.
+```
+
+`sticker` `rain` `frog`
+
 ## 快闪与品牌动效
 
-### 38. 花卉微距快闪
+### 64. 花卉微距快闪
 
 <img src="gifs/flower-macro-flash.gif" alt="花卉微距快闪" width="360">
 
@@ -598,7 +972,7 @@ A fast flash-cut sequence of eight different flower photographs, one per frame, 
 
 `flash-cut` `photography` `editorial`
 
-### 39. 猫头 Logo 品牌快闪
+### 65. 猫头 Logo 品牌快闪
 
 <img src="gifs/cat-brand-reel.gif" alt="猫头 Logo 品牌快闪" width="360">
 
@@ -614,7 +988,7 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
-### 40. 球鞋配色快闪
+### 66. 球鞋配色快闪
 
 <img src="gifs/sneaker-colorway-flash.gif" alt="球鞋配色快闪" width="360">
 
@@ -630,7 +1004,7 @@ A fast flash-cut in a square frame: the same chunky sneaker seen from the side, 
 
 `flash-cut` `product` `fashion`
 
-### 41. 一棵树的四季
+### 67. 一棵树的四季
 
 <img src="gifs/four-seasons-tree.gif" alt="一棵树的四季" width="360">
 
@@ -644,7 +1018,7 @@ The same lone round tree on a small hill, framed identically in every frame, cyc
 
 `flash-cut` `nature` `seasons`
 
-### 42. 杂志拼贴逐格弹出
+### 68. 杂志拼贴逐格弹出
 
 <img src="gifs/magazine-panels-pop.gif" alt="杂志拼贴逐格弹出" width="360">
 
@@ -660,7 +1034,7 @@ A fashion-magazine collage layout where photo panels pop in one by one — a flo
 
 `flash-cut` `editorial` `layout`
 
-### 43. 纸飞机从桌面滑到笔记本
+### 69. 纸飞机从桌面滑到笔记本
 
 <img src="gifs/paper-airplane-glide.gif" alt="纸飞机从桌面滑到笔记本" width="360">
 
@@ -674,7 +1048,7 @@ An orange paper airplane with one navy stripe lifting off a wooden desk, gliding
 
 `storyboard` `object` `desk`
 
-### 44. 霓虹 OPEN 招牌闪烁
+### 70. 霓虹 OPEN 招牌闪烁
 
 <img src="gifs/neon-open-sign.gif" alt="霓虹 OPEN 招牌闪烁" width="360">
 
@@ -688,7 +1062,7 @@ A pink and blue neon "OPEN" sign in a dark shop window at night, buzzing and fli
 
 `neon` `sign` `text`
 
-### 45. 产品背景光掠过
+### 71. 产品背景光掠过
 
 <img src="gifs/product-light-sweep.gif" alt="产品背景光掠过" width="360">
 
@@ -702,7 +1076,7 @@ A frosted glass skincare bottle standing still on a beige stone plinth while a s
 
 `product` `ad` `light`
 
-### 46. 香水瓶在水面旋转
+### 72. 香水瓶在水面旋转
 
 <img src="gifs/perfume-water-spin.gif" alt="香水瓶在水面旋转" width="360">
 
@@ -716,7 +1090,7 @@ A square amber perfume bottle labeled "SOL" slowly rotating on the surface of st
 
 `product` `perfume` `water`
 
-### 47. 两行活动标题动效
+### 73. 两行活动标题动效
 
 <img src="gifs/event-title-reveal.gif" alt="两行活动标题动效" width="360">
 
@@ -730,7 +1104,7 @@ A bold two-line title "SUMMER" and "MARKET 2026" sliding in from the left one li
 
 `text` `title` `motion-graphics`
 
-### 48. 聊天气泡逐条弹出
+### 74. 聊天气泡逐条弹出
 
 <img src="gifs/chat-bubbles-pop.gif" alt="聊天气泡逐条弹出" width="360">
 
@@ -744,7 +1118,7 @@ A phone chat screen where three message bubbles pop in one by one: grey "Are you
 
 `ui` `chat` `text`
 
-### 49. 城市千年变迁
+### 75. 城市千年变迁
 
 <img src="gifs/city-future-timelapse.gif" alt="城市千年变迁" width="360">
 
@@ -758,7 +1132,7 @@ The same riverside city skyline from a fixed viewpoint changing era by era: low 
 
 `timelapse` `city` `sci-fi`
 
-### 50. 小人们搭建三明治
+### 76. 小人们搭建三明治
 
 <img src="gifs/tiny-chefs-sandwich.gif" alt="小人们搭建三明治" width="360">
 
@@ -772,7 +1146,7 @@ A team of miniature people in aprons on a full-size kitchen table hauling a lett
 
 `miniature` `food` `funny`
 
-### 51. 城堡拔地而起
+### 77. 城堡拔地而起
 
 <img src="gifs/castle-builds-up.gif" alt="城堡拔地而起" width="360">
 
@@ -786,7 +1160,7 @@ A medieval stone castle on a green hill building itself up from the foundation: 
 
 `build` `castle` `timelapse`
 
-### 52. 同一只狐狸换六种材质
+### 78. 同一只狐狸换六种材质
 
 <img src="gifs/material-style-flip.gif" alt="同一只狐狸换六种材质" width="360">
 
@@ -800,9 +1174,151 @@ The same sitting fox in the same pose, each frame rendered in a different materi
 
 `style` `material` `comparison`
 
+### 79. 礼物盒弹出小白鬼
+
+<img src="gifs/gift-box-ghost-pop.gif" alt="礼物盒弹出小白鬼" width="360">
+
+<sub>16 帧 · 307×309 · 2.2s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A glossy red cartoon gift box with a gold ribbon: the lid pops open and a tiny round white ghost springs out on a coiled spring, bouncing with a jelly-like wobble. Soft rounded 3D render on a mint background, square 1:1.
+```
+
+`3d` `surprise` `bouncy`
+
+### 80. 火焰法阵
+
+<img src="gifs/fire-ring-spell.gif" alt="火焰法阵" width="360">
+
+<sub>16 帧 · 370×252 · 1.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A glowing circular magic sigil on dark stone floor ignites into a ring of orange flames that swirl around its edge while embers drift upward. Stylized anime game effect, top-down three-quarter view, dark background.
+```
+
+`vfx` `fire` `game`
+
+### 81. 瓶中闪电
+
+<img src="gifs/lightning-jar.gif" alt="瓶中闪电" width="360">
+
+<sub>8 帧 · 434×390 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A corked glass jar on a wooden table with a tiny bolt of blue-white lightning crackling inside, flashing and branching against the glass and lighting up the table. Painterly fantasy style, dim room.
+```
+
+`vfx` `lightning` `fantasy`
+
+### 82. 水流旋涡球
+
+<img src="gifs/water-spiral-orb.gif" alt="水流旋涡球" width="360">
+
+<sub>16 帧 · 378×250 · 1.8s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A floating sphere of clear water with a spiral current turning inside it, small droplets orbiting around and catching light. Anime game skill effect on a deep teal background.
+```
+
+`vfx` `water` `game`
+
+### 83. 冰晶绽放
+
+<img src="gifs/ice-crystal-bloom.gif" alt="冰晶绽放" width="360">
+
+<sub>16 帧 · 378×249 · 2.2s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A pale blue ice crystal growing from the center of the frame, frost branches spreading outward like a snowflake and sparkling, cold mist curling at the edges. Anime game effect on a dark navy background.
+```
+
+`vfx` `ice` `game`
+
+### 84. 网点漫画动感海报
+
+<img src="gifs/halftone-fox-poster.gif" alt="网点漫画动感海报" width="360">
+
+<sub>9 帧 · 434×387 · 1.3s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A bold comic-style action poster: a masked fox thief in a long red coat leaps across the frame while red, black and white halftone burst rays pulse behind and speed lines flash. Graphic print style.
+```
+
+`poster` `comic` `bold`
+
+### 85. 房屋剖面展开
+
+<img src="gifs/house-cutaway.gif" alt="房屋剖面展开" width="360">
+
+<sub>9 帧 · 432×395 · 2.0s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+An isometric 3D cutaway of a small two-story house: the front wall slides away to reveal tiny furnished rooms, and the lights switch on room by room. Soft clay render on a light blue background.
+```
+
+`3d` `isometric` `reveal`
+
+### 86. 霓虹星星与环绕光轨
+
+<img src="gifs/neon-star-orbit.gif" alt="霓虹星星与环绕光轨" width="360">
+
+<sub>16 帧 · 380×252 · 1.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A neon sign shaped like a five-pointed star, outlined in orange-pink LED dots, glowing against a dark starfield while a thin comet-like light trail orbits around it and small stars twinkle.
+```
+
+`neon` `glow` `sign`
+
+### 87. 马克杯换色展示
+
+<img src="gifs/mug-color-cycle.gif" alt="马克杯换色展示" width="360">
+
+<sub>5 帧 · 350×883 · 2.3s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A single ceramic coffee mug shown whole and centered in a square frame, handle to the right, on a seamless white studio backdrop. Only the mug's glaze color changes from frame to frame — coral, sage green, navy, mustard, lilac — while its shape, position, shadow and lighting stay exactly the same.
+```
+
+> 💡 **技巧：** 换色展示会按颜色出帧（这里 5 帧）。第一次画面被裁、有接缝；写明整只杯子居中后修好了，但输出变成 350×883 的竖长条，需要的话再裁成方图。
+
+`product` `colorway` `ecommerce`
+
+### 88. 帆布包卖点标注
+
+<img src="gifs/tote-feature-callouts.gif" alt="帆布包卖点标注" width="360">
+
+<sub>16 帧 · 380×252 · 2.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A product shot of a natural canvas tote bag; small glowing circle markers with plus icons appear one after another on the front pocket, the leather handle and the inner divider. Clean studio photography on beige.
+```
+
+`product` `ecommerce` `callout`
+
 ## 氛围循环动画
 
-### 53. 窗边读书·白天到夜晚
+### 89. 窗边读书·白天到夜晚
 
 <img src="gifs/window-day-to-night.gif" alt="窗边读书·白天到夜晚" width="360">
 
@@ -818,7 +1334,7 @@ A girl with a short bob reading a book on a cushion by a big window, seen from t
 
 `loop` `character` `time-lapse`
 
-### 54. 冒热气的咖啡
+### 90. 冒热气的咖啡
 
 <img src="gifs/steaming-coffee.gif" alt="冒热气的咖啡" width="360">
 
@@ -832,7 +1348,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 55. 雨窗与绿植
+### 91. 雨窗与绿植
 
 <img src="gifs/rain-on-window.gif" alt="雨窗与绿植" width="360">
 
@@ -846,7 +1362,7 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
-### 56. 鱼缸里的金鱼
+### 92. 鱼缸里的金鱼
 
 <img src="gifs/goldfish-bowl.gif" alt="鱼缸里的金鱼" width="360">
 
@@ -860,7 +1376,7 @@ A round glass fishbowl on a windowsill with one orange goldfish swimming a slow 
 
 `loop` `pet` `calm`
 
-### 57. 夜晚的灯塔
+### 93. 夜晚的灯塔
 
 <img src="gifs/lighthouse-night.gif" alt="夜晚的灯塔" width="360">
 
@@ -874,7 +1390,7 @@ A white lighthouse on a rocky shore at night, its beam sweeping slowly across a 
 
 `loop` `seascape` `night`
 
-### 58. 壁炉边睡觉的猫
+### 94. 壁炉边睡觉的猫
 
 <img src="gifs/cat-by-fireplace.gif" alt="壁炉边睡觉的猫" width="360">
 
@@ -890,7 +1406,7 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
-### 59. 雪林提灯的小猴子
+### 95. 雪林提灯的小猴子
 
 <img src="gifs/lantern-monkey-snow.gif" alt="雪林提灯的小猴子" width="360">
 
@@ -906,7 +1422,7 @@ A small monkey in an olive-green hooded coat standing in a snowy pine forest at 
 
 `loop` `character` `winter`
 
-### 60. 苔石上打盹的小狐狸
+### 96. 苔石上打盹的小狐狸
 
 <img src="gifs/sleepy-fox-rock.gif" alt="苔石上打盹的小狐狸" width="360">
 
@@ -920,7 +1436,7 @@ A small orange fox curled up asleep on a mossy rock, its tail gently swaying and
 
 `loop` `animal` `calm`
 
-### 61. Lo-fi 学习循环
+### 97. Lo-fi 学习循环
 
 <img src="gifs/lofi-study-loop.gif" alt="Lo-fi 学习循环" width="360">
 
@@ -934,7 +1450,7 @@ A girl with headphones writing in a notebook at a desk at night, her pencil movi
 
 `loop` `lofi` `study`
 
-### 62. 街角咖啡馆动态照片
+### 98. 街角咖啡馆动态照片
 
 <img src="gifs/cafe-cinemagraph.gif" alt="街角咖啡馆动态照片" width="360">
 
@@ -950,7 +1466,7 @@ A cinemagraph of a quiet street café terrace in the morning: everything is perf
 
 `loop` `cinemagraph` `photo`
 
-### 63. 水墨奔马
+### 99. 水墨奔马
 
 <img src="gifs/ink-wash-horse.gif" alt="水墨奔马" width="360">
 
@@ -964,7 +1480,7 @@ A racehorse with a jockey galloping to the right in a loose Chinese ink-wash pai
 
 `loop` `ink-wash` `animal`
 
-### 64. 涂鸦小怪兽活了
+### 100. 涂鸦小怪兽活了
 
 <img src="gifs/doodle-monster.gif" alt="涂鸦小怪兽活了" width="360">
 
@@ -978,7 +1494,7 @@ A crude crayon doodle of a little purple blob monster with two eyes on wobbly st
 
 `loop` `doodle` `cute`
 
-### 65. 茶壶蒸汽变成爱心
+### 101. 茶壶蒸汽变成爱心
 
 <img src="gifs/teapot-steam-heart.gif" alt="茶壶蒸汽变成爱心" width="360">
 
@@ -992,7 +1508,7 @@ A copper teapot on a windowsill on a rainy afternoon, steam rising from the spou
 
 `steam` `cozy` `clay`
 
-### 66. 雪花球里嚎叫的哈士奇
+### 102. 雪花球里嚎叫的哈士奇
 
 <img src="gifs/husky-snow-globe.gif" alt="雪花球里嚎叫的哈士奇" width="360">
 
@@ -1006,7 +1522,7 @@ A tiny husky inside a glass snow globe sitting on a snowy mound and howling up a
 
 `snow-globe` `dog` `winter`
 
-### 67. 雪花球里的城市
+### 103. 雪花球里的城市
 
 <img src="gifs/city-snow-globe.gif" alt="雪花球里的城市" width="360">
 
@@ -1020,7 +1536,7 @@ A snow globe holding a miniature city of red-brick apartment blocks and a little
 
 `snow-globe` `city` `winter`
 
-### 68. 球池里的黏土小猫
+### 104. 球池里的黏土小猫
 
 <img src="gifs/clay-kitten-ballpit.gif" alt="球池里的黏土小猫" width="360">
 
@@ -1034,7 +1550,7 @@ A clay kitten popping its head out of a ball pit full of colorful plastic balls,
 
 `clay` `cat` `playful`
 
-### 69. 海边骑车的鹈鹕
+### 105. 海边骑车的鹈鹕
 
 <img src="gifs/pelican-bicycle.gif" alt="海边骑车的鹈鹕" width="360">
 
@@ -1048,7 +1564,7 @@ A pelican riding a red bicycle along a seaside promenade, legs pedaling and its 
 
 `animal` `bicycle` `classic-test`
 
-### 70. 青山上的风车
+### 106. 青山上的风车
 
 <img src="gifs/windmill-hills.gif" alt="青山上的风车" width="360">
 
@@ -1062,7 +1578,7 @@ A white wooden windmill on rolling green hills, its four sails turning slowly wh
 
 `landscape` `windmill` `calm`
 
-### 71. 水面上起伏的纸船
+### 107. 水面上起伏的纸船
 
 <img src="gifs/paper-boat-ripples.gif" alt="水面上起伏的纸船" width="360">
 
@@ -1076,7 +1592,7 @@ A white folded paper boat bobbing gently on calm water, small ripples spreading 
 
 `water` `paper` `calm`
 
-### 72. 街头跳舞的机器人
+### 108. 街头跳舞的机器人
 
 <img src="gifs/street-robot-dance.gif" alt="街头跳舞的机器人" width="360">
 
@@ -1090,7 +1606,7 @@ A boxy orange robot doing a robotic pop-and-lock dance on a graffiti-covered cit
 
 `robot` `dance` `street`
 
-### 73. 冬日院子里劈柴
+### 109. 冬日院子里劈柴
 
 <img src="gifs/woodcutter-winter.gif" alt="冬日院子里劈柴" width="360">
 
@@ -1104,7 +1620,7 @@ An old man in a thick wool coat raising an axe and splitting a log on a stump in
 
 `winter` `rural` `work`
 
-### 74. 雨夜摸柴犬
+### 110. 雨夜摸柴犬
 
 <img src="gifs/rain-shiba-pet.gif" alt="雨夜摸柴犬" width="360">
 
@@ -1118,7 +1634,7 @@ A girl with a clear umbrella crouching on a wet city street at night to pet a sh
 
 `rain` `dog` `night`
 
-### 75. 峡谷瀑布与水雾
+### 111. 峡谷瀑布与水雾
 
 <img src="gifs/canyon-waterfall.gif" alt="峡谷瀑布与水雾" width="360">
 
@@ -1132,7 +1648,7 @@ A tall waterfall pouring into a deep green canyon pool, mist rising and ripples 
 
 `nature` `waterfall` `cinemagraph`
 
-### 76. 玻璃蝴蝶与投影
+### 112. 玻璃蝴蝶与投影
 
 <img src="gifs/glass-butterfly.gif" alt="玻璃蝴蝶与投影" width="360">
 
@@ -1146,7 +1662,7 @@ A butterfly made of clear glass perched on a white table, slowly opening and clo
 
 `glass` `butterfly` `light`
 
-### 77. 烧杯荧光漩涡
+### 113. 烧杯荧光漩涡
 
 <img src="gifs/beaker-glow-vortex.gif" alt="烧杯荧光漩涡" width="360">
 
@@ -1160,7 +1676,7 @@ A glass lab beaker on a dark bench with a swirling vortex of glowing teal liquid
 
 `science` `glow` `liquid`
 
-### 78. 振翅的老鹰
+### 114. 振翅的老鹰
 
 <img src="gifs/eagle-wing-flap.gif" alt="振翅的老鹰" width="360">
 
@@ -1174,7 +1690,7 @@ A golden eagle flying in place with powerful wing beats, feathers rippling, isol
 
 `bird` `flight` `animal`
 
-### 79. 纸雕灯里的江南
+### 115. 纸雕灯里的江南
 
 <img src="gifs/lantern-koi-garden.gif" alt="纸雕灯里的江南" width="360">
 
@@ -1188,7 +1704,7 @@ A layered paper-cut lantern scene of a southern Chinese water town with a stone 
 
 `paper-cut` `chinese` `lantern`
 
-### 80. 黏土面团面包师
+### 116. 黏土面团面包师
 
 <img src="gifs/clay-baker-mascot.gif" alt="黏土面团面包师" width="360">
 
@@ -1202,7 +1718,7 @@ A round clay dough mascot in a little white chef hat kneading a piece of dough o
 
 `clay` `mascot` `cooking`
 
-### 81. 做咖啡的机器人
+### 117. 做咖啡的机器人
 
 <img src="gifs/robot-barista.gif" alt="做咖啡的机器人" width="360">
 
@@ -1216,7 +1732,7 @@ A small white robot barista with one arm pouring steamed milk into a cup of coff
 
 `robot` `coffee` `cafe`
 
-### 82. 地铁进站的那阵风
+### 118. 地铁进站的那阵风
 
 <img src="gifs/subway-wind-girl.gif" alt="地铁进站的那阵风" width="360">
 
@@ -1230,9 +1746,163 @@ A girl with long dark hair and a yellow raincoat standing on a subway platform a
 
 `anime` `wind` `cinemagraph`
 
+### 119. 纸鹤从贺卡上起飞
+
+<img src="gifs/origami-crane-takeoff.gif" alt="纸鹤从贺卡上起飞" width="360">
+
+<sub>9 帧 · 437×379 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A folded white paper crane sitting on an open greeting card flaps its creased paper wings and lifts off, rising gently above the card. Soft pastel watercolor style on a cream background, fixed camera.
+```
+
+`paper` `message` `watercolor`
+
+### 120. 唐代舞姬转袖
+
+<img src="gifs/tang-court-dancer.gif" alt="唐代舞姬转袖" width="360">
+
+<sub>9 帧 · 439×390 · 1.4s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A court dancer in flowing red and gold Tang-dynasty robes spinning in place, her long water sleeves trailing in wide arcs around her. Painted in the style of ancient Chinese cave murals on a warm ochre background.
+```
+
+`chinese` `dance` `mural`
+
+### 121. 刚出炉的酸面包冒热气
+
+<img src="gifs/sourdough-steam.gif" alt="刚出炉的酸面包冒热气" width="360">
+
+<sub>9 帧 · 436×389 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A freshly baked sourdough loaf on a floured wooden board, still except for thin curls of steam rising from its scored crust. Warm morning light, food photography, fixed camera.
+```
+
+`food` `steam` `cinemagraph`
+
+### 122. 窗台伸懒腰的橘猫
+
+<img src="gifs/windowsill-cat-stretch.gif" alt="窗台伸懒腰的橘猫" width="360">
+
+<sub>16 帧 · 380×249 · 2.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+An orange tabby cat on a sunny windowsill stretching its front legs, yawning wide, then settling back and blinking slowly. Soft watercolor illustration, curtains still, fixed camera.
+```
+
+`cat` `cozy` `watercolor`
+
+### 123. 清晨湖面的涟漪
+
+<img src="gifs/lake-ripple-dawn.gif" alt="清晨湖面的涟漪" width="360">
+
+<sub>16 帧 · 380×252 · 4.0s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A calm mountain lake at dawn, everything still except soft ripples spreading across the water and a thin layer of mist drifting slowly over the surface. Photorealistic landscape, fixed camera.
+```
+
+`landscape` `water` `cinemagraph`
+
+### 124. 剪纸风河谷小船
+
+<img src="gifs/papercut-river-boat.gif" alt="剪纸风河谷小船" width="360">
+
+<sub>9 帧 · 439×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+Layered paper-cut art of a river valley: paper waves slide across, a little paper fishing boat bobs on them, and paper clouds drift, with soft shadows between the layers. Pastel blue and green palette.
+```
+
+`papercut` `craft` `layers`
+
+### 125. 发光水母
+
+<img src="gifs/jellyfish-glow.gif" alt="发光水母" width="360">
+
+<sub>9 帧 · 439×389 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A single translucent jellyfish drifting in the deep ocean, its bell pulsing slowly and its tentacles trailing as soft cyan bioluminescence glows along its edges. Dark blue water, fixed camera.
+```
+
+`ocean` `glow` `ambient`
+
+### 126. 书桌上的烛光
+
+<img src="gifs/desk-candle-flicker.gif" alt="书桌上的烛光" width="360">
+
+<sub>9 帧 · 439×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A lit candle on an old wooden writing desk beside an open notebook and fountain pen, still except for the flickering flame and its soft shifting glow on the paper. Moody painterly style.
+```
+
+`candle` `cozy` `cinemagraph`
+
+### 127. 回转寿司传送带
+
+<img src="gifs/sushi-conveyor.gif" alt="回转寿司传送带" width="360">
+
+<sub>12 帧 · 358×358 · 1.7s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A sushi conveyor belt in a small restaurant with colorful plates of nigiri sliding steadily from left to right past the counter. Warm anime background art style, fixed camera.
+```
+
+`food` `anime` `conveyor`
+
+### 128. 夹起拉面
+
+<img src="gifs/ramen-steam-lift.gif" alt="夹起拉面" width="360">
+
+<sub>9 帧 · 414×413 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A bowl of ramen with a soft-boiled egg and green onions, chopsticks lifting a bundle of noodles that sway gently while steam rises. Rich anime food illustration, fixed camera.
+```
+
+`food` `anime` `steam`
+
+### 129. 转动的黑胶唱片
+
+<img src="gifs/vinyl-turntable.gif" alt="转动的黑胶唱片" width="360">
+
+<sub>16 帧 · 380×252 · 2.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A vinyl record spinning on a wooden turntable with the tonearm resting on it, warm lamp light reflecting off the grooves, small music notes floating up. Cozy lo-fi illustration, fixed camera.
+```
+
+`music` `lofi` `cozy`
+
 ## 像素风与界面动效
 
-### 83. 像素风篝火
+### 130. 像素风篝火
 
 <img src="gifs/pixel-campfire.gif" alt="像素风篝火" width="360">
 
@@ -1246,7 +1916,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 84. 弹跳圆点加载动画
+### 131. 弹跳圆点加载动画
 
 <img src="gifs/bouncing-dots-loader.gif" alt="弹跳圆点加载动画" width="360">
 
@@ -1262,7 +1932,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 85. 像素骑士跑步循环
+### 132. 像素骑士跑步循环
 
 <img src="gifs/pixel-knight-run.gif" alt="像素骑士跑步循环" width="360">
 
@@ -1278,7 +1948,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 86. 点赞爱心爆开
+### 133. 点赞爱心爆开
 
 <img src="gifs/like-heart-burst.gif" alt="点赞爱心爆开" width="360">
 
@@ -1292,7 +1962,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 87. 沙漏加载
+### 134. 沙漏加载
 
 <img src="gifs/hourglass-flip.gif" alt="沙漏加载" width="360">
 
@@ -1306,7 +1976,7 @@ A simple flat hourglass icon with sand pouring from the top to the bottom, then 
 
 `ui` `loader` `icon`
 
-### 88. 街机对战 VS 画面
+### 135. 街机对战 VS 画面
 
 <img src="gifs/arcade-vs-screen.gif" alt="街机对战 VS 画面" width="360">
 
@@ -1322,7 +1992,7 @@ A retro arcade versus screen: on the left a chubby panda wrestler in a yellow ca
 
 `pixel-art` `game` `versus`
 
-### 89. 8-bit 史莱姆 Boss 战
+### 136. 8-bit 史莱姆 Boss 战
 
 <img src="gifs/pixel-slime-boss.gif" alt="8-bit 史莱姆 Boss 战" width="360">
 
@@ -1336,7 +2006,7 @@ An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squ
 
 `pixel-art` `game` `boss`
 
-### 90. 爱心爆发技能动画
+### 137. 爱心爆发技能动画
 
 <img src="gifs/love-burst-skill.gif" alt="爱心爆发技能动画" width="360">
 
@@ -1350,7 +2020,7 @@ A chibi magical girl with a pink bob raises her wand and casts a "love burst" sk
 
 `game` `skill` `effects`
 
-### 91. 废品场机器人行走
+### 138. 废品场机器人行走
 
 <img src="gifs/junkyard-robot-walk.gif" alt="废品场机器人行走" width="360">
 
@@ -1364,7 +2034,7 @@ A rusty little scrap-metal robot with one antenna and a mismatched arm walking t
 
 `pixel-art` `sprite` `game`
 
-### 92. 像素勇者挥剑
+### 139. 像素勇者挥剑
 
 <img src="gifs/pixel-hero-slash.gif" alt="像素勇者挥剑" width="360">
 
@@ -1378,7 +2048,7 @@ A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a b
 
 `pixel-art` `sprite` `attack`
 
-### 93. 掌机风城堡横版关卡
+### 140. 掌机风城堡横版关卡
 
 <img src="gifs/pixel-castle-scroller.gif" alt="掌机风城堡横版关卡" width="360">
 
@@ -1392,7 +2062,7 @@ A 32-bit handheld-style side-scrolling level: a small round armadillo knight in 
 
 `pixel-art` `platformer` `game`
 
-### 94. 弹跳球挤压拉伸
+### 141. 弹跳球挤压拉伸
 
 <img src="gifs/bouncing-ball-squash.gif" alt="弹跳球挤压拉伸" width="360">
 
@@ -1406,7 +2076,7 @@ A red rubber ball bouncing on a flat floor with classic squash and stretch, a so
 
 `animation-basics` `ball` `loop`
 
-### 95. AI 助手正在输入
+### 142. AI 助手正在输入
 
 <img src="gifs/ai-typing-indicator.gif" alt="AI 助手正在输入" width="360">
 
@@ -1420,7 +2090,7 @@ A chat interface where a small rounded robot avatar sits beside a grey bubble wi
 
 `ui` `chat` `loader`
 
-### 96. 16 位格斗角色出拳
+### 143. 16 位格斗角色出拳
 
 <img src="gifs/arcade-fighter-punch.gif" alt="16 位格斗角色出拳" width="360">
 
@@ -1433,6 +2103,132 @@ A 16-bit arcade fighter, a stocky red panda in a blue gi, throwing a jab and a s
 ```
 
 `pixel-art` `fighting` `sprite`
+
+### 144. 徒手深蹲示范
+
+<img src="gifs/squat-form-guide.gif" alt="徒手深蹲示范" width="360">
+
+<sub>9 帧 · 439×389 · 1.3s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A clean flat infographic of a faceless fitness figure in a teal tank top doing a bodyweight squat in side view: sitting the hips back with arms stretched forward, then standing tall. Light grey background with a dotted guideline at knee height.
+```
+
+`fitness` `infographic` `tutorial`
+
+### 145. 8 位像素外星人蹦迪
+
+<img src="gifs/pixel-raver-alien.gif" alt="8 位像素外星人蹦迪" width="360">
+
+<sub>16 帧 · 377×245 · 1.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+8-bit pixel art of a little green alien wearing antenna headphones, jumping and pumping its fist on a tiny dance floor while colored strobe lights flash. Retro game palette, black background.
+```
+
+`pixel` `dance` `retro`
+
+### 146. 像素咖啡杯
+
+<img src="gifs/pixel-coffee-steam.gif" alt="像素咖啡杯" width="360">
+
+<sub>16 帧 · 379×247 · 2.2s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A pixel-art coffee cup on a saucer with three wisps of steam rising and curling in a loop. 16-bit style, warm brown palette, plain cream background.
+```
+
+`pixel` `coffee` `icon`
+
+### 147. 向下滑动提示箭头
+
+<img src="gifs/scroll-arrow-hint.gif" alt="向下滑动提示箭头" width="360">
+
+<sub>9 帧 · 438×389 · 1.1s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A minimalist rounded chevron arrow pointing down, bouncing gently up and down with a soft shadow that shrinks and grows beneath it. Flat UI style, indigo on white.
+```
+
+`ui` `arrow` `minimal`
+
+### 148. 像素提灯驱鬼
+
+<img src="gifs/pixel-lantern-ghosts.gif" alt="像素提灯驱鬼" width="360">
+
+<sub>12 帧 · 356×351 · 1.7s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+16-bit pixel art of a kid in a hooded green cloak raising a glowing lantern in a moonlit graveyard, and three small round cartoon ghosts flee off to the right. Side view, retro game style.
+```
+
+`pixel` `game` `halloween`
+
+### 149. 宝石合成游戏广告
+
+<img src="gifs/gem-merge-ad.gif" alt="宝石合成游戏广告" width="360">
+
+<sub>9 帧 · 439×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A mobile puzzle game ad shot: two identical glowing blue gems slide together on a grid board and merge into one bigger gem with a burst of sparkles and a floating "+100". Bright casual-game style.
+```
+
+`game` `ad` `mobile`
+
+### 150. 像素宝箱开启
+
+<img src="gifs/pixel-treasure-chest.gif" alt="像素宝箱开启" width="360">
+
+<sub>16 帧 · 378×252 · 1.9s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+16-bit pixel art treasure chest: the lid flips open, gold coins and a gem burst upward with sparkles, then settle back inside. Retro RPG style on a dark dungeon floor.
+```
+
+`pixel` `game` `reward`
+
+### 151. 火箭进度条
+
+<img src="gifs/rocket-progress-bar.gif" alt="火箭进度条" width="360">
+
+<sub>16 帧 · 378×272 · 1.6s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A flat UI progress bar filling from left to right as a tiny cartoon rocket flies along its leading edge, leaving a sparkly trail. Clean vector style, purple and white.
+```
+
+`ui` `loader` `rocket`
+
+### 152. 日夜模式切换开关
+
+<img src="gifs/sun-moon-toggle.gif" alt="日夜模式切换开关" width="360">
+
+<sub>9 帧 · 435×386 · 1.1s · gpt-image-2.6 · 生成于 2026-11-08</sub>
+
+**提示词**
+
+```text
+A rounded toggle switch sliding from a sunny yellow side with a sun icon to a dark navy side with a crescent moon and tiny stars. Flat UI style on a light grey background.
+```
+
+`ui` `toggle` `dark-mode`
 
 ## 自己动手生成
 
