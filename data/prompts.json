@@ -1892,6 +1892,648 @@
         "lofi",
         "cozy"
       ]
+    },
+    {
+      "id": "crying-roll-floor",
+      "category": "stickers",
+      "title": "Bunny rolling on the floor crying",
+      "title_zh": "在地上打滚大哭的兔子",
+      "prompt": "A chubby cream-colored cartoon bunny lying on its back on the floor, kicking its little legs and rolling side to side while sobbing, big cartoon tears flying off both sides. Thick outlines, flat colors, plain pale pink background.",
+      "tags": [
+        "sticker",
+        "crying",
+        "bunny"
+      ]
+    },
+    {
+      "id": "anime-90s-gasp",
+      "category": "stickers",
+      "title": "90s anime gasp",
+      "title_zh": "90 年代动画风倒吸一口气",
+      "prompt": "A 1990s cel-animation style girl with two long auburn braids, a band of freckles across her nose, round glasses and a green denim jacket gasping in shock: her eyes go wide behind the glasses, a big sweat drop appears beside her head, then her shoulders drop. Soft film grain, VHS-era color palette, plain lavender background.",
+      "tags": [
+        "anime",
+        "retro",
+        "reaction"
+      ],
+      "tips": "Name the decade and medium (cel animation, film grain, VHS palette) and keep the character design generic so it doesn't drift toward a known show.",
+      "tips_zh": "写明年代和画法（赛璐珞、胶片颗粒、VHS 色调），角色外观保持通用，避免被画成某部现成动画的角色。"
+    },
+    {
+      "id": "anime-90s-blush",
+      "category": "stickers",
+      "title": "90s anime blush",
+      "title_zh": "90 年代动画风害羞脸红",
+      "prompt": "A 1990s cel-animation style boy with messy brown hair and a red scarf blushing: pink hatched lines spread across his cheeks, he looks away and scratches the back of his head. Soft film grain, VHS-era color palette, plain peach background.",
+      "tags": [
+        "anime",
+        "retro",
+        "reaction"
+      ]
+    },
+    {
+      "id": "otter-thank-you",
+      "category": "stickers",
+      "title": "Otter holding a thank-you sign",
+      "title_zh": "举牌道谢的水獭",
+      "prompt": "A small brown cartoon otter holding up a little wooden sign that reads \"THANK YOU\", bowing forward and popping back up with a happy squint, tiny hearts floating above. Thick outlines, flat colors, plain mint background.",
+      "tags": [
+        "sticker",
+        "thanks",
+        "text"
+      ],
+      "tips": "Short words in quotes usually stay legible; check every frame for letter changes.",
+      "tips_zh": "引号里的短词一般能保持清晰，仍要逐帧检查有没有字母走样。"
+    },
+    {
+      "id": "shrimp-file-rescued",
+      "category": "stickers",
+      "title": "Shrimp saved by a recovered file",
+      "title_zh": "文件找回后喜极而泣的小虾",
+      "prompt": "A small pink cartoon shrimp in a tiny office lanyard hugging a glowing blue folder icon to its chest, crying tears of relief and bouncing up and down with joy. Thick outlines, flat colors, plain white background.",
+      "tags": [
+        "sticker",
+        "office",
+        "relief"
+      ]
+    },
+    {
+      "id": "panda-cushion-rest",
+      "category": "stickers",
+      "title": "Panda resting on a cushion",
+      "title_zh": "靠着靠垫休息的熊猫",
+      "prompt": "A chubby cartoon panda leaning back on a big round yellow cushion, slowly closing its eyes and letting out a long relaxed sigh, a small \"zzz\" drifting up. Soft watercolor texture, gentle outlines, plain cream background.",
+      "tags": [
+        "sticker",
+        "rest",
+        "panda"
+      ]
+    },
+    {
+      "id": "hedgehog-sweet-potato",
+      "category": "stickers",
+      "title": "Hedgehog hugging a sweet potato",
+      "title_zh": "抱着烤红薯的小刺猬",
+      "prompt": "A tiny cartoon hedgehog hugging a roasted sweet potato almost as big as itself, steam rising from the cracked skin, the hedgehog taking a happy nibble and wiggling. Crayon doodle style on plain off-white paper.",
+      "tags": [
+        "sticker",
+        "food",
+        "doodle"
+      ]
+    },
+    {
+      "id": "caveman-shrug",
+      "category": "stickers",
+      "title": "Caveman shrug",
+      "title_zh": "耸肩的原始人",
+      "prompt": "A stocky cartoon caveman with a wild orange beard, a bone hair clip and a spotted fur tunic shrugging with both palms up and an unimpressed face, eyebrows bouncing once. Thick outlines, flat colors, plain sand-colored background.",
+      "tags": [
+        "sticker",
+        "shrug",
+        "reaction"
+      ]
+    },
+    {
+      "id": "inbox-close-laptop",
+      "category": "stickers",
+      "title": "Too many emails, close laptop",
+      "title_zh": "邮件太多，默默合上电脑",
+      "prompt": "A cartoon office worker with round glasses opening a laptop, the screen showing a red badge with a huge unread count, their face going pale, then slowly closing the laptop again. Exaggerated expressions, thick outlines, flat colors, plain light grey background.",
+      "tags": [
+        "sticker",
+        "office",
+        "email"
+      ]
+    },
+    {
+      "id": "smug-raccoon-no-thanks",
+      "category": "stickers",
+      "title": "Smug raccoon says no thanks",
+      "title_zh": "得意地摆手说不用了的浣熊",
+      "prompt": "A smug cartoon raccoon in pink heart-shaped sunglasses lounging in a beach chair, sipping a juice box and lazily waving one paw in a \"no thanks\" gesture, eyebrows raised. Thick outlines, flat colors, plain sky-blue background.",
+      "tags": [
+        "sticker",
+        "smug",
+        "reaction"
+      ]
+    },
+    {
+      "id": "monday-cat-slump",
+      "category": "stickers",
+      "title": "Monday desk slump",
+      "title_zh": "周一瘫在桌前的胖橘猫",
+      "prompt": "A chubby orange cat wearing a navy necktie slumping over a laptop, sinking lower and lower until it disappears behind the desk, then popping back up with a tired face. The word \"MONDAY.\" printed above in bold letters. Thick outlines, flat colors, plain white background.",
+      "tags": [
+        "sticker",
+        "office",
+        "monday",
+        "text"
+      ]
+    },
+    {
+      "id": "souffle-collapse-cry",
+      "category": "stickers",
+      "title": "Collapsed souffle tears",
+      "title_zh": "舒芙蕾塌了哭着吃掉",
+      "prompt": "A chibi baker girl in a white apron pulling a tall souffle out of the oven, the souffle sinking flat, her eyes filling with tears, then she shrugs and takes a spoonful. Soft pastel cartoon, plain warm beige background.",
+      "tags": [
+        "sticker",
+        "baking",
+        "chibi"
+      ],
+      "tips": "Four beats (pull out, collapse, cry, eat) fit a 6-frame sprite sheet; more beats make each step blur together.",
+      "tips_zh": "四个节拍（拿出、塌掉、哭、吃）正好放进 6 帧；节拍再多，每一步都会变得模糊。"
+    },
+    {
+      "id": "tabby-double-take",
+      "category": "stickers",
+      "title": "Tabby cat double take",
+      "title_zh": "虎斑猫猛地回头",
+      "prompt": "A calm orange tabby cat sitting sideways, then suddenly turning toward the viewer: its eyes go huge, ears shoot up, mouth drops open, then it settles back to calm. Clean cartoon style, plain pale yellow background.",
+      "tags": [
+        "sticker",
+        "cat",
+        "shocked"
+      ]
+    },
+    {
+      "id": "capybara-ok",
+      "category": "stickers",
+      "title": "Capybara: OK",
+      "title_zh": "水豚：好的",
+      "prompt": "a round brown cartoon capybara with a small orange yuzu balanced on its head, sleepy half-closed eyes and a calm smile, thick clean outlines, flat pastel colors, plain cream background. The capybara slowly raises one stubby paw into an OK sign and nods once, the yuzu wobbling on its head.",
+      "tags": [
+        "sticker",
+        "capybara",
+        "series"
+      ],
+      "tips": "All four capybara entries share the exact same character description so the set stays consistent.",
+      "tips_zh": "四条水豚共用一模一样的角色描述，整套才能保持一致。"
+    },
+    {
+      "id": "capybara-sleepy-nod",
+      "category": "stickers",
+      "title": "Capybara: sleepy nod",
+      "title_zh": "水豚：困到点头",
+      "prompt": "a round brown cartoon capybara with a small orange yuzu balanced on its head, sleepy half-closed eyes and a calm smile, thick clean outlines, flat pastel colors, plain cream background. The capybara's head slowly droops forward as it dozes off, then jerks back up, the yuzu nearly falling off.",
+      "tags": [
+        "sticker",
+        "capybara",
+        "series"
+      ]
+    },
+    {
+      "id": "capybara-cheer",
+      "category": "stickers",
+      "title": "Capybara: cheering",
+      "title_zh": "水豚：加油",
+      "prompt": "a round brown cartoon capybara with a small orange yuzu balanced on its head, sleepy half-closed eyes and a calm smile, thick clean outlines, flat pastel colors, plain cream background. The capybara waves two tiny pom-poms above its head and bounces, small sparkles popping around it.",
+      "tags": [
+        "sticker",
+        "capybara",
+        "series"
+      ]
+    },
+    {
+      "id": "capybara-bath",
+      "category": "stickers",
+      "title": "Capybara: hot spring",
+      "title_zh": "水豚：泡温泉",
+      "prompt": "a round brown cartoon capybara with a small orange yuzu balanced on its head, sleepy half-closed eyes and a calm smile, thick clean outlines, flat pastel colors, plain cream background. The capybara sits up to its chin in a small round hot spring, steam curling up, eyes closing in bliss as it sinks slightly lower.",
+      "tags": [
+        "sticker",
+        "capybara",
+        "series"
+      ]
+    },
+    {
+      "id": "koala-coffee-jolt",
+      "category": "stickers",
+      "title": "Koala jolted awake",
+      "title_zh": "被咖啡惊醒的考拉",
+      "prompt": "A sleepy grey cartoon koala hugging a giant mug, nodding off until its nose dips into the coffee, then jolting wide awake with spiky fur. Thick outlines, flat colors, plain soft green background.",
+      "tags": [
+        "sticker",
+        "coffee",
+        "sleepy"
+      ]
+    },
+    {
+      "id": "duckling-headphones-bop",
+      "category": "stickers",
+      "title": "Duckling in big headphones",
+      "title_zh": "戴大耳机摇头晃脑的小鸭",
+      "prompt": "A fluffy yellow duckling wearing oversized purple headphones, eyes closed, bobbing its head and tapping one foot to the beat, small music notes floating around. Thick outlines, flat colors, plain lilac background.",
+      "tags": [
+        "sticker",
+        "music",
+        "duck"
+      ]
+    },
+    {
+      "id": "tortoise-on-my-way",
+      "category": "stickers",
+      "title": "Tortoise: on my way",
+      "title_zh": "乌龟：在路上了",
+      "prompt": "A green cartoon tortoise with a tiny backpack running as fast as it can, legs spinning in a blur with speed lines and sweat drops, but barely moving forward. Thick outlines, flat colors, plain white background.",
+      "tags": [
+        "sticker",
+        "late",
+        "funny"
+      ]
+    },
+    {
+      "id": "raccoon-box-treasure",
+      "category": "stickers",
+      "title": "Raccoon finds a treasure",
+      "title_zh": "从纸箱里探出头炫宝的浣熊",
+      "prompt": "A grey cartoon raccoon popping up out of a cardboard box holding a shiny silver spoon high above its head, eyes sparkling proudly, a little gleam flashing on the spoon. Thick outlines, flat colors, plain orange background.",
+      "tags": [
+        "sticker",
+        "proud",
+        "raccoon"
+      ]
+    },
+    {
+      "id": "dino-tiny-clap",
+      "category": "stickers",
+      "title": "Dinosaur tiny-arm clap",
+      "title_zh": "小短手鼓掌的恐龙",
+      "prompt": "A chubby mint-green cartoon dinosaur trying hard to clap with its very short arms, the paws barely reaching, its face scrunched in effort, then a proud grin. Thick outlines, flat colors, plain peach background.",
+      "tags": [
+        "sticker",
+        "clap",
+        "dinosaur"
+      ]
+    },
+    {
+      "id": "owl-side-eye",
+      "category": "stickers",
+      "title": "Owl side-eye",
+      "title_zh": "斜眼看人的猫头鹰",
+      "prompt": "A round brown cartoon owl perched on a branch, slowly turning its eyes sideways toward the viewer and raising one feathery eyebrow in suspicion, then blinking once. Thick outlines, flat colors, plain teal background.",
+      "tags": [
+        "sticker",
+        "side-eye",
+        "reaction"
+      ]
+    },
+    {
+      "id": "cloud-sneeze-rain",
+      "category": "stickers",
+      "title": "Cloud sneezes rain",
+      "title_zh": "打喷嚏下雨的小云朵",
+      "prompt": "A small fluffy white cloud character with rosy cheeks scrunching up its face and sneezing, a burst of raindrops and a tiny rainbow shooting out, then sniffling. Thick outlines, flat colors, plain sky-blue background.",
+      "tags": [
+        "sticker",
+        "weather",
+        "cute"
+      ]
+    },
+    {
+      "id": "pug-birthday-blow",
+      "category": "stickers",
+      "title": "Pug blows out a candle",
+      "title_zh": "吹蜡烛的巴哥犬",
+      "prompt": "A pug in a striped party hat puffing its cheeks and blowing out a single candle on a pink cupcake, the flame going out and colorful confetti popping up. Thick outlines, flat colors, plain yellow background.",
+      "tags": [
+        "sticker",
+        "birthday",
+        "dog"
+      ]
+    },
+    {
+      "id": "alpaca-hair-flip",
+      "category": "stickers",
+      "title": "Alpaca hair flip",
+      "title_zh": "甩刘海的羊驼",
+      "prompt": "A fluffy white cartoon alpaca with a huge curly fringe tossing its head to flip the fringe out of its eyes, then posing with a confident wink. Thick outlines, flat colors, plain pink background.",
+      "tags": [
+        "sticker",
+        "sassy",
+        "alpaca"
+      ]
+    },
+    {
+      "id": "storybook-bunny-garden",
+      "category": "loops",
+      "title": "Picture-book bunny watering flowers",
+      "title_zh": "绘本风：小兔子浇花",
+      "prompt": "A children's picture-book page in soft watercolor and colored pencil: a little bunny in blue overalls watering a row of tulips with a tin can, water drops falling, two butterflies fluttering around. Gentle healing mood, fixed camera.",
+      "tags": [
+        "storybook",
+        "watercolor",
+        "kids"
+      ],
+      "tips": "Picture-book style works well for calm kids' videos; keep only one or two small moving parts.",
+      "tips_zh": "绘本风适合做治愈系儿童短视频；画面里只让一两个小东西动。"
+    },
+    {
+      "id": "diya-lamps-glow",
+      "category": "loops",
+      "title": "Diwali oil lamps",
+      "title_zh": "排灯节油灯",
+      "prompt": "A row of small clay diya oil lamps on a stone step decorated with a colorful rangoli pattern, their flames flickering, warm light pulsing softly, a few marigold petals drifting down. Warm festive night, fixed camera.",
+      "tags": [
+        "festival",
+        "diwali",
+        "lights"
+      ]
+    },
+    {
+      "id": "ink-moon-pipa",
+      "category": "loops",
+      "title": "Ink-wash moonlit window",
+      "title_zh": "水墨月夜窗前",
+      "prompt": "A Chinese ink-wash painting of a moonlit round window with a pipa lute leaning against the sill, plum blossom petals drifting past, thin clouds sliding across the full moon. Muted ink tones on rice paper, fixed camera.",
+      "tags": [
+        "ink",
+        "chinese",
+        "moon"
+      ]
+    },
+    {
+      "id": "palm-shadow-journal",
+      "category": "loops",
+      "title": "Palm shadow on a travel journal",
+      "title_zh": "旅行手账上的棕榈影",
+      "prompt": "An open travel journal on a sunny café table with taped photos and a handwritten page, the soft shadow of a palm frond drifting slowly across the pages and back. Everything else stays still. Warm film-photo colors, fixed overhead camera.",
+      "tags": [
+        "cinemagraph",
+        "travel",
+        "shadow"
+      ]
+    },
+    {
+      "id": "rooftop-astronaut-star",
+      "category": "loops",
+      "title": "Astronaut with a paper star",
+      "title_zh": "屋顶上捧纸星星的宇航员",
+      "prompt": "A small astronaut sitting on a city rooftop at night holding a folded paper star, the star starting to glow, lifting gently out of their gloves, floating up a little and drifting back down. Dreamy illustration, deep blue sky, fixed camera.",
+      "tags": [
+        "night",
+        "dreamy",
+        "space"
+      ]
+    },
+    {
+      "id": "bonsai-fireflies",
+      "category": "loops",
+      "title": "Bonsai with fireflies",
+      "title_zh": "萤火虫环绕的盆景",
+      "prompt": "A small bonsai pine in a ceramic pot on a wooden shelf at dusk, a few fireflies drifting around its branches and blinking on and off. Soft painterly style, fixed camera.",
+      "tags": [
+        "calm",
+        "nature",
+        "night"
+      ]
+    },
+    {
+      "id": "kelp-forest-sway",
+      "category": "loops",
+      "title": "Swaying kelp forest",
+      "title_zh": "摇曳的海带森林",
+      "prompt": "An underwater kelp forest with tall golden-green kelp swaying in the current, sun rays shimmering down from the surface, a small school of silver fish darting past. Fixed camera.",
+      "tags": [
+        "ocean",
+        "calm",
+        "nature"
+      ]
+    },
+    {
+      "id": "train-window-fields",
+      "category": "loops",
+      "title": "View from a train window",
+      "title_zh": "火车窗外的田野",
+      "prompt": "The view through a train window on a sunny afternoon: green rice fields and distant hills scrolling past, telegraph poles flicking by, a cup of tea on the windowsill rippling slightly. Anime-inspired background painting, fixed camera inside the carriage.",
+      "tags": [
+        "travel",
+        "train",
+        "scenery"
+      ]
+    },
+    {
+      "id": "matcha-whisk",
+      "category": "loops",
+      "title": "Whisking matcha",
+      "title_zh": "刷抹茶",
+      "prompt": "A bamboo whisk briskly whisking bright green matcha in a dark ceramic bowl, fine foam forming on top, a wisp of steam rising. Close-up on a wooden tray, soft natural light, fixed camera.",
+      "tags": [
+        "tea",
+        "food",
+        "asmr"
+      ]
+    },
+    {
+      "id": "aurora-cabin",
+      "category": "loops",
+      "title": "Aurora over a cabin",
+      "title_zh": "木屋上空的极光",
+      "prompt": "A small wooden cabin with glowing windows in a snowy valley, green and violet aurora ribbons rippling slowly across the starry sky above, smoke curling from the chimney. Fixed camera.",
+      "tags": [
+        "night",
+        "winter",
+        "aurora"
+      ]
+    },
+    {
+      "id": "hot-air-balloons",
+      "category": "loops",
+      "title": "Hot-air balloons at sunrise",
+      "title_zh": "日出时的热气球",
+      "prompt": "Several colorful hot-air balloons drifting gently over a canyon at sunrise, the nearest one's burner flaring briefly, morning mist moving below. Soft golden light, fixed camera.",
+      "tags": [
+        "travel",
+        "sunrise",
+        "sky"
+      ]
+    },
+    {
+      "id": "sakura-stone-bridge",
+      "category": "loops",
+      "title": "Cherry blossoms over a stone bridge",
+      "title_zh": "石桥上的樱花雨",
+      "prompt": "An arched stone bridge over a quiet stream lined with cherry trees in full bloom, pink petals falling and landing on the water, ripples spreading. Soft spring light, fixed camera.",
+      "tags": [
+        "spring",
+        "flowers",
+        "japan"
+      ]
+    },
+    {
+      "id": "marshmallow-roast",
+      "category": "loops",
+      "title": "Roasting a marshmallow",
+      "title_zh": "烤棉花糖",
+      "prompt": "A marshmallow on a stick held over a campfire at night, slowly turning golden brown, the flames flickering and small sparks floating up. Close-up, warm firelight, fixed camera.",
+      "tags": [
+        "camping",
+        "food",
+        "cozy"
+      ]
+    },
+    {
+      "id": "collage-moon-cut",
+      "category": "flash",
+      "title": "Paper collage night scene assembles",
+      "title_zh": "纸拼贴夜景逐块拼出",
+      "prompt": "A paper collage on a blank cream page: torn paper pieces slide in one by one to build a night city skyline, then a pair of scissors snips out a paper moon that settles into the sky. Craft texture, visible paper edges, fixed camera.",
+      "tags": [
+        "collage",
+        "b-roll",
+        "reveal"
+      ],
+      "tips": "For B-roll, decide the visual metaphor and the final still first, then ask for the pieces to assemble from blank.",
+      "tips_zh": "做口播 B-roll 时，先定画面隐喻和最终静帧，再让画面从空白一块块拼出来。"
+    },
+    {
+      "id": "leaf-logo-reveal",
+      "category": "flash",
+      "title": "Fictional logo reveal",
+      "title_zh": "虚构品牌标志展开",
+      "prompt": "A minimal logo reveal on a deep green background for a fictional tea brand called \"LEAF & CO\": a single leaf line draws itself, a circle closes around it, the wordmark fades in below, then a soft glow sweeps across. Clean vector style.",
+      "tags": [
+        "logo",
+        "brand",
+        "reveal"
+      ]
+    },
+    {
+      "id": "headphones-float-spin",
+      "category": "flash",
+      "title": "Floating headphones product shot",
+      "title_zh": "悬浮旋转的耳机",
+      "prompt": "A pair of matte white over-ear headphones floating above a round pedestal, slowly turning a quarter turn and bobbing gently while a soft coral rim light glows behind. Studio product shot, plain gradient background, fixed camera.",
+      "tags": [
+        "product",
+        "tech",
+        "studio"
+      ]
+    },
+    {
+      "id": "citrus-bottle-splash",
+      "category": "flash",
+      "title": "Citrus bottle splash",
+      "title_zh": "柑橘饮料瓶溅水",
+      "prompt": "A glass bottle of orange juice with a plain unbranded label standing in the center, orange slices and water droplets bursting outward around it and falling back, the bottle staying perfectly still. Bright summer studio shot, fixed camera.",
+      "tags": [
+        "product",
+        "drink",
+        "splash"
+      ]
+    },
+    {
+      "id": "lipstick-twist-up",
+      "category": "flash",
+      "title": "Lipstick twisting up",
+      "title_zh": "旋出的口红",
+      "prompt": "A lipstick in a plain smooth rose-gold cylindrical case with no logo, letters or markings, standing on a marble surface: the red bullet twists slowly up out of the case and a light glint slides across the metal. Luxury beauty product shot, soft shadows, fixed camera.",
+      "tags": [
+        "product",
+        "beauty",
+        "luxury"
+      ],
+      "tips": "Say \"no logo, letters or markings\" on products; otherwise the model may invent a real brand's monogram.",
+      "tips_zh": "产品类要写明“no logo, letters or markings”，否则模型可能自己画出真实品牌的字母标。"
+    },
+    {
+      "id": "watch-hands-sweep",
+      "category": "flash",
+      "title": "Minimal watch close-up",
+      "title_zh": "极简手表特写",
+      "prompt": "A minimalist wristwatch with a white dial lying on a linen surface, the second hand sweeping around, a band of light passing over the glass. Clean product photography, fixed camera.",
+      "tags": [
+        "product",
+        "watch",
+        "minimal"
+      ]
+    },
+    {
+      "id": "earth-online-commute",
+      "category": "pixel-ui",
+      "title": "Earth Online: morning commute",
+      "title_zh": "地球 Online：早高峰通勤",
+      "prompt": "A 16-bit pixel art RPG scene of a tired office worker character walking to a bus stop, a game HUD on top: the stamina bar slowly draining, a \"+10 EXP\" popup rising, and a quest box saying \"Survive the commute\". Retro game UI, fixed camera.",
+      "tags": [
+        "pixel",
+        "rpg",
+        "daily-life",
+        "text"
+      ],
+      "tips": "Treating everyday life as a game HUD (stamina, EXP, quest box) is a popular series format.",
+      "tips_zh": "把日常生活画成游戏界面（体力条、经验值、任务框）是很受欢迎的系列玩法。"
+    },
+    {
+      "id": "pixel-fishing-catch",
+      "category": "pixel-ui",
+      "title": "Pixel fishing catch",
+      "title_zh": "像素钓鱼上钩",
+      "prompt": "16-bit pixel art of a kid in a straw hat on a wooden pier, the bobber dipping, the kid yanking the rod up and a shiny fish flipping out of the water with a little sparkle. Retro game palette, fixed camera.",
+      "tags": [
+        "pixel",
+        "game",
+        "fishing"
+      ]
+    },
+    {
+      "id": "pixel-rain-town",
+      "category": "pixel-ui",
+      "title": "Pixel town in the rain",
+      "title_zh": "雨夜像素小镇",
+      "prompt": "Pixel art of a small town street at night in the rain, raindrops falling, warm windows flickering on, a neon noodle-shop sign buzzing and puddles rippling. Cozy retro game palette, fixed camera.",
+      "tags": [
+        "pixel",
+        "rain",
+        "night"
+      ]
+    },
+    {
+      "id": "pixel-farm-sprout",
+      "category": "pixel-ui",
+      "title": "Pixel crops sprouting",
+      "title_zh": "像素农田发芽",
+      "prompt": "16-bit pixel art farm plot with three rows of soil: sprouts pop up, grow leaves and turn into ripe carrots and pumpkins, a small sparkle appearing over each. Retro farming game style, fixed camera.",
+      "tags": [
+        "pixel",
+        "farm",
+        "game"
+      ]
+    },
+    {
+      "id": "notification-bell-ring",
+      "category": "pixel-ui",
+      "title": "Notification bell ringing",
+      "title_zh": "通知铃铛摇晃",
+      "prompt": "A flat rounded yellow notification bell icon swinging side to side as if ringing, a red badge with the number 3 popping onto its corner, small motion lines around it. Clean UI icon style, plain white background.",
+      "tags": [
+        "ui",
+        "icon",
+        "notification"
+      ]
+    },
+    {
+      "id": "battery-charging-icon",
+      "category": "pixel-ui",
+      "title": "Battery charging icon",
+      "title_zh": "电池充电图标",
+      "prompt": "A flat rounded battery icon filling up segment by segment from red to green, a white lightning bolt pulsing in the middle, a small check mark appearing when full. Clean UI icon style, plain dark background.",
+      "tags": [
+        "ui",
+        "icon",
+        "loading"
+      ]
+    },
+    {
+      "id": "download-arrow-check",
+      "category": "pixel-ui",
+      "title": "Download arrow turns into a check",
+      "title_zh": "下载箭头变成对勾",
+      "prompt": "A flat UI animation: a blue down arrow drops into a rounded tray, the tray fills with a progress line, then the arrow morphs into a white check mark inside a green circle. Clean vector style, plain white background.",
+      "tags": [
+        "ui",
+        "icon",
+        "download"
+      ]
     }
   ]
 }
