@@ -1,9 +1,10 @@
 #!/usr/bin/env node
-// 用 GPT Image 2.6（APIAny 接口）为 data/prompts.json 里还没有 GIF 的提示词生成示例。
+// 用 ViNano AI 的 GPT Image 2.6 GIF 接口为 data/prompts.json 里还没有 GIF 的提示词生成示例。
+// API Key 在 https://vinano.ai/api-keys 创建，每张 GIF 消耗 25 积分。
 //
 // 用法：
-//   APIANY_API_KEY=sk_... node scripts/generate.mjs            # 生成所有缺失的 GIF
-//   APIANY_API_KEY=sk_... node scripts/generate.mjs id1 id2    # 只生成（或重新生成）指定的提示词
+//   VINANO_API_KEY=sk-... node scripts/generate.mjs            # 生成所有缺失的 GIF
+//   VINANO_API_KEY=sk-... node scripts/generate.mjs id1 id2    # 只生成（或重新生成）指定的提示词
 //   node scripts/generate.mjs --scan                           # 不调用接口，只重新统计已有 GIF 的信息
 //
 // 结果写入 gifs/<id>.gif，元数据写入 data/results.json。
@@ -23,9 +24,9 @@ const data = JSON.parse(await readFile(path.join(root, 'data/prompts.json'), 'ut
 const resultsPath = path.join(root, 'data/results.json');
 const results = await readFile(resultsPath, 'utf8').then(JSON.parse).catch(() => ({}));
 
-const MODEL = process.env.GIF_MODEL || 'gpt-image-2.6';
-const BASE = (process.env.APIANY_BASE_URL || 'https://apiany.ai').replace(/\/+$/, '').replace(/\/v1$/, '');
-const KEY = process.env.APIANY_API_KEY;
+const MODEL = process.env.GIF_MODEL || 'gpt-image-2.6-gif';
+const BASE = (process.env.VINANO_BASE_URL || 'https://vinano.ai').replace(/\/+$/, '');
+const KEY = process.env.VINANO_API_KEY;
 
 const args = process.argv.slice(2);
 const scanOnly = args.includes('--scan');
@@ -42,35 +43,45 @@ async function fetchJson(url, init) {
   const text = await res.text();
   let json;
   try { json = JSON.parse(text); } catch { throw new Error(`HTTP ${res.status}: ${text.slice(0, 200)}`); }
-  if (!res.ok && res.status !== 202) throw new Error(`HTTP ${res.status}: ${JSON.stringify(json).slice(0, 300)}`);
-  return { status: res.status, json };
+  if (!res.ok) throw new Error(`HTTP ${res.status}${hint(json, res.status)}: ${JSON.stringify(json).slice(0, 300)}`);
+  return json;
+}
+
+// 接口的错误码可能在 HTTP 状态码里，也可能在响应体的 status / error_code 里
+function hint(body, httpStatus) {
+  const st = body?.status;
+  if (httpStatus === 401 || st === 401 || st === 'nanobanana2_login_required') return ' (invalid API key)';
+  if (st === 495 || body?.error_code === 'INSUFFICIENT_CREDITS') return ' (insufficient credits, top up at https://vinano.ai/pricing)';
+  if (st === 429 || st === 496) return ' (rate limited, try again later)';
+  return '';
 }
 
 async function generate(prompt) {
-  const headers = { 'Content-Type': 'application/json', Authorization: `Bearer ${KEY}` };
-  const { json } = await fetchJson(`${BASE}/v1/images/generations/sync`, {
-    method: 'POST',
-    headers,
-    body: JSON.stringify({ model: MODEL, prompt, output_format: 'gif' }),
-  });
-  let url = json?.data?.[0]?.url;
-  let b64 = json?.data?.[0]?.b64_json;
-  // 同步接口超时会返回任务号（状态码可能是 202，也可能是 200 + status: pending），需要轮询
-  if (!url && !b64 && json.task_id) {
-    const pollUrl = json.poll_url?.startsWith('http') ? json.poll_url : `${BASE}/v1/tasks/${json.task_id}`;
-    for (let i = 0; i < 200 && !url; i++) {
-      await new Promise((r) => setTimeout(r, 3000));
-      const t = (await fetchJson(pollUrl, { headers })).json;
-      const st = t.status || t.data?.status;
-      if (/fail|error|cancel/i.test(st || '')) throw new Error(`task failed: ${JSON.stringify(t).slice(0, 300)}`);
-      url = t.result?.urls?.[0] || t.data?.result?.urls?.[0];
+  const headers = { Authorization: `Bearer ${KEY}` };
+  // 第一步：提交异步任务，返回 uuid
+  const form = new FormData();
+  const fields = { mode: 'txt2img', prompt, model: 'ViNano AI', zeakaiModel: MODEL, count: '1', img_size: '1k', hdPro: 'false', aspectRatio: '1:1' };
+  for (const [k, v] of Object.entries(fields)) form.append(k, v);
+  const submitted = await fetchJson(`${BASE}/api/async-openai-images`, { method: 'POST', headers, body: form });
+  const uuid = [submitted.uuid].flat()[0];
+  if (!uuid) throw new Error(`no task uuid${hint(submitted)}: ${JSON.stringify(submitted).slice(0, 300)}`);
+
+  // 第二步：轮询任务状态，taskStatus 为 2/8/9 表示完成
+  for (let i = 0; i < 200; i++) {
+    await new Promise((r) => setTimeout(r, 3000));
+    const t = await fetchJson(`${BASE}/api/task-status?uuid=${encodeURIComponent(uuid)}`, { headers });
+    // 查不到任务、无权查看等错误也以 HTTP 200 返回，错误码在响应体的 status 里
+    if (typeof t.status === 'number' && t.status >= 400) throw new Error(`task status error: ${JSON.stringify(t).slice(0, 300)}`);
+    if (t.completed !== true) continue;
+    const url = String(t.generated_images_url || '').split(/[;,]/)[0].trim();
+    if ([2, 8, 9].includes(Number(t.taskStatus)) && /^https?:\/\//.test(url)) {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`download failed: HTTP ${res.status}`);
+      return Buffer.from(await res.arrayBuffer());
     }
+    throw new Error(`task failed: ${JSON.stringify(t).slice(0, 300)}`);
   }
-  if (b64) return Buffer.from(b64, 'base64');
-  if (!url) throw new Error(`no image in response: ${JSON.stringify(json).slice(0, 300)}`);
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`download failed: HTTP ${res.status}`);
-  return Buffer.from(await res.arrayBuffer());
+  throw new Error('timed out waiting for the GIF');
 }
 
 for (const item of data.prompts) {
@@ -87,7 +98,7 @@ for (const item of data.prompts) {
   }
   if (!wanted) continue;
   if (!KEY) {
-    console.error('APIANY_API_KEY is not set');
+    console.error('VINANO_API_KEY is not set (create one at https://vinano.ai/api-keys)');
     process.exit(1);
   }
 

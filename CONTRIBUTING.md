@@ -19,7 +19,7 @@ Thanks for sharing a prompt! Every entry in this list must come with a GIF that 
 
    Categories: `stickers`, `flash`, `loops`, `pixel-ui`.
 
-2. Put the GIF at `gifs/<id>.gif`, unedited, or generate it with `npm run generate <id>` (needs `APIANY_API_KEY` in `.env`).
+2. Put the GIF at `gifs/<id>.gif`, unedited, or generate it with `npm run generate <id>` (needs `VINANO_API_KEY` in `.env`, created at https://vinano.ai/api-keys).
 3. Run `npm run scan` to record frames and size in `data/results.json`, then `npm run build` to rebuild both READMEs.
 4. Open a pull request. Please do not include real people, brands you don't own, or NSFW content.
 

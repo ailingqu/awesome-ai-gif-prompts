@@ -2976,20 +2976,26 @@ A flat UI animation: a blue down arrow drops into a rounded tray, the tray fills
 
 ## Generate them yourself
 
-Call the images endpoint of any GPT Image 2.6 provider with `output_format` set to `gif`:
+Use the [ViNano AI API](https://vinano.ai/api-keys): create an API key, submit a GIF task, then poll its status until the GIF URL comes back (25 credits per GIF).
 
 ```bash
-curl https://apiany.ai/v1/images/generations/sync \
-  -H "Authorization: Bearer $APIANY_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{"model": "gpt-image-2.6", "output_format": "gif", "prompt": "A cheerful cartoon cat waving hello. Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames."}'
+# 1. Submit a GIF task — the response contains a task "uuid"
+curl -X POST https://vinano.ai/api/async-openai-images \
+  -H "Authorization: Bearer $VINANO_API_KEY" \
+  -F mode=txt2img -F zeakaiModel=gpt-image-2.6-gif -F model="ViNano AI" \
+  -F count=1 -F img_size=1k -F aspectRatio=1:1 \
+  -F prompt="A cheerful cartoon cat waving hello. Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames."
+
+# 2. Poll until "completed" is true — the GIF URL is in "generated_images_url"
+curl "https://vinano.ai/api/task-status?uuid=<uuid>" \
+  -H "Authorization: Bearer $VINANO_API_KEY"
 ```
 
 Or regenerate every example in this repo with the included script (Node 18+):
 
 ```bash
 git clone https://github.com/ailingqu/awesome-ai-gif-prompts.git && cd awesome-ai-gif-prompts
-cp .env.example .env   # fill in APIANY_API_KEY
+cp .env.example .env   # fill in VINANO_API_KEY
 npm run generate        # only generates prompts without a GIF
 npm run build           # rebuilds README.md and README_zh.md
 ```
