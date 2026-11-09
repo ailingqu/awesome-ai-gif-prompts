@@ -9,7 +9,7 @@ const data = JSON.parse(await readFile(path.join(root, 'data/prompts.json'), 'ut
 const results = await readFile(path.join(root, 'data/results.json'), 'utf8').then(JSON.parse).catch(() => ({}));
 const exists = (f) => access(f).then(() => true, () => false);
 
-const SITE = 'https://chatgpt-image-2.com/home/ai-gif-maker';
+const SITE = 'https://vinano.ai/gif-generator';
 const REPO = 'awesome-ai-gif-prompts';
 
 const T = {
@@ -17,7 +17,7 @@ const T = {
     file: 'README.md',
     switch: '**English** · [简体中文](README_zh.md)',
     tagline: 'A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.',
-    try: `🎞️ **Try these prompts online:** paste any prompt into the [AI GIF Maker](${SITE}) — text in, looping GIF out, powered by GPT Image 2.6.`,
+    try: `🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](${SITE}) — text or a photo in, looping GIF out, powered by GPT Image 2.6.`,
     toc: 'Contents',
     how: 'How these GIFs are made',
     howBody: [
@@ -58,7 +58,7 @@ const T = {
     file: 'README_zh.md',
     switch: '[English](README.md) · **简体中文**',
     tagline: '精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。下面每个示例都是用所列提示词原样生成的，未做任何后期修改。',
-    try: `🎞️ **在线试用：** 把任意提示词粘贴到 [AI GIF Maker](${SITE})，输入文字即可得到循环 GIF（由 GPT Image 2.6 驱动）。`,
+    try: `🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](${SITE})，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。`,
     toc: '目录',
     how: '这些 GIF 是怎么生成的',
     howBody: [

@@ -6,7 +6,7 @@
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。下面每个示例都是用所列提示词原样生成的，未做任何后期修改。
 
-> 🎞️ **在线试用：** 把任意提示词粘贴到 [AI GIF Maker](https://chatgpt-image-2.com/home/ai-gif-maker)，输入文字即可得到循环 GIF（由 GPT Image 2.6 驱动）。
+> 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
 <p align="center">
   <img src="gifs/jelly-bear-wobble.gif" alt="Q 弹果冻熊摇晃" height="150">

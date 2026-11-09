@@ -6,7 +6,7 @@
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.
 
-> 🎞️ **Try these prompts online:** paste any prompt into the [AI GIF Maker](https://chatgpt-image-2.com/home/ai-gif-maker) — text in, looping GIF out, powered by GPT Image 2.6.
+> 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
 <p align="center">
   <img src="gifs/jelly-bear-wobble.gif" alt="Jelly bear wobble" height="150">
