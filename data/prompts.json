@@ -2534,6 +2534,666 @@
         "icon",
         "download"
       ]
+    },
+    {
+      "id": "cherry-cake-hat-sprite",
+      "category": "stickers",
+      "title": "Cherry cake hat sprite waves",
+      "title_zh": "樱桃蛋糕帽小家伙挥手",
+      "prompt": "A tiny round cream-colored creature wearing a little strawberry shortcake with a cherry on top as a hat. It waves one stubby arm and does a small happy bounce, the cherry wobbling. Soft pastel sticker style, thick outline, plain white background.",
+      "tags": [
+        "sticker",
+        "cute",
+        "original-character"
+      ]
+    },
+    {
+      "id": "cream-puff-yawn",
+      "category": "stickers",
+      "title": "Cream puff stretch and yawn",
+      "title_zh": "奶油泡芙伸懒腰打哈欠",
+      "prompt": "A chubby cream puff character with tiny arms stretches upward and lets out a big yawn, a little cream squishing out of its top, then settles back down sleepily. Kawaii sticker style, bold outline, plain pale yellow background.",
+      "tags": [
+        "sticker",
+        "sleepy",
+        "food"
+      ]
+    },
+    {
+      "id": "cat-ear-hood-nod",
+      "category": "stickers",
+      "title": "Cat-ear hoodie girl nods yes",
+      "title_zh": "猫耳卫衣女孩点头",
+      "prompt": "A chibi girl in an oversized mint hoodie with cat ears on the hood nods eagerly twice, the ears flopping, eyes closed in a happy smile. Clean anime-inspired chibi sticker style, plain white background.",
+      "tags": [
+        "sticker",
+        "yes",
+        "chibi"
+      ]
+    },
+    {
+      "id": "bear-banana-slip",
+      "category": "stickers",
+      "title": "Bear slips on a banana peel",
+      "title_zh": "小熊踩香蕉皮滑倒",
+      "prompt": "A round brown cartoon bear walks forward, steps on a banana peel, and flips onto its back with legs in the air and stars circling its head. Slapstick sticker style, thick outline, plain white background.",
+      "tags": [
+        "sticker",
+        "slapstick",
+        "fail"
+      ]
+    },
+    {
+      "id": "rabbit-fan-smack",
+      "category": "stickers",
+      "title": "Rabbit comedic fan smack",
+      "title_zh": "兔子拿纸扇吐槽",
+      "prompt": "A white rabbit in a tiny bow tie swings a folded paper fan sideways in a classic comedy retort gesture, mouth open mid-shout, with speed lines. Bold manga-comedy sticker style, plain white background.",
+      "tags": [
+        "sticker",
+        "reaction",
+        "comedy"
+      ]
+    },
+    {
+      "id": "pigeon-spit-take",
+      "category": "stickers",
+      "title": "Pigeon spit-take",
+      "title_zh": "鸽子喷茶",
+      "prompt": "A gray city pigeon holding a tiny teacup takes a sip and sprays the tea out in a dramatic spit-take, eyes bulging. Cartoon sticker style, thick outline, plain light blue background.",
+      "tags": [
+        "sticker",
+        "reaction",
+        "shock"
+      ]
+    },
+    {
+      "id": "robot-good-news",
+      "category": "stickers",
+      "title": "Round robot hears good news",
+      "title_zh": "圆滚滚机器人听到好消息",
+      "prompt": "A small round white robot with a screen face: its pixel eyes grow wide and sparkly, both little arms shoot up in celebration, then it returns to a neutral pose. High-contrast flat shapes, pale blue background.",
+      "tags": [
+        "sticker",
+        "celebrate",
+        "robot"
+      ]
+    },
+    {
+      "id": "monkey-roller-skate",
+      "category": "stickers",
+      "title": "Monkey on roller skates",
+      "title_zh": "穿轮滑鞋的小猴子",
+      "prompt": "A cheerful cartoon monkey in red roller skates glides along a sidewalk, arms out for balance, its tail swaying behind. Bright flat illustration, simple sidewalk and plain sky background, side view.",
+      "tags": [
+        "character",
+        "skate",
+        "animal"
+      ]
+    },
+    {
+      "id": "bubblegum-diner-pop",
+      "category": "stickers",
+      "title": "Bubblegum bubble pops in a neon diner",
+      "title_zh": "霓虹餐厅里吹爆泡泡糖",
+      "prompt": "An illustrated girl in a retro neon diner booth at night slowly blows a big pink bubblegum bubble until it pops on her face. Pink and teal neon lighting, stylized illustration, fixed camera.",
+      "tags": [
+        "reaction",
+        "neon",
+        "retro"
+      ]
+    },
+    {
+      "id": "horned-chibi-twirl",
+      "category": "stickers",
+      "title": "Horned chibi girl twirls",
+      "title_zh": "小角萌娃转圈跳舞",
+      "prompt": "A chibi girl with small curled ivory horns, wearing a ruffled lavender gown, does a little twirl so the skirt flares out, then curtsies. Soft cel-shaded chibi style, plain cream background.",
+      "tags": [
+        "dance",
+        "chibi",
+        "original-character"
+      ]
+    },
+    {
+      "id": "cactus-newspaper-read",
+      "category": "stickers",
+      "title": "Cactus reads the newspaper",
+      "title_zh": "仙人掌看报纸",
+      "prompt": "A green cactus character wearing a wide straw hat sits on a stool reading a newspaper, peeks over the top with raised eyebrows, then flips the page. Flat cartoon style, plain sandy background.",
+      "tags": [
+        "sticker",
+        "reading",
+        "plant"
+      ]
+    },
+    {
+      "id": "mage-floating-orb",
+      "category": "stickers",
+      "title": "Young mage levitates a glowing orb",
+      "title_zh": "小法师操控悬浮光球",
+      "prompt": "A young mage in a hooded blue cloak holds both palms apart while a glowing turquoise orb floats and slowly rotates between them, sparks circling. Anime-style illustration, dark gradient background.",
+      "tags": [
+        "magic",
+        "character",
+        "glow"
+      ]
+    },
+    {
+      "id": "chick-bounce-entrance",
+      "category": "stickers",
+      "title": "Chick bounce entrance",
+      "title_zh": "小鸡弹跳登场",
+      "prompt": "A fluffy yellow chick drops in from above, squashes flat on landing, springs back up, and strikes a proud pose with one wing raised. Squash-and-stretch cartoon style, plain white background.",
+      "tags": [
+        "entrance",
+        "sticker",
+        "bounce"
+      ]
+    },
+    {
+      "id": "sheep-fluff-doze",
+      "category": "stickers",
+      "title": "Sheep fluffs up and dozes",
+      "title_zh": "小羊蓬起来打瞌睡",
+      "prompt": "A round fluffy sheep slowly puffs up its wool like a cloud, its eyes droop closed, and small Z letters float up. Soft pastel sticker style, plain lilac background.",
+      "tags": [
+        "sticker",
+        "sleepy",
+        "animal"
+      ]
+    },
+    {
+      "id": "octopus-four-keyboards",
+      "category": "stickers",
+      "title": "Octopus types on four keyboards",
+      "title_zh": "章鱼同时敲四个键盘",
+      "prompt": "A purple cartoon octopus wearing glasses types furiously on four keyboards at once, tentacles moving in turn, a tiny sweat drop flying off. Flat office-humor sticker style, plain white background.",
+      "tags": [
+        "sticker",
+        "work",
+        "busy"
+      ]
+    },
+    {
+      "id": "duck-mic-drop",
+      "category": "stickers",
+      "title": "Duck mic drop",
+      "title_zh": "鸭子丢麦克风",
+      "prompt": "A white duck in sunglasses holds a tiny microphone out at wing's length, drops it, and turns away with a smug look. Cartoon sticker style, thick outline, plain yellow background.",
+      "tags": [
+        "sticker",
+        "smug",
+        "reaction"
+      ]
+    },
+    {
+      "id": "mushroom-yes-nod",
+      "category": "stickers",
+      "title": "Mushroom nods yes",
+      "title_zh": "蘑菇猛点头",
+      "prompt": "A small red-capped mushroom character with white spots nods enthusiastically, its cap bouncing up and down, cheeks blushing. Cute sticker style, plain mint background.",
+      "tags": [
+        "sticker",
+        "yes",
+        "cute"
+      ]
+    },
+    {
+      "id": "tofu-shiver-cold",
+      "category": "stickers",
+      "title": "Tofu shivers in the cold",
+      "title_zh": "豆腐冻得发抖",
+      "prompt": "A soft white tofu block character wrapped in a tiny scarf shivers hard, teeth chattering, with a little icicle hanging from its edge and snowflakes drifting. Kawaii sticker style, plain icy blue background.",
+      "tags": [
+        "sticker",
+        "cold",
+        "food"
+      ]
+    },
+    {
+      "id": "dumpling-blush-hide",
+      "category": "stickers",
+      "title": "Dumpling hides a blush",
+      "title_zh": "饺子害羞捂脸",
+      "prompt": "A plump steamed dumpling character covers its face with tiny hands, peeks out between them, and blushes bright pink. Kawaii sticker style, bold outline, plain white background.",
+      "tags": [
+        "sticker",
+        "shy",
+        "food"
+      ]
+    },
+    {
+      "id": "goose-honk-flap",
+      "category": "stickers",
+      "title": "Angry goose honks",
+      "title_zh": "大鹅生气嘎嘎叫",
+      "prompt": "A white goose stretches its neck forward, flaps its wings wide, and honks angrily with its beak open, a little cartoon anger mark above its head. Cartoon sticker style, plain light green background.",
+      "tags": [
+        "sticker",
+        "angry",
+        "animal"
+      ]
+    },
+    {
+      "id": "signature-ink-write",
+      "category": "flash",
+      "title": "Gold ink signature writes itself",
+      "title_zh": "金色签名自己写出来",
+      "prompt": "An elegant cursive signature reading Mira writes itself stroke by stroke in shimmering gold ink on cream paper, finishing with a small star flourish that sparkles once. Clean top-down view.",
+      "tags": [
+        "signature",
+        "text",
+        "brand"
+      ]
+    },
+    {
+      "id": "bottle-three-worlds",
+      "category": "flash",
+      "title": "One bottle, three worlds",
+      "title_zh": "一个瓶子三个世界",
+      "prompt": "A frosted glass serum bottle stays fixed in the center while the world behind it changes: a sunlit desert dune, then a deep blue underwater reef, then a misty green forest. Premium product photography, soft reflections.",
+      "tags": [
+        "product",
+        "ad",
+        "background"
+      ]
+    },
+    {
+      "id": "nail-tips-nebula",
+      "category": "flash",
+      "title": "Nebula shimmer nail tips",
+      "title_zh": "星云闪烁的美甲片",
+      "prompt": "Five glossy almond-shaped nail tips on a white display stand, each painted deep navy; a swirling purple and pink nebula with tiny glitter stars drifts across their surface. Macro beauty product shot.",
+      "tags": [
+        "beauty",
+        "product",
+        "sparkle"
+      ]
+    },
+    {
+      "id": "headphones-silence-cut",
+      "category": "flash",
+      "title": "Headphones switch off the street",
+      "title_zh": "戴上耳机，街道瞬间安静",
+      "prompt": "Stylized illustration: a person on a crowded noisy street with honking cars puts on over-ear headphones, and the whole street dissolves into a calm bright white studio around them. Clean ad visual, side profile, fixed camera.",
+      "tags": [
+        "product",
+        "ad",
+        "before-after"
+      ]
+    },
+    {
+      "id": "gold-token-spin",
+      "category": "flash",
+      "title": "3D gold token spins",
+      "title_zh": "3D 金币旋转",
+      "prompt": "A thick 3D gold coin embossed with a simple star emblem spins smoothly on its vertical axis, catching a glint of light on each turn. Studio render, dark charcoal background, soft floor reflection.",
+      "tags": [
+        "3d",
+        "coin",
+        "spin"
+      ]
+    },
+    {
+      "id": "comic-boom-poster",
+      "category": "flash",
+      "title": "Comic BOOM poster",
+      "title_zh": "漫画风 BOOM 海报",
+      "prompt": "A halftone comic-print poster: a small cartoon rocket blasts upward and a big jagged yellow BOOM burst pops in behind it with action lines. Bold CMYK offset-print texture, red background.",
+      "tags": [
+        "poster",
+        "comic",
+        "text"
+      ]
+    },
+    {
+      "id": "travel-postcard-stack",
+      "category": "flash",
+      "title": "Travel postcards flip through",
+      "title_zh": "旅行明信片翻页",
+      "prompt": "A stack of illustrated travel postcards flips one after another: a mountain lake at sunrise, a white seaside town, a red desert canyon. Gouache illustration style, slight paper texture, centered framing.",
+      "tags": [
+        "travel",
+        "illustration",
+        "flip"
+      ]
+    },
+    {
+      "id": "jar-island-lighthouse",
+      "category": "flash",
+      "title": "Island in a glass jar",
+      "title_zh": "玻璃罐里的小岛",
+      "prompt": "A tiny island with a white lighthouse sealed inside a glass jar on a table; small waves lap at the shore and the lighthouse beam sweeps around inside the glass. Detailed miniature diorama, warm lamp light.",
+      "tags": [
+        "miniature",
+        "glass",
+        "diorama"
+      ]
+    },
+    {
+      "id": "watercolor-street-flipbook",
+      "category": "flash",
+      "title": "Watercolor street flipbook",
+      "title_zh": "水彩街景翻页书",
+      "prompt": "A sketchbook lies open and its pages turn by themselves, each showing a loose watercolor street scene: a narrow alley with lanterns, a tram crossing, a rainy crosswalk. Soft wet-paper watercolor style.",
+      "tags": [
+        "watercolor",
+        "sketchbook",
+        "city"
+      ]
+    },
+    {
+      "id": "risograph-blob-drift",
+      "category": "loops",
+      "title": "Risograph shapes drift",
+      "title_zh": "孔版印刷色块漂移",
+      "prompt": "Four flat textured shapes in risograph colors (pink, teal, yellow, blue) slowly drift and morph into one another, overlapping with grainy ink texture. Abstract background loop, centered composition.",
+      "tags": [
+        "abstract",
+        "background",
+        "texture"
+      ]
+    },
+    {
+      "id": "torn-paper-waves",
+      "category": "loops",
+      "title": "Torn paper ocean waves",
+      "title_zh": "撕纸海浪",
+      "prompt": "Layered torn-paper ocean waves in shades of blue roll forward one behind another, a small paper sailboat rising and dipping on top. Handmade paper collage with visible fibers and paint texture.",
+      "tags": [
+        "paper",
+        "ocean",
+        "collage"
+      ]
+    },
+    {
+      "id": "garden-hose-rainbow",
+      "category": "loops",
+      "title": "Garden hose rainbow",
+      "title_zh": "浇花喷出彩虹",
+      "prompt": "A gardener in a wide straw hat, seen from behind, sprays a fan of water over a sunny flower bed, and a small rainbow shimmers in the mist. Warm painterly illustration, summer light.",
+      "tags": [
+        "garden",
+        "summer",
+        "rainbow"
+      ]
+    },
+    {
+      "id": "kingfisher-dive",
+      "category": "loops",
+      "title": "Kingfisher dives",
+      "title_zh": "翠鸟入水",
+      "prompt": "A bright blue and orange kingfisher dives from a branch into a calm river, a crown of splash rising where it enters the water. Detailed nature illustration, side view, fixed camera.",
+      "tags": [
+        "bird",
+        "nature",
+        "splash"
+      ]
+    },
+    {
+      "id": "lava-lamp-glow",
+      "category": "loops",
+      "title": "Lava lamp blobs",
+      "title_zh": "熔岩灯气泡",
+      "prompt": "A retro lava lamp on a dark shelf: orange wax blobs slowly rise, stretch, split, and sink in glowing purple liquid. Moody 70s photography style, close-up.",
+      "tags": [
+        "retro",
+        "lamp",
+        "ambient"
+      ]
+    },
+    {
+      "id": "rooftop-laundry-breeze",
+      "category": "loops",
+      "title": "Rooftop laundry in the breeze",
+      "title_zh": "天台晾衣随风摆",
+      "prompt": "Colorful laundry hangs on a line across a city rooftop, shirts and sheets flapping gently in the breeze under a blue sky with drifting clouds. Soft anime background art style.",
+      "tags": [
+        "city",
+        "breeze",
+        "calm"
+      ]
+    },
+    {
+      "id": "dusk-ferris-wheel",
+      "category": "loops",
+      "title": "Ferris wheel at dusk",
+      "title_zh": "黄昏摩天轮",
+      "prompt": "A ferris wheel at a seaside fair turns slowly at dusk, its bulb lights twinkling in sequence against a purple and orange sky. Dreamy illustration, wide shot, fixed camera.",
+      "tags": [
+        "fair",
+        "dusk",
+        "lights"
+      ]
+    },
+    {
+      "id": "tea-leaves-unfurl",
+      "category": "loops",
+      "title": "Tea leaves unfurl",
+      "title_zh": "茶叶在玻璃壶里舒展",
+      "prompt": "Inside a clear glass teapot, rolled green tea leaves slowly unfurl and drift down through amber water while tiny bubbles rise. Macro photography, soft daylight, white background.",
+      "tags": [
+        "tea",
+        "macro",
+        "calm"
+      ]
+    },
+    {
+      "id": "crosswalk-umbrellas",
+      "category": "loops",
+      "title": "Umbrellas on a rainy crosswalk",
+      "title_zh": "雨天斑马线上的伞",
+      "prompt": "Top-down view of a rainy crosswalk where colorful umbrellas move across the white stripes, puddles rippling under the rain. Minimal flat illustration, muted gray street.",
+      "tags": [
+        "rain",
+        "city",
+        "top-down"
+      ]
+    },
+    {
+      "id": "meteor-tent-night",
+      "category": "loops",
+      "title": "Meteor shower over a tent",
+      "title_zh": "帐篷上空的流星雨",
+      "prompt": "A small glowing orange tent on a hill under a deep blue sky, meteors streaking across the stars one after another. Calm illustrated night scene, wide shot.",
+      "tags": [
+        "night",
+        "camping",
+        "stars"
+      ]
+    },
+    {
+      "id": "park-bench-leaves",
+      "category": "loops",
+      "title": "Autumn leaves swirl round a bench",
+      "title_zh": "落叶绕着长椅打转",
+      "prompt": "Golden and red autumn leaves swirl in a little gust around an empty wooden park bench under a lamppost. Warm gouache illustration, fixed camera.",
+      "tags": [
+        "autumn",
+        "park",
+        "wind"
+      ]
+    },
+    {
+      "id": "bookshop-window-snow",
+      "category": "loops",
+      "title": "Bookshop window in the snow",
+      "title_zh": "雪夜书店橱窗",
+      "prompt": "A cozy bookshop window at night with warm light; a gray cat sleeps on a stack of books, its tail swishing slowly, while snow falls outside. Storybook illustration style.",
+      "tags": [
+        "cozy",
+        "snow",
+        "cat"
+      ]
+    },
+    {
+      "id": "pixel-bus-arrive",
+      "category": "pixel-ui",
+      "title": "Pixel bus pulls into the stop",
+      "title_zh": "像素巴士进站",
+      "prompt": "Top-down pixel art street at morning rush hour: a yellow bus pulls into a stop while tiny commuters wait in line, swaying slightly. Fixed camera, fixed background, 16-bit palette.",
+      "tags": [
+        "pixel",
+        "city",
+        "bus"
+      ]
+    },
+    {
+      "id": "pixel-text-broll",
+      "category": "pixel-ui",
+      "title": "Pixel letters hop",
+      "title_zh": "像素字母跳动",
+      "prompt": "Cream pixel-font letters spelling B-ROLL on a deep teal background hop up one by one from left to right and land back in place, while a coral cursor bar slides underneath. Spelling and spacing stay identical.",
+      "tags": [
+        "pixel",
+        "text",
+        "title"
+      ]
+    },
+    {
+      "id": "pixel-frog-jump-attack",
+      "category": "pixel-ui",
+      "title": "Pixel bucket-helmet frog jump attack",
+      "title_zh": "像素水桶头盔青蛙跳劈",
+      "prompt": "A chunky orange pixel art frog wearing a dented tin bucket as a helmet and holding a wooden spoon leaps up and slams the spoon down, landing with a small dust puff. 16-bit game sprite, side view, plain dark background.",
+      "tags": [
+        "pixel",
+        "game",
+        "sprite"
+      ]
+    },
+    {
+      "id": "pixel-owl-wizard",
+      "category": "pixel-ui",
+      "title": "Pixel owl wizard casts",
+      "title_zh": "像素猫头鹰法师施法",
+      "prompt": "A pixel art owl in a starry purple wizard hat raises a wooden wand and releases a burst of sparkles. 16-bit sprite, side view, plain black background.",
+      "tags": [
+        "pixel",
+        "magic",
+        "sprite"
+      ]
+    },
+    {
+      "id": "pixel-mushroom-dance",
+      "category": "pixel-ui",
+      "title": "Pixel mushroom dances",
+      "title_zh": "像素蘑菇跳舞",
+      "prompt": "A pixel art mushroom character with a teal cap striped in orange and a stubby lavender stem bops side to side and does a little hop, its cap bouncing. 8-bit game sprite style, plain navy background.",
+      "tags": [
+        "pixel",
+        "dance",
+        "sprite"
+      ]
+    },
+    {
+      "id": "pixel-cauldron-brew",
+      "category": "pixel-ui",
+      "title": "Pixel cauldron brews",
+      "title_zh": "像素坩埚冒泡",
+      "prompt": "A pixel art black cauldron over a small fire bubbles with green potion, bubbles popping and a puff of sparkly smoke rising. 16-bit item animation, plain dark background.",
+      "tags": [
+        "pixel",
+        "potion",
+        "item"
+      ]
+    },
+    {
+      "id": "wifi-bars-fill",
+      "category": "pixel-ui",
+      "title": "Wi-Fi bars fill up",
+      "title_zh": "Wi-Fi 信号格逐个点亮",
+      "prompt": "A flat UI Wi-Fi icon whose arcs light up one by one from the center dot outward in bright blue, then all glow together. Clean vector style, plain white background.",
+      "tags": [
+        "ui",
+        "icon",
+        "signal"
+      ]
+    },
+    {
+      "id": "trash-crumple-toss",
+      "category": "pixel-ui",
+      "title": "Crumpled paper into the trash",
+      "title_zh": "纸团扔进垃圾桶",
+      "prompt": "Flat UI animation: a sheet of paper crumples into a ball, arcs into a gray trash can icon, and the lid bounces shut. Clean vector style, plain white background.",
+      "tags": [
+        "ui",
+        "icon",
+        "delete"
+      ]
+    },
+    {
+      "id": "star-rating-fill",
+      "category": "pixel-ui",
+      "title": "Star rating fills",
+      "title_zh": "五星评分逐个点亮",
+      "prompt": "Five outlined stars in a row fill with gold one after another, each popping slightly larger as it fills, with a tiny sparkle on the last. Flat UI style, plain white background.",
+      "tags": [
+        "ui",
+        "rating",
+        "icon"
+      ]
+    },
+    {
+      "id": "send-button-plane",
+      "category": "pixel-ui",
+      "title": "Send button becomes a paper plane",
+      "title_zh": "发送按钮变纸飞机",
+      "prompt": "A rounded blue Send button squeezes inward and folds into a white paper plane that flies off to the upper right, leaving a dotted trail. Flat UI animation, plain white background.",
+      "tags": [
+        "ui",
+        "button",
+        "send"
+      ]
+    },
+    {
+      "id": "padlock-unlock",
+      "category": "pixel-ui",
+      "title": "Padlock unlocks",
+      "title_zh": "挂锁解锁变绿",
+      "prompt": "A flat gray padlock icon wiggles, its shackle pops open, and the body turns green with a small check mark. Clean vector UI style, plain white background.",
+      "tags": [
+        "ui",
+        "icon",
+        "security"
+      ]
+    },
+    {
+      "id": "magnifier-doc-scan",
+      "category": "pixel-ui",
+      "title": "Magnifier scans a document",
+      "title_zh": "放大镜扫描文档",
+      "prompt": "A flat UI document icon with gray text lines; a magnifying glass sweeps across it and each line it passes turns highlighted blue. Clean vector style, plain white background.",
+      "tags": [
+        "ui",
+        "search",
+        "icon"
+      ]
+    },
+    {
+      "id": "cloud-upload-arrow",
+      "category": "pixel-ui",
+      "title": "Upload arrow rises into a cloud",
+      "title_zh": "上传箭头飞进云朵",
+      "prompt": "A white arrow rises from the bottom into a soft blue cloud icon, the cloud puffs up once, and a small progress ring around it completes. Flat UI style, plain white background.",
+      "tags": [
+        "ui",
+        "upload",
+        "icon"
+      ]
+    },
+    {
+      "id": "equalizer-bars-bounce",
+      "category": "pixel-ui",
+      "title": "Equalizer bars bounce",
+      "title_zh": "音乐均衡器跳动",
+      "prompt": "Seven rounded equalizer bars in a purple-to-pink gradient bounce up and down to an implied beat. Flat UI style, plain dark navy background.",
+      "tags": [
+        "ui",
+        "music",
+        "audio"
+      ]
     }
   ]
 }
