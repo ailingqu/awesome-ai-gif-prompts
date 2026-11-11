@@ -3194,6 +3194,626 @@
         "music",
         "audio"
       ]
+    },
+    {
+      "id": "bear-monday-sigh",
+      "category": "stickers",
+      "title": "Office bear: Monday sigh",
+      "title_zh": "打工熊：周一叹气",
+      "prompt": "a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badge, round ears, small dot eyes, thick clean outlines, flat pastel colors, plain cream background. The bear slumps forward over a coffee mug, shoulders rising and falling with a long sigh, a small gray puff of breath drifting out.",
+      "tags": [
+        "sticker",
+        "bear",
+        "series",
+        "office"
+      ]
+    },
+    {
+      "id": "bear-read-eye-roll",
+      "category": "stickers",
+      "title": "Office bear: eye roll",
+      "title_zh": "打工熊：已读翻白眼",
+      "prompt": "a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badge, round ears, small dot eyes, thick clean outlines, flat pastel colors, plain cream background. The bear holds a phone, glances at it, then rolls its eyes up dramatically and lets the phone drop to its side.",
+      "tags": [
+        "sticker",
+        "bear",
+        "series",
+        "reaction"
+      ]
+    },
+    {
+      "id": "bear-sneaky-snack",
+      "category": "stickers",
+      "title": "Office bear: sneaky snack",
+      "title_zh": "打工熊：摸鱼偷吃",
+      "prompt": "a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badge, round ears, small dot eyes, thick clean outlines, flat pastel colors, plain cream background. Hiding behind a laptop screen, the bear peeks left and right, then quickly pops a cookie into its mouth and chews with puffed cheeks.",
+      "tags": [
+        "sticker",
+        "bear",
+        "series",
+        "office"
+      ]
+    },
+    {
+      "id": "bear-overtime-wail",
+      "category": "stickers",
+      "title": "Office bear: overtime wail",
+      "title_zh": "打工熊：又加班大哭",
+      "prompt": "a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badge, round ears, small dot eyes, thick clean outlines, flat pastel colors, plain cream background. At a desk piled with folders under a night-blue window, the bear opens its mouth wide and wails, two streams of tears spraying sideways.",
+      "tags": [
+        "sticker",
+        "bear",
+        "series",
+        "office"
+      ]
+    },
+    {
+      "id": "bear-payday-laugh",
+      "category": "stickers",
+      "title": "Office bear: payday",
+      "title_zh": "打工熊：发薪日大笑",
+      "prompt": "a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badge, round ears, small dot eyes, thick clean outlines, flat pastel colors, plain cream background. The bear throws its head back laughing while hugging a fat envelope, small coins bouncing up around it.",
+      "tags": [
+        "sticker",
+        "bear",
+        "series",
+        "money"
+      ]
+    },
+    {
+      "id": "bear-clock-out-dash",
+      "category": "stickers",
+      "title": "Office bear: clocking out",
+      "title_zh": "打工熊：下班冲刺",
+      "prompt": "a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badge, round ears, small dot eyes, thick clean outlines, flat pastel colors, plain cream background. With a backpack on, the bear jogs in place with fast little legs, speed lines streaming behind and its tie flapping over its shoulder.",
+      "tags": [
+        "sticker",
+        "bear",
+        "series",
+        "office"
+      ]
+    },
+    {
+      "id": "christmas-apple-unwrap",
+      "category": "stickers",
+      "title": "Christmas Eve apple unwrap",
+      "title_zh": "平安果层层拆开",
+      "prompt": "a cute cartoon red apple wrapped in a shiny gift wrapper with a green ribbon, on a plain mint background. Small hands pull off the wrapper, revealing another wrapper underneath, and the apple gives a puzzled blink. Flat sticker style, thick outlines.",
+      "tags": [
+        "sticker",
+        "christmas",
+        "holiday"
+      ]
+    },
+    {
+      "id": "countdown-asleep",
+      "category": "stickers",
+      "title": "Asleep at the countdown",
+      "title_zh": "跨年倒数睡着了",
+      "prompt": "a chibi kid in pajamas and a party hat sits on a sofa holding a tiny noisemaker; a wall clock shows one minute to midnight. The kid's head nods down slowly, jerks back up, then nods again with a floating Zzz. Cozy flat illustration, warm lamp light.",
+      "tags": [
+        "sticker",
+        "new-year",
+        "holiday"
+      ]
+    },
+    {
+      "id": "red-envelope-pocket",
+      "category": "stickers",
+      "title": "Red envelope: no, no, yes",
+      "title_zh": "嘴上不要手很诚实",
+      "prompt": "a round cartoon panda in a red padded jacket shakes its head and waves one paw in polite refusal, while its other paw quietly slips a red envelope into its jacket pocket. Flat sticker style, plain cream background, thick outlines.",
+      "tags": [
+        "sticker",
+        "lunar-new-year",
+        "holiday"
+      ]
+    },
+    {
+      "id": "chinese-brush-signature",
+      "category": "flash",
+      "title": "Chinese brush signature",
+      "title_zh": "中文草书签名",
+      "prompt": "On textured rice paper, a black ink brush writes two Chinese characters in flowing cursive calligraphy, stroke by stroke, then a small red square seal stamps down beside them. Top-down view, fixed camera.",
+      "tags": [
+        "signature",
+        "calligraphy",
+        "text"
+      ],
+      "tips": "Two or three characters work best; the model occasionally invents strokes, so check each frame.",
+      "tips_zh": "两三个字最稳；模型偶尔会多出笔画，逐帧检查。"
+    },
+    {
+      "id": "shadow-puppet-turn",
+      "category": "loops",
+      "title": "Shadow puppet scholar",
+      "title_zh": "皮影戏书生",
+      "prompt": "A traditional Chinese leather shadow puppet of a scholar holding a fan, translucent red and amber colors, backlit on a glowing white screen. The puppet turns its head, lifts the fan and bows slightly, thin control rods visible below.",
+      "tags": [
+        "shadow-puppet",
+        "chinese",
+        "folk-art"
+      ]
+    },
+    {
+      "id": "cyber-pastel-shrine",
+      "category": "loops",
+      "title": "Cyber pastel shrine",
+      "title_zh": "赛博粉彩神社",
+      "prompt": "A small shrine gate on a floating island in soft pastel pink and lilac, glowing cyan circuit lines pulse along its pillars, cherry petals drift past and holographic paper charms flutter. Dreamy anime background art, fixed camera.",
+      "tags": [
+        "cyber",
+        "pastel",
+        "scenery"
+      ]
+    },
+    {
+      "id": "pixel-chameleon-run",
+      "category": "pixel-ui",
+      "title": "Pixel chameleon run cycle",
+      "title_zh": "像素变色龙奔跑",
+      "prompt": "A side-view pixel-art run cycle of a small green chameleon with a curled tail and big swiveling eyes, running in place on a strip of rusty junkyard ground. 16-bit game sprite style, plain dark teal background.",
+      "tags": [
+        "pixel",
+        "sprite",
+        "game"
+      ]
+    },
+    {
+      "id": "paper-parallax-forest",
+      "category": "loops",
+      "title": "Layered paper forest",
+      "title_zh": "剪纸分层森林",
+      "prompt": "A layered cut-paper diorama of a pine forest at dusk, five paper layers in deepening blues and a pale moon; the layers drift sideways at different speeds for a gentle parallax and a small paper deer lifts its head. Soft side lighting with real paper shadows.",
+      "tags": [
+        "paper-craft",
+        "parallax",
+        "scenery"
+      ]
+    },
+    {
+      "id": "rpg-stats-card",
+      "category": "pixel-ui",
+      "title": "RPG stats card",
+      "title_zh": "角色属性卡",
+      "prompt": "A fantasy RPG character stat card with a cartoon fox ranger portrait; five horizontal bars labeled STR, AGI, INT, LUK and HP fill up one by one with glowing colors and a small level-up star sparkles in the corner. Clean game UI style on dark navy.",
+      "tags": [
+        "ui",
+        "game",
+        "stats"
+      ]
+    },
+    {
+      "id": "end-screen-wave",
+      "category": "stickers",
+      "title": "End-screen wave",
+      "title_zh": "片尾挥手",
+      "prompt": "a friendly cartoon robot with a round screen face showing a smile stands on the right side of a plain coral background, waves one hand and points to a blank rounded rectangle on the left where a red bell icon gives a little shake. Flat vector style.",
+      "tags": [
+        "creator",
+        "video",
+        "mascot"
+      ]
+    },
+    {
+      "id": "desk-stretch-break",
+      "category": "stickers",
+      "title": "Desk stretch break",
+      "title_zh": "工位伸懒腰",
+      "prompt": "a chibi office worker with messy hair types fast on a laptop, then leans back and stretches both arms high with a big yawn before returning to typing. Flat pastel illustration, plain light gray background.",
+      "tags": [
+        "sticker",
+        "office",
+        "work"
+      ]
+    },
+    {
+      "id": "hamster-deadline-fire",
+      "category": "stickers",
+      "title": "Deadline hamster on fire",
+      "title_zh": "截止日火烧仓鼠",
+      "prompt": "a tiny golden hamster in round glasses types furiously on a little keyboard while a cartoon flame burns on top of its head and sweat drops fly off. White sticker border, flat colors, plain pale yellow background.",
+      "tags": [
+        "sticker",
+        "deadline",
+        "work"
+      ]
+    },
+    {
+      "id": "potion-bottle-hover",
+      "category": "pixel-ui",
+      "title": "Hovering potion bottle",
+      "title_zh": "悬浮药水瓶",
+      "prompt": "A round glass potion bottle with a cork stopper hovers and bobs gently; the glowing blue liquid sloshes inside and tiny bubbles rise and pop at the top. Stylized game item icon, soft glow, plain dark purple background.",
+      "tags": [
+        "game",
+        "item",
+        "icon"
+      ]
+    },
+    {
+      "id": "avocado-omg-jump",
+      "category": "stickers",
+      "title": "Avocado OMG jump",
+      "title_zh": "牛油果吓一跳",
+      "prompt": "a cartoon avocado half with a big seed belly and tiny arms leaps up in surprise, eyes wide and mouth open, a speech bubble reading OMG! popping beside it. Bold outlines, flat colors, plain white background.",
+      "tags": [
+        "sticker",
+        "food",
+        "text"
+      ]
+    },
+    {
+      "id": "coastal-convertible",
+      "category": "loops",
+      "title": "Coastal convertible drive",
+      "title_zh": "海岸敞篷车",
+      "prompt": "A vintage red convertible drives along a cliffside coastal road at sunset, the camera tracking alongside it; palm trees and guardrails slide past while the sea glitters below. Warm cinematic film look.",
+      "tags": [
+        "car",
+        "road-trip",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "earbud-case-open",
+      "category": "flash",
+      "title": "Earbud case reveal",
+      "title_zh": "耳机盒开盖",
+      "prompt": "A matte terracotta-orange egg-shaped charging case with a wooden lid sits on a beige pedestal; the lid slides open sideways, a tiny amber light blinks, and two round pebble-shaped earbuds with no stems rise slightly and settle back. Clean studio product photography, soft shadow.",
+      "tags": [
+        "product",
+        "tech",
+        "ecommerce"
+      ]
+    },
+    {
+      "id": "plush-bear-cocoa",
+      "category": "stickers",
+      "title": "Plush bear sipping cocoa",
+      "title_zh": "毛绒熊喝可可",
+      "prompt": "a soft plush teddy bear with visible fabric texture and stitched seams holds a big mug with both paws, takes a slow sip, and closes its eyes contentedly as steam curls up. Cozy warm lighting, plain oatmeal background.",
+      "tags": [
+        "sticker",
+        "plush",
+        "cozy"
+      ]
+    },
+    {
+      "id": "stage-curtain-confetti",
+      "category": "flash",
+      "title": "Showtime curtain",
+      "title_zh": "开幕帷幕与彩纸",
+      "prompt": "Red velvet theater curtains part on a small stage; a spotlight sweeps across and gold confetti bursts down over an empty microphone stand. Bright festive illustration, fixed front view.",
+      "tags": [
+        "event",
+        "announcement",
+        "celebration"
+      ]
+    },
+    {
+      "id": "bear-tea-picturebook",
+      "category": "loops",
+      "title": "Picture-book bear makes tea",
+      "title_zh": "绘本小熊泡茶",
+      "prompt": "a picture-book watercolor scene of a small brown bear in a striped apron pouring tea from a round pot into a cup at a wooden table, steam rising, a cat on the windowsill flicking its tail. Soft paper texture, gentle colors.",
+      "tags": [
+        "picture-book",
+        "watercolor",
+        "cozy"
+      ]
+    },
+    {
+      "id": "cube-mood-toggle",
+      "category": "stickers",
+      "title": "Mood toggle cube",
+      "title_zh": "心情切换小方块",
+      "prompt": "a cute pastel yellow cube character with stubby legs stands still and switches expressions: a grumpy frown with a small storm cloud, then a big grin with sparkles. Kawaii flat style, plain light blue background.",
+      "tags": [
+        "sticker",
+        "emotion",
+        "reaction"
+      ]
+    },
+    {
+      "id": "vase-turntable-spin",
+      "category": "flash",
+      "title": "Ceramic vase on a turntable",
+      "title_zh": "陶瓷花瓶转台",
+      "prompt": "A speckled sage-green ceramic vase holding one dried branch rotates a full turn on a white turntable; soft window light glides across its glaze. Minimal studio product photography on off-white.",
+      "tags": [
+        "product",
+        "ceramic",
+        "turntable"
+      ]
+    },
+    {
+      "id": "photo-cards-shuffle",
+      "category": "flash",
+      "title": "Photo cards shuffle",
+      "title_zh": "照片卡片错位滑动",
+      "prompt": "Three overlapping instant photo cards showing a beach, a mountain and a city at night sit on a light wood table; the top card slides out to the right and tucks behind the stack, revealing the next one. Top-down view, soft natural light.",
+      "tags": [
+        "photo",
+        "layout",
+        "social"
+      ]
+    },
+    {
+      "id": "penguin-belly-slide",
+      "category": "stickers",
+      "title": "Penguin belly slide",
+      "title_zh": "企鹅肚皮滑",
+      "prompt": "a round cartoon penguin with a tiny red beanie slides on its belly across a patch of ice, flaps its flippers happily and gives a little wave. Flat colors, thick outlines, plain icy blue background.",
+      "tags": [
+        "sticker",
+        "penguin",
+        "winter"
+      ]
+    },
+    {
+      "id": "fox-coffee-oops",
+      "category": "stickers",
+      "title": "Fox spills coffee",
+      "title_zh": "狐狸打翻咖啡",
+      "prompt": "a cartoon orange fox in a green hoodie bumps a coffee cup, the coffee splashes up, and the fox freezes with a wide-eyed oops face and paws on its cheeks. Flat sticker style, plain cream background.",
+      "tags": [
+        "sticker",
+        "fox",
+        "oops"
+      ]
+    },
+    {
+      "id": "turtle-slow-thumbs-up",
+      "category": "stickers",
+      "title": "Slow thumbs up",
+      "title_zh": "慢吞吞点赞",
+      "prompt": "a sleepy green cartoon turtle in a tiny knit cap very slowly raises one flipper into a thumbs-up and gives a lazy smile. Flat pastel colors, thick outlines, plain light peach background.",
+      "tags": [
+        "sticker",
+        "turtle",
+        "approval"
+      ]
+    },
+    {
+      "id": "bat-upside-goodnight",
+      "category": "stickers",
+      "title": "Upside-down bat goodnight",
+      "title_zh": "倒挂蝙蝠晚安",
+      "prompt": "a fluffy little purple bat hangs upside down from a branch, wraps its wings around itself and sways gently while a small crescent moon and Zzz float nearby. Kawaii flat style, plain midnight blue background.",
+      "tags": [
+        "sticker",
+        "goodnight",
+        "bat"
+      ]
+    },
+    {
+      "id": "bunny-carrot-crunch",
+      "category": "stickers",
+      "title": "Bunny carrot crunch",
+      "title_zh": "兔子啃胡萝卜",
+      "prompt": "a white cartoon bunny with floppy ears holds a big carrot and munches quickly, cheeks bouncing, small orange crumbs flying off. Flat colors, plain pale green background.",
+      "tags": [
+        "sticker",
+        "bunny",
+        "food"
+      ]
+    },
+    {
+      "id": "lamb-sorry-bow",
+      "category": "stickers",
+      "title": "Lamb says sorry",
+      "title_zh": "小羊鞠躬道歉",
+      "prompt": "a fluffy cartoon lamb with a cloud-like wool coat presses its hooves together and bows deeply, a small sweat drop and a pink heart appearing above. Soft pastel flat style, plain lavender background.",
+      "tags": [
+        "sticker",
+        "apology",
+        "lamb"
+      ]
+    },
+    {
+      "id": "squirrel-acorn-juggle",
+      "category": "stickers",
+      "title": "Juggling squirrel",
+      "title_zh": "松鼠抛橡果",
+      "prompt": "a red cartoon squirrel with a huge fluffy tail juggles three acorns in an arc, tongue out in concentration. Flat colors, thick outlines, plain warm beige background.",
+      "tags": [
+        "sticker",
+        "squirrel",
+        "fun"
+      ]
+    },
+    {
+      "id": "whale-spout-hello",
+      "category": "stickers",
+      "title": "Whale spout hello",
+      "title_zh": "鲸鱼喷水打招呼",
+      "prompt": "a chubby baby blue whale bobs on small waves and puffs a water spout shaped like a heart from its blowhole, then smiles. Flat pastel style, plain aqua background.",
+      "tags": [
+        "sticker",
+        "whale",
+        "hello"
+      ]
+    },
+    {
+      "id": "river-lantern-float",
+      "category": "loops",
+      "title": "Floating river lanterns",
+      "title_zh": "河灯漂流",
+      "prompt": "Paper lotus lanterns with candle flames float slowly down a dark river at night, their reflections wobbling on the water while the flames flicker. Painterly style, fixed camera.",
+      "tags": [
+        "lantern",
+        "night",
+        "festival"
+      ]
+    },
+    {
+      "id": "oven-bread-rise",
+      "category": "loops",
+      "title": "Bread rising in the oven",
+      "title_zh": "烤箱里膨胀的面包",
+      "prompt": "Through a glowing oven window, a braided loaf slowly puffs up and turns golden while the orange heating element pulses. Warm cozy kitchen photography, fixed close-up.",
+      "tags": [
+        "baking",
+        "kitchen",
+        "cozy"
+      ]
+    },
+    {
+      "id": "tide-pool-crab",
+      "category": "loops",
+      "title": "Tide pool crab",
+      "title_zh": "潮池小螃蟹",
+      "prompt": "A small orange crab scuttles sideways between pebbles in a clear tide pool as gentle ripples pass over it and a sea anemone waves its tentacles. Top-down nature photography, fixed camera.",
+      "tags": [
+        "nature",
+        "ocean",
+        "macro"
+      ]
+    },
+    {
+      "id": "desert-dune-wind",
+      "category": "loops",
+      "title": "Wind over dunes",
+      "title_zh": "风吹沙丘",
+      "prompt": "Fine sand streams off the sharp crest of a golden desert dune in the wind, rippled sand patterns glowing under a low evening sun and a pale sky. Cinematic landscape, fixed wide shot.",
+      "tags": [
+        "desert",
+        "landscape",
+        "wind"
+      ]
+    },
+    {
+      "id": "music-box-dancer",
+      "category": "loops",
+      "title": "Music box dancer",
+      "title_zh": "八音盒小舞者",
+      "prompt": "Inside an open wooden music box lined with red velvet, a small porcelain dancer in a white tutu spins on a pin while the brass comb mechanism turns. Warm vintage lighting, close-up.",
+      "tags": [
+        "vintage",
+        "music-box",
+        "object"
+      ]
+    },
+    {
+      "id": "glow-mushroom-forest",
+      "category": "loops",
+      "title": "Glowing mushroom forest",
+      "title_zh": "发光蘑菇林",
+      "prompt": "A mossy forest floor at night with clusters of bioluminescent blue mushrooms whose caps pulse brighter and dimmer as tiny glowing spores drift upward. Fantasy illustration, fixed camera.",
+      "tags": [
+        "fantasy",
+        "night",
+        "nature"
+      ]
+    },
+    {
+      "id": "cereal-milk-pour",
+      "category": "flash",
+      "title": "Cereal and milk pour",
+      "title_zh": "麦片倒牛奶",
+      "prompt": "Milk pours into a white bowl of colorful ring cereal, the rings bob up and swirl around a spoon. Bright overhead food photography on a pale pink table.",
+      "tags": [
+        "food",
+        "product",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "soda-can-fizz",
+      "category": "flash",
+      "title": "Chilled soda can",
+      "title_zh": "冰镇汽水罐",
+      "prompt": "An unbranded mint-green soda can covered in cold condensation stands on crushed ice; water droplets roll down, the tab pops open and fine fizz mist puffs out. High-key product photography on teal.",
+      "tags": [
+        "product",
+        "drink",
+        "ecommerce"
+      ]
+    },
+    {
+      "id": "serum-dropper-drip",
+      "category": "flash",
+      "title": "Serum dropper drip",
+      "title_zh": "精华滴管",
+      "prompt": "A glass skincare dropper squeezes out one clear golden drop that falls into an open amber serum bottle, a ripple spreading on the surface. Clean luxury product photography on soft cream with gentle reflections.",
+      "tags": [
+        "product",
+        "beauty",
+        "skincare"
+      ]
+    },
+    {
+      "id": "honey-dipper-drizzle",
+      "category": "flash",
+      "title": "Honey drizzle",
+      "title_zh": "蜂蜜滴落",
+      "prompt": "A wooden honey dipper lifts above a jar, a thick ribbon of golden honey drizzles down and folds over itself into the jar. Warm backlit food photography, shallow depth of field.",
+      "tags": [
+        "food",
+        "product",
+        "macro"
+      ]
+    },
+    {
+      "id": "toggle-switch-on",
+      "category": "pixel-ui",
+      "title": "Toggle switch",
+      "title_zh": "开关切换",
+      "prompt": "A large rounded toggle switch slides from gray off to bright green on, the knob gives a small squish, and a tiny check mark pops beside it. Flat UI style, plain white background.",
+      "tags": [
+        "ui",
+        "toggle",
+        "micro-interaction"
+      ]
+    },
+    {
+      "id": "pixel-heart-health",
+      "category": "pixel-ui",
+      "title": "Pixel health hearts",
+      "title_zh": "像素生命值爱心",
+      "prompt": "A row of five pixel-art red hearts as a game health bar; one empty heart refills with a sparkle while all hearts pulse gently. 8-bit style, plain black background.",
+      "tags": [
+        "pixel",
+        "game",
+        "ui"
+      ]
+    },
+    {
+      "id": "pixel-coin-collect",
+      "category": "pixel-ui",
+      "title": "Pixel coin collect",
+      "title_zh": "像素金币收集",
+      "prompt": "A spinning pixel-art gold coin pops up above a brick block, flips in the air, then vanishes in a small sparkle with a +1 floating up. 16-bit platformer style, plain sky blue background.",
+      "tags": [
+        "pixel",
+        "game",
+        "coin"
+      ]
+    },
+    {
+      "id": "calendar-page-flip",
+      "category": "pixel-ui",
+      "title": "Calendar page flip",
+      "title_zh": "日历翻页",
+      "prompt": "A flat desk calendar icon with a red header; the top page curls up and flips over to reveal the next day, the date number sliding in. Flat UI icon style, plain light gray background.",
+      "tags": [
+        "ui",
+        "icon",
+        "calendar"
+      ]
+    },
+    {
+      "id": "pixel-dragon-egg-hatch",
+      "category": "pixel-ui",
+      "title": "Pixel dragon egg hatch",
+      "title_zh": "像素龙蛋孵化",
+      "prompt": "A speckled pixel-art dragon egg wobbles in a straw nest, cracks appear, and a tiny green baby dragon pokes its head out and blinks. 16-bit RPG style, plain dark brown background.",
+      "tags": [
+        "pixel",
+        "game",
+        "dragon"
+      ]
     }
   ]
 }
