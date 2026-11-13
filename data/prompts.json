@@ -4426,6 +4426,322 @@
         "origami",
         "fox"
       ]
+    },
+    {
+      "id": "kungfu-kitten-kick",
+      "category": "stickers",
+      "title": "Kung fu kitten kick",
+      "title_zh": "功夫小猫踢腿",
+      "prompt": "A chubby gray kitten wearing a red cloth sash holds a martial arts stance, snaps out one quick front kick with a little 'hi-yah' face, then lands back in the same stance. Thick outlines, flat sticker colors, plain cream background.",
+      "tags": [
+        "cat",
+        "kung-fu",
+        "sticker"
+      ]
+    },
+    {
+      "id": "frazzled-cat-stare",
+      "category": "stickers",
+      "title": "Frazzled cat stare",
+      "title_zh": "精神状态不稳定的猫",
+      "prompt": "A white cat with messy fur and spiral eyes stares blankly ahead while a tiny gray storm cloud circles above its head, one ear twitching. Simple cartoon sticker style, pale blue background.",
+      "tags": [
+        "cat",
+        "mood",
+        "sticker"
+      ]
+    },
+    {
+      "id": "tofu-sign-plot-twist",
+      "category": "stickers",
+      "title": "Tofu flips the sign",
+      "title_zh": "豆腐块翻牌反转",
+      "prompt": "A square tofu character holds up a small sign with a big smiley face, then flips it over to show a crying face on the back while its own smile stays frozen. Kawaii flat style, peach background, no words.",
+      "tags": [
+        "tofu",
+        "reversal",
+        "sticker"
+      ]
+    },
+    {
+      "id": "felt-sheep-hill-walk",
+      "category": "loops",
+      "title": "Felted sheep on a felt hill",
+      "title_zh": "毛毡小羊过山坡",
+      "prompt": "A needle-felted wool sheep trots across a rolling felt hill with tiny felt flowers, its legs bobbing, while a felt cloud drifts behind. Soft fuzzy fiber texture, warm studio light, fixed camera.",
+      "tags": [
+        "felt",
+        "sheep",
+        "craft"
+      ],
+      "tips": "Felt has no crisp edges, so the texture can shimmer between frames. Keep the shot wide and the motion small.",
+      "tips_zh": "毛毡没有清晰的边，每帧重画时质感容易闪。镜头放远一点、动作小一点会更稳。"
+    },
+    {
+      "id": "acrylic-charm-spin",
+      "category": "flash",
+      "title": "Acrylic charm spins",
+      "title_zh": "亚克力挂件转动",
+      "prompt": "A clear acrylic keychain charm shaped like a bunny in a strawberry hat spins slowly on its metal ring, catching small rainbow glints on the edges. Product shot, soft gray gradient background.",
+      "tags": [
+        "acrylic",
+        "keychain",
+        "merch"
+      ]
+    },
+    {
+      "id": "ascii-star-logo",
+      "category": "pixel-ui",
+      "title": "ASCII star logo assembles",
+      "title_zh": "ASCII 字符拼出星形标志",
+      "prompt": "Scattered green ASCII characters on a black terminal screen drift into place and assemble into a simple five-point star logo, which pulses once. Monospace retro terminal look.",
+      "tags": [
+        "ascii",
+        "logo",
+        "terminal"
+      ]
+    },
+    {
+      "id": "blog-header-plane",
+      "category": "flash",
+      "title": "Article header with paper plane",
+      "title_zh": "文章头图纸飞机",
+      "prompt": "A wide article header banner in soft pastel colors with the short title 'WEEKLY NOTES'; a small paper plane loops across the banner leaving a dotted trail while the title stays perfectly still.",
+      "tags": [
+        "banner",
+        "header",
+        "text"
+      ],
+      "tips": "Keep the title short and ask for it to stay still; moving text is where letters break.",
+      "tips_zh": "标题要短，并写明文字不动；文字一动最容易错字。"
+    },
+    {
+      "id": "cube-morph-pavilion",
+      "category": "loops",
+      "title": "Cube morphs into a pavilion",
+      "title_zh": "方盒子变成曲面建筑",
+      "prompt": "A plain white cube architectural model on a concrete plinth smoothly melts and stretches into a flowing curved futuristic pavilion, then folds back into the cube. Clean architectural model photography, neutral backdrop.",
+      "tags": [
+        "architecture",
+        "morph",
+        "model"
+      ]
+    },
+    {
+      "id": "painting-cat-blinks",
+      "category": "loops",
+      "title": "Cat portrait comes alive",
+      "title_zh": "古典油画里的猫眨眼",
+      "prompt": "An old oil painting in an ornate gold frame shows a noble cat wearing a lace ruff collar; the cat slowly blinks and glances sideways while a painted candle beside it flickers. Visible brush strokes, museum wall.",
+      "tags": [
+        "painting",
+        "cat",
+        "museum"
+      ]
+    },
+    {
+      "id": "espresso-shot-pour",
+      "category": "flash",
+      "title": "Espresso shot pour",
+      "title_zh": "浓缩咖啡萃取",
+      "prompt": "Close-up of a chrome espresso machine pulling a shot into a small glass cup; the dark stream thins to honey color and the crema swirls. Dark studio, warm rim light, fixed camera.",
+      "tags": [
+        "coffee",
+        "product",
+        "espresso"
+      ]
+    },
+    {
+      "id": "wallet-top-up-coins",
+      "category": "pixel-ui",
+      "title": "Wallet top-up",
+      "title_zh": "钱包充值动效",
+      "prompt": "A flat app icon of a teal wallet; three gold coins drop in one by one and a small plus badge pops on the corner. Clean UI illustration, white background.",
+      "tags": [
+        "wallet",
+        "ui",
+        "icon"
+      ]
+    },
+    {
+      "id": "birthday-cake-confetti",
+      "category": "flash",
+      "title": "Birthday cake with confetti",
+      "title_zh": "生日蛋糕彩纸",
+      "prompt": "A pink frosted birthday cake with three lit candles sits on a table; the flames flicker and colorful confetti flutters down around it. Bright cheerful illustration, fixed camera.",
+      "tags": [
+        "birthday",
+        "cake",
+        "celebration"
+      ]
+    },
+    {
+      "id": "walrus-thinking",
+      "category": "stickers",
+      "title": "Walrus thinking",
+      "title_zh": "海象托腮思考",
+      "prompt": "A round walrus strokes one tusk with its flipper, eyes rolling up in thought, and a small question mark pops above its head. Flat sticker style, thick outline, light gray background.",
+      "tags": [
+        "walrus",
+        "thinking",
+        "sticker"
+      ]
+    },
+    {
+      "id": "chick-egg-peek",
+      "category": "stickers",
+      "title": "Chick peeks from the egg",
+      "title_zh": "小鸡探头",
+      "prompt": "A yellow chick lifts the cracked top of its eggshell like a lid, peeks out, waves one wing, then ducks back inside. Cute flat cartoon, mint background.",
+      "tags": [
+        "chick",
+        "hello",
+        "sticker"
+      ]
+    },
+    {
+      "id": "corgi-butt-bye",
+      "category": "stickers",
+      "title": "Corgi butt wiggle bye",
+      "title_zh": "柯基扭屁股拜拜",
+      "prompt": "A corgi walks away from the viewer wiggling its fluffy rear, then looks back over its shoulder with a cheeky grin. Flat sticker art, pale yellow background.",
+      "tags": [
+        "corgi",
+        "bye",
+        "sticker"
+      ]
+    },
+    {
+      "id": "pufferfish-puff-angry",
+      "category": "stickers",
+      "title": "Angry pufferfish",
+      "title_zh": "气鼓鼓的河豚",
+      "prompt": "A small pufferfish frowns, puffs up into a spiky round ball with red cheeks, then slowly deflates back. Simple cartoon, light blue water background.",
+      "tags": [
+        "pufferfish",
+        "angry",
+        "sticker"
+      ]
+    },
+    {
+      "id": "otter-high-five",
+      "category": "stickers",
+      "title": "Otters high five",
+      "title_zh": "水獭击掌",
+      "prompt": "Two brown otters float on their backs, reach up and slap a high five with a small sparkle, then drift apart. Cute flat style, blue water background.",
+      "tags": [
+        "otter",
+        "high-five",
+        "sticker"
+      ]
+    },
+    {
+      "id": "loaf-cat-doze",
+      "category": "stickers",
+      "title": "Loaf cat dozing",
+      "title_zh": "面包猫打瞌睡",
+      "prompt": "An orange cat tucked into a perfect loaf shape slowly nods off, its head dipping down, then jerks awake. Soft pastel sticker style, cream background.",
+      "tags": [
+        "cat",
+        "sleepy",
+        "sticker"
+      ]
+    },
+    {
+      "id": "duck-wink-heart",
+      "category": "stickers",
+      "title": "Duck winks",
+      "title_zh": "小鸭眨眼比心",
+      "prompt": "A white duck with a pink bow winks and a small red heart pops out beside its cheek. Kawaii flat style, light pink background.",
+      "tags": [
+        "duck",
+        "love",
+        "sticker"
+      ]
+    },
+    {
+      "id": "mole-pop-hello",
+      "category": "stickers",
+      "title": "Mole pops up",
+      "title_zh": "鼹鼠冒头打招呼",
+      "prompt": "A little mole pops out of a dirt hole, waves a tiny pink paw, then ducks back down as soil crumbs bounce. Cartoon sticker style, plain beige background.",
+      "tags": [
+        "mole",
+        "hello",
+        "sticker"
+      ]
+    },
+    {
+      "id": "parrot-head-bob",
+      "category": "stickers",
+      "title": "Parrot head bob",
+      "title_zh": "鹦鹉点头摇摆",
+      "prompt": "A green parrot on a perch bobs its head to a beat, eyes half closed, as small music notes float up. Flat cartoon, warm yellow background.",
+      "tags": [
+        "parrot",
+        "music",
+        "sticker"
+      ]
+    },
+    {
+      "id": "piglet-mud-splash",
+      "category": "stickers",
+      "title": "Piglet mud splash",
+      "title_zh": "小猪踩泥巴",
+      "prompt": "A pink piglet hops into a mud puddle, brown droplets splash up, and it grins happily. Flat sticker art, light blue sky background.",
+      "tags": [
+        "pig",
+        "happy",
+        "sticker"
+      ]
+    },
+    {
+      "id": "crab-claw-snip-dance",
+      "category": "stickers",
+      "title": "Crab snip dance",
+      "title_zh": "螃蟹剪刀舞",
+      "prompt": "A red crab sidesteps left and right, snipping both claws in rhythm with a proud face. Flat cartoon, sandy beige background.",
+      "tags": [
+        "crab",
+        "dance",
+        "sticker"
+      ]
+    },
+    {
+      "id": "skincare-jar-lid",
+      "category": "flash",
+      "title": "Cream jar opens",
+      "title_zh": "面霜罐开盖",
+      "prompt": "A frosted glass skincare jar's lid twists off and lifts, revealing smooth white cream as a soft sparkle passes over it. Minimal beauty product shot, blush pink backdrop.",
+      "tags": [
+        "skincare",
+        "product",
+        "beauty"
+      ]
+    },
+    {
+      "id": "sneaker-drop-bounce",
+      "category": "flash",
+      "title": "Sneaker drop bounce",
+      "title_zh": "球鞋落地回弹",
+      "prompt": "A white running sneaker drops onto a round platform, the sole squashes and springs back, sending a small ring of dust outward. Clean studio product shot, light gray background.",
+      "tags": [
+        "sneaker",
+        "product",
+        "bounce"
+      ]
+    },
+    {
+      "id": "tea-bag-dunk",
+      "category": "flash",
+      "title": "Tea bag dunk",
+      "title_zh": "茶包入水晕开",
+      "prompt": "A tea bag is dipped into a clear glass mug of hot water and amber color blooms outward in soft swirls. Bright minimal product photo, white backdrop.",
+      "tags": [
+        "tea",
+        "product",
+        "drink"
+      ]
     }
   ]
 }
