@@ -1,11 +1,13 @@
-# Awesome AI GIF Prompts
+# Awesome AI GIF Prompts · 491+ Cases
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-491-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-491-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--17-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.
 
+> 🔄 **Updated continuously** — 50+ new prompts with tested GIFs are added almost every day. Last update: **2026-11-17**. ⭐ Star or 👀 watch the repo to get new cases.
+>
 > 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
 <p align="center">

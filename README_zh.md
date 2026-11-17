@@ -1,11 +1,13 @@
-# Awesome AI GIF Prompts
+# Awesome AI GIF Prompts · 491+ 个案例
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-491-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-491-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--17-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。下面每个示例都是用所列提示词原样生成的，未做任何后期修改。
 
+> 🔄 **持续更新中**：几乎每天新增 50+ 条实测提示词和动图，最近更新：**2026-11-17**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
+>
 > 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
 <p align="center">

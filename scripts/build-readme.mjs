@@ -17,6 +17,8 @@ const T = {
     file: 'README.md',
     switch: '**English** · [简体中文](README_zh.md)',
     tagline: 'A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.',
+    title: (n) => `Awesome AI GIF Prompts · ${n}+ Cases`,
+    updating: (d) => `🔄 **Updated continuously** — 50+ new prompts with tested GIFs are added almost every day. Last update: **${d}**. ⭐ Star or 👀 watch the repo to get new cases.`,
     try: `🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](${SITE}) — text or a photo in, looping GIF out, powered by GPT Image 2.6.`,
     toc: 'Contents',
     how: 'How these GIFs are made',
@@ -58,6 +60,8 @@ const T = {
     file: 'README_zh.md',
     switch: '[English](README.md) · **简体中文**',
     tagline: '精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。下面每个示例都是用所列提示词原样生成的，未做任何后期修改。',
+    title: (n) => `Awesome AI GIF Prompts · ${n}+ 个案例`,
+    updating: (d) => `🔄 **持续更新中**：几乎每天新增 50+ 条实测提示词和动图，最近更新：**${d}**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。`,
     try: `🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](${SITE})，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。`,
     toc: '目录',
     how: '这些 GIF 是怎么生成的',
@@ -102,12 +106,15 @@ const slug = (s) => s.toLowerCase().replace(/[^\p{L}\p{N}\s-]/gu, '').trim().rep
 async function build(lang) {
   const t = T[lang];
   const out = [];
-  out.push(`# Awesome AI GIF Prompts`, '', t.switch, '');
+  const total = data.prompts.length;
+  // 最近更新日期：取已生成示例里最新的 generatedAt
+  const lastUpdate = Object.values(results).map((r) => r.generatedAt).filter(Boolean).sort().at(-1) || '';
+  out.push(`# ${t.title(total)}`, '', t.switch, '');
   out.push(
-    `![prompts](https://img.shields.io/badge/prompts-${data.prompts.length}-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)`,
+    `![prompts](https://img.shields.io/badge/prompts-${data.prompts.length}-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-${lastUpdate.replace(/-/g, '--')}-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)`,
     '',
   );
-  out.push(t.tagline, '', `> ${t.try}`, '');
+  out.push(t.tagline, '', `> ${t.updating(lastUpdate)}`, '>', `> ${t.try}`, '');
 
   // 封面：每个分类取第一个已生成的示例，拼成一行
   const cover = [];
