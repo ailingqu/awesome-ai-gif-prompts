@@ -4761,6 +4761,18 @@
       ]
     },
     {
+      "id": "burger-stack-drop",
+      "category": "flash",
+      "title": "Burger stacks itself",
+      "title_zh": "汉堡层层落下",
+      "prompt": "Burger layers drop from above one by one, bun, patty, cheese, lettuce, tomato, top bun, each landing with a little bounce. Bold food ad style, orange background.",
+      "tags": [
+        "burger",
+        "food",
+        "ad"
+      ]
+    },
+    {
       "id": "umbrella-pop-open",
       "category": "flash",
       "title": "Umbrella pops open",
@@ -5449,6 +5461,20 @@
       "tips_zh": "写清起始姿势、动作和回到原位，首尾帧才对得上。"
     },
     {
+      "id": "pixel-astronaut-run",
+      "category": "pixel-ui",
+      "title": "Pixel astronaut run cycle",
+      "title_zh": "像素宇航员跑步",
+      "prompt": "A pixel art astronaut in a white suit with an orange visor runs in place in a smooth side-view run cycle, small dust puffs at each step. Limited 16-color palette, dark navy background with a few stars.",
+      "tags": [
+        "pixel",
+        "astronaut",
+        "run-cycle"
+      ],
+      "tips": "Run and walk cycles look smoother with 12–16 frames.",
+      "tips_zh": "跑步、走路循环用 12–16 帧更顺。"
+    },
+    {
       "id": "cove-waves-cinemagraph",
       "category": "loops",
       "title": "Cove waves cinemagraph",
@@ -5633,6 +5659,20 @@
       ]
     },
     {
+      "id": "pendulum-swing-trace",
+      "category": "explainers",
+      "title": "Pendulum swing",
+      "title_zh": "单摆来回摆动",
+      "prompt": "A simple science diagram of a pendulum: a metal ball on a string swings left and right from a fixed pivot, a faint dotted arc showing its path. Clean flat textbook illustration, white background, no text labels.",
+      "tags": [
+        "physics",
+        "pendulum",
+        "science"
+      ],
+      "tips": "Ask for no text labels; diagram text drifts between frames.",
+      "tips_zh": "写明不要文字标注，示意图上的字在帧之间容易漂移。"
+    },
+    {
       "id": "water-cycle-loop",
       "category": "explainers",
       "title": "Water cycle",
@@ -5642,6 +5682,18 @@
         "water-cycle",
         "science",
         "diagram"
+      ]
+    },
+    {
+      "id": "moon-phases-cycle",
+      "category": "explainers",
+      "title": "Moon phases",
+      "title_zh": "月相变化",
+      "prompt": "A single moon centered in a square frame of dark starry sky goes through its phases, from thin crescent to full moon and back to crescent, the shadow edge sliding smoothly across it. Clean flat illustration, fixed camera.",
+      "tags": [
+        "moon",
+        "astronomy",
+        "science"
       ]
     },
     {
@@ -5729,6 +5781,30 @@
       ]
     },
     {
+      "id": "octopus-ink-oops",
+      "category": "stickers",
+      "title": "Octopus ink oops",
+      "title_zh": "章鱼喷墨尴尬",
+      "prompt": "A small pink octopus gets startled and puffs out a cloud of ink, then peeks out of the cloud with an embarrassed grin. Cute flat cartoon, light aqua background.",
+      "tags": [
+        "octopus",
+        "oops",
+        "funny"
+      ]
+    },
+    {
+      "id": "bear-cave-snore",
+      "category": "loops",
+      "title": "Bear snoring in a cave",
+      "title_zh": "山洞里打呼的熊",
+      "prompt": "A brown bear sleeps curled up in a cozy cave, its belly rising and falling as a snore bubble grows and shrinks from its nose, snow falling softly outside. Storybook illustration, fixed camera.",
+      "tags": [
+        "bear",
+        "hibernation",
+        "winter"
+      ]
+    },
+    {
       "id": "ladybug-dew-slide",
       "category": "loops",
       "title": "Ladybug and dewdrop",
@@ -5738,6 +5814,198 @@
         "ladybug",
         "macro",
         "nature"
+      ]
+    },
+    {
+      "id": "pancake-pan-flip",
+      "category": "flash",
+      "title": "Pancake flip",
+      "title_zh": "平底锅翻煎饼",
+      "prompt": "A golden pancake is tossed up from a cast iron pan, flips once in the air and lands back with a little puff of steam. Bright food ad style, warm kitchen background, fixed camera.",
+      "tags": [
+        "pancake",
+        "food",
+        "kitchen"
+      ]
+    },
+    {
+      "id": "popcorn-bowl-pop",
+      "category": "flash",
+      "title": "Popcorn popping",
+      "title_zh": "爆米花蹦出来",
+      "prompt": "Kernels in a red and white striped bowl burst into fluffy popcorn one by one, some pieces jumping out and tumbling back in. Bold movie-night ad style, deep blue background.",
+      "tags": [
+        "popcorn",
+        "snack",
+        "movie"
+      ]
+    },
+    {
+      "id": "bunny-noodle-slurp",
+      "category": "stickers",
+      "title": "Bunny slurps noodles",
+      "title_zh": "小兔吸面条",
+      "prompt": "A white bunny with chopsticks slurps a long noodle from a bowl, cheeks puffing, the noodle wiggling up into its mouth. Cute flat sticker style, thick outline, pale orange background.",
+      "tags": [
+        "bunny",
+        "noodles",
+        "food"
+      ]
+    },
+    {
+      "id": "sky-lanterns-rise",
+      "category": "loops",
+      "title": "Sky lanterns rising",
+      "title_zh": "孔明灯升空",
+      "prompt": "Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky above dark rooftops, flickering softly. Dreamy painterly style, fixed camera.",
+      "tags": [
+        "lantern",
+        "night",
+        "festival"
+      ]
+    },
+    {
+      "id": "window-frost-spread",
+      "category": "loops",
+      "title": "Frost spreads on glass",
+      "title_zh": "窗上霜花蔓延",
+      "prompt": "Delicate fern-like frost patterns creep across a cold window pane from the corners, a blurry snowy garden visible behind. Macro winter photography, fixed camera.",
+      "tags": [
+        "frost",
+        "winter",
+        "macro"
+      ]
+    },
+    {
+      "id": "street-lamp-first-snow",
+      "category": "loops",
+      "title": "First snow under a lamp",
+      "title_zh": "路灯下的初雪",
+      "prompt": "Big soft snowflakes drift down through the warm cone of an old street lamp on a quiet cobblestone street at night. Cinematic, fixed camera, everything else still.",
+      "tags": [
+        "snow",
+        "night",
+        "street"
+      ]
+    },
+    {
+      "id": "chestnut-roast-pan",
+      "category": "loops",
+      "title": "Roasting chestnuts",
+      "title_zh": "糖炒栗子",
+      "prompt": "A big iron wok of chestnuts and dark sand is stirred by a wooden paddle, steam curling up under a warm bulb at a winter street stall. Cozy photographic style, close-up, fixed camera.",
+      "tags": [
+        "chestnut",
+        "street-food",
+        "winter"
+      ]
+    },
+    {
+      "id": "cart-add-badge",
+      "category": "pixel-ui",
+      "title": "Add to cart",
+      "title_zh": "加入购物车",
+      "prompt": "A flat shopping cart icon; a small box drops into it, the cart wiggles, and a red badge with the number 1 pops up on its corner. Clean app UI icon style, white background.",
+      "tags": [
+        "ui",
+        "cart",
+        "ecommerce"
+      ]
+    },
+    {
+      "id": "bookmark-ribbon-save",
+      "category": "pixel-ui",
+      "title": "Bookmark saved",
+      "title_zh": "书签收藏",
+      "prompt": "An outlined bookmark icon fills with solid gold from top to bottom and gives a small bounce, with a few tiny sparkles. Minimal app icon style, white background.",
+      "tags": [
+        "ui",
+        "bookmark",
+        "save"
+      ]
+    },
+    {
+      "id": "pixel-bee-garden",
+      "category": "pixel-ui",
+      "title": "Pixel bee garden",
+      "title_zh": "像素蜜蜂花园",
+      "prompt": "A pixel art bee buzzes in a figure eight between three pixel flowers that sway slightly. 16-bit game style, light green background.",
+      "tags": [
+        "pixel",
+        "bee",
+        "garden"
+      ]
+    },
+    {
+      "id": "pixel-train-bridge",
+      "category": "pixel-ui",
+      "title": "Pixel train on a bridge",
+      "title_zh": "像素火车过桥",
+      "prompt": "A small pixel art steam train crosses a stone arch bridge over a river, puffing little smoke clouds, mountains behind. 16-bit side-scroller style, sunset palette.",
+      "tags": [
+        "pixel",
+        "train",
+        "landscape"
+      ]
+    },
+    {
+      "id": "emoji-reaction-pop",
+      "category": "pixel-ui",
+      "title": "Emoji reactions pop",
+      "title_zh": "表情回应依次弹出",
+      "prompt": "A rounded white reaction bar where five round emoji faces, smile, laugh, heart eyes, surprise and sad, pop up one after another with a springy bounce. Clean app UI style, light gray background.",
+      "tags": [
+        "ui",
+        "emoji",
+        "reaction"
+      ]
+    },
+    {
+      "id": "toast-success-slide",
+      "category": "pixel-ui",
+      "title": "Success toast slides in",
+      "title_zh": "成功提示条滑入",
+      "prompt": "A green rounded notification toast slides in from the top with a white check mark drawing itself, holds a moment, then slides back up. Minimal app UI, white background, no other text.",
+      "tags": [
+        "ui",
+        "toast",
+        "notification"
+      ]
+    },
+    {
+      "id": "snow-globe-cabin-shake",
+      "category": "loops",
+      "title": "Snow globe swirl",
+      "title_zh": "雪花球里的小木屋",
+      "prompt": "A glass snow globe with a tiny red cabin and pine trees inside; snowflakes swirl up and settle slowly around the cabin. Warm cozy lighting, wooden table, fixed close-up.",
+      "tags": [
+        "snow-globe",
+        "winter",
+        "cozy"
+      ]
+    },
+    {
+      "id": "turkey-dinner-steam",
+      "category": "flash",
+      "title": "Roast dinner reveal",
+      "title_zh": "烤鸡晚餐揭盖",
+      "prompt": "A silver dome lid lifts off a golden roast chicken on a platter, a burst of steam rising and a few herb leaves falling onto it. Warm festive food ad style, dark wood background.",
+      "tags": [
+        "dinner",
+        "holiday",
+        "food"
+      ]
+    },
+    {
+      "id": "penguin-scarf-knit",
+      "category": "stickers",
+      "title": "Penguin knitting a scarf",
+      "title_zh": "织围巾的企鹅",
+      "prompt": "A round penguin sits clicking two knitting needles, a striped red scarf growing longer from its flippers. Cute flat cartoon, snowy light blue background.",
+      "tags": [
+        "penguin",
+        "knitting",
+        "winter"
       ]
     }
   ]

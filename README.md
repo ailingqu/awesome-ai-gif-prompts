@@ -2,7 +2,7 @@
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-469-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-491-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Every example below was generated from the exact prompt shown, with no editing.
 
@@ -13,17 +13,17 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
   <img src="gifs/flower-macro-flash.gif" alt="Flower macro flash cut" height="150">
   <img src="gifs/window-day-to-night.gif" alt="Reading by the window, day to night" height="150">
   <img src="gifs/pixel-campfire.gif" alt="Pixel art campfire" height="150">
-  <img src="gifs/water-cycle-loop.gif" alt="Water cycle" height="150">
+  <img src="gifs/pendulum-swing-trace.gif" alt="Pendulum swing" height="150">
 </p>
 
 ## Contents
 
 - [How these GIFs are made](#how-these-gifs-are-made)
-- [Stickers & Reactions](#stickers-reactions) · 186 prompts
-- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 80 prompts
-- [Ambient Loops](#ambient-loops) · 120 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 77 prompts
-- [Science & Explainers](#science-explainers) · 6 prompts
+- [Stickers & Reactions](#stickers-reactions) · 189 prompts
+- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 84 prompts
+- [Ambient Loops](#ambient-loops) · 126 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 84 prompts
+- [Science & Explainers](#science-explainers) · 8 prompts
 - [Generate them yourself](#generate-them-yourself)
 
 ## How these GIFs are made
@@ -2688,9 +2688,51 @@ A sleepy round lavender hippo opens its mouth in an enormous yawn, eyes squeezed
 
 `hippo` `yawn` `sleepy`
 
+### 187. Octopus ink oops
+
+<img src="gifs/octopus-ink-oops.gif" alt="Octopus ink oops" width="360">
+
+<sub>9 frames · 412×412 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A small pink octopus gets startled and puffs out a cloud of ink, then peeks out of the cloud with an embarrassed grin. Cute flat cartoon, light aqua background.
+```
+
+`octopus` `oops` `funny`
+
+### 188. Bunny slurps noodles
+
+<img src="gifs/bunny-noodle-slurp.gif" alt="Bunny slurps noodles" width="360">
+
+<sub>16 frames · 309×309 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A white bunny with chopsticks slurps a long noodle from a bowl, cheeks puffing, the noodle wiggling up into its mouth. Cute flat sticker style, thick outline, pale orange background.
+```
+
+`bunny` `noodles` `food`
+
+### 189. Penguin knitting a scarf
+
+<img src="gifs/penguin-scarf-knit.gif" alt="Penguin knitting a scarf" width="360">
+
+<sub>16 frames · 328×290 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A round penguin sits clicking two knitting needles, a striped red scarf growing longer from its flippers. Cute flat cartoon, snowy light blue background.
+```
+
+`penguin` `knitting` `winter`
+
 ## Flash Cuts & Brand Reels
 
-### 187. Flower macro flash cut
+### 190. Flower macro flash cut
 
 <img src="gifs/flower-macro-flash.gif" alt="Flower macro flash cut" width="360">
 
@@ -2706,7 +2748,7 @@ A fast flash-cut sequence of eight different flower photographs, one per frame, 
 
 `flash-cut` `photography` `editorial`
 
-### 188. Cat-head logo brand reel
+### 191. Cat-head logo brand reel
 
 <img src="gifs/cat-brand-reel.gif" alt="Cat-head logo brand reel" width="360">
 
@@ -2722,7 +2764,7 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
-### 189. Sneaker colorway flash
+### 192. Sneaker colorway flash
 
 <img src="gifs/sneaker-colorway-flash.gif" alt="Sneaker colorway flash" width="360">
 
@@ -2738,7 +2780,7 @@ A fast flash-cut in a square frame: the same chunky sneaker seen from the side, 
 
 `flash-cut` `product` `fashion`
 
-### 190. One tree, four seasons
+### 193. One tree, four seasons
 
 <img src="gifs/four-seasons-tree.gif" alt="One tree, four seasons" width="360">
 
@@ -2752,7 +2794,7 @@ The same lone round tree on a small hill, framed identically in every frame, cyc
 
 `flash-cut` `nature` `seasons`
 
-### 191. Magazine collage panels pop in
+### 194. Magazine collage panels pop in
 
 <img src="gifs/magazine-panels-pop.gif" alt="Magazine collage panels pop in" width="360">
 
@@ -2768,7 +2810,7 @@ A fashion-magazine collage layout where photo panels pop in one by one — a flo
 
 `flash-cut` `editorial` `layout`
 
-### 192. Paper airplane desk to notebook
+### 195. Paper airplane desk to notebook
 
 <img src="gifs/paper-airplane-glide.gif" alt="Paper airplane desk to notebook" width="360">
 
@@ -2782,7 +2824,7 @@ An orange paper airplane with one navy stripe lifting off a wooden desk, gliding
 
 `storyboard` `object` `desk`
 
-### 193. Neon OPEN sign flicker
+### 196. Neon OPEN sign flicker
 
 <img src="gifs/neon-open-sign.gif" alt="Neon OPEN sign flicker" width="360">
 
@@ -2796,7 +2838,7 @@ A pink and blue neon "OPEN" sign in a dark shop window at night, buzzing and fli
 
 `neon` `sign` `text`
 
-### 194. Light sweep over a product
+### 197. Light sweep over a product
 
 <img src="gifs/product-light-sweep.gif" alt="Light sweep over a product" width="360">
 
@@ -2810,7 +2852,7 @@ A frosted glass skincare bottle standing still on a beige stone plinth while a s
 
 `product` `ad` `light`
 
-### 195. Perfume bottle spinning on water
+### 198. Perfume bottle spinning on water
 
 <img src="gifs/perfume-water-spin.gif" alt="Perfume bottle spinning on water" width="360">
 
@@ -2824,7 +2866,7 @@ A square amber perfume bottle labeled "SOL" slowly rotating on the surface of st
 
 `product` `perfume` `water`
 
-### 196. Two-line event title reveal
+### 199. Two-line event title reveal
 
 <img src="gifs/event-title-reveal.gif" alt="Two-line event title reveal" width="360">
 
@@ -2838,7 +2880,7 @@ A bold two-line title "SUMMER" and "MARKET 2026" sliding in from the left one li
 
 `text` `title` `motion-graphics`
 
-### 197. Chat bubbles popping in
+### 200. Chat bubbles popping in
 
 <img src="gifs/chat-bubbles-pop.gif" alt="Chat bubbles popping in" width="360">
 
@@ -2852,7 +2894,7 @@ A phone chat screen where three message bubbles pop in one by one: grey "Are you
 
 `ui` `chat` `text`
 
-### 198. City jumps a thousand years
+### 201. City jumps a thousand years
 
 <img src="gifs/city-future-timelapse.gif" alt="City jumps a thousand years" width="360">
 
@@ -2866,7 +2908,7 @@ The same riverside city skyline from a fixed viewpoint changing era by era: low 
 
 `timelapse` `city` `sci-fi`
 
-### 199. Tiny people building a sandwich
+### 202. Tiny people building a sandwich
 
 <img src="gifs/tiny-chefs-sandwich.gif" alt="Tiny people building a sandwich" width="360">
 
@@ -2880,7 +2922,7 @@ A team of miniature people in aprons on a full-size kitchen table hauling a lett
 
 `miniature` `food` `funny`
 
-### 200. Castle rising stone by stone
+### 203. Castle rising stone by stone
 
 <img src="gifs/castle-builds-up.gif" alt="Castle rising stone by stone" width="360">
 
@@ -2894,7 +2936,7 @@ A medieval stone castle on a green hill building itself up from the foundation: 
 
 `build` `castle` `timelapse`
 
-### 201. Same fox in six materials
+### 204. Same fox in six materials
 
 <img src="gifs/material-style-flip.gif" alt="Same fox in six materials" width="360">
 
@@ -2908,7 +2950,7 @@ The same sitting fox in the same pose, each frame rendered in a different materi
 
 `style` `material` `comparison`
 
-### 202. Gift box with a pop-up ghost
+### 205. Gift box with a pop-up ghost
 
 <img src="gifs/gift-box-ghost-pop.gif" alt="Gift box with a pop-up ghost" width="360">
 
@@ -2922,7 +2964,7 @@ A glossy red cartoon gift box with a gold ribbon: the lid pops open and a tiny r
 
 `3d` `surprise` `bouncy`
 
-### 203. Ring of fire spell
+### 206. Ring of fire spell
 
 <img src="gifs/fire-ring-spell.gif" alt="Ring of fire spell" width="360">
 
@@ -2936,7 +2978,7 @@ A glowing circular magic sigil on dark stone floor ignites into a ring of orange
 
 `vfx` `fire` `game`
 
-### 204. Lightning in a jar
+### 207. Lightning in a jar
 
 <img src="gifs/lightning-jar.gif" alt="Lightning in a jar" width="360">
 
@@ -2950,7 +2992,7 @@ A corked glass jar on a wooden table with a tiny bolt of blue-white lightning cr
 
 `vfx` `lightning` `fantasy`
 
-### 205. Water spiral orb
+### 208. Water spiral orb
 
 <img src="gifs/water-spiral-orb.gif" alt="Water spiral orb" width="360">
 
@@ -2964,7 +3006,7 @@ A floating sphere of clear water with a spiral current turning inside it, small 
 
 `vfx` `water` `game`
 
-### 206. Ice crystal bloom
+### 209. Ice crystal bloom
 
 <img src="gifs/ice-crystal-bloom.gif" alt="Ice crystal bloom" width="360">
 
@@ -2978,7 +3020,7 @@ A pale blue ice crystal growing from the center of the frame, frost branches spr
 
 `vfx` `ice` `game`
 
-### 207. Comic halftone action poster
+### 210. Comic halftone action poster
 
 <img src="gifs/halftone-fox-poster.gif" alt="Comic halftone action poster" width="360">
 
@@ -2992,7 +3034,7 @@ A bold comic-style action poster: a masked fox thief in a long red coat leaps ac
 
 `poster` `comic` `bold`
 
-### 208. House cutaway reveal
+### 211. House cutaway reveal
 
 <img src="gifs/house-cutaway.gif" alt="House cutaway reveal" width="360">
 
@@ -3006,7 +3048,7 @@ An isometric 3D cutaway of a small two-story house: the front wall slides away t
 
 `3d` `isometric` `reveal`
 
-### 209. Neon star with light trail
+### 212. Neon star with light trail
 
 <img src="gifs/neon-star-orbit.gif" alt="Neon star with light trail" width="360">
 
@@ -3020,7 +3062,7 @@ A neon sign shaped like a five-pointed star, outlined in orange-pink LED dots, g
 
 `neon` `glow` `sign`
 
-### 210. Mug colorway cycle
+### 213. Mug colorway cycle
 
 <img src="gifs/mug-color-cycle.gif" alt="Mug colorway cycle" width="360">
 
@@ -3036,7 +3078,7 @@ A single ceramic coffee mug shown whole and centered in a square frame, handle t
 
 `product` `colorway` `ecommerce`
 
-### 211. Tote bag feature callouts
+### 214. Tote bag feature callouts
 
 <img src="gifs/tote-feature-callouts.gif" alt="Tote bag feature callouts" width="360">
 
@@ -3050,7 +3092,7 @@ A product shot of a natural canvas tote bag; small glowing circle markers with p
 
 `product` `ecommerce` `callout`
 
-### 212. Paper collage night scene assembles
+### 215. Paper collage night scene assembles
 
 <img src="gifs/collage-moon-cut.gif" alt="Paper collage night scene assembles" width="360">
 
@@ -3066,7 +3108,7 @@ A paper collage on a blank cream page: torn paper pieces slide in one by one to 
 
 `collage` `b-roll` `reveal`
 
-### 213. Fictional logo reveal
+### 216. Fictional logo reveal
 
 <img src="gifs/leaf-logo-reveal.gif" alt="Fictional logo reveal" width="360">
 
@@ -3080,7 +3122,7 @@ A minimal logo reveal on a deep green background for a fictional tea brand calle
 
 `logo` `brand` `reveal`
 
-### 214. Floating headphones product shot
+### 217. Floating headphones product shot
 
 <img src="gifs/headphones-float-spin.gif" alt="Floating headphones product shot" width="360">
 
@@ -3094,7 +3136,7 @@ A pair of matte white over-ear headphones floating above a round pedestal, slowl
 
 `product` `tech` `studio`
 
-### 215. Citrus bottle splash
+### 218. Citrus bottle splash
 
 <img src="gifs/citrus-bottle-splash.gif" alt="Citrus bottle splash" width="360">
 
@@ -3108,7 +3150,7 @@ A glass bottle of orange juice with a plain unbranded label standing in the cent
 
 `product` `drink` `splash`
 
-### 216. Lipstick twisting up
+### 219. Lipstick twisting up
 
 <img src="gifs/lipstick-twist-up.gif" alt="Lipstick twisting up" width="360">
 
@@ -3124,7 +3166,7 @@ A lipstick in a plain smooth rose-gold cylindrical case with no logo, letters or
 
 `product` `beauty` `luxury`
 
-### 217. Minimal watch close-up
+### 220. Minimal watch close-up
 
 <img src="gifs/watch-hands-sweep.gif" alt="Minimal watch close-up" width="360">
 
@@ -3138,7 +3180,7 @@ A minimalist wristwatch with a white dial lying on a linen surface, the second h
 
 `product` `watch` `minimal`
 
-### 218. Gold ink signature writes itself
+### 221. Gold ink signature writes itself
 
 <img src="gifs/signature-ink-write.gif" alt="Gold ink signature writes itself" width="360">
 
@@ -3152,7 +3194,7 @@ An elegant cursive signature reading Mira writes itself stroke by stroke in shim
 
 `signature` `text` `brand`
 
-### 219. One bottle, three worlds
+### 222. One bottle, three worlds
 
 <img src="gifs/bottle-three-worlds.gif" alt="One bottle, three worlds" width="360">
 
@@ -3166,7 +3208,7 @@ A frosted glass serum bottle stays fixed in the center while the world behind it
 
 `product` `ad` `background`
 
-### 220. Nebula shimmer nail tips
+### 223. Nebula shimmer nail tips
 
 <img src="gifs/nail-tips-nebula.gif" alt="Nebula shimmer nail tips" width="360">
 
@@ -3180,7 +3222,7 @@ Five glossy almond-shaped nail tips on a white display stand, each painted deep 
 
 `beauty` `product` `sparkle`
 
-### 221. Headphones switch off the street
+### 224. Headphones switch off the street
 
 <img src="gifs/headphones-silence-cut.gif" alt="Headphones switch off the street" width="360">
 
@@ -3194,7 +3236,7 @@ Stylized illustration: a person on a crowded noisy street with honking cars puts
 
 `product` `ad` `before-after`
 
-### 222. 3D gold token spins
+### 225. 3D gold token spins
 
 <img src="gifs/gold-token-spin.gif" alt="3D gold token spins" width="360">
 
@@ -3208,7 +3250,7 @@ A thick 3D gold coin embossed with a simple star emblem spins smoothly on its ve
 
 `3d` `coin` `spin`
 
-### 223. Comic BOOM poster
+### 226. Comic BOOM poster
 
 <img src="gifs/comic-boom-poster.gif" alt="Comic BOOM poster" width="360">
 
@@ -3222,7 +3264,7 @@ A halftone comic-print poster: a small cartoon rocket blasts upward and a big ja
 
 `poster` `comic` `text`
 
-### 224. Travel postcards flip through
+### 227. Travel postcards flip through
 
 <img src="gifs/travel-postcard-stack.gif" alt="Travel postcards flip through" width="360">
 
@@ -3236,7 +3278,7 @@ A stack of illustrated travel postcards flips one after another: a mountain lake
 
 `travel` `illustration` `flip`
 
-### 225. Island in a glass jar
+### 228. Island in a glass jar
 
 <img src="gifs/jar-island-lighthouse.gif" alt="Island in a glass jar" width="360">
 
@@ -3250,7 +3292,7 @@ A tiny island with a white lighthouse sealed inside a glass jar on a table; smal
 
 `miniature` `glass` `diorama`
 
-### 226. Watercolor street flipbook
+### 229. Watercolor street flipbook
 
 <img src="gifs/watercolor-street-flipbook.gif" alt="Watercolor street flipbook" width="360">
 
@@ -3264,7 +3306,7 @@ A sketchbook lies open and its pages turn by themselves, each showing a loose wa
 
 `watercolor` `sketchbook` `city`
 
-### 227. Chinese brush signature
+### 230. Chinese brush signature
 
 <img src="gifs/chinese-brush-signature.gif" alt="Chinese brush signature" width="360">
 
@@ -3280,7 +3322,7 @@ On textured rice paper, a black ink brush writes two Chinese characters in flowi
 
 `signature` `calligraphy` `text`
 
-### 228. Earbud case reveal
+### 231. Earbud case reveal
 
 <img src="gifs/earbud-case-open.gif" alt="Earbud case reveal" width="360">
 
@@ -3294,7 +3336,7 @@ A matte terracotta-orange egg-shaped charging case with a wooden lid sits on a b
 
 `product` `tech` `ecommerce`
 
-### 229. Showtime curtain
+### 232. Showtime curtain
 
 <img src="gifs/stage-curtain-confetti.gif" alt="Showtime curtain" width="360">
 
@@ -3308,7 +3350,7 @@ Red velvet theater curtains part on a small stage; a spotlight sweeps across and
 
 `event` `announcement` `celebration`
 
-### 230. Ceramic vase on a turntable
+### 233. Ceramic vase on a turntable
 
 <img src="gifs/vase-turntable-spin.gif" alt="Ceramic vase on a turntable" width="360">
 
@@ -3322,7 +3364,7 @@ A speckled sage-green ceramic vase holding one dried branch rotates a full turn 
 
 `product` `ceramic` `turntable`
 
-### 231. Photo cards shuffle
+### 234. Photo cards shuffle
 
 <img src="gifs/photo-cards-shuffle.gif" alt="Photo cards shuffle" width="360">
 
@@ -3336,7 +3378,7 @@ Three overlapping instant photo cards showing a beach, a mountain and a city at 
 
 `photo` `layout` `social`
 
-### 232. Cereal and milk pour
+### 235. Cereal and milk pour
 
 <img src="gifs/cereal-milk-pour.gif" alt="Cereal and milk pour" width="360">
 
@@ -3350,7 +3392,7 @@ Milk pours into a white bowl of colorful ring cereal, the rings bob up and swirl
 
 `food` `product` `breakfast`
 
-### 233. Chilled soda can
+### 236. Chilled soda can
 
 <img src="gifs/soda-can-fizz.gif" alt="Chilled soda can" width="360">
 
@@ -3364,7 +3406,7 @@ An unbranded mint-green soda can covered in cold condensation stands on crushed 
 
 `product` `drink` `ecommerce`
 
-### 234. Serum dropper drip
+### 237. Serum dropper drip
 
 <img src="gifs/serum-dropper-drip.gif" alt="Serum dropper drip" width="360">
 
@@ -3378,7 +3420,7 @@ A glass skincare dropper squeezes out one clear golden drop that falls into an o
 
 `product` `beauty` `skincare`
 
-### 235. Honey drizzle
+### 238. Honey drizzle
 
 <img src="gifs/honey-dipper-drizzle.gif" alt="Honey drizzle" width="360">
 
@@ -3392,7 +3434,7 @@ A wooden honey dipper lifts above a jar, a thick ribbon of golden honey drizzles
 
 `food` `product` `macro`
 
-### 236. Ice cream drip promo
+### 239. Ice cream drip promo
 
 <img src="gifs/ice-cream-drip-promo.gif" alt="Ice cream drip promo" width="360">
 
@@ -3406,7 +3448,7 @@ A pink strawberry ice cream cone slowly drips one drop of melted cream while spr
 
 `product` `food` `ad`
 
-### 237. Sneaker lace tie
+### 240. Sneaker lace tie
 
 <img src="gifs/sneaker-lace-tie.gif" alt="Sneaker lace tie" width="360">
 
@@ -3420,7 +3462,7 @@ A white sneaker on a pedestal ties its own laces into a neat bow, then gives a t
 
 `product` `fashion` `3d`
 
-### 238. Candle jar lights up
+### 241. Candle jar lights up
 
 <img src="gifs/candle-jar-light.gif" alt="Candle jar lights up" width="360">
 
@@ -3434,7 +3476,7 @@ A frosted glass candle jar with a blank label, the wick sparks and lights, warm 
 
 `product` `candle` `ad`
 
-### 239. Phone box reveal
+### 242. Phone box reveal
 
 <img src="gifs/phone-unbox-reveal.gif" alt="Phone box reveal" width="360">
 
@@ -3448,7 +3490,7 @@ A plain white box lid lifts off to reveal a generic slim smartphone that rises s
 
 `product` `tech` `unboxing`
 
-### 240. Coffee bean burst
+### 243. Coffee bean burst
 
 <img src="gifs/coffee-bean-burst.gif" alt="Coffee bean burst" width="360">
 
@@ -3462,7 +3504,7 @@ A matte black coffee bag with a blank label, roasted beans burst up from behind 
 
 `product` `coffee` `ad`
 
-### 241. Bold title over mountains
+### 244. Bold title over mountains
 
 <img src="gifs/mountain-title-reveal.gif" alt="Bold title over mountains" width="360">
 
@@ -3476,7 +3518,7 @@ The single bold word WILD rises letter by letter over a misty snow-capped mounta
 
 `typography` `title` `landscape`
 
-### 242. Signature with music notes
+### 245. Signature with music notes
 
 <img src="gifs/violin-signature-notes.gif" alt="Signature with music notes" width="360">
 
@@ -3490,7 +3532,7 @@ A flowing gold handwritten signature draws itself across a dark navy card while 
 
 `signature` `music` `particles`
 
-### 243. Same plate, new dish
+### 246. Same plate, new dish
 
 <img src="gifs/same-plate-dish-swap.gif" alt="Same plate, new dish" width="360">
 
@@ -3504,7 +3546,7 @@ Top-down shot of one white plate on a fixed wooden table; the dish on it changes
 
 `food` `menu` `restaurant`
 
-### 244. Make the logo bigger
+### 247. Make the logo bigger
 
 <img src="gifs/logo-gets-bigger.gif" alt="Make the logo bigger" width="360">
 
@@ -3518,7 +3560,7 @@ A plain kraft shipping box on a white table; the simple round star emblem printe
 
 `product` `meme` `logo`
 
-### 245. Editorial jump in a yellow coat
+### 248. Editorial jump in a yellow coat
 
 <img src="gifs/yellow-coat-jump.gif" alt="Editorial jump in a yellow coat" width="360">
 
@@ -3532,7 +3574,7 @@ A fashion model in an oversized mustard-yellow coat leaps mid-air in a clean stu
 
 `fashion` `editorial` `jump`
 
-### 246. Acrylic charm spins
+### 249. Acrylic charm spins
 
 <img src="gifs/acrylic-charm-spin.gif" alt="Acrylic charm spins" width="360">
 
@@ -3546,7 +3588,7 @@ A clear acrylic keychain charm shaped like a bunny in a strawberry hat spins slo
 
 `acrylic` `keychain` `merch`
 
-### 247. Article header with paper plane
+### 250. Article header with paper plane
 
 <img src="gifs/blog-header-plane.gif" alt="Article header with paper plane" width="360">
 
@@ -3562,7 +3604,7 @@ A wide article header banner in soft pastel colors with the short title 'WEEKLY 
 
 `banner` `header` `text`
 
-### 248. Espresso shot pour
+### 251. Espresso shot pour
 
 <img src="gifs/espresso-shot-pour.gif" alt="Espresso shot pour" width="360">
 
@@ -3576,7 +3618,7 @@ Close-up of a chrome espresso machine pulling a shot into a small glass cup; the
 
 `coffee` `product` `espresso`
 
-### 249. Birthday cake with confetti
+### 252. Birthday cake with confetti
 
 <img src="gifs/birthday-cake-confetti.gif" alt="Birthday cake with confetti" width="360">
 
@@ -3590,7 +3632,7 @@ A pink frosted birthday cake with three lit candles sits on a table; the flames 
 
 `birthday` `cake` `celebration`
 
-### 250. Cream jar opens
+### 253. Cream jar opens
 
 <img src="gifs/skincare-jar-lid.gif" alt="Cream jar opens" width="360">
 
@@ -3604,7 +3646,7 @@ A frosted glass skincare jar's lid twists off and lifts, revealing smooth white 
 
 `skincare` `product` `beauty`
 
-### 251. Sneaker drop bounce
+### 254. Sneaker drop bounce
 
 <img src="gifs/sneaker-drop-bounce.gif" alt="Sneaker drop bounce" width="360">
 
@@ -3618,7 +3660,7 @@ A white running sneaker drops onto a round platform, the sole squashes and sprin
 
 `sneaker` `product` `bounce`
 
-### 252. Tea bag dunk
+### 255. Tea bag dunk
 
 <img src="gifs/tea-bag-dunk.gif" alt="Tea bag dunk" width="360">
 
@@ -3632,7 +3674,21 @@ A tea bag is dipped into a clear glass mug of hot water and amber color blooms o
 
 `tea` `product` `drink`
 
-### 253. Umbrella pops open
+### 256. Burger stacks itself
+
+<img src="gifs/burger-stack-drop.gif" alt="Burger stacks itself" width="360">
+
+<sub>16 frames · 380×248 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+Burger layers drop from above one by one, bun, patty, cheese, lettuce, tomato, top bun, each landing with a little bounce. Bold food ad style, orange background.
+```
+
+`burger` `food` `ad`
+
+### 257. Umbrella pops open
 
 <img src="gifs/umbrella-pop-open.gif" alt="Umbrella pops open" width="360">
 
@@ -3646,7 +3702,7 @@ A navy folding umbrella pops open and spins once while raindrops bead and roll o
 
 `umbrella` `product` `rain`
 
-### 254. Book releases paper birds
+### 258. Book releases paper birds
 
 <img src="gifs/book-paper-birds.gif" alt="Book releases paper birds" width="360">
 
@@ -3660,7 +3716,7 @@ A hardcover book opens on a table, warm light spills out and a few small paper b
 
 `book` `magic` `promo`
 
-### 255. Donut sprinkle spin
+### 259. Donut sprinkle spin
 
 <img src="gifs/donut-sprinkle-spin.gif" alt="Donut sprinkle spin" width="360">
 
@@ -3674,7 +3730,7 @@ A glazed pink donut turns slowly on a small pedestal as rainbow sprinkles rain d
 
 `donut` `food` `ad`
 
-### 256. Chocolate snap
+### 260. Chocolate snap
 
 <img src="gifs/chocolate-bar-snap.gif" alt="Chocolate snap" width="360">
 
@@ -3688,7 +3744,7 @@ A dark chocolate bar snaps cleanly in half and small crumbs pop into the air. Cl
 
 `chocolate` `food` `product`
 
-### 257. Sunglasses reflection sweep
+### 261. Sunglasses reflection sweep
 
 <img src="gifs/sunglasses-sky-sweep.gif" alt="Sunglasses reflection sweep" width="360">
 
@@ -3702,7 +3758,7 @@ A pair of tortoiseshell sunglasses rotates gently on a stand while a reflection 
 
 `sunglasses` `product` `summer`
 
-### 258. Spellbook game menu
+### 262. Spellbook game menu
 
 <img src="gifs/spellbook-menu-pop.gif" alt="Spellbook game menu" width="360">
 
@@ -3716,7 +3772,7 @@ A worn leather spellbook drops onto a wooden table, flips open, and three glowin
 
 `book` `game` `menu`
 
-### 259. Ice drops into lemonade
+### 263. Ice drops into lemonade
 
 <img src="gifs/lemonade-ice-drop.gif" alt="Ice drops into lemonade" width="360">
 
@@ -3730,7 +3786,7 @@ Ice cubes and a lemon slice drop into a tall glass of lemonade, splashing drople
 
 `drink` `summer` `ad`
 
-### 260. Keycaps press in a wave
+### 264. Keycaps press in a wave
 
 <img src="gifs/keycap-ripple-press.gif" alt="Keycaps press in a wave" width="360">
 
@@ -3744,7 +3800,7 @@ Mechanical keyboard keycaps press down one after another in a wave from left to 
 
 `keyboard` `product` `tech`
 
-### 261. Compact mirror opens
+### 265. Compact mirror opens
 
 <img src="gifs/compact-mirror-open.gif" alt="Compact mirror opens" width="360">
 
@@ -3758,7 +3814,7 @@ A rose-gold makeup compact clicks open, the mirror catches a flash of light and 
 
 `beauty` `product` `compact`
 
-### 262. SALE tag swings
+### 266. SALE tag swings
 
 <img src="gifs/sale-tag-swing.gif" alt="SALE tag swings" width="360">
 
@@ -3774,7 +3830,7 @@ A red paper price tag that says SALE hangs from a string and swings left and rig
 
 `sale` `black-friday` `ad`
 
-### 263. Shopping bag hops
+### 267. Shopping bag hops
 
 <img src="gifs/shopping-bag-hop.gif" alt="Shopping bag hops" width="360">
 
@@ -3788,7 +3844,7 @@ A glossy orange shopping bag with rope handles hops up, squashes on landing, and
 
 `shopping` `bag` `promo`
 
-### 264. Bauhaus shapes shuffle
+### 268. Bauhaus shapes shuffle
 
 <img src="gifs/bauhaus-shapes-shuffle.gif" alt="Bauhaus shapes shuffle" width="360">
 
@@ -3802,7 +3858,7 @@ A grid of Bauhaus shapes in red, yellow, blue and black, circles, half circles, 
 
 `bauhaus` `geometric` `motion-design`
 
-### 265. Wooden game piece flips
+### 269. Wooden game piece flips
 
 <img src="gifs/wood-game-piece-flip.gif" alt="Wooden game piece flips" width="360">
 
@@ -3816,7 +3872,7 @@ A pale wooden pentagon-shaped board game piece flips over in the air and lands w
 
 `board-game` `wood` `flip`
 
-### 266. Travel journal stickers
+### 270. Travel journal stickers
 
 <img src="gifs/travel-journal-stickers.gif" alt="Travel journal stickers" width="360">
 
@@ -3830,9 +3886,51 @@ An open travel journal on an ivory desk; little stickers of a plane, a ticket st
 
 `scrapbook` `travel` `journal`
 
+### 271. Pancake flip
+
+<img src="gifs/pancake-pan-flip.gif" alt="Pancake flip" width="360">
+
+<sub>9 frames · 439×388 · 1.3s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A golden pancake is tossed up from a cast iron pan, flips once in the air and lands back with a little puff of steam. Bright food ad style, warm kitchen background, fixed camera.
+```
+
+`pancake` `food` `kitchen`
+
+### 272. Popcorn popping
+
+<img src="gifs/popcorn-bowl-pop.gif" alt="Popcorn popping" width="360">
+
+<sub>16 frames · 379×230 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+Kernels in a red and white striped bowl burst into fluffy popcorn one by one, some pieces jumping out and tumbling back in. Bold movie-night ad style, deep blue background.
+```
+
+`popcorn` `snack` `movie`
+
+### 273. Roast dinner reveal
+
+<img src="gifs/turkey-dinner-steam.gif" alt="Roast dinner reveal" width="360">
+
+<sub>16 frames · 380×252 · 2.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A silver dome lid lifts off a golden roast chicken on a platter, a burst of steam rising and a few herb leaves falling onto it. Warm festive food ad style, dark wood background.
+```
+
+`dinner` `holiday` `food`
+
 ## Ambient Loops
 
-### 267. Reading by the window, day to night
+### 274. Reading by the window, day to night
 
 <img src="gifs/window-day-to-night.gif" alt="Reading by the window, day to night" width="360">
 
@@ -3848,7 +3946,7 @@ A girl with a short bob reading a book on a cushion by a big window, seen from t
 
 `loop` `character` `time-lapse`
 
-### 268. Steaming coffee loop
+### 275. Steaming coffee loop
 
 <img src="gifs/steaming-coffee.gif" alt="Steaming coffee loop" width="360">
 
@@ -3862,7 +3960,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 269. Rainy window and plant
+### 276. Rainy window and plant
 
 <img src="gifs/rain-on-window.gif" alt="Rainy window and plant" width="360">
 
@@ -3876,7 +3974,7 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
-### 270. Goldfish in a bowl
+### 277. Goldfish in a bowl
 
 <img src="gifs/goldfish-bowl.gif" alt="Goldfish in a bowl" width="360">
 
@@ -3890,7 +3988,7 @@ A round glass fishbowl on a windowsill with one orange goldfish swimming a slow 
 
 `loop` `pet` `calm`
 
-### 271. Lighthouse at night
+### 278. Lighthouse at night
 
 <img src="gifs/lighthouse-night.gif" alt="Lighthouse at night" width="360">
 
@@ -3904,7 +4002,7 @@ A white lighthouse on a rocky shore at night, its beam sweeping slowly across a 
 
 `loop` `seascape` `night`
 
-### 272. Cat sleeping by the fireplace
+### 279. Cat sleeping by the fireplace
 
 <img src="gifs/cat-by-fireplace.gif" alt="Cat sleeping by the fireplace" width="360">
 
@@ -3920,7 +4018,7 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
-### 273. Lantern monkey in the snow
+### 280. Lantern monkey in the snow
 
 <img src="gifs/lantern-monkey-snow.gif" alt="Lantern monkey in the snow" width="360">
 
@@ -3936,7 +4034,7 @@ A small monkey in an olive-green hooded coat standing in a snowy pine forest at 
 
 `loop` `character` `winter`
 
-### 274. Sleepy fox on a mossy rock
+### 281. Sleepy fox on a mossy rock
 
 <img src="gifs/sleepy-fox-rock.gif" alt="Sleepy fox on a mossy rock" width="360">
 
@@ -3950,7 +4048,7 @@ A small orange fox curled up asleep on a mossy rock, its tail gently swaying and
 
 `loop` `animal` `calm`
 
-### 275. Lo-fi study loop
+### 282. Lo-fi study loop
 
 <img src="gifs/lofi-study-loop.gif" alt="Lo-fi study loop" width="360">
 
@@ -3964,7 +4062,7 @@ A girl with headphones writing in a notebook at a desk at night, her pencil movi
 
 `loop` `lofi` `study`
 
-### 276. Café cinemagraph
+### 283. Café cinemagraph
 
 <img src="gifs/cafe-cinemagraph.gif" alt="Café cinemagraph" width="360">
 
@@ -3980,7 +4078,7 @@ A cinemagraph of a quiet street café terrace in the morning: everything is perf
 
 `loop` `cinemagraph` `photo`
 
-### 277. Ink-wash galloping horse
+### 284. Ink-wash galloping horse
 
 <img src="gifs/ink-wash-horse.gif" alt="Ink-wash galloping horse" width="360">
 
@@ -3994,7 +4092,7 @@ A racehorse with a jockey galloping to the right in a loose Chinese ink-wash pai
 
 `loop` `ink-wash` `animal`
 
-### 278. Doodle monster comes alive
+### 285. Doodle monster comes alive
 
 <img src="gifs/doodle-monster.gif" alt="Doodle monster comes alive" width="360">
 
@@ -4008,7 +4106,7 @@ A crude crayon doodle of a little purple blob monster with two eyes on wobbly st
 
 `loop` `doodle` `cute`
 
-### 279. Teapot steam turns into a heart
+### 286. Teapot steam turns into a heart
 
 <img src="gifs/teapot-steam-heart.gif" alt="Teapot steam turns into a heart" width="360">
 
@@ -4022,7 +4120,7 @@ A copper teapot on a windowsill on a rainy afternoon, steam rising from the spou
 
 `steam` `cozy` `clay`
 
-### 280. Husky howling in a snow globe
+### 287. Husky howling in a snow globe
 
 <img src="gifs/husky-snow-globe.gif" alt="Husky howling in a snow globe" width="360">
 
@@ -4036,7 +4134,7 @@ A tiny husky inside a glass snow globe sitting on a snowy mound and howling up a
 
 `snow-globe` `dog` `winter`
 
-### 281. City in a snow globe
+### 288. City in a snow globe
 
 <img src="gifs/city-snow-globe.gif" alt="City in a snow globe" width="360">
 
@@ -4050,7 +4148,7 @@ A snow globe holding a miniature city of red-brick apartment blocks and a little
 
 `snow-globe` `city` `winter`
 
-### 282. Clay kitten in a ball pit
+### 289. Clay kitten in a ball pit
 
 <img src="gifs/clay-kitten-ballpit.gif" alt="Clay kitten in a ball pit" width="360">
 
@@ -4064,7 +4162,7 @@ A clay kitten popping its head out of a ball pit full of colorful plastic balls,
 
 `clay` `cat` `playful`
 
-### 283. Pelican riding a bicycle
+### 290. Pelican riding a bicycle
 
 <img src="gifs/pelican-bicycle.gif" alt="Pelican riding a bicycle" width="360">
 
@@ -4078,7 +4176,7 @@ A pelican riding a red bicycle along a seaside promenade, legs pedaling and its 
 
 `animal` `bicycle` `classic-test`
 
-### 284. Windmill on green hills
+### 291. Windmill on green hills
 
 <img src="gifs/windmill-hills.gif" alt="Windmill on green hills" width="360">
 
@@ -4092,7 +4190,7 @@ A white wooden windmill on rolling green hills, its four sails turning slowly wh
 
 `landscape` `windmill` `calm`
 
-### 285. Paper boat bobbing on water
+### 292. Paper boat bobbing on water
 
 <img src="gifs/paper-boat-ripples.gif" alt="Paper boat bobbing on water" width="360">
 
@@ -4106,7 +4204,7 @@ A white folded paper boat bobbing gently on calm water, small ripples spreading 
 
 `water` `paper` `calm`
 
-### 286. Robot dancing on the street
+### 293. Robot dancing on the street
 
 <img src="gifs/street-robot-dance.gif" alt="Robot dancing on the street" width="360">
 
@@ -4120,7 +4218,7 @@ A boxy orange robot doing a robotic pop-and-lock dance on a graffiti-covered cit
 
 `robot` `dance` `street`
 
-### 287. Chopping wood in winter
+### 294. Chopping wood in winter
 
 <img src="gifs/woodcutter-winter.gif" alt="Chopping wood in winter" width="360">
 
@@ -4134,7 +4232,7 @@ An old man in a thick wool coat raising an axe and splitting a log on a stump in
 
 `winter` `rural` `work`
 
-### 288. Petting a shiba in the rain
+### 295. Petting a shiba in the rain
 
 <img src="gifs/rain-shiba-pet.gif" alt="Petting a shiba in the rain" width="360">
 
@@ -4148,7 +4246,7 @@ A girl with a clear umbrella crouching on a wet city street at night to pet a sh
 
 `rain` `dog` `night`
 
-### 289. Canyon waterfall mist
+### 296. Canyon waterfall mist
 
 <img src="gifs/canyon-waterfall.gif" alt="Canyon waterfall mist" width="360">
 
@@ -4162,7 +4260,7 @@ A tall waterfall pouring into a deep green canyon pool, mist rising and ripples 
 
 `nature` `waterfall` `cinemagraph`
 
-### 290. Glass butterfly with shifting shadows
+### 297. Glass butterfly with shifting shadows
 
 <img src="gifs/glass-butterfly.gif" alt="Glass butterfly with shifting shadows" width="360">
 
@@ -4176,7 +4274,7 @@ A butterfly made of clear glass perched on a white table, slowly opening and clo
 
 `glass` `butterfly` `light`
 
-### 291. Glowing beaker vortex
+### 298. Glowing beaker vortex
 
 <img src="gifs/beaker-glow-vortex.gif" alt="Glowing beaker vortex" width="360">
 
@@ -4190,7 +4288,7 @@ A glass lab beaker on a dark bench with a swirling vortex of glowing teal liquid
 
 `science` `glow` `liquid`
 
-### 292. Eagle flapping its wings
+### 299. Eagle flapping its wings
 
 <img src="gifs/eagle-wing-flap.gif" alt="Eagle flapping its wings" width="360">
 
@@ -4204,7 +4302,7 @@ A golden eagle flying in place with powerful wing beats, feathers rippling, isol
 
 `bird` `flight` `animal`
 
-### 293. Paper lantern Jiangnan with koi
+### 300. Paper lantern Jiangnan with koi
 
 <img src="gifs/lantern-koi-garden.gif" alt="Paper lantern Jiangnan with koi" width="360">
 
@@ -4218,7 +4316,7 @@ A layered paper-cut lantern scene of a southern Chinese water town with a stone 
 
 `paper-cut` `chinese` `lantern`
 
-### 294. Clay dough baker mascot
+### 301. Clay dough baker mascot
 
 <img src="gifs/clay-baker-mascot.gif" alt="Clay dough baker mascot" width="360">
 
@@ -4232,7 +4330,7 @@ A round clay dough mascot in a little white chef hat kneading a piece of dough o
 
 `clay` `mascot` `cooking`
 
-### 295. Robot barista pouring coffee
+### 302. Robot barista pouring coffee
 
 <img src="gifs/robot-barista.gif" alt="Robot barista pouring coffee" width="360">
 
@@ -4246,7 +4344,7 @@ A small white robot barista with one arm pouring steamed milk into a cup of coff
 
 `robot` `coffee` `cafe`
 
-### 296. Train wind on the platform
+### 303. Train wind on the platform
 
 <img src="gifs/subway-wind-girl.gif" alt="Train wind on the platform" width="360">
 
@@ -4260,7 +4358,7 @@ A girl with long dark hair and a yellow raincoat standing on a subway platform a
 
 `anime` `wind` `cinemagraph`
 
-### 297. Paper crane takes off from a card
+### 304. Paper crane takes off from a card
 
 <img src="gifs/origami-crane-takeoff.gif" alt="Paper crane takes off from a card" width="360">
 
@@ -4274,7 +4372,7 @@ A folded white paper crane sitting on an open greeting card flaps its creased pa
 
 `paper` `message` `watercolor`
 
-### 298. Tang court dancer
+### 305. Tang court dancer
 
 <img src="gifs/tang-court-dancer.gif" alt="Tang court dancer" width="360">
 
@@ -4288,7 +4386,7 @@ A court dancer in flowing red and gold Tang-dynasty robes spinning in place, her
 
 `chinese` `dance` `mural`
 
-### 299. Steam over fresh sourdough
+### 306. Steam over fresh sourdough
 
 <img src="gifs/sourdough-steam.gif" alt="Steam over fresh sourdough" width="360">
 
@@ -4302,7 +4400,7 @@ A freshly baked sourdough loaf on a floured wooden board, still except for thin 
 
 `food` `steam` `cinemagraph`
 
-### 300. Cat stretching on the windowsill
+### 307. Cat stretching on the windowsill
 
 <img src="gifs/windowsill-cat-stretch.gif" alt="Cat stretching on the windowsill" width="360">
 
@@ -4316,7 +4414,7 @@ An orange tabby cat on a sunny windowsill stretching its front legs, yawning wid
 
 `cat` `cozy` `watercolor`
 
-### 301. Ripples on a dawn lake
+### 308. Ripples on a dawn lake
 
 <img src="gifs/lake-ripple-dawn.gif" alt="Ripples on a dawn lake" width="360">
 
@@ -4330,7 +4428,7 @@ A calm mountain lake at dawn, everything still except soft ripples spreading acr
 
 `landscape` `water` `cinemagraph`
 
-### 302. Paper-cut river valley
+### 309. Paper-cut river valley
 
 <img src="gifs/papercut-river-boat.gif" alt="Paper-cut river valley" width="360">
 
@@ -4344,7 +4442,7 @@ Layered paper-cut art of a river valley: paper waves slide across, a little pape
 
 `papercut` `craft` `layers`
 
-### 303. Glowing jellyfish
+### 310. Glowing jellyfish
 
 <img src="gifs/jellyfish-glow.gif" alt="Glowing jellyfish" width="360">
 
@@ -4358,7 +4456,7 @@ A single translucent jellyfish drifting in the deep ocean, its bell pulsing slow
 
 `ocean` `glow` `ambient`
 
-### 304. Candle on a writing desk
+### 311. Candle on a writing desk
 
 <img src="gifs/desk-candle-flicker.gif" alt="Candle on a writing desk" width="360">
 
@@ -4372,7 +4470,7 @@ A lit candle on an old wooden writing desk beside an open notebook and fountain 
 
 `candle` `cozy` `cinemagraph`
 
-### 305. Sushi conveyor belt
+### 312. Sushi conveyor belt
 
 <img src="gifs/sushi-conveyor.gif" alt="Sushi conveyor belt" width="360">
 
@@ -4386,7 +4484,7 @@ A sushi conveyor belt in a small restaurant with colorful plates of nigiri slidi
 
 `food` `anime` `conveyor`
 
-### 306. Lifting ramen noodles
+### 313. Lifting ramen noodles
 
 <img src="gifs/ramen-steam-lift.gif" alt="Lifting ramen noodles" width="360">
 
@@ -4400,7 +4498,7 @@ A bowl of ramen with a soft-boiled egg and green onions, chopsticks lifting a bu
 
 `food` `anime` `steam`
 
-### 307. Spinning vinyl record
+### 314. Spinning vinyl record
 
 <img src="gifs/vinyl-turntable.gif" alt="Spinning vinyl record" width="360">
 
@@ -4414,7 +4512,7 @@ A vinyl record spinning on a wooden turntable with the tonearm resting on it, wa
 
 `music` `lofi` `cozy`
 
-### 308. Picture-book bunny watering flowers
+### 315. Picture-book bunny watering flowers
 
 <img src="gifs/storybook-bunny-garden.gif" alt="Picture-book bunny watering flowers" width="360">
 
@@ -4430,7 +4528,7 @@ A children's picture-book page in soft watercolor and colored pencil: a little b
 
 `storybook` `watercolor` `kids`
 
-### 309. Diwali oil lamps
+### 316. Diwali oil lamps
 
 <img src="gifs/diya-lamps-glow.gif" alt="Diwali oil lamps" width="360">
 
@@ -4444,7 +4542,7 @@ A row of small clay diya oil lamps on a stone step decorated with a colorful ran
 
 `festival` `diwali` `lights`
 
-### 310. Ink-wash moonlit window
+### 317. Ink-wash moonlit window
 
 <img src="gifs/ink-moon-pipa.gif" alt="Ink-wash moonlit window" width="360">
 
@@ -4458,7 +4556,7 @@ A Chinese ink-wash painting of a moonlit round window with a pipa lute leaning a
 
 `ink` `chinese` `moon`
 
-### 311. Palm shadow on a travel journal
+### 318. Palm shadow on a travel journal
 
 <img src="gifs/palm-shadow-journal.gif" alt="Palm shadow on a travel journal" width="360">
 
@@ -4472,7 +4570,7 @@ An open travel journal on a sunny café table with taped photos and a handwritte
 
 `cinemagraph` `travel` `shadow`
 
-### 312. Astronaut with a paper star
+### 319. Astronaut with a paper star
 
 <img src="gifs/rooftop-astronaut-star.gif" alt="Astronaut with a paper star" width="360">
 
@@ -4486,7 +4584,7 @@ A small astronaut sitting on a city rooftop at night holding a folded paper star
 
 `night` `dreamy` `space`
 
-### 313. Bonsai with fireflies
+### 320. Bonsai with fireflies
 
 <img src="gifs/bonsai-fireflies.gif" alt="Bonsai with fireflies" width="360">
 
@@ -4500,7 +4598,7 @@ A small bonsai pine in a ceramic pot on a wooden shelf at dusk, a few fireflies 
 
 `calm` `nature` `night`
 
-### 314. Swaying kelp forest
+### 321. Swaying kelp forest
 
 <img src="gifs/kelp-forest-sway.gif" alt="Swaying kelp forest" width="360">
 
@@ -4514,7 +4612,7 @@ An underwater kelp forest with tall golden-green kelp swaying in the current, su
 
 `ocean` `calm` `nature`
 
-### 315. View from a train window
+### 322. View from a train window
 
 <img src="gifs/train-window-fields.gif" alt="View from a train window" width="360">
 
@@ -4528,7 +4626,7 @@ The view through a train window on a sunny afternoon: green rice fields and dist
 
 `travel` `train` `scenery`
 
-### 316. Whisking matcha
+### 323. Whisking matcha
 
 <img src="gifs/matcha-whisk.gif" alt="Whisking matcha" width="360">
 
@@ -4542,7 +4640,7 @@ A bamboo whisk briskly whisking bright green matcha in a dark ceramic bowl, fine
 
 `tea` `food` `asmr`
 
-### 317. Aurora over a cabin
+### 324. Aurora over a cabin
 
 <img src="gifs/aurora-cabin.gif" alt="Aurora over a cabin" width="360">
 
@@ -4556,7 +4654,7 @@ A small wooden cabin with glowing windows in a snowy valley, green and violet au
 
 `night` `winter` `aurora`
 
-### 318. Hot-air balloons at sunrise
+### 325. Hot-air balloons at sunrise
 
 <img src="gifs/hot-air-balloons.gif" alt="Hot-air balloons at sunrise" width="360">
 
@@ -4570,7 +4668,7 @@ Several colorful hot-air balloons drifting gently over a canyon at sunrise, the 
 
 `travel` `sunrise` `sky`
 
-### 319. Cherry blossoms over a stone bridge
+### 326. Cherry blossoms over a stone bridge
 
 <img src="gifs/sakura-stone-bridge.gif" alt="Cherry blossoms over a stone bridge" width="360">
 
@@ -4584,7 +4682,7 @@ An arched stone bridge over a quiet stream lined with cherry trees in full bloom
 
 `spring` `flowers` `japan`
 
-### 320. Roasting a marshmallow
+### 327. Roasting a marshmallow
 
 <img src="gifs/marshmallow-roast.gif" alt="Roasting a marshmallow" width="360">
 
@@ -4598,7 +4696,7 @@ A marshmallow on a stick held over a campfire at night, slowly turning golden br
 
 `camping` `food` `cozy`
 
-### 321. Risograph shapes drift
+### 328. Risograph shapes drift
 
 <img src="gifs/risograph-blob-drift.gif" alt="Risograph shapes drift" width="360">
 
@@ -4612,7 +4710,7 @@ Four flat textured shapes in risograph colors (pink, teal, yellow, blue) slowly 
 
 `abstract` `background` `texture`
 
-### 322. Torn paper ocean waves
+### 329. Torn paper ocean waves
 
 <img src="gifs/torn-paper-waves.gif" alt="Torn paper ocean waves" width="360">
 
@@ -4626,7 +4724,7 @@ Layered torn-paper ocean waves in shades of blue roll forward one behind another
 
 `paper` `ocean` `collage`
 
-### 323. Garden hose rainbow
+### 330. Garden hose rainbow
 
 <img src="gifs/garden-hose-rainbow.gif" alt="Garden hose rainbow" width="360">
 
@@ -4640,7 +4738,7 @@ A gardener in a wide straw hat, seen from behind, sprays a fan of water over a s
 
 `garden` `summer` `rainbow`
 
-### 324. Kingfisher dives
+### 331. Kingfisher dives
 
 <img src="gifs/kingfisher-dive.gif" alt="Kingfisher dives" width="360">
 
@@ -4654,7 +4752,7 @@ A bright blue and orange kingfisher dives from a branch into a calm river, a cro
 
 `bird` `nature` `splash`
 
-### 325. Lava lamp blobs
+### 332. Lava lamp blobs
 
 <img src="gifs/lava-lamp-glow.gif" alt="Lava lamp blobs" width="360">
 
@@ -4668,7 +4766,7 @@ A retro lava lamp on a dark shelf: orange wax blobs slowly rise, stretch, split,
 
 `retro` `lamp` `ambient`
 
-### 326. Rooftop laundry in the breeze
+### 333. Rooftop laundry in the breeze
 
 <img src="gifs/rooftop-laundry-breeze.gif" alt="Rooftop laundry in the breeze" width="360">
 
@@ -4682,7 +4780,7 @@ Colorful laundry hangs on a line across a city rooftop, shirts and sheets flappi
 
 `city` `breeze` `calm`
 
-### 327. Ferris wheel at dusk
+### 334. Ferris wheel at dusk
 
 <img src="gifs/dusk-ferris-wheel.gif" alt="Ferris wheel at dusk" width="360">
 
@@ -4696,7 +4794,7 @@ A ferris wheel at a seaside fair turns slowly at dusk, its bulb lights twinkling
 
 `fair` `dusk` `lights`
 
-### 328. Tea leaves unfurl
+### 335. Tea leaves unfurl
 
 <img src="gifs/tea-leaves-unfurl.gif" alt="Tea leaves unfurl" width="360">
 
@@ -4710,7 +4808,7 @@ Inside a clear glass teapot, rolled green tea leaves slowly unfurl and drift dow
 
 `tea` `macro` `calm`
 
-### 329. Umbrellas on a rainy crosswalk
+### 336. Umbrellas on a rainy crosswalk
 
 <img src="gifs/crosswalk-umbrellas.gif" alt="Umbrellas on a rainy crosswalk" width="360">
 
@@ -4724,7 +4822,7 @@ Top-down view of a rainy crosswalk where colorful umbrellas move across the whit
 
 `rain` `city` `top-down`
 
-### 330. Meteor shower over a tent
+### 337. Meteor shower over a tent
 
 <img src="gifs/meteor-tent-night.gif" alt="Meteor shower over a tent" width="360">
 
@@ -4738,7 +4836,7 @@ A small glowing orange tent on a hill under a deep blue sky, meteors streaking a
 
 `night` `camping` `stars`
 
-### 331. Autumn leaves swirl round a bench
+### 338. Autumn leaves swirl round a bench
 
 <img src="gifs/park-bench-leaves.gif" alt="Autumn leaves swirl round a bench" width="360">
 
@@ -4752,7 +4850,7 @@ Golden and red autumn leaves swirl in a little gust around an empty wooden park 
 
 `autumn` `park` `wind`
 
-### 332. Bookshop window in the snow
+### 339. Bookshop window in the snow
 
 <img src="gifs/bookshop-window-snow.gif" alt="Bookshop window in the snow" width="360">
 
@@ -4766,7 +4864,7 @@ A cozy bookshop window at night with warm light; a gray cat sleeps on a stack of
 
 `cozy` `snow` `cat`
 
-### 333. Shadow puppet scholar
+### 340. Shadow puppet scholar
 
 <img src="gifs/shadow-puppet-turn.gif" alt="Shadow puppet scholar" width="360">
 
@@ -4780,7 +4878,7 @@ A traditional Chinese leather shadow puppet of a scholar holding a fan, transluc
 
 `shadow-puppet` `chinese` `folk-art`
 
-### 334. Cyber pastel shrine
+### 341. Cyber pastel shrine
 
 <img src="gifs/cyber-pastel-shrine.gif" alt="Cyber pastel shrine" width="360">
 
@@ -4794,7 +4892,7 @@ A small shrine gate on a floating island in soft pastel pink and lilac, glowing 
 
 `cyber` `pastel` `scenery`
 
-### 335. Layered paper forest
+### 342. Layered paper forest
 
 <img src="gifs/paper-parallax-forest.gif" alt="Layered paper forest" width="360">
 
@@ -4808,7 +4906,7 @@ A layered cut-paper diorama of a pine forest at dusk, five paper layers in deepe
 
 `paper-craft` `parallax` `scenery`
 
-### 336. Coastal convertible drive
+### 343. Coastal convertible drive
 
 <img src="gifs/coastal-convertible.gif" alt="Coastal convertible drive" width="360">
 
@@ -4822,7 +4920,7 @@ A vintage red convertible drives along a cliffside coastal road at sunset, the c
 
 `car` `road-trip` `cinematic`
 
-### 337. Picture-book bear makes tea
+### 344. Picture-book bear makes tea
 
 <img src="gifs/bear-tea-picturebook.gif" alt="Picture-book bear makes tea" width="360">
 
@@ -4836,7 +4934,7 @@ a picture-book watercolor scene of a small brown bear in a striped apron pouring
 
 `picture-book` `watercolor` `cozy`
 
-### 338. Floating river lanterns
+### 345. Floating river lanterns
 
 <img src="gifs/river-lantern-float.gif" alt="Floating river lanterns" width="360">
 
@@ -4850,7 +4948,7 @@ Paper lotus lanterns with candle flames float slowly down a dark river at night,
 
 `lantern` `night` `festival`
 
-### 339. Bread rising in the oven
+### 346. Bread rising in the oven
 
 <img src="gifs/oven-bread-rise.gif" alt="Bread rising in the oven" width="360">
 
@@ -4864,7 +4962,7 @@ Through a glowing oven window, a braided loaf slowly puffs up and turns golden w
 
 `baking` `kitchen` `cozy`
 
-### 340. Tide pool crab
+### 347. Tide pool crab
 
 <img src="gifs/tide-pool-crab.gif" alt="Tide pool crab" width="360">
 
@@ -4878,7 +4976,7 @@ A small orange crab scuttles sideways between pebbles in a clear tide pool as ge
 
 `nature` `ocean` `macro`
 
-### 341. Wind over dunes
+### 348. Wind over dunes
 
 <img src="gifs/desert-dune-wind.gif" alt="Wind over dunes" width="360">
 
@@ -4892,7 +4990,7 @@ Fine sand streams off the sharp crest of a golden desert dune in the wind, rippl
 
 `desert` `landscape` `wind`
 
-### 342. Music box dancer
+### 349. Music box dancer
 
 <img src="gifs/music-box-dancer.gif" alt="Music box dancer" width="360">
 
@@ -4906,7 +5004,7 @@ Inside an open wooden music box lined with red velvet, a small porcelain dancer 
 
 `vintage` `music-box` `object`
 
-### 343. Glowing mushroom forest
+### 350. Glowing mushroom forest
 
 <img src="gifs/glow-mushroom-forest.gif" alt="Glowing mushroom forest" width="360">
 
@@ -4920,7 +5018,7 @@ A mossy forest floor at night with clusters of bioluminescent blue mushrooms who
 
 `fantasy` `night` `nature`
 
-### 344. Rainy candle shop window
+### 351. Rainy candle shop window
 
 <img src="gifs/candle-shop-window.gif" alt="Rainy candle shop window" width="360">
 
@@ -4934,7 +5032,7 @@ A small candle shop window at night with dozens of candles flickering softly whi
 
 `ambient` `rain` `cozy`
 
-### 345. Overhead koi pond
+### 352. Overhead koi pond
 
 <img src="gifs/koi-pond-overhead.gif" alt="Overhead koi pond" width="360">
 
@@ -4948,7 +5046,7 @@ Top-down view of a dark pond where three orange and white koi glide in a slow ci
 
 `ambient` `fish` `water`
 
-### 346. Snowy ramen stall
+### 353. Snowy ramen stall
 
 <img src="gifs/snowy-ramen-stall.gif" alt="Snowy ramen stall" width="360">
 
@@ -4962,7 +5060,7 @@ A tiny street ramen stall at night, steam rising from a pot and paper lanterns s
 
 `ambient` `food` `snow`
 
-### 347. Porch wind chime
+### 354. Porch wind chime
 
 <img src="gifs/windchime-porch.gif" alt="Porch wind chime" width="360">
 
@@ -4976,7 +5074,7 @@ A glass wind chime on a wooden porch sways in a summer breeze, its paper tag flu
 
 `ambient` `summer` `japan`
 
-### 348. Socks by the fireplace
+### 355. Socks by the fireplace
 
 <img src="gifs/fireplace-sock-dry.gif" alt="Socks by the fireplace" width="360">
 
@@ -4990,7 +5088,7 @@ Knitted socks hang on a line above a crackling fireplace, flames dancing and the
 
 `ambient` `cozy` `winter`
 
-### 349. Galaxy hourglass
+### 356. Galaxy hourglass
 
 <img src="gifs/hourglass-galaxy.gif" alt="Galaxy hourglass" width="360">
 
@@ -5004,7 +5102,7 @@ A glass hourglass where tiny glowing stars trickle down instead of sand, forming
 
 `ambient` `space` `magic`
 
-### 350. Dusk tram passing
+### 357. Dusk tram passing
 
 <img src="gifs/tram-city-dusk.gif" alt="Dusk tram passing" width="360">
 
@@ -5018,7 +5116,7 @@ A small yellow tram glides past a row of pastel buildings at dusk, its windows g
 
 `ambient` `city` `travel`
 
-### 351. Seaside cat nap
+### 358. Seaside cat nap
 
 <img src="gifs/seaside-cat-nap.gif" alt="Seaside cat nap" width="360">
 
@@ -5032,7 +5130,7 @@ A calico cat naps on a sunny harbor wall, its tail flicking lazily while small w
 
 `ambient` `cat` `sea`
 
-### 352. Autumn tea on the table
+### 359. Autumn tea on the table
 
 <img src="gifs/autumn-tea-steam.gif" alt="Autumn tea on the table" width="360">
 
@@ -5046,7 +5144,7 @@ A cup of tea on a wooden table by a window, steam curling up while maple leaves 
 
 `ambient` `autumn` `tea`
 
-### 353. Giant bubble in the park
+### 360. Giant bubble in the park
 
 <img src="gifs/bubble-wand-park.gif" alt="Giant bubble in the park" width="360">
 
@@ -5060,7 +5158,7 @@ A giant soap bubble wobbles and drifts across a green park, rainbow colors swirl
 
 `ambient` `bubble` `summer`
 
-### 354. Robot and scientist watch a test tube
+### 361. Robot and scientist watch a test tube
 
 <img src="gifs/lab-robot-test-tube.gif" alt="Robot and scientist watch a test tube" width="360">
 
@@ -5074,7 +5172,7 @@ A scientist in a white coat and a small round robot lean in to watch a test tube
 
 `science` `robot` `illustration`
 
-### 355. Winter bunny catches snow
+### 362. Winter bunny catches snow
 
 <img src="gifs/winter-bunny-snowflakes.gif" alt="Winter bunny catches snow" width="360">
 
@@ -5088,7 +5186,7 @@ A small bunny in a green knitted scarf looks up and catches falling snowflakes o
 
 `winter` `bunny` `cozy`
 
-### 356. Light-bulb head collage
+### 363. Light-bulb head collage
 
 <img src="gifs/bulb-head-collage.gif" alt="Light-bulb head collage" width="360">
 
@@ -5102,7 +5200,7 @@ Cut-paper collage of a figure with a light-bulb head; gears inside the bulb turn
 
 `collage` `idea` `paper`
 
-### 357. Origami fox unfolds
+### 364. Origami fox unfolds
 
 <img src="gifs/origami-fox-unfold.gif" alt="Origami fox unfolds" width="360">
 
@@ -5116,7 +5214,7 @@ A flat sheet of orange paper folds itself into an origami fox that turns its hea
 
 `paper` `origami` `fox`
 
-### 358. Felted sheep on a felt hill
+### 365. Felted sheep on a felt hill
 
 <img src="gifs/felt-sheep-hill-walk.gif" alt="Felted sheep on a felt hill" width="360">
 
@@ -5132,7 +5230,7 @@ A needle-felted wool sheep trots across a rolling felt hill with tiny felt flowe
 
 `felt` `sheep` `craft`
 
-### 359. Cube morphs into a pavilion
+### 366. Cube morphs into a pavilion
 
 <img src="gifs/cube-morph-pavilion.gif" alt="Cube morphs into a pavilion" width="360">
 
@@ -5146,7 +5244,7 @@ A plain white cube architectural model on a concrete plinth smoothly melts and s
 
 `architecture` `morph` `model`
 
-### 360. Cat portrait comes alive
+### 367. Cat portrait comes alive
 
 <img src="gifs/painting-cat-blinks.gif" alt="Cat portrait comes alive" width="360">
 
@@ -5160,7 +5258,7 @@ An old oil painting in an ornate gold frame shows a noble cat wearing a lace ruf
 
 `painting` `cat` `museum`
 
-### 361. Library sunbeam dust
+### 368. Library sunbeam dust
 
 <img src="gifs/library-dust-sunbeam.gif" alt="Library sunbeam dust" width="360">
 
@@ -5174,7 +5272,7 @@ Golden dust motes drift slowly through a beam of sunlight in a quiet wooden libr
 
 `library` `light` `calm`
 
-### 362. Moonlit boat
+### 369. Moonlit boat
 
 <img src="gifs/moon-boat-rock.gif" alt="Moonlit boat" width="360">
 
@@ -5188,7 +5286,7 @@ A small wooden rowboat rocks gently on dark water under a full moon, its reflect
 
 `boat` `moon` `night`
 
-### 363. Wheat field in the wind
+### 370. Wheat field in the wind
 
 <img src="gifs/wheat-field-wind.gif" alt="Wheat field in the wind" width="360">
 
@@ -5202,7 +5300,7 @@ Golden wheat sways in waves across a field as fluffy clouds drift slowly overhea
 
 `wheat` `wind` `nature`
 
-### 364. Beach hammock
+### 371. Beach hammock
 
 <img src="gifs/beach-hammock-sway.gif" alt="Beach hammock" width="360">
 
@@ -5216,7 +5314,7 @@ An empty striped hammock sways between two palm trees while small waves roll ont
 
 `beach` `hammock` `summer`
 
-### 365. Brass gears turning
+### 372. Brass gears turning
 
 <img src="gifs/brass-gears-turn.gif" alt="Brass gears turning" width="360">
 
@@ -5230,7 +5328,7 @@ A cluster of interlocking brass gears turns smoothly at different speeds, light 
 
 `gears` `steampunk` `machine`
 
-### 366. Terrarium mist
+### 373. Terrarium mist
 
 <img src="gifs/terrarium-mist.gif" alt="Terrarium mist" width="360">
 
@@ -5244,7 +5342,7 @@ Inside a glass terrarium with moss and tiny ferns, soft mist curls and a single 
 
 `terrarium` `plants` `mist`
 
-### 367. Night laundromat
+### 374. Night laundromat
 
 <img src="gifs/laundromat-night-spin.gif" alt="Night laundromat" width="360">
 
@@ -5258,7 +5356,7 @@ A front-loading washer spins colorful clothes behind its round glass door in an 
 
 `laundromat` `night` `lofi`
 
-### 368. Manta ray glide
+### 375. Manta ray glide
 
 <img src="gifs/manta-ray-glide.gif" alt="Manta ray glide" width="360">
 
@@ -5272,7 +5370,7 @@ A manta ray glides through blue water, its wings rising and falling slowly while
 
 `ocean` `manta` `underwater`
 
-### 369. Rainy greenhouse
+### 376. Rainy greenhouse
 
 <img src="gifs/rainy-greenhouse.gif" alt="Rainy greenhouse" width="360">
 
@@ -5286,7 +5384,7 @@ Rain streaks down the glass panes of a small greenhouse full of potted plants, d
 
 `greenhouse` `rain` `plants`
 
-### 370. Seed sprouts in a pot
+### 377. Seed sprouts in a pot
 
 <img src="gifs/seed-sprout-pot.gif" alt="Seed sprouts in a pot" width="360">
 
@@ -5300,7 +5398,7 @@ A seed in a small clay pot pushes up a green sprout that unfurls two leaves, a d
 
 `plant` `sprout` `growth`
 
-### 371. Cloud pours coffee
+### 378. Cloud pours coffee
 
 <img src="gifs/cloud-pours-coffee.gif" alt="Cloud pours coffee" width="360">
 
@@ -5314,7 +5412,7 @@ A fluffy white cloud with a sleepy face tilts and pours a thin stream of coffee 
 
 `cloud` `coffee` `morning`
 
-### 372. Celestial clock cracks
+### 379. Celestial clock cracks
 
 <img src="gifs/celestial-clock-shatter.gif" alt="Celestial clock cracks" width="360">
 
@@ -5328,7 +5426,7 @@ A brass astronomical clock with tiny planets on its rings cracks across the face
 
 `clock` `stars` `fantasy`
 
-### 373. Submarine cross-section
+### 380. Submarine cross-section
 
 <img src="gifs/submarine-cutaway.gif" alt="Submarine cross-section" width="360">
 
@@ -5342,7 +5440,7 @@ A cutaway view of a yellow submarine showing small rooms; tiny crew members walk
 
 `cutaway` `submarine` `infographic`
 
-### 374. Ant nest cross-section
+### 381. Ant nest cross-section
 
 <img src="gifs/ant-nest-cutaway.gif" alt="Ant nest cross-section" width="360">
 
@@ -5356,7 +5454,7 @@ A cross-section of an underground ant nest; ants carry crumbs and leaves along w
 
 `cutaway` `ants` `science`
 
-### 375. Volcano magma rising
+### 382. Volcano magma rising
 
 <img src="gifs/volcano-cutaway-rise.gif" alt="Volcano magma rising" width="360">
 
@@ -5370,7 +5468,7 @@ A cross-section of a cone volcano with labeled layers; glowing magma climbs the 
 
 `cutaway` `volcano` `science`
 
-### 376. Raking a zen garden
+### 383. Raking a zen garden
 
 <img src="gifs/zen-sand-rake.gif" alt="Raking a zen garden" width="360">
 
@@ -5384,7 +5482,7 @@ A wooden rake draws smooth curving lines through white sand around a mossy stone
 
 `zen` `garden` `calm`
 
-### 377. Pottery wheel
+### 384. Pottery wheel
 
 <img src="gifs/pottery-wheel-bowl.gif" alt="Pottery wheel" width="360">
 
@@ -5398,7 +5496,7 @@ Clay-covered hands shape a bowl on a spinning pottery wheel, its rim rising slow
 
 `pottery` `craft` `calm`
 
-### 378. Sea turtle in sun rays
+### 385. Sea turtle in sun rays
 
 <img src="gifs/sea-turtle-sunrays.gif" alt="Sea turtle in sun rays" width="360">
 
@@ -5412,7 +5510,7 @@ A green sea turtle paddles slowly through shafts of sunlight with small fish dri
 
 `turtle` `ocean` `calm`
 
-### 379. Snail house lights up
+### 386. Snail house lights up
 
 <img src="gifs/snail-shell-house-lights.gif" alt="Snail house lights up" width="360">
 
@@ -5426,7 +5524,7 @@ A snail carrying a tiny cottage on its back inches along a mossy log as the litt
 
 `snail` `cottage` `storybook`
 
-### 380. Peony blooms open
+### 387. Peony blooms open
 
 <img src="gifs/peony-bloom-open.gif" alt="Peony blooms open" width="360">
 
@@ -5442,7 +5540,7 @@ A single pink peony bud slowly unfurls its layered petals into a full bloom, a f
 
 `flower` `bloom` `macro`
 
-### 381. Cove waves cinemagraph
+### 388. Cove waves cinemagraph
 
 <img src="gifs/cove-waves-cinemagraph.gif" alt="Cove waves cinemagraph" width="360">
 
@@ -5458,7 +5556,7 @@ A quiet rocky cove at golden hour where only the sea moves: small waves roll in 
 
 `sea` `cinemagraph` `calm`
 
-### 382. Naive geometric face
+### 389. Naive geometric face
 
 <img src="gifs/geo-doodle-face-wobble.gif" alt="Naive geometric face" width="360">
 
@@ -5472,7 +5570,7 @@ A naive hand-drawn portrait of an imaginary character built from uneven circles,
 
 `illustration` `geometric` `ink`
 
-### 383. Glowing mycelium bridge
+### 390. Glowing mycelium bridge
 
 <img src="gifs/mycelium-bridge-glow.gif" alt="Glowing mycelium bridge" width="360">
 
@@ -5486,7 +5584,7 @@ A delicate bridge woven from glowing white fungal threads spans a misty canyon a
 
 `fantasy` `bridge` `glow`
 
-### 384. Comet over the desert
+### 391. Comet over the desert
 
 <img src="gifs/comet-desert-night.gif" alt="Comet over the desert" width="360">
 
@@ -5500,7 +5598,7 @@ A bright comet with a long glowing tail drifts slowly across a starry sky above 
 
 `comet` `night` `sky`
 
-### 385. Otter floats and naps
+### 392. Otter floats and naps
 
 <img src="gifs/sea-otter-float-nap.gif" alt="Otter floats and naps" width="360">
 
@@ -5514,7 +5612,21 @@ A sea otter floats on its back in calm water, holding a small shell on its belly
 
 `otter` `sleep` `calm`
 
-### 386. Ladybug and dewdrop
+### 393. Bear snoring in a cave
+
+<img src="gifs/bear-cave-snore.gif" alt="Bear snoring in a cave" width="360">
+
+<sub>16 frames · 380×248 · 2.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A brown bear sleeps curled up in a cozy cave, its belly rising and falling as a snore bubble grows and shrinks from its nose, snow falling softly outside. Storybook illustration, fixed camera.
+```
+
+`bear` `hibernation` `winter`
+
+### 394. Ladybug and dewdrop
 
 <img src="gifs/ladybug-dew-slide.gif" alt="Ladybug and dewdrop" width="360">
 
@@ -5528,9 +5640,79 @@ A ladybug walks along a curved green leaf while a dewdrop at the leaf tip swells
 
 `ladybug` `macro` `nature`
 
+### 395. Sky lanterns rising
+
+<img src="gifs/sky-lanterns-rise.gif" alt="Sky lanterns rising" width="360">
+
+<sub>16 frames · 377×248 · 2.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky above dark rooftops, flickering softly. Dreamy painterly style, fixed camera.
+```
+
+`lantern` `night` `festival`
+
+### 396. Frost spreads on glass
+
+<img src="gifs/window-frost-spread.gif" alt="Frost spreads on glass" width="360">
+
+<sub>8 frames · 439×388 · 1.8s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+Delicate fern-like frost patterns creep across a cold window pane from the corners, a blurry snowy garden visible behind. Macro winter photography, fixed camera.
+```
+
+`frost` `winter` `macro`
+
+### 397. First snow under a lamp
+
+<img src="gifs/street-lamp-first-snow.gif" alt="First snow under a lamp" width="360">
+
+<sub>16 frames · 376×252 · 2.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+Big soft snowflakes drift down through the warm cone of an old street lamp on a quiet cobblestone street at night. Cinematic, fixed camera, everything else still.
+```
+
+`snow` `night` `street`
+
+### 398. Roasting chestnuts
+
+<img src="gifs/chestnut-roast-pan.gif" alt="Roasting chestnuts" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A big iron wok of chestnuts and dark sand is stirred by a wooden paddle, steam curling up under a warm bulb at a winter street stall. Cozy photographic style, close-up, fixed camera.
+```
+
+`chestnut` `street-food` `winter`
+
+### 399. Snow globe swirl
+
+<img src="gifs/snow-globe-cabin-shake.gif" alt="Snow globe swirl" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A glass snow globe with a tiny red cabin and pine trees inside; snowflakes swirl up and settle slowly around the cabin. Warm cozy lighting, wooden table, fixed close-up.
+```
+
+`snow-globe` `winter` `cozy`
+
 ## Pixel Art & UI Motion
 
-### 387. Pixel art campfire
+### 400. Pixel art campfire
 
 <img src="gifs/pixel-campfire.gif" alt="Pixel art campfire" width="360">
 
@@ -5544,7 +5726,7 @@ A pixel art campfire at night in a small forest clearing, flames flickering, spa
 
 `pixel-art` `loop` `game`
 
-### 388. Bouncing dots loader
+### 401. Bouncing dots loader
 
 <img src="gifs/bouncing-dots-loader.gif" alt="Bouncing dots loader" width="360">
 
@@ -5560,7 +5742,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 389. Pixel knight run cycle
+### 402. Pixel knight run cycle
 
 <img src="gifs/pixel-knight-run.gif" alt="Pixel knight run cycle" width="360">
 
@@ -5576,7 +5758,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 390. Like button heart burst
+### 403. Like button heart burst
 
 <img src="gifs/like-heart-burst.gif" alt="Like button heart burst" width="360">
 
@@ -5590,7 +5772,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 391. Hourglass loading
+### 404. Hourglass loading
 
 <img src="gifs/hourglass-flip.gif" alt="Hourglass loading" width="360">
 
@@ -5604,7 +5786,7 @@ A simple flat hourglass icon with sand pouring from the top to the bottom, then 
 
 `ui` `loader` `icon`
 
-### 392. Arcade VS screen
+### 405. Arcade VS screen
 
 <img src="gifs/arcade-vs-screen.gif" alt="Arcade VS screen" width="360">
 
@@ -5620,7 +5802,7 @@ A retro arcade versus screen: on the left a chubby panda wrestler in a yellow ca
 
 `pixel-art` `game` `versus`
 
-### 393. 8-bit slime boss battle
+### 406. 8-bit slime boss battle
 
 <img src="gifs/pixel-slime-boss.gif" alt="8-bit slime boss battle" width="360">
 
@@ -5634,7 +5816,7 @@ An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squ
 
 `pixel-art` `game` `boss`
 
-### 394. Love-burst skill animation
+### 407. Love-burst skill animation
 
 <img src="gifs/love-burst-skill.gif" alt="Love-burst skill animation" width="360">
 
@@ -5648,7 +5830,7 @@ A chibi magical girl with a pink bob raises her wand and casts a "love burst" sk
 
 `game` `skill` `effects`
 
-### 395. Junkyard robot walk cycle
+### 408. Junkyard robot walk cycle
 
 <img src="gifs/junkyard-robot-walk.gif" alt="Junkyard robot walk cycle" width="360">
 
@@ -5662,7 +5844,7 @@ A rusty little scrap-metal robot with one antenna and a mismatched arm walking t
 
 `pixel-art` `sprite` `game`
 
-### 396. Pixel hero sword slash
+### 409. Pixel hero sword slash
 
 <img src="gifs/pixel-hero-slash.gif" alt="Pixel hero sword slash" width="360">
 
@@ -5676,7 +5858,7 @@ A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a b
 
 `pixel-art` `sprite` `attack`
 
-### 397. Handheld-style castle run
+### 410. Handheld-style castle run
 
 <img src="gifs/pixel-castle-scroller.gif" alt="Handheld-style castle run" width="360">
 
@@ -5690,7 +5872,7 @@ A 32-bit handheld-style side-scrolling level: a small round armadillo knight in 
 
 `pixel-art` `platformer` `game`
 
-### 398. Squash and stretch bouncing ball
+### 411. Squash and stretch bouncing ball
 
 <img src="gifs/bouncing-ball-squash.gif" alt="Squash and stretch bouncing ball" width="360">
 
@@ -5704,7 +5886,7 @@ A red rubber ball bouncing on a flat floor with classic squash and stretch, a so
 
 `animation-basics` `ball` `loop`
 
-### 399. AI assistant typing indicator
+### 412. AI assistant typing indicator
 
 <img src="gifs/ai-typing-indicator.gif" alt="AI assistant typing indicator" width="360">
 
@@ -5718,7 +5900,7 @@ A chat interface where a small rounded robot avatar sits beside a grey bubble wi
 
 `ui` `chat` `loader`
 
-### 400. 16-bit fighter punch combo
+### 413. 16-bit fighter punch combo
 
 <img src="gifs/arcade-fighter-punch.gif" alt="16-bit fighter punch combo" width="360">
 
@@ -5732,7 +5914,7 @@ A 16-bit arcade fighter, a stocky red panda in a blue gi, throwing a jab and a s
 
 `pixel-art` `fighting` `sprite`
 
-### 401. Bodyweight squat guide
+### 414. Bodyweight squat guide
 
 <img src="gifs/squat-form-guide.gif" alt="Bodyweight squat guide" width="360">
 
@@ -5746,7 +5928,7 @@ A clean flat infographic of a faceless fitness figure in a teal tank top doing a
 
 `fitness` `infographic` `tutorial`
 
-### 402. 8-bit raver alien
+### 415. 8-bit raver alien
 
 <img src="gifs/pixel-raver-alien.gif" alt="8-bit raver alien" width="360">
 
@@ -5760,7 +5942,7 @@ A clean flat infographic of a faceless fitness figure in a teal tank top doing a
 
 `pixel` `dance` `retro`
 
-### 403. Pixel coffee cup
+### 416. Pixel coffee cup
 
 <img src="gifs/pixel-coffee-steam.gif" alt="Pixel coffee cup" width="360">
 
@@ -5774,7 +5956,7 @@ A pixel-art coffee cup on a saucer with three wisps of steam rising and curling 
 
 `pixel` `coffee` `icon`
 
-### 404. Scroll-down arrow hint
+### 417. Scroll-down arrow hint
 
 <img src="gifs/scroll-arrow-hint.gif" alt="Scroll-down arrow hint" width="360">
 
@@ -5788,7 +5970,7 @@ A minimalist rounded chevron arrow pointing down, bouncing gently up and down wi
 
 `ui` `arrow` `minimal`
 
-### 405. Pixel lantern scares ghosts
+### 418. Pixel lantern scares ghosts
 
 <img src="gifs/pixel-lantern-ghosts.gif" alt="Pixel lantern scares ghosts" width="360">
 
@@ -5802,7 +5984,7 @@ A minimalist rounded chevron arrow pointing down, bouncing gently up and down wi
 
 `pixel` `game` `halloween`
 
-### 406. Gem merge game ad
+### 419. Gem merge game ad
 
 <img src="gifs/gem-merge-ad.gif" alt="Gem merge game ad" width="360">
 
@@ -5816,7 +5998,7 @@ A mobile puzzle game ad shot: two identical glowing blue gems slide together on 
 
 `game` `ad` `mobile`
 
-### 407. Pixel treasure chest
+### 420. Pixel treasure chest
 
 <img src="gifs/pixel-treasure-chest.gif" alt="Pixel treasure chest" width="360">
 
@@ -5830,7 +6012,7 @@ A mobile puzzle game ad shot: two identical glowing blue gems slide together on 
 
 `pixel` `game` `reward`
 
-### 408. Rocket progress bar
+### 421. Rocket progress bar
 
 <img src="gifs/rocket-progress-bar.gif" alt="Rocket progress bar" width="360">
 
@@ -5844,7 +6026,7 @@ A flat UI progress bar filling from left to right as a tiny cartoon rocket flies
 
 `ui` `loader` `rocket`
 
-### 409. Sun / moon theme toggle
+### 422. Sun / moon theme toggle
 
 <img src="gifs/sun-moon-toggle.gif" alt="Sun / moon theme toggle" width="360">
 
@@ -5858,7 +6040,7 @@ A rounded toggle switch sliding from a sunny yellow side with a sun icon to a da
 
 `ui` `toggle` `dark-mode`
 
-### 410. Earth Online: morning commute
+### 423. Earth Online: morning commute
 
 <img src="gifs/earth-online-commute.gif" alt="Earth Online: morning commute" width="360">
 
@@ -5874,7 +6056,7 @@ A 16-bit pixel art RPG scene of a tired office worker character walking to a bus
 
 `pixel` `rpg` `daily-life` `text`
 
-### 411. Pixel fishing catch
+### 424. Pixel fishing catch
 
 <img src="gifs/pixel-fishing-catch.gif" alt="Pixel fishing catch" width="360">
 
@@ -5888,7 +6070,7 @@ A 16-bit pixel art RPG scene of a tired office worker character walking to a bus
 
 `pixel` `game` `fishing`
 
-### 412. Pixel town in the rain
+### 425. Pixel town in the rain
 
 <img src="gifs/pixel-rain-town.gif" alt="Pixel town in the rain" width="360">
 
@@ -5902,7 +6084,7 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 
 `pixel` `rain` `night`
 
-### 413. Pixel crops sprouting
+### 426. Pixel crops sprouting
 
 <img src="gifs/pixel-farm-sprout.gif" alt="Pixel crops sprouting" width="360">
 
@@ -5916,7 +6098,7 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 
 `pixel` `farm` `game`
 
-### 414. Notification bell ringing
+### 427. Notification bell ringing
 
 <img src="gifs/notification-bell-ring.gif" alt="Notification bell ringing" width="360">
 
@@ -5930,7 +6112,7 @@ A flat rounded yellow notification bell icon swinging side to side as if ringing
 
 `ui` `icon` `notification`
 
-### 415. Battery charging icon
+### 428. Battery charging icon
 
 <img src="gifs/battery-charging-icon.gif" alt="Battery charging icon" width="360">
 
@@ -5944,7 +6126,7 @@ A flat rounded battery icon filling up segment by segment from red to green, a w
 
 `ui` `icon` `loading`
 
-### 416. Download arrow turns into a check
+### 429. Download arrow turns into a check
 
 <img src="gifs/download-arrow-check.gif" alt="Download arrow turns into a check" width="360">
 
@@ -5958,7 +6140,7 @@ A flat UI animation: a blue down arrow drops into a rounded tray, the tray fills
 
 `ui` `icon` `download`
 
-### 417. Pixel bus pulls into the stop
+### 430. Pixel bus pulls into the stop
 
 <img src="gifs/pixel-bus-arrive.gif" alt="Pixel bus pulls into the stop" width="360">
 
@@ -5972,7 +6154,7 @@ Top-down pixel art street at morning rush hour: a yellow bus pulls into a stop w
 
 `pixel` `city` `bus`
 
-### 418. Pixel letters hop
+### 431. Pixel letters hop
 
 <img src="gifs/pixel-text-broll.gif" alt="Pixel letters hop" width="360">
 
@@ -5986,7 +6168,7 @@ Cream pixel-font letters spelling B-ROLL on a deep teal background hop up one by
 
 `pixel` `text` `title`
 
-### 419. Pixel bucket-helmet frog jump attack
+### 432. Pixel bucket-helmet frog jump attack
 
 <img src="gifs/pixel-frog-jump-attack.gif" alt="Pixel bucket-helmet frog jump attack" width="360">
 
@@ -6000,7 +6182,7 @@ A chunky orange pixel art frog wearing a dented tin bucket as a helmet and holdi
 
 `pixel` `game` `sprite`
 
-### 420. Pixel owl wizard casts
+### 433. Pixel owl wizard casts
 
 <img src="gifs/pixel-owl-wizard.gif" alt="Pixel owl wizard casts" width="360">
 
@@ -6014,7 +6196,7 @@ A pixel art owl in a starry purple wizard hat raises a wooden wand and releases 
 
 `pixel` `magic` `sprite`
 
-### 421. Pixel mushroom dances
+### 434. Pixel mushroom dances
 
 <img src="gifs/pixel-mushroom-dance.gif" alt="Pixel mushroom dances" width="360">
 
@@ -6028,7 +6210,7 @@ A pixel art mushroom character with a teal cap striped in orange and a stubby la
 
 `pixel` `dance` `sprite`
 
-### 422. Pixel cauldron brews
+### 435. Pixel cauldron brews
 
 <img src="gifs/pixel-cauldron-brew.gif" alt="Pixel cauldron brews" width="360">
 
@@ -6042,7 +6224,7 @@ A pixel art black cauldron over a small fire bubbles with green potion, bubbles 
 
 `pixel` `potion` `item`
 
-### 423. Wi-Fi bars fill up
+### 436. Wi-Fi bars fill up
 
 <img src="gifs/wifi-bars-fill.gif" alt="Wi-Fi bars fill up" width="360">
 
@@ -6056,7 +6238,7 @@ A flat UI Wi-Fi icon whose arcs light up one by one from the center dot outward 
 
 `ui` `icon` `signal`
 
-### 424. Crumpled paper into the trash
+### 437. Crumpled paper into the trash
 
 <img src="gifs/trash-crumple-toss.gif" alt="Crumpled paper into the trash" width="360">
 
@@ -6070,7 +6252,7 @@ Flat UI animation: a sheet of paper crumples into a ball, arcs into a gray trash
 
 `ui` `icon` `delete`
 
-### 425. Star rating fills
+### 438. Star rating fills
 
 <img src="gifs/star-rating-fill.gif" alt="Star rating fills" width="360">
 
@@ -6084,7 +6266,7 @@ Five outlined stars in a row fill with gold one after another, each popping slig
 
 `ui` `rating` `icon`
 
-### 426. Send button becomes a paper plane
+### 439. Send button becomes a paper plane
 
 <img src="gifs/send-button-plane.gif" alt="Send button becomes a paper plane" width="360">
 
@@ -6098,7 +6280,7 @@ A rounded blue Send button squeezes inward and folds into a white paper plane th
 
 `ui` `button` `send`
 
-### 427. Padlock unlocks
+### 440. Padlock unlocks
 
 <img src="gifs/padlock-unlock.gif" alt="Padlock unlocks" width="360">
 
@@ -6112,7 +6294,7 @@ A flat gray padlock icon wiggles, its shackle pops open, and the body turns gree
 
 `ui` `icon` `security`
 
-### 428. Magnifier scans a document
+### 441. Magnifier scans a document
 
 <img src="gifs/magnifier-doc-scan.gif" alt="Magnifier scans a document" width="360">
 
@@ -6126,7 +6308,7 @@ A flat UI document icon with gray text lines; a magnifying glass sweeps across i
 
 `ui` `search` `icon`
 
-### 429. Upload arrow rises into a cloud
+### 442. Upload arrow rises into a cloud
 
 <img src="gifs/cloud-upload-arrow.gif" alt="Upload arrow rises into a cloud" width="360">
 
@@ -6140,7 +6322,7 @@ A white arrow rises from the bottom into a soft blue cloud icon, the cloud puffs
 
 `ui` `upload` `icon`
 
-### 430. Equalizer bars bounce
+### 443. Equalizer bars bounce
 
 <img src="gifs/equalizer-bars-bounce.gif" alt="Equalizer bars bounce" width="360">
 
@@ -6154,7 +6336,7 @@ Seven rounded equalizer bars in a purple-to-pink gradient bounce up and down to 
 
 `ui` `music` `audio`
 
-### 431. Pixel chameleon run cycle
+### 444. Pixel chameleon run cycle
 
 <img src="gifs/pixel-chameleon-run.gif" alt="Pixel chameleon run cycle" width="360">
 
@@ -6168,7 +6350,7 @@ A side-view pixel-art run cycle of a small green chameleon with a curled tail an
 
 `pixel` `sprite` `game`
 
-### 432. RPG stats card
+### 445. RPG stats card
 
 <img src="gifs/rpg-stats-card.gif" alt="RPG stats card" width="360">
 
@@ -6182,7 +6364,7 @@ A fantasy RPG character stat card with a cartoon fox ranger portrait; five horiz
 
 `ui` `game` `stats`
 
-### 433. Hovering potion bottle
+### 446. Hovering potion bottle
 
 <img src="gifs/potion-bottle-hover.gif" alt="Hovering potion bottle" width="360">
 
@@ -6196,7 +6378,7 @@ A round glass potion bottle with a cork stopper hovers and bobs gently; the glow
 
 `game` `item` `icon`
 
-### 434. Toggle switch
+### 447. Toggle switch
 
 <img src="gifs/toggle-switch-on.gif" alt="Toggle switch" width="360">
 
@@ -6210,7 +6392,7 @@ A large rounded toggle switch slides from gray off to bright green on, the knob 
 
 `ui` `toggle` `micro-interaction`
 
-### 435. Pixel health hearts
+### 448. Pixel health hearts
 
 <img src="gifs/pixel-heart-health.gif" alt="Pixel health hearts" width="360">
 
@@ -6224,7 +6406,7 @@ A row of five pixel-art red hearts as a game health bar; one empty heart refills
 
 `pixel` `game` `ui`
 
-### 436. Pixel coin collect
+### 449. Pixel coin collect
 
 <img src="gifs/pixel-coin-collect.gif" alt="Pixel coin collect" width="360">
 
@@ -6238,7 +6420,7 @@ A spinning pixel-art gold coin pops up above a brick block, flips in the air, th
 
 `pixel` `game` `coin`
 
-### 437. Calendar page flip
+### 450. Calendar page flip
 
 <img src="gifs/calendar-page-flip.gif" alt="Calendar page flip" width="360">
 
@@ -6252,7 +6434,7 @@ A flat desk calendar icon with a red header; the top page curls up and flips ove
 
 `ui` `icon` `calendar`
 
-### 438. Pixel dragon egg hatch
+### 451. Pixel dragon egg hatch
 
 <img src="gifs/pixel-dragon-egg-hatch.gif" alt="Pixel dragon egg hatch" width="360">
 
@@ -6266,7 +6448,7 @@ A speckled pixel-art dragon egg wobbles in a straw nest, cracks appear, and a ti
 
 `pixel` `game` `dragon`
 
-### 439. Pixel snowy cabin
+### 452. Pixel snowy cabin
 
 <img src="gifs/pixel-snow-cabin.gif" alt="Pixel snowy cabin" width="360">
 
@@ -6280,7 +6462,7 @@ A pixel-art log cabin in a snowy forest, smoke rising from the chimney, windows 
 
 `pixel` `winter` `ambient`
 
-### 440. Pixel potion shop
+### 453. Pixel potion shop
 
 <img src="gifs/pixel-potion-shop.gif" alt="Pixel potion shop" width="360">
 
@@ -6294,7 +6476,7 @@ A pixel-art potion shop counter with bubbling colorful bottles and a shopkeeper 
 
 `pixel` `game` `shop`
 
-### 441. Pixel ninja frog dash
+### 454. Pixel ninja frog dash
 
 <img src="gifs/pixel-ninja-frog.gif" alt="Pixel ninja frog dash" width="360">
 
@@ -6308,7 +6490,7 @@ A pixel-art frog in a red ninja headband dashes forward and leaves a short speed
 
 `pixel` `game` `sprite`
 
-### 442. Level up badge
+### 455. Level up badge
 
 <img src="gifs/level-up-badge.gif" alt="Level up badge" width="360">
 
@@ -6322,7 +6504,7 @@ A shiny gold badge with a star flips in, flashes, and small sparkles burst aroun
 
 `ui` `game` `icon`
 
-### 443. Pixel mailbox letter
+### 456. Pixel mailbox letter
 
 <img src="gifs/pixel-mailbox-letter.gif" alt="Pixel mailbox letter" width="360">
 
@@ -6336,7 +6518,7 @@ A pixel-art red mailbox flips its flag up and a letter pops out with a small spa
 
 `pixel` `ui` `mail`
 
-### 444. Pixel fox dash
+### 457. Pixel fox dash
 
 <img src="gifs/pixel-fox-dash.gif" alt="Pixel fox dash" width="360">
 
@@ -6350,7 +6532,7 @@ A pixel-art orange fox crouches then dashes forward with a burst of dust and a s
 
 `pixel` `sprite` `fox`
 
-### 445. Pixel rocket launch
+### 458. Pixel rocket launch
 
 <img src="gifs/pixel-rocket-launch.gif" alt="Pixel rocket launch" width="360">
 
@@ -6364,7 +6546,7 @@ A pixel-art rocket on a launch pad rumbles, flames burst from its base and it li
 
 `pixel` `space` `rocket`
 
-### 446. ASCII star logo assembles
+### 459. ASCII star logo assembles
 
 <img src="gifs/ascii-star-logo.gif" alt="ASCII star logo assembles" width="360">
 
@@ -6378,7 +6560,7 @@ Scattered green ASCII characters on a black terminal screen drift into place and
 
 `ascii` `logo` `terminal`
 
-### 447. Wallet top-up
+### 460. Wallet top-up
 
 <img src="gifs/wallet-top-up-coins.gif" alt="Wallet top-up" width="360">
 
@@ -6392,7 +6574,7 @@ A flat app icon of a teal wallet; three gold coins drop in one by one and a smal
 
 `wallet` `ui` `icon`
 
-### 448. Pixel cave waterfall
+### 461. Pixel cave waterfall
 
 <img src="gifs/pixel-cave-waterfall.gif" alt="Pixel cave waterfall" width="360">
 
@@ -6406,7 +6588,7 @@ A pixel art cave with a waterfall pouring into a pool, glowing crystals blinking
 
 `pixel` `cave` `waterfall`
 
-### 449. Pixel blacksmith
+### 462. Pixel blacksmith
 
 <img src="gifs/pixel-blacksmith-anvil.gif" alt="Pixel blacksmith" width="360">
 
@@ -6420,7 +6602,7 @@ A pixel art blacksmith in a leather apron hammers a glowing sword on an anvil, s
 
 `pixel` `blacksmith` `rpg`
 
-### 450. Pixel UFO beam
+### 463. Pixel UFO beam
 
 <img src="gifs/pixel-ufo-beam.gif" alt="Pixel UFO beam" width="360">
 
@@ -6434,7 +6616,7 @@ A pixel art flying saucer hovers over a farm at night and a green tractor beam l
 
 `pixel` `ufo` `cow`
 
-### 451. Pixel sailboat
+### 464. Pixel sailboat
 
 <img src="gifs/pixel-sailboat-sea.gif" alt="Pixel sailboat" width="360">
 
@@ -6448,7 +6630,7 @@ A small pixel art sailboat bobs on rolling waves with seagulls flapping overhead
 
 `pixel` `sea` `boat`
 
-### 452. Paw print loader
+### 465. Paw print loader
 
 <img src="gifs/paw-print-loader.gif" alt="Paw print loader" width="360">
 
@@ -6462,7 +6644,7 @@ Six small paw prints appear one after another in a circle and fade, like a loadi
 
 `loader` `ui` `paw`
 
-### 453. Checkbox tick
+### 466. Checkbox tick
 
 <img src="gifs/checkbox-tick-draw.gif" alt="Checkbox tick" width="360">
 
@@ -6476,7 +6658,7 @@ An empty rounded checkbox fills with green and a white checkmark draws itself in
 
 `checkbox` `ui` `icon`
 
-### 454. Pull to refresh
+### 467. Pull to refresh
 
 <img src="gifs/pull-to-refresh-arrow.gif" alt="Pull to refresh" width="360">
 
@@ -6490,7 +6672,7 @@ A circular arrow icon is pulled down, stretches slightly, then spins and snaps b
 
 `refresh` `ui` `mobile`
 
-### 455. Pixel dungeon door
+### 468. Pixel dungeon door
 
 <img src="gifs/pixel-key-door.gif" alt="Pixel dungeon door" width="360">
 
@@ -6504,7 +6686,7 @@ A pixel art golden key turns in a heavy wooden dungeon door, which creaks open t
 
 `pixel` `door` `game`
 
-### 456. Pixel shield block
+### 469. Pixel shield block
 
 <img src="gifs/pixel-shield-block.gif" alt="Pixel shield block" width="360">
 
@@ -6518,7 +6700,7 @@ A pixel art armored hedgehog raises a round shield and a fireball bursts into sp
 
 `pixel` `shield` `game`
 
-### 457. Pixel kettle boils
+### 470. Pixel kettle boils
 
 <img src="gifs/pixel-kettle-whistle.gif" alt="Pixel kettle boils" width="360">
 
@@ -6532,7 +6714,7 @@ A pixel art red kettle on a tiny stove rattles its lid and puffs steam clouds as
 
 `pixel` `kettle` `cozy`
 
-### 458. Volume slider
+### 471. Volume slider
 
 <img src="gifs/volume-slider-waves.gif" alt="Volume slider" width="360">
 
@@ -6546,7 +6728,7 @@ A rounded volume slider knob glides from left to right while sound wave arcs gro
 
 `ui` `volume` `icon`
 
-### 459. Copied to clipboard
+### 472. Copied to clipboard
 
 <img src="gifs/clipboard-copy-check.gif" alt="Copied to clipboard" width="360">
 
@@ -6560,7 +6742,7 @@ Two stacked rounded squares slide together into a clipboard icon, then a green c
 
 `ui` `copy` `icon`
 
-### 460. Map pin drops
+### 473. Map pin drops
 
 <img src="gifs/map-pin-drop.gif" alt="Map pin drops" width="360">
 
@@ -6574,7 +6756,7 @@ A red location pin drops onto a simple folded map, bounces once and sends out a 
 
 `ui` `map` `location`
 
-### 461. Donut chart fills
+### 474. Donut chart fills
 
 <img src="gifs/donut-chart-fill.gif" alt="Donut chart fills" width="360">
 
@@ -6588,7 +6770,23 @@ A donut chart fills segment by segment in teal, coral and yellow while the perce
 
 `ui` `chart` `data`
 
-### 462. Low-poly hero jog
+### 475. Pixel astronaut run cycle
+
+<img src="gifs/pixel-astronaut-run.gif" alt="Pixel astronaut run cycle" width="360">
+
+<sub>16 frames · 378×249 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A pixel art astronaut in a white suit with an orange visor runs in place in a smooth side-view run cycle, small dust puffs at each step. Limited 16-color palette, dark navy background with a few stars.
+```
+
+> 💡 **Tip:** Run and walk cycles look smoother with 12–16 frames.
+
+`pixel` `astronaut` `run-cycle`
+
+### 476. Low-poly hero jog
 
 <img src="gifs/lowpoly-hero-jog.gif" alt="Low-poly hero jog" width="360">
 
@@ -6602,7 +6800,7 @@ A blocky low-poly game hero in a red jacket jogs along a dirt path in a side vie
 
 `low-poly` `retro-game` `run`
 
-### 463. Pixel dino stomps and roars
+### 477. Pixel dino stomps and roars
 
 <img src="gifs/pixel-dino-stomp.gif" alt="Pixel dino stomps and roars" width="360">
 
@@ -6616,9 +6814,109 @@ A small green pixel art dinosaur stomps one foot, opens its mouth in a tiny roar
 
 `pixel` `dinosaur` `sprite`
 
+### 478. Add to cart
+
+<img src="gifs/cart-add-badge.gif" alt="Add to cart" width="360">
+
+<sub>9 frames · 437×388 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A flat shopping cart icon; a small box drops into it, the cart wiggles, and a red badge with the number 1 pops up on its corner. Clean app UI icon style, white background.
+```
+
+`ui` `cart` `ecommerce`
+
+### 479. Bookmark saved
+
+<img src="gifs/bookmark-ribbon-save.gif" alt="Bookmark saved" width="360">
+
+<sub>9 frames · 438×389 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+An outlined bookmark icon fills with solid gold from top to bottom and gives a small bounce, with a few tiny sparkles. Minimal app icon style, white background.
+```
+
+`ui` `bookmark` `save`
+
+### 480. Pixel bee garden
+
+<img src="gifs/pixel-bee-garden.gif" alt="Pixel bee garden" width="360">
+
+<sub>16 frames · 375×246 · 1.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A pixel art bee buzzes in a figure eight between three pixel flowers that sway slightly. 16-bit game style, light green background.
+```
+
+`pixel` `bee` `garden`
+
+### 481. Pixel train on a bridge
+
+<img src="gifs/pixel-train-bridge.gif" alt="Pixel train on a bridge" width="360">
+
+<sub>12 frames · 358×345 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A small pixel art steam train crosses a stone arch bridge over a river, puffing little smoke clouds, mountains behind. 16-bit side-scroller style, sunset palette.
+```
+
+`pixel` `train` `landscape`
+
+### 482. Emoji reactions pop
+
+<img src="gifs/emoji-reaction-pop.gif" alt="Emoji reactions pop" width="360">
+
+<sub>12 frames · 356×356 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A rounded white reaction bar where five round emoji faces, smile, laugh, heart eyes, surprise and sad, pop up one after another with a springy bounce. Clean app UI style, light gray background.
+```
+
+`ui` `emoji` `reaction`
+
+### 483. Success toast slides in
+
+<img src="gifs/toast-success-slide.gif" alt="Success toast slides in" width="360">
+
+<sub>16 frames · 380×252 · 1.8s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A green rounded notification toast slides in from the top with a white check mark drawing itself, holds a moment, then slides back up. Minimal app UI, white background, no other text.
+```
+
+`ui` `toast` `notification`
+
 ## Science & Explainers
 
-### 464. Water cycle
+### 484. Pendulum swing
+
+<img src="gifs/pendulum-swing-trace.gif" alt="Pendulum swing" width="360">
+
+<sub>12 frames · 358×357 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A simple science diagram of a pendulum: a metal ball on a string swings left and right from a fixed pivot, a faint dotted arc showing its path. Clean flat textbook illustration, white background, no text labels.
+```
+
+> 💡 **Tip:** Ask for no text labels; diagram text drifts between frames.
+
+`physics` `pendulum` `science`
+
+### 485. Water cycle
 
 <img src="gifs/water-cycle-loop.gif" alt="Water cycle" width="360">
 
@@ -6632,7 +6930,21 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 465. Bean sprouting underground
+### 486. Moon phases
+
+<img src="gifs/moon-phases-cycle.gif" alt="Moon phases" width="360">
+
+<sub>16 frames · 309×309 · 1.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+
+**Prompt**
+
+```text
+A single moon centered in a square frame of dark starry sky goes through its phases, from thin crescent to full moon and back to crescent, the shadow edge sliding smoothly across it. Clean flat illustration, fixed camera.
+```
+
+`moon` `astronomy` `science`
+
+### 487. Bean sprouting underground
 
 <img src="gifs/bean-roots-cutaway.gif" alt="Bean sprouting underground" width="360">
 
@@ -6646,7 +6958,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 466. Beating heart diagram
+### 488. Beating heart diagram
 
 <img src="gifs/heart-pump-diagram.gif" alt="Beating heart diagram" width="360">
 
@@ -6660,7 +6972,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 467. Planets orbit the sun
+### 489. Planets orbit the sun
 
 <img src="gifs/solar-system-orbit.gif" alt="Planets orbit the sun" width="360">
 
@@ -6674,7 +6986,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 468. Prism splits light
+### 490. Prism splits light
 
 <img src="gifs/prism-rainbow-split.gif" alt="Prism splits light" width="360">
 
@@ -6688,7 +7000,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 469. Seesaw lever balance
+### 491. Seesaw lever balance
 
 <img src="gifs/seesaw-lever-balance.gif" alt="Seesaw lever balance" width="360">
 
