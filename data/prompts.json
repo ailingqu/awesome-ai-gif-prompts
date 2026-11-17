@@ -20,6 +20,11 @@
       "id": "pixel-ui",
       "title": "Pixel Art & UI Motion",
       "title_zh": "像素风与界面动效"
+    },
+    {
+      "id": "explainers",
+      "title": "Science & Explainers",
+      "title_zh": "科普讲解动图"
     }
   ],
   "prompts": [
@@ -4741,6 +4746,998 @@
         "tea",
         "product",
         "drink"
+      ]
+    },
+    {
+      "id": "snail-rush-sweat",
+      "category": "stickers",
+      "title": "Snail in a hurry",
+      "title_zh": "赶路的蜗牛",
+      "prompt": "A snail with a tiny backpack strains forward with sweat drops and speed lines flying, yet barely moves an inch. Funny flat cartoon, light green background.",
+      "tags": [
+        "snail",
+        "late",
+        "sticker"
+      ]
+    },
+    {
+      "id": "umbrella-pop-open",
+      "category": "flash",
+      "title": "Umbrella pops open",
+      "title_zh": "雨伞弹开",
+      "prompt": "A navy folding umbrella pops open and spins once while raindrops bead and roll off its canopy. Product shot, soft gray studio background.",
+      "tags": [
+        "umbrella",
+        "product",
+        "rain"
+      ]
+    },
+    {
+      "id": "book-paper-birds",
+      "category": "flash",
+      "title": "Book releases paper birds",
+      "title_zh": "书里飞出纸鸟",
+      "prompt": "A hardcover book opens on a table, warm light spills out and a few small paper birds flutter up from the pages. Cozy illustrated style, dark background.",
+      "tags": [
+        "book",
+        "magic",
+        "promo"
+      ]
+    },
+    {
+      "id": "donut-sprinkle-spin",
+      "category": "flash",
+      "title": "Donut sprinkle spin",
+      "title_zh": "甜甜圈旋转撒糖",
+      "prompt": "A glazed pink donut turns slowly on a small pedestal as rainbow sprinkles rain down and stick to the icing. Playful bakery ad, mint background.",
+      "tags": [
+        "donut",
+        "food",
+        "ad"
+      ]
+    },
+    {
+      "id": "chocolate-bar-snap",
+      "category": "flash",
+      "title": "Chocolate snap",
+      "title_zh": "巧克力掰开",
+      "prompt": "A dark chocolate bar snaps cleanly in half and small crumbs pop into the air. Close-up food photography, deep brown backdrop, dramatic side light.",
+      "tags": [
+        "chocolate",
+        "food",
+        "product"
+      ]
+    },
+    {
+      "id": "sunglasses-sky-sweep",
+      "category": "flash",
+      "title": "Sunglasses reflection sweep",
+      "title_zh": "墨镜反光扫过",
+      "prompt": "A pair of tortoiseshell sunglasses rotates gently on a stand while a reflection of blue sky and clouds sweeps across the lenses. Summer product shot, sand-colored backdrop.",
+      "tags": [
+        "sunglasses",
+        "product",
+        "summer"
+      ]
+    },
+    {
+      "id": "library-dust-sunbeam",
+      "category": "loops",
+      "title": "Library sunbeam dust",
+      "title_zh": "图书馆光束浮尘",
+      "prompt": "Golden dust motes drift slowly through a beam of sunlight in a quiet wooden library aisle. Warm cinematic light, fixed camera, everything else still.",
+      "tags": [
+        "library",
+        "light",
+        "calm"
+      ]
+    },
+    {
+      "id": "moon-boat-rock",
+      "category": "loops",
+      "title": "Moonlit boat",
+      "title_zh": "月下小船",
+      "prompt": "A small wooden rowboat rocks gently on dark water under a full moon, its reflection rippling. Soft painterly night scene, fixed camera.",
+      "tags": [
+        "boat",
+        "moon",
+        "night"
+      ]
+    },
+    {
+      "id": "wheat-field-wind",
+      "category": "loops",
+      "title": "Wheat field in the wind",
+      "title_zh": "风吹麦浪",
+      "prompt": "Golden wheat sways in waves across a field as fluffy clouds drift slowly overhead. Warm late afternoon light, wide fixed shot.",
+      "tags": [
+        "wheat",
+        "wind",
+        "nature"
+      ]
+    },
+    {
+      "id": "beach-hammock-sway",
+      "category": "loops",
+      "title": "Beach hammock",
+      "title_zh": "海边吊床",
+      "prompt": "An empty striped hammock sways between two palm trees while small waves roll onto the beach behind it. Bright tropical illustration, fixed camera.",
+      "tags": [
+        "beach",
+        "hammock",
+        "summer"
+      ]
+    },
+    {
+      "id": "brass-gears-turn",
+      "category": "loops",
+      "title": "Brass gears turning",
+      "title_zh": "黄铜齿轮转动",
+      "prompt": "A cluster of interlocking brass gears turns smoothly at different speeds, light glinting on the teeth. Steampunk macro shot, dark background.",
+      "tags": [
+        "gears",
+        "steampunk",
+        "machine"
+      ]
+    },
+    {
+      "id": "terrarium-mist",
+      "category": "loops",
+      "title": "Terrarium mist",
+      "title_zh": "玻璃生态瓶起雾",
+      "prompt": "Inside a glass terrarium with moss and tiny ferns, soft mist curls and a single water drop slides down the glass. Macro photography, soft green light.",
+      "tags": [
+        "terrarium",
+        "plants",
+        "mist"
+      ]
+    },
+    {
+      "id": "laundromat-night-spin",
+      "category": "loops",
+      "title": "Night laundromat",
+      "title_zh": "深夜洗衣房",
+      "prompt": "A front-loading washer spins colorful clothes behind its round glass door in an empty laundromat at night, fluorescent light humming. Moody lo-fi illustration, fixed camera.",
+      "tags": [
+        "laundromat",
+        "night",
+        "lofi"
+      ]
+    },
+    {
+      "id": "manta-ray-glide",
+      "category": "loops",
+      "title": "Manta ray glide",
+      "title_zh": "蝠鲼滑翔",
+      "prompt": "A manta ray glides through blue water, its wings rising and falling slowly while sun rays shimmer from above. Underwater scene, fixed camera.",
+      "tags": [
+        "ocean",
+        "manta",
+        "underwater"
+      ]
+    },
+    {
+      "id": "rainy-greenhouse",
+      "category": "loops",
+      "title": "Rainy greenhouse",
+      "title_zh": "雨中温室",
+      "prompt": "Rain streaks down the glass panes of a small greenhouse full of potted plants, droplets tapping and leaves trembling slightly. Soft green cinematic light.",
+      "tags": [
+        "greenhouse",
+        "rain",
+        "plants"
+      ]
+    },
+    {
+      "id": "pixel-cave-waterfall",
+      "category": "pixel-ui",
+      "title": "Pixel cave waterfall",
+      "title_zh": "像素洞穴瀑布",
+      "prompt": "A pixel art cave with a waterfall pouring into a pool, glowing crystals blinking on the walls. 16-bit game style, fixed camera.",
+      "tags": [
+        "pixel",
+        "cave",
+        "waterfall"
+      ]
+    },
+    {
+      "id": "pixel-blacksmith-anvil",
+      "category": "pixel-ui",
+      "title": "Pixel blacksmith",
+      "title_zh": "像素铁匠打铁",
+      "prompt": "A pixel art blacksmith in a leather apron hammers a glowing sword on an anvil, sparks flying with each strike. 16-bit RPG style, dark forge background.",
+      "tags": [
+        "pixel",
+        "blacksmith",
+        "rpg"
+      ]
+    },
+    {
+      "id": "pixel-ufo-beam",
+      "category": "pixel-ui",
+      "title": "Pixel UFO beam",
+      "title_zh": "像素飞碟吸牛",
+      "prompt": "A pixel art flying saucer hovers over a farm at night and a green tractor beam lifts a surprised cow a little off the ground. 8-bit style, starry sky.",
+      "tags": [
+        "pixel",
+        "ufo",
+        "cow"
+      ]
+    },
+    {
+      "id": "pixel-sailboat-sea",
+      "category": "pixel-ui",
+      "title": "Pixel sailboat",
+      "title_zh": "像素帆船",
+      "prompt": "A small pixel art sailboat bobs on rolling waves with seagulls flapping overhead. 16-bit style, sunset sky.",
+      "tags": [
+        "pixel",
+        "sea",
+        "boat"
+      ]
+    },
+    {
+      "id": "paw-print-loader",
+      "category": "pixel-ui",
+      "title": "Paw print loader",
+      "title_zh": "爪印加载动画",
+      "prompt": "Six small paw prints appear one after another in a circle and fade, like a loading spinner. Flat UI style, white background, single brown color.",
+      "tags": [
+        "loader",
+        "ui",
+        "paw"
+      ]
+    },
+    {
+      "id": "checkbox-tick-draw",
+      "category": "pixel-ui",
+      "title": "Checkbox tick",
+      "title_zh": "复选框打勾",
+      "prompt": "An empty rounded checkbox fills with green and a white checkmark draws itself inside with a small bounce. Clean flat UI, white background.",
+      "tags": [
+        "checkbox",
+        "ui",
+        "icon"
+      ]
+    },
+    {
+      "id": "pull-to-refresh-arrow",
+      "category": "pixel-ui",
+      "title": "Pull to refresh",
+      "title_zh": "下拉刷新",
+      "prompt": "A circular arrow icon is pulled down, stretches slightly, then spins and snaps back with a small check. Minimal mobile UI style, light gray background.",
+      "tags": [
+        "refresh",
+        "ui",
+        "mobile"
+      ]
+    },
+    {
+      "id": "seed-sprout-pot",
+      "category": "loops",
+      "title": "Seed sprouts in a pot",
+      "title_zh": "种子发芽",
+      "prompt": "A seed in a small clay pot pushes up a green sprout that unfurls two leaves, a droplet sliding off one. Soft cartoon style, warm windowsill light.",
+      "tags": [
+        "plant",
+        "sprout",
+        "growth"
+      ]
+    },
+    {
+      "id": "cloud-pours-coffee",
+      "category": "loops",
+      "title": "Cloud pours coffee",
+      "title_zh": "云朵倒咖啡",
+      "prompt": "A fluffy white cloud with a sleepy face tilts and pours a thin stream of coffee into a striped mug below, steam curling up. Soft pastel illustration, pale blue background.",
+      "tags": [
+        "cloud",
+        "coffee",
+        "morning"
+      ]
+    },
+    {
+      "id": "squirrel-boxing-nuts",
+      "category": "stickers",
+      "title": "Squirrel ready to fight",
+      "title_zh": "备战松鼠",
+      "prompt": "A chubby red squirrel in tiny boxing gloves, cheeks stuffed with nuts, bounces on its feet and throws two quick jabs. Bold cartoon sticker, white outline, cream background.",
+      "tags": [
+        "squirrel",
+        "fight",
+        "sticker"
+      ]
+    },
+    {
+      "id": "plant-will-survive",
+      "category": "stickers",
+      "title": "Houseplant survives",
+      "title_zh": "顽强的盆栽",
+      "prompt": "A droopy potted plant with two leaves sags, then perks straight up and flexes one leaf like a bicep. Cute flat sticker, thick outline, light yellow background.",
+      "tags": [
+        "plant",
+        "survive",
+        "sticker"
+      ]
+    },
+    {
+      "id": "spellbook-menu-pop",
+      "category": "flash",
+      "title": "Spellbook game menu",
+      "title_zh": "魔法书游戏菜单",
+      "prompt": "A worn leather spellbook drops onto a wooden table, flips open, and three glowing menu buttons rise out of its pages. Fantasy game UI style, warm candlelight, dark background.",
+      "tags": [
+        "book",
+        "game",
+        "menu"
+      ]
+    },
+    {
+      "id": "celestial-clock-shatter",
+      "category": "loops",
+      "title": "Celestial clock cracks",
+      "title_zh": "星辰钟碎裂",
+      "prompt": "A brass astronomical clock with tiny planets on its rings cracks across the face and spills glowing star fragments that drift outward. Ornate fantasy illustration, deep navy background.",
+      "tags": [
+        "clock",
+        "stars",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "submarine-cutaway",
+      "category": "loops",
+      "title": "Submarine cross-section",
+      "title_zh": "潜艇剖面图",
+      "prompt": "A cutaway view of a yellow submarine showing small rooms; tiny crew members walk between the engine room and the periscope while bubbles rise outside. Clean isometric infographic style, deep teal water.",
+      "tags": [
+        "cutaway",
+        "submarine",
+        "infographic"
+      ]
+    },
+    {
+      "id": "ant-nest-cutaway",
+      "category": "loops",
+      "title": "Ant nest cross-section",
+      "title_zh": "蚁巢剖面",
+      "prompt": "A cross-section of an underground ant nest; ants carry crumbs and leaves along winding tunnels into round chambers. Educational illustration, warm soil tones.",
+      "tags": [
+        "cutaway",
+        "ants",
+        "science"
+      ]
+    },
+    {
+      "id": "volcano-cutaway-rise",
+      "category": "loops",
+      "title": "Volcano magma rising",
+      "title_zh": "火山剖面岩浆上升",
+      "prompt": "A cross-section of a cone volcano with labeled layers; glowing magma climbs the central vent and a small puff of smoke pops from the crater. Textbook infographic style, white background.",
+      "tags": [
+        "cutaway",
+        "volcano",
+        "science"
+      ]
+    },
+    {
+      "id": "cat-milk-please",
+      "category": "stickers",
+      "title": "Milk on the way home",
+      "title_zh": "回家带牛奶",
+      "prompt": "A round white cat holds up an empty milk carton and gives a hopeful little bow, a small heart popping above. Soft family sticker style, big rounded shapes, light pink background.",
+      "tags": [
+        "cat",
+        "family",
+        "sticker"
+      ]
+    },
+    {
+      "id": "bear-eat-first",
+      "category": "stickers",
+      "title": "Go ahead and eat",
+      "title_zh": "你先吃吧",
+      "prompt": "A brown bear in an apron sets down a steaming bowl and waves a paw toward it with a warm smile. Cozy family sticker style, thick outline, beige background.",
+      "tags": [
+        "bear",
+        "dinner",
+        "family"
+      ]
+    },
+    {
+      "id": "duck-lifebuoy-thanks",
+      "category": "stickers",
+      "title": "Saved, thank you",
+      "title_zh": "得救了谢谢",
+      "prompt": "A yellow duck clinging to a red-white lifebuoy pops up from water and waves gratefully, sparkles around it. Cheerful flat sticker, light aqua background.",
+      "tags": [
+        "duck",
+        "thanks",
+        "sticker"
+      ]
+    },
+    {
+      "id": "hamster-day-off",
+      "category": "stickers",
+      "title": "Taking a day off",
+      "title_zh": "今天休息",
+      "prompt": "A hamster yawns and pulls a tiny quilt over its head, leaving only its ears and a dangling OFF tag visible. Cute sticker style, lavender background.",
+      "tags": [
+        "hamster",
+        "rest",
+        "sticker"
+      ]
+    },
+    {
+      "id": "bee-flower-bump",
+      "category": "stickers",
+      "title": "Bee bonks a flower",
+      "title_zh": "撞花的小蜜蜂",
+      "prompt": "A round bumblebee buzzes forward, bonks into a big daisy, and spins dizzily with little stars circling its head. Playful cartoon sticker, mint background.",
+      "tags": [
+        "bee",
+        "oops",
+        "sticker"
+      ]
+    },
+    {
+      "id": "goat-yell-surprise",
+      "category": "stickers",
+      "title": "Goat yells",
+      "title_zh": "大叫的山羊",
+      "prompt": "A small white goat opens its mouth wide in a dramatic yell, ears flapping and motion lines bursting out. Funny meme sticker, bright orange background.",
+      "tags": [
+        "goat",
+        "shock",
+        "meme"
+      ]
+    },
+    {
+      "id": "cat-box-peek",
+      "category": "stickers",
+      "title": "Cat peeks from box",
+      "title_zh": "纸箱探头猫",
+      "prompt": "A gray tabby slowly rises out of a cardboard box until its eyes clear the edge, blinks once, then sinks back down. Simple cartoon, warm white background.",
+      "tags": [
+        "cat",
+        "box",
+        "peek"
+      ]
+    },
+    {
+      "id": "penguin-pirouette",
+      "category": "stickers",
+      "title": "Penguin pirouette",
+      "title_zh": "转圈企鹅",
+      "prompt": "A chubby penguin in a tiny tutu does one wobbly spin on ice and ends with a proud flipper pose. Cute flat sticker, icy blue background.",
+      "tags": [
+        "penguin",
+        "dance",
+        "sticker"
+      ]
+    },
+    {
+      "id": "pixel-key-door",
+      "category": "pixel-ui",
+      "title": "Pixel dungeon door",
+      "title_zh": "像素地牢开门",
+      "prompt": "A pixel art golden key turns in a heavy wooden dungeon door, which creaks open to reveal torchlight inside. 16-bit game style, dark stone background.",
+      "tags": [
+        "pixel",
+        "door",
+        "game"
+      ]
+    },
+    {
+      "id": "pixel-shield-block",
+      "category": "pixel-ui",
+      "title": "Pixel shield block",
+      "title_zh": "像素举盾格挡",
+      "prompt": "A pixel art armored hedgehog raises a round shield and a fireball bursts into sparks against it. 16-bit game sprite style, plain dark purple background.",
+      "tags": [
+        "pixel",
+        "shield",
+        "game"
+      ]
+    },
+    {
+      "id": "pixel-kettle-whistle",
+      "category": "pixel-ui",
+      "title": "Pixel kettle boils",
+      "title_zh": "像素水壶烧开",
+      "prompt": "A pixel art red kettle on a tiny stove rattles its lid and puffs steam clouds as it whistles. Cozy 16-bit style, warm kitchen tile background.",
+      "tags": [
+        "pixel",
+        "kettle",
+        "cozy"
+      ]
+    },
+    {
+      "id": "volume-slider-waves",
+      "category": "pixel-ui",
+      "title": "Volume slider",
+      "title_zh": "音量滑块",
+      "prompt": "A rounded volume slider knob glides from left to right while sound wave arcs grow beside a speaker icon. Clean flat UI icon style, white background, purple accent.",
+      "tags": [
+        "ui",
+        "volume",
+        "icon"
+      ]
+    },
+    {
+      "id": "clipboard-copy-check",
+      "category": "pixel-ui",
+      "title": "Copied to clipboard",
+      "title_zh": "复制成功",
+      "prompt": "Two stacked rounded squares slide together into a clipboard icon, then a green checkmark draws itself on top. Minimal flat UI animation, light gray background.",
+      "tags": [
+        "ui",
+        "copy",
+        "icon"
+      ]
+    },
+    {
+      "id": "map-pin-drop",
+      "category": "pixel-ui",
+      "title": "Map pin drops",
+      "title_zh": "地图图钉落下",
+      "prompt": "A red location pin drops onto a simple folded map, bounces once and sends out a soft ripple ring. Flat UI icon style, pale green background.",
+      "tags": [
+        "ui",
+        "map",
+        "location"
+      ]
+    },
+    {
+      "id": "donut-chart-fill",
+      "category": "pixel-ui",
+      "title": "Donut chart fills",
+      "title_zh": "环形图填充",
+      "prompt": "A donut chart fills segment by segment in teal, coral and yellow while the percentage in the middle counts up. Clean dashboard UI style, white background.",
+      "tags": [
+        "ui",
+        "chart",
+        "data"
+      ]
+    },
+    {
+      "id": "lemonade-ice-drop",
+      "category": "flash",
+      "title": "Ice drops into lemonade",
+      "title_zh": "冰块落入柠檬水",
+      "prompt": "Ice cubes and a lemon slice drop into a tall glass of lemonade, splashing droplets and fizzing bubbles. Fresh summer drink ad style, sunny yellow background.",
+      "tags": [
+        "drink",
+        "summer",
+        "ad"
+      ]
+    },
+    {
+      "id": "keycap-ripple-press",
+      "category": "flash",
+      "title": "Keycaps press in a wave",
+      "title_zh": "键帽波浪按压",
+      "prompt": "Mechanical keyboard keycaps press down one after another in a wave from left to right, RGB glow following underneath. Sleek product shot, dark background.",
+      "tags": [
+        "keyboard",
+        "product",
+        "tech"
+      ]
+    },
+    {
+      "id": "compact-mirror-open",
+      "category": "flash",
+      "title": "Compact mirror opens",
+      "title_zh": "粉饼盒打开",
+      "prompt": "A rose-gold makeup compact clicks open, the mirror catches a flash of light and a little powder puff lifts out. Elegant beauty product shot, blush pink background.",
+      "tags": [
+        "beauty",
+        "product",
+        "compact"
+      ]
+    },
+    {
+      "id": "zen-sand-rake",
+      "category": "loops",
+      "title": "Raking a zen garden",
+      "title_zh": "枯山水耙沙",
+      "prompt": "A wooden rake draws smooth curving lines through white sand around a mossy stone in a small zen garden. Calm top-down illustration, soft morning light.",
+      "tags": [
+        "zen",
+        "garden",
+        "calm"
+      ]
+    },
+    {
+      "id": "pottery-wheel-bowl",
+      "category": "loops",
+      "title": "Pottery wheel",
+      "title_zh": "拉坯转盘",
+      "prompt": "Clay-covered hands shape a bowl on a spinning pottery wheel, its rim rising slowly and evenly. Warm studio illustration, earthy tones.",
+      "tags": [
+        "pottery",
+        "craft",
+        "calm"
+      ]
+    },
+    {
+      "id": "sea-turtle-sunrays",
+      "category": "loops",
+      "title": "Sea turtle in sun rays",
+      "title_zh": "阳光中的海龟",
+      "prompt": "A green sea turtle paddles slowly through shafts of sunlight with small fish drifting past. Painterly underwater scene, turquoise water.",
+      "tags": [
+        "turtle",
+        "ocean",
+        "calm"
+      ]
+    },
+    {
+      "id": "snail-shell-house-lights",
+      "category": "loops",
+      "title": "Snail house lights up",
+      "title_zh": "蜗牛壳小屋亮灯",
+      "prompt": "A snail carrying a tiny cottage on its back inches along a mossy log as the little windows flicker on one by one at dusk. Storybook watercolor style.",
+      "tags": [
+        "snail",
+        "cottage",
+        "storybook"
+      ]
+    },
+    {
+      "id": "kitten-screen-repair",
+      "category": "stickers",
+      "title": "Kitten fixes a cracked screen",
+      "title_zh": "手机里修屏的小猫",
+      "prompt": "A tiny gray kitten in a yellow hard hat stands inside a cracked phone screen and works a toy power drill against the crack, sparks flying, the crack shrinking a little. Cute 3D cartoon, phone fills the frame, fixed camera.",
+      "tags": [
+        "kitten",
+        "phone",
+        "repair"
+      ]
+    },
+    {
+      "id": "peony-bloom-open",
+      "category": "loops",
+      "title": "Peony blooms open",
+      "title_zh": "牡丹缓缓绽放",
+      "prompt": "A single pink peony bud slowly unfurls its layered petals into a full bloom, a few petals trembling at the edges. Soft studio light, plain cream background, fixed close-up camera.",
+      "tags": [
+        "flower",
+        "bloom",
+        "macro"
+      ],
+      "tips": "Blooming is a one-way motion, so ask for the bloom to ease back closed at the end if you want it to loop cleanly.",
+      "tips_zh": "开花是单向动作，想无缝循环就让花在结尾缓缓收拢回花苞。"
+    },
+    {
+      "id": "robot-antenna-wave",
+      "category": "stickers",
+      "title": "Mint robot waves hello",
+      "title_zh": "薄荷色机器人挥手",
+      "prompt": "A small mint-green robot with a round screen face and a blinking antenna raises one hand, gives one wave, and lowers it back to rest. Simple rounded 3D illustration, clean white background, fixed camera.",
+      "tags": [
+        "robot",
+        "wave",
+        "hello"
+      ]
+    },
+    {
+      "id": "red-panda-blink-smile",
+      "category": "stickers",
+      "title": "Red panda blinks and smiles",
+      "title_zh": "小熊猫眨眼微笑",
+      "prompt": "A fluffy red panda mascot closes its eyes, opens them again with a small happy smile, ears twitching once. Soft flat illustration, cream background, fixed camera.",
+      "tags": [
+        "red-panda",
+        "blink",
+        "cute"
+      ]
+    },
+    {
+      "id": "fox-hello-steps",
+      "category": "stickers",
+      "title": "Fox steps up and waves",
+      "title_zh": "小狐狸上前打招呼",
+      "prompt": "An orange fox in a little blue scarf takes two small steps toward the viewer, waves one paw, then steps back to where it started. Flat vector cartoon, pale mint background, fixed camera.",
+      "tags": [
+        "fox",
+        "wave",
+        "greeting"
+      ],
+      "tips": "Describe the start pose, the action and the return to start; it keeps the first and last frames matched.",
+      "tips_zh": "写清起始姿势、动作和回到原位，首尾帧才对得上。"
+    },
+    {
+      "id": "cove-waves-cinemagraph",
+      "category": "loops",
+      "title": "Cove waves cinemagraph",
+      "title_zh": "海湾浪花动态照片",
+      "prompt": "A quiet rocky cove at golden hour where only the sea moves: small waves roll in and wash over the sand. The rocks, cliffs and sky stay completely still. Natural photographic color, fixed camera.",
+      "tags": [
+        "sea",
+        "cinemagraph",
+        "calm"
+      ],
+      "tips": "For a cinemagraph, name the one thing that moves and list what must stay frozen.",
+      "tips_zh": "做动态照片要点名唯一动的元素，并列出必须静止的部分。"
+    },
+    {
+      "id": "sale-tag-swing",
+      "category": "flash",
+      "title": "SALE tag swings",
+      "title_zh": "摇摆的促销吊牌",
+      "prompt": "A red paper price tag that says SALE hangs from a string and swings left and right with a tiny bounce, a few gold sparkles popping around it. Bold flat ad style, solid black background edge to edge in every frame.",
+      "tags": [
+        "sale",
+        "black-friday",
+        "ad"
+      ],
+      "tips": "Keep on-image text to one short word; longer text tends to change between frames.",
+      "tips_zh": "画面文字只放一个短词，长文字在帧之间容易变形。"
+    },
+    {
+      "id": "shopping-bag-hop",
+      "category": "flash",
+      "title": "Shopping bag hops",
+      "title_zh": "蹦跳的购物袋",
+      "prompt": "A glossy orange shopping bag with rope handles hops up, squashes on landing, and a little gift box pops out of the top and drops back in. Playful 3D product style, pastel pink background.",
+      "tags": [
+        "shopping",
+        "bag",
+        "promo"
+      ]
+    },
+    {
+      "id": "doodle-stick-dance",
+      "category": "stickers",
+      "title": "Notebook stick figure dances",
+      "title_zh": "本子上的火柴人跳舞",
+      "prompt": "A hand-drawn ballpoint stick figure on lined notebook paper does a goofy hip-shaking dance with arms waving, slight line boil like a flipbook. Paper texture, fixed overhead camera.",
+      "tags": [
+        "doodle",
+        "dance",
+        "sketch"
+      ]
+    },
+    {
+      "id": "doodle-eye-roll",
+      "category": "stickers",
+      "title": "Doodle eye roll",
+      "title_zh": "涂鸦小人翻白眼",
+      "prompt": "A round hand-drawn doodle face with marker lines rolls its eyes up in exaggerated annoyance, then looks back forward with a flat mouth. White paper background, wobbly ink lines.",
+      "tags": [
+        "doodle",
+        "eye-roll",
+        "reaction"
+      ]
+    },
+    {
+      "id": "geo-doodle-face-wobble",
+      "category": "loops",
+      "title": "Naive geometric face",
+      "title_zh": "稚拙几何手绘脸",
+      "prompt": "A naive hand-drawn portrait of an imaginary character built from uneven circles, triangles and blocks of retro color, with trembling black ink outlines; the character blinks once and the color blocks shift slightly. Textured paper, lots of empty space.",
+      "tags": [
+        "illustration",
+        "geometric",
+        "ink"
+      ]
+    },
+    {
+      "id": "bauhaus-shapes-shuffle",
+      "category": "flash",
+      "title": "Bauhaus shapes shuffle",
+      "title_zh": "包豪斯几何块换位",
+      "prompt": "A grid of Bauhaus shapes in red, yellow, blue and black, circles, half circles, squares and triangles, slide and rotate into new positions in crisp steps. Flat poster style, off-white background.",
+      "tags": [
+        "bauhaus",
+        "geometric",
+        "motion-design"
+      ]
+    },
+    {
+      "id": "mycelium-bridge-glow",
+      "category": "loops",
+      "title": "Glowing mycelium bridge",
+      "title_zh": "发光菌丝峡谷桥",
+      "prompt": "A delicate bridge woven from glowing white fungal threads spans a misty canyon at dusk; soft pulses of blue light travel along the threads from one side to the other. Fantasy concept art, fixed wide shot.",
+      "tags": [
+        "fantasy",
+        "bridge",
+        "glow"
+      ]
+    },
+    {
+      "id": "lowpoly-hero-jog",
+      "category": "pixel-ui",
+      "title": "Low-poly hero jog",
+      "title_zh": "低多边形主角慢跑",
+      "prompt": "A blocky low-poly game hero in a red jacket jogs along a dirt path in a side view, rendered like an early 2000s console game with chunky polygons and blurry textures. Fixed camera, simple green hills behind.",
+      "tags": [
+        "low-poly",
+        "retro-game",
+        "run"
+      ]
+    },
+    {
+      "id": "elephant-trunk-spray",
+      "category": "stickers",
+      "title": "Baby elephant trunk shower",
+      "title_zh": "小象鼻子喷水",
+      "prompt": "A chubby baby elephant lifts its trunk and sprays a happy fountain of water over its own head, droplets sparkling. Cute flat cartoon, light blue background, fixed camera.",
+      "tags": [
+        "elephant",
+        "water",
+        "cute"
+      ]
+    },
+    {
+      "id": "wood-game-piece-flip",
+      "category": "flash",
+      "title": "Wooden game piece flips",
+      "title_zh": "木棋子翻面落定",
+      "prompt": "A pale wooden pentagon-shaped board game piece flips over in the air and lands with a small clack on a wooden grid board, a puff of dust at impact. Warm tabletop lighting, close-up, fixed camera.",
+      "tags": [
+        "board-game",
+        "wood",
+        "flip"
+      ]
+    },
+    {
+      "id": "comet-desert-night",
+      "category": "loops",
+      "title": "Comet over the desert",
+      "title_zh": "沙漠上空的彗星",
+      "prompt": "A bright comet with a long glowing tail drifts slowly across a starry sky above dark desert dunes, the tail shimmering. Calm night photography look, fixed wide camera.",
+      "tags": [
+        "comet",
+        "night",
+        "sky"
+      ]
+    },
+    {
+      "id": "pixel-dino-stomp",
+      "category": "pixel-ui",
+      "title": "Pixel dino stomps and roars",
+      "title_zh": "像素小恐龙跺脚吼叫",
+      "prompt": "A small green pixel art dinosaur stomps one foot, opens its mouth in a tiny roar with a shake line, then settles back. 16-bit game sprite, plain sand-colored background.",
+      "tags": [
+        "pixel",
+        "dinosaur",
+        "sprite"
+      ]
+    },
+    {
+      "id": "shiba-late-toast",
+      "category": "stickers",
+      "title": "Shiba running late",
+      "title_zh": "叼吐司赶路的柴犬",
+      "prompt": "A shiba inu with a slice of toast in its mouth runs in place in a panic, ears flapping, a sweat drop flying off. Funny flat sticker style, thick white outline, light yellow background.",
+      "tags": [
+        "shiba",
+        "late",
+        "sticker"
+      ]
+    },
+    {
+      "id": "travel-journal-stickers",
+      "category": "flash",
+      "title": "Travel journal stickers",
+      "title_zh": "旅行手账贴纸逐个贴上",
+      "prompt": "An open travel journal on an ivory desk; little stickers of a plane, a ticket stub, a palm tree and a stamp pop onto the page one after another with a soft bounce. Cozy scrapbook style, overhead camera.",
+      "tags": [
+        "scrapbook",
+        "travel",
+        "journal"
+      ]
+    },
+    {
+      "id": "water-cycle-loop",
+      "category": "explainers",
+      "title": "Water cycle",
+      "title_zh": "水循环示意",
+      "prompt": "A friendly cutaway landscape showing the water cycle: vapor rises from a lake, gathers into a cloud, rain falls on a mountain and flows back down a river into the lake. Flat educational illustration, soft blue palette, no text.",
+      "tags": [
+        "water-cycle",
+        "science",
+        "diagram"
+      ]
+    },
+    {
+      "id": "bean-roots-cutaway",
+      "category": "explainers",
+      "title": "Bean sprouting underground",
+      "title_zh": "豆子发芽地下剖面",
+      "prompt": "A cutaway of a soil pot shows a bean seed splitting open, a root reaching down and a pale shoot pushing up toward the surface. Soft flat educational illustration, brown and green palette, no text.",
+      "tags": [
+        "plant",
+        "germination",
+        "biology"
+      ]
+    },
+    {
+      "id": "heart-pump-diagram",
+      "category": "explainers",
+      "title": "Beating heart diagram",
+      "title_zh": "心脏跳动示意",
+      "prompt": "A friendly simplified anatomical heart in red and blue squeezes and relaxes in a steady beat, small arrows showing blood flowing in and out. Flat medical infographic style, light background, no text.",
+      "tags": [
+        "heart",
+        "biology",
+        "infographic"
+      ]
+    },
+    {
+      "id": "solar-system-orbit",
+      "category": "explainers",
+      "title": "Planets orbit the sun",
+      "title_zh": "行星绕日运行",
+      "prompt": "A flat top-down diagram of a glowing sun with four colorful planets moving along thin circular orbits at different speeds. Dark navy background, simple clean shapes, no text.",
+      "tags": [
+        "solar-system",
+        "astronomy",
+        "diagram"
+      ]
+    },
+    {
+      "id": "prism-rainbow-split",
+      "category": "explainers",
+      "title": "Prism splits light",
+      "title_zh": "三棱镜分光",
+      "prompt": "A white beam of light enters a glass triangular prism and fans out into a rainbow on the other side, the rainbow shimmering gently. Dark background, clean science illustration, fixed camera.",
+      "tags": [
+        "light",
+        "prism",
+        "physics"
+      ]
+    },
+    {
+      "id": "seesaw-lever-balance",
+      "category": "explainers",
+      "title": "Seesaw lever balance",
+      "title_zh": "跷跷板杠杆平衡",
+      "prompt": "A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops on one end, then a small block slides farther out on the other end until it balances level. Flat textbook illustration, white background, no text.",
+      "tags": [
+        "lever",
+        "physics",
+        "simple-machines"
+      ]
+    },
+    {
+      "id": "hippo-big-yawn",
+      "category": "stickers",
+      "title": "Hippo big yawn",
+      "title_zh": "河马打大哈欠",
+      "prompt": "A sleepy round lavender hippo opens its mouth in an enormous yawn, eyes squeezed shut, then closes it with a satisfied smack. Soft clay-like 3D style, pale peach background.",
+      "tags": [
+        "hippo",
+        "yawn",
+        "sleepy"
+      ]
+    },
+    {
+      "id": "sea-otter-float-nap",
+      "category": "loops",
+      "title": "Otter floats and naps",
+      "title_zh": "海獭仰浮打盹",
+      "prompt": "A sea otter floats on its back in calm water, holding a small shell on its belly, bobbing gently with the ripples as its eyes stay closed. Soft watercolor style, fixed overhead-angle camera.",
+      "tags": [
+        "otter",
+        "sleep",
+        "calm"
+      ]
+    },
+    {
+      "id": "ladybug-dew-slide",
+      "category": "loops",
+      "title": "Ladybug and dewdrop",
+      "title_zh": "瓢虫与露珠",
+      "prompt": "A ladybug walks along a curved green leaf while a dewdrop at the leaf tip swells and wobbles. Macro nature photography, soft morning bokeh, fixed camera.",
+      "tags": [
+        "ladybug",
+        "macro",
+        "nature"
       ]
     }
   ]
