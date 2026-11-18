@@ -1,8 +1,24 @@
-# Pixel Art & UI Motion · 84 prompts
+# Pixel Art & UI Motion · 85 prompts
 
 [← README](../README.md)
 
-### 1. Success toast slides in
+### 1. Pixel letters bounce: B-ROLL
+
+<img src="../gifs/pixel-word-bounce-broll.gif" alt="Pixel letters bounce: B-ROLL" width="360">
+
+<sub>12 frames · 480×270 · 3.0s · gpt-image-2.6-gif</sub>
+
+📌 **Source:** [@Wv3EcACHtizRjZK on X](https://x.com/Wv3EcACHtizRjZK/status/2119673507068203035)
+
+**Prompt**
+
+```text
+深青色背景，奶油色像素字体 B-ROLL，字母从左到右轻轻跳起再落回原位，珊瑚色光标从下方划过。字形、拼写和间距保持一致，动画 GIF。
+```
+
+`pixel font` `text` `title`
+
+### 2. Success toast slides in
 
 <img src="../gifs/toast-success-slide.gif" alt="Success toast slides in" width="360">
 
@@ -16,7 +32,7 @@ A green rounded notification toast slides in from the top with a white check mar
 
 `ui` `toast` `notification`
 
-### 2. Emoji reactions pop
+### 3. Emoji reactions pop
 
 <img src="../gifs/emoji-reaction-pop.gif" alt="Emoji reactions pop" width="360">
 
@@ -30,7 +46,7 @@ A rounded white reaction bar where five round emoji faces, smile, laugh, heart e
 
 `ui` `emoji` `reaction`
 
-### 3. Pixel train on a bridge
+### 4. Pixel train on a bridge
 
 <img src="../gifs/pixel-train-bridge.gif" alt="Pixel train on a bridge" width="360">
 
@@ -44,7 +60,7 @@ A small pixel art steam train crosses a stone arch bridge over a river, puffing 
 
 `pixel` `train` `landscape`
 
-### 4. Pixel bee garden
+### 5. Pixel bee garden
 
 <img src="../gifs/pixel-bee-garden.gif" alt="Pixel bee garden" width="360">
 
@@ -58,7 +74,7 @@ A pixel art bee buzzes in a figure eight between three pixel flowers that sway s
 
 `pixel` `bee` `garden`
 
-### 5. Bookmark saved
+### 6. Bookmark saved
 
 <img src="../gifs/bookmark-ribbon-save.gif" alt="Bookmark saved" width="360">
 
@@ -72,7 +88,7 @@ An outlined bookmark icon fills with solid gold from top to bottom and gives a s
 
 `ui` `bookmark` `save`
 
-### 6. Add to cart
+### 7. Add to cart
 
 <img src="../gifs/cart-add-badge.gif" alt="Add to cart" width="360">
 
@@ -86,7 +102,7 @@ A flat shopping cart icon; a small box drops into it, the cart wiggles, and a re
 
 `ui` `cart` `ecommerce`
 
-### 7. Pixel dino stomps and roars
+### 8. Pixel dino stomps and roars
 
 <img src="../gifs/pixel-dino-stomp.gif" alt="Pixel dino stomps and roars" width="360">
 
@@ -100,7 +116,7 @@ A small green pixel art dinosaur stomps one foot, opens its mouth in a tiny roar
 
 `pixel` `dinosaur` `sprite`
 
-### 8. Low-poly hero jog
+### 9. Low-poly hero jog
 
 <img src="../gifs/lowpoly-hero-jog.gif" alt="Low-poly hero jog" width="360">
 
@@ -114,7 +130,7 @@ A blocky low-poly game hero in a red jacket jogs along a dirt path in a side vie
 
 `low-poly` `retro-game` `run`
 
-### 9. Pixel astronaut run cycle
+### 10. Pixel astronaut run cycle
 
 <img src="../gifs/pixel-astronaut-run.gif" alt="Pixel astronaut run cycle" width="360">
 
@@ -130,7 +146,7 @@ A pixel art astronaut in a white suit with an orange visor runs in place in a sm
 
 `pixel` `astronaut` `run-cycle`
 
-### 10. Donut chart fills
+### 11. Donut chart fills
 
 <img src="../gifs/donut-chart-fill.gif" alt="Donut chart fills" width="360">
 
@@ -144,7 +160,7 @@ A donut chart fills segment by segment in teal, coral and yellow while the perce
 
 `ui` `chart` `data`
 
-### 11. Map pin drops
+### 12. Map pin drops
 
 <img src="../gifs/map-pin-drop.gif" alt="Map pin drops" width="360">
 
@@ -158,7 +174,7 @@ A red location pin drops onto a simple folded map, bounces once and sends out a 
 
 `ui` `map` `location`
 
-### 12. Copied to clipboard
+### 13. Copied to clipboard
 
 <img src="../gifs/clipboard-copy-check.gif" alt="Copied to clipboard" width="360">
 
@@ -172,7 +188,7 @@ Two stacked rounded squares slide together into a clipboard icon, then a green c
 
 `ui` `copy` `icon`
 
-### 13. Volume slider
+### 14. Volume slider
 
 <img src="../gifs/volume-slider-waves.gif" alt="Volume slider" width="360">
 
@@ -186,7 +202,7 @@ A rounded volume slider knob glides from left to right while sound wave arcs gro
 
 `ui` `volume` `icon`
 
-### 14. Pixel kettle boils
+### 15. Pixel kettle boils
 
 <img src="../gifs/pixel-kettle-whistle.gif" alt="Pixel kettle boils" width="360">
 
@@ -200,7 +216,7 @@ A pixel art red kettle on a tiny stove rattles its lid and puffs steam clouds as
 
 `pixel` `kettle` `cozy`
 
-### 15. Pixel shield block
+### 16. Pixel shield block
 
 <img src="../gifs/pixel-shield-block.gif" alt="Pixel shield block" width="360">
 
@@ -214,7 +230,7 @@ A pixel art armored hedgehog raises a round shield and a fireball bursts into sp
 
 `pixel` `shield` `game`
 
-### 16. Pixel dungeon door
+### 17. Pixel dungeon door
 
 <img src="../gifs/pixel-key-door.gif" alt="Pixel dungeon door" width="360">
 
@@ -228,7 +244,7 @@ A pixel art golden key turns in a heavy wooden dungeon door, which creaks open t
 
 `pixel` `door` `game`
 
-### 17. Pull to refresh
+### 18. Pull to refresh
 
 <img src="../gifs/pull-to-refresh-arrow.gif" alt="Pull to refresh" width="360">
 
@@ -242,7 +258,7 @@ A circular arrow icon is pulled down, stretches slightly, then spins and snaps b
 
 `refresh` `ui` `mobile`
 
-### 18. Checkbox tick
+### 19. Checkbox tick
 
 <img src="../gifs/checkbox-tick-draw.gif" alt="Checkbox tick" width="360">
 
@@ -256,7 +272,7 @@ An empty rounded checkbox fills with green and a white checkmark draws itself in
 
 `checkbox` `ui` `icon`
 
-### 19. Paw print loader
+### 20. Paw print loader
 
 <img src="../gifs/paw-print-loader.gif" alt="Paw print loader" width="360">
 
@@ -270,7 +286,7 @@ Six small paw prints appear one after another in a circle and fade, like a loadi
 
 `loader` `ui` `paw`
 
-### 20. Pixel sailboat
+### 21. Pixel sailboat
 
 <img src="../gifs/pixel-sailboat-sea.gif" alt="Pixel sailboat" width="360">
 
@@ -284,7 +300,7 @@ A small pixel art sailboat bobs on rolling waves with seagulls flapping overhead
 
 `pixel` `sea` `boat`
 
-### 21. Pixel UFO beam
+### 22. Pixel UFO beam
 
 <img src="../gifs/pixel-ufo-beam.gif" alt="Pixel UFO beam" width="360">
 
@@ -298,7 +314,7 @@ A pixel art flying saucer hovers over a farm at night and a green tractor beam l
 
 `pixel` `ufo` `cow`
 
-### 22. Pixel blacksmith
+### 23. Pixel blacksmith
 
 <img src="../gifs/pixel-blacksmith-anvil.gif" alt="Pixel blacksmith" width="360">
 
@@ -312,7 +328,7 @@ A pixel art blacksmith in a leather apron hammers a glowing sword on an anvil, s
 
 `pixel` `blacksmith` `rpg`
 
-### 23. Pixel cave waterfall
+### 24. Pixel cave waterfall
 
 <img src="../gifs/pixel-cave-waterfall.gif" alt="Pixel cave waterfall" width="360">
 
@@ -326,7 +342,7 @@ A pixel art cave with a waterfall pouring into a pool, glowing crystals blinking
 
 `pixel` `cave` `waterfall`
 
-### 24. Wallet top-up
+### 25. Wallet top-up
 
 <img src="../gifs/wallet-top-up-coins.gif" alt="Wallet top-up" width="360">
 
@@ -340,7 +356,7 @@ A flat app icon of a teal wallet; three gold coins drop in one by one and a smal
 
 `wallet` `ui` `icon`
 
-### 25. ASCII star logo assembles
+### 26. ASCII star logo assembles
 
 <img src="../gifs/ascii-star-logo.gif" alt="ASCII star logo assembles" width="360">
 
@@ -354,7 +370,7 @@ Scattered green ASCII characters on a black terminal screen drift into place and
 
 `ascii` `logo` `terminal`
 
-### 26. Pixel rocket launch
+### 27. Pixel rocket launch
 
 <img src="../gifs/pixel-rocket-launch.gif" alt="Pixel rocket launch" width="360">
 
@@ -368,7 +384,7 @@ A pixel-art rocket on a launch pad rumbles, flames burst from its base and it li
 
 `pixel` `space` `rocket`
 
-### 27. Pixel fox dash
+### 28. Pixel fox dash
 
 <img src="../gifs/pixel-fox-dash.gif" alt="Pixel fox dash" width="360">
 
@@ -382,7 +398,7 @@ A pixel-art orange fox crouches then dashes forward with a burst of dust and a s
 
 `pixel` `sprite` `fox`
 
-### 28. Pixel mailbox letter
+### 29. Pixel mailbox letter
 
 <img src="../gifs/pixel-mailbox-letter.gif" alt="Pixel mailbox letter" width="360">
 
@@ -396,7 +412,7 @@ A pixel-art red mailbox flips its flag up and a letter pops out with a small spa
 
 `pixel` `ui` `mail`
 
-### 29. Level up badge
+### 30. Level up badge
 
 <img src="../gifs/level-up-badge.gif" alt="Level up badge" width="360">
 
@@ -410,7 +426,7 @@ A shiny gold badge with a star flips in, flashes, and small sparkles burst aroun
 
 `ui` `game` `icon`
 
-### 30. Pixel ninja frog dash
+### 31. Pixel ninja frog dash
 
 <img src="../gifs/pixel-ninja-frog.gif" alt="Pixel ninja frog dash" width="360">
 
@@ -424,7 +440,7 @@ A pixel-art frog in a red ninja headband dashes forward and leaves a short speed
 
 `pixel` `game` `sprite`
 
-### 31. Pixel potion shop
+### 32. Pixel potion shop
 
 <img src="../gifs/pixel-potion-shop.gif" alt="Pixel potion shop" width="360">
 
@@ -438,7 +454,7 @@ A pixel-art potion shop counter with bubbling colorful bottles and a shopkeeper 
 
 `pixel` `game` `shop`
 
-### 32. Pixel snowy cabin
+### 33. Pixel snowy cabin
 
 <img src="../gifs/pixel-snow-cabin.gif" alt="Pixel snowy cabin" width="360">
 
@@ -452,7 +468,7 @@ A pixel-art log cabin in a snowy forest, smoke rising from the chimney, windows 
 
 `pixel` `winter` `ambient`
 
-### 33. Pixel dragon egg hatch
+### 34. Pixel dragon egg hatch
 
 <img src="../gifs/pixel-dragon-egg-hatch.gif" alt="Pixel dragon egg hatch" width="360">
 
@@ -466,7 +482,7 @@ A speckled pixel-art dragon egg wobbles in a straw nest, cracks appear, and a ti
 
 `pixel` `game` `dragon`
 
-### 34. Calendar page flip
+### 35. Calendar page flip
 
 <img src="../gifs/calendar-page-flip.gif" alt="Calendar page flip" width="360">
 
@@ -480,7 +496,7 @@ A flat desk calendar icon with a red header; the top page curls up and flips ove
 
 `ui` `icon` `calendar`
 
-### 35. Pixel coin collect
+### 36. Pixel coin collect
 
 <img src="../gifs/pixel-coin-collect.gif" alt="Pixel coin collect" width="360">
 
@@ -494,7 +510,7 @@ A spinning pixel-art gold coin pops up above a brick block, flips in the air, th
 
 `pixel` `game` `coin`
 
-### 36. Pixel health hearts
+### 37. Pixel health hearts
 
 <img src="../gifs/pixel-heart-health.gif" alt="Pixel health hearts" width="360">
 
@@ -508,7 +524,7 @@ A row of five pixel-art red hearts as a game health bar; one empty heart refills
 
 `pixel` `game` `ui`
 
-### 37. Toggle switch
+### 38. Toggle switch
 
 <img src="../gifs/toggle-switch-on.gif" alt="Toggle switch" width="360">
 
@@ -522,7 +538,7 @@ A large rounded toggle switch slides from gray off to bright green on, the knob 
 
 `ui` `toggle` `micro-interaction`
 
-### 38. Hovering potion bottle
+### 39. Hovering potion bottle
 
 <img src="../gifs/potion-bottle-hover.gif" alt="Hovering potion bottle" width="360">
 
@@ -536,7 +552,7 @@ A round glass potion bottle with a cork stopper hovers and bobs gently; the glow
 
 `game` `item` `icon`
 
-### 39. RPG stats card
+### 40. RPG stats card
 
 <img src="../gifs/rpg-stats-card.gif" alt="RPG stats card" width="360">
 
@@ -550,7 +566,7 @@ A fantasy RPG character stat card with a cartoon fox ranger portrait; five horiz
 
 `ui` `game` `stats`
 
-### 40. Pixel chameleon run cycle
+### 41. Pixel chameleon run cycle
 
 <img src="../gifs/pixel-chameleon-run.gif" alt="Pixel chameleon run cycle" width="360">
 
@@ -564,7 +580,7 @@ A side-view pixel-art run cycle of a small green chameleon with a curled tail an
 
 `pixel` `sprite` `game`
 
-### 41. Equalizer bars bounce
+### 42. Equalizer bars bounce
 
 <img src="../gifs/equalizer-bars-bounce.gif" alt="Equalizer bars bounce" width="360">
 
@@ -578,7 +594,7 @@ Seven rounded equalizer bars in a purple-to-pink gradient bounce up and down to 
 
 `ui` `music` `audio`
 
-### 42. Upload arrow rises into a cloud
+### 43. Upload arrow rises into a cloud
 
 <img src="../gifs/cloud-upload-arrow.gif" alt="Upload arrow rises into a cloud" width="360">
 
@@ -592,7 +608,7 @@ A white arrow rises from the bottom into a soft blue cloud icon, the cloud puffs
 
 `ui` `upload` `icon`
 
-### 43. Magnifier scans a document
+### 44. Magnifier scans a document
 
 <img src="../gifs/magnifier-doc-scan.gif" alt="Magnifier scans a document" width="360">
 
@@ -606,7 +622,7 @@ A flat UI document icon with gray text lines; a magnifying glass sweeps across i
 
 `ui` `search` `icon`
 
-### 44. Padlock unlocks
+### 45. Padlock unlocks
 
 <img src="../gifs/padlock-unlock.gif" alt="Padlock unlocks" width="360">
 
@@ -620,7 +636,7 @@ A flat gray padlock icon wiggles, its shackle pops open, and the body turns gree
 
 `ui` `icon` `security`
 
-### 45. Send button becomes a paper plane
+### 46. Send button becomes a paper plane
 
 <img src="../gifs/send-button-plane.gif" alt="Send button becomes a paper plane" width="360">
 
@@ -634,7 +650,7 @@ A rounded blue Send button squeezes inward and folds into a white paper plane th
 
 `ui` `button` `send`
 
-### 46. Star rating fills
+### 47. Star rating fills
 
 <img src="../gifs/star-rating-fill.gif" alt="Star rating fills" width="360">
 
@@ -648,7 +664,7 @@ Five outlined stars in a row fill with gold one after another, each popping slig
 
 `ui` `rating` `icon`
 
-### 47. Crumpled paper into the trash
+### 48. Crumpled paper into the trash
 
 <img src="../gifs/trash-crumple-toss.gif" alt="Crumpled paper into the trash" width="360">
 
@@ -662,7 +678,7 @@ Flat UI animation: a sheet of paper crumples into a ball, arcs into a gray trash
 
 `ui` `icon` `delete`
 
-### 48. Wi-Fi bars fill up
+### 49. Wi-Fi bars fill up
 
 <img src="../gifs/wifi-bars-fill.gif" alt="Wi-Fi bars fill up" width="360">
 
@@ -676,7 +692,7 @@ A flat UI Wi-Fi icon whose arcs light up one by one from the center dot outward 
 
 `ui` `icon` `signal`
 
-### 49. Pixel cauldron brews
+### 50. Pixel cauldron brews
 
 <img src="../gifs/pixel-cauldron-brew.gif" alt="Pixel cauldron brews" width="360">
 
@@ -690,7 +706,7 @@ A pixel art black cauldron over a small fire bubbles with green potion, bubbles 
 
 `pixel` `potion` `item`
 
-### 50. Pixel mushroom dances
+### 51. Pixel mushroom dances
 
 <img src="../gifs/pixel-mushroom-dance.gif" alt="Pixel mushroom dances" width="360">
 
@@ -704,7 +720,7 @@ A pixel art mushroom character with a teal cap striped in orange and a stubby la
 
 `pixel` `dance` `sprite`
 
-### 51. Pixel owl wizard casts
+### 52. Pixel owl wizard casts
 
 <img src="../gifs/pixel-owl-wizard.gif" alt="Pixel owl wizard casts" width="360">
 
@@ -718,7 +734,7 @@ A pixel art owl in a starry purple wizard hat raises a wooden wand and releases 
 
 `pixel` `magic` `sprite`
 
-### 52. Pixel bucket-helmet frog jump attack
+### 53. Pixel bucket-helmet frog jump attack
 
 <img src="../gifs/pixel-frog-jump-attack.gif" alt="Pixel bucket-helmet frog jump attack" width="360">
 
@@ -732,7 +748,7 @@ A chunky orange pixel art frog wearing a dented tin bucket as a helmet and holdi
 
 `pixel` `game` `sprite`
 
-### 53. Pixel letters hop
+### 54. Pixel letters hop
 
 <img src="../gifs/pixel-text-broll.gif" alt="Pixel letters hop" width="360">
 
@@ -746,7 +762,7 @@ Cream pixel-font letters spelling B-ROLL on a deep teal background hop up one by
 
 `pixel` `text` `title`
 
-### 54. Pixel bus pulls into the stop
+### 55. Pixel bus pulls into the stop
 
 <img src="../gifs/pixel-bus-arrive.gif" alt="Pixel bus pulls into the stop" width="360">
 
@@ -760,7 +776,7 @@ Top-down pixel art street at morning rush hour: a yellow bus pulls into a stop w
 
 `pixel` `city` `bus`
 
-### 55. Download arrow turns into a check
+### 56. Download arrow turns into a check
 
 <img src="../gifs/download-arrow-check.gif" alt="Download arrow turns into a check" width="360">
 
@@ -774,7 +790,7 @@ A flat UI animation: a blue down arrow drops into a rounded tray, the tray fills
 
 `ui` `icon` `download`
 
-### 56. Battery charging icon
+### 57. Battery charging icon
 
 <img src="../gifs/battery-charging-icon.gif" alt="Battery charging icon" width="360">
 
@@ -788,7 +804,7 @@ A flat rounded battery icon filling up segment by segment from red to green, a w
 
 `ui` `icon` `loading`
 
-### 57. Notification bell ringing
+### 58. Notification bell ringing
 
 <img src="../gifs/notification-bell-ring.gif" alt="Notification bell ringing" width="360">
 
@@ -802,7 +818,7 @@ A flat rounded yellow notification bell icon swinging side to side as if ringing
 
 `ui` `icon` `notification`
 
-### 58. Pixel crops sprouting
+### 59. Pixel crops sprouting
 
 <img src="../gifs/pixel-farm-sprout.gif" alt="Pixel crops sprouting" width="360">
 
@@ -816,7 +832,7 @@ A flat rounded yellow notification bell icon swinging side to side as if ringing
 
 `pixel` `farm` `game`
 
-### 59. Pixel town in the rain
+### 60. Pixel town in the rain
 
 <img src="../gifs/pixel-rain-town.gif" alt="Pixel town in the rain" width="360">
 
@@ -830,7 +846,7 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 
 `pixel` `rain` `night`
 
-### 60. Pixel fishing catch
+### 61. Pixel fishing catch
 
 <img src="../gifs/pixel-fishing-catch.gif" alt="Pixel fishing catch" width="360">
 
@@ -844,7 +860,7 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 
 `pixel` `game` `fishing`
 
-### 61. Earth Online: morning commute
+### 62. Earth Online: morning commute
 
 <img src="../gifs/earth-online-commute.gif" alt="Earth Online: morning commute" width="360">
 
@@ -860,7 +876,7 @@ A 16-bit pixel art RPG scene of a tired office worker character walking to a bus
 
 `pixel` `rpg` `daily-life` `text`
 
-### 62. Sun / moon theme toggle
+### 63. Sun / moon theme toggle
 
 <img src="../gifs/sun-moon-toggle.gif" alt="Sun / moon theme toggle" width="360">
 
@@ -874,7 +890,7 @@ A rounded toggle switch sliding from a sunny yellow side with a sun icon to a da
 
 `ui` `toggle` `dark-mode`
 
-### 63. Rocket progress bar
+### 64. Rocket progress bar
 
 <img src="../gifs/rocket-progress-bar.gif" alt="Rocket progress bar" width="360">
 
@@ -888,7 +904,7 @@ A flat UI progress bar filling from left to right as a tiny cartoon rocket flies
 
 `ui` `loader` `rocket`
 
-### 64. Pixel treasure chest
+### 65. Pixel treasure chest
 
 <img src="../gifs/pixel-treasure-chest.gif" alt="Pixel treasure chest" width="360">
 
@@ -902,7 +918,7 @@ A flat UI progress bar filling from left to right as a tiny cartoon rocket flies
 
 `pixel` `game` `reward`
 
-### 65. Gem merge game ad
+### 66. Gem merge game ad
 
 <img src="../gifs/gem-merge-ad.gif" alt="Gem merge game ad" width="360">
 
@@ -916,7 +932,7 @@ A mobile puzzle game ad shot: two identical glowing blue gems slide together on 
 
 `game` `ad` `mobile`
 
-### 66. Pixel lantern scares ghosts
+### 67. Pixel lantern scares ghosts
 
 <img src="../gifs/pixel-lantern-ghosts.gif" alt="Pixel lantern scares ghosts" width="360">
 
@@ -930,7 +946,7 @@ A mobile puzzle game ad shot: two identical glowing blue gems slide together on 
 
 `pixel` `game` `halloween`
 
-### 67. Scroll-down arrow hint
+### 68. Scroll-down arrow hint
 
 <img src="../gifs/scroll-arrow-hint.gif" alt="Scroll-down arrow hint" width="360">
 
@@ -944,7 +960,7 @@ A minimalist rounded chevron arrow pointing down, bouncing gently up and down wi
 
 `ui` `arrow` `minimal`
 
-### 68. Pixel coffee cup
+### 69. Pixel coffee cup
 
 <img src="../gifs/pixel-coffee-steam.gif" alt="Pixel coffee cup" width="360">
 
@@ -958,7 +974,7 @@ A pixel-art coffee cup on a saucer with three wisps of steam rising and curling 
 
 `pixel` `coffee` `icon`
 
-### 69. 8-bit raver alien
+### 70. 8-bit raver alien
 
 <img src="../gifs/pixel-raver-alien.gif" alt="8-bit raver alien" width="360">
 
@@ -972,7 +988,7 @@ A pixel-art coffee cup on a saucer with three wisps of steam rising and curling 
 
 `pixel` `dance` `retro`
 
-### 70. Bodyweight squat guide
+### 71. Bodyweight squat guide
 
 <img src="../gifs/squat-form-guide.gif" alt="Bodyweight squat guide" width="360">
 
@@ -986,7 +1002,7 @@ A clean flat infographic of a faceless fitness figure in a teal tank top doing a
 
 `fitness` `infographic` `tutorial`
 
-### 71. 16-bit fighter punch combo
+### 72. 16-bit fighter punch combo
 
 <img src="../gifs/arcade-fighter-punch.gif" alt="16-bit fighter punch combo" width="360">
 
@@ -1000,7 +1016,7 @@ A 16-bit arcade fighter, a stocky red panda in a blue gi, throwing a jab and a s
 
 `pixel-art` `fighting` `sprite`
 
-### 72. AI assistant typing indicator
+### 73. AI assistant typing indicator
 
 <img src="../gifs/ai-typing-indicator.gif" alt="AI assistant typing indicator" width="360">
 
@@ -1014,7 +1030,7 @@ A chat interface where a small rounded robot avatar sits beside a grey bubble wi
 
 `ui` `chat` `loader`
 
-### 73. Squash and stretch bouncing ball
+### 74. Squash and stretch bouncing ball
 
 <img src="../gifs/bouncing-ball-squash.gif" alt="Squash and stretch bouncing ball" width="360">
 
@@ -1028,7 +1044,7 @@ A red rubber ball bouncing on a flat floor with classic squash and stretch, a so
 
 `animation-basics` `ball` `loop`
 
-### 74. Handheld-style castle run
+### 75. Handheld-style castle run
 
 <img src="../gifs/pixel-castle-scroller.gif" alt="Handheld-style castle run" width="360">
 
@@ -1042,7 +1058,7 @@ A 32-bit handheld-style side-scrolling level: a small round armadillo knight in 
 
 `pixel-art` `platformer` `game`
 
-### 75. Pixel hero sword slash
+### 76. Pixel hero sword slash
 
 <img src="../gifs/pixel-hero-slash.gif" alt="Pixel hero sword slash" width="360">
 
@@ -1056,7 +1072,7 @@ A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a b
 
 `pixel-art` `sprite` `attack`
 
-### 76. Junkyard robot walk cycle
+### 77. Junkyard robot walk cycle
 
 <img src="../gifs/junkyard-robot-walk.gif" alt="Junkyard robot walk cycle" width="360">
 
@@ -1070,7 +1086,7 @@ A rusty little scrap-metal robot with one antenna and a mismatched arm walking t
 
 `pixel-art` `sprite` `game`
 
-### 77. Love-burst skill animation
+### 78. Love-burst skill animation
 
 <img src="../gifs/love-burst-skill.gif" alt="Love-burst skill animation" width="360">
 
@@ -1084,7 +1100,7 @@ A chibi magical girl with a pink bob raises her wand and casts a "love burst" sk
 
 `game` `skill` `effects`
 
-### 78. 8-bit slime boss battle
+### 79. 8-bit slime boss battle
 
 <img src="../gifs/pixel-slime-boss.gif" alt="8-bit slime boss battle" width="360">
 
@@ -1098,7 +1114,7 @@ An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squ
 
 `pixel-art` `game` `boss`
 
-### 79. Arcade VS screen
+### 80. Arcade VS screen
 
 <img src="../gifs/arcade-vs-screen.gif" alt="Arcade VS screen" width="360">
 
@@ -1114,7 +1130,7 @@ A retro arcade versus screen: on the left a chubby panda wrestler in a yellow ca
 
 `pixel-art` `game` `versus`
 
-### 80. Hourglass loading
+### 81. Hourglass loading
 
 <img src="../gifs/hourglass-flip.gif" alt="Hourglass loading" width="360">
 
@@ -1128,7 +1144,7 @@ A simple flat hourglass icon with sand pouring from the top to the bottom, then 
 
 `ui` `loader` `icon`
 
-### 81. Like button heart burst
+### 82. Like button heart burst
 
 <img src="../gifs/like-heart-burst.gif" alt="Like button heart burst" width="360">
 
@@ -1142,7 +1158,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 82. Pixel knight run cycle
+### 83. Pixel knight run cycle
 
 <img src="../gifs/pixel-knight-run.gif" alt="Pixel knight run cycle" width="360">
 
@@ -1158,7 +1174,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 83. Bouncing dots loader
+### 84. Bouncing dots loader
 
 <img src="../gifs/bouncing-dots-loader.gif" alt="Bouncing dots loader" width="360">
 
@@ -1174,7 +1190,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 84. Pixel art campfire
+### 85. Pixel art campfire
 
 <img src="../gifs/pixel-campfire.gif" alt="Pixel art campfire" width="360">
 

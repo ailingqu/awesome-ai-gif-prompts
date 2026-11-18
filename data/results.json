@@ -5372,5 +5372,215 @@
     "generatedAt": "2026-11-17",
     "seconds": 92,
     "via": "chatgpt-image-2.com"
+  },
+  "gingerbread-door-wave": {
+    "width": 439,
+    "height": 390,
+    "frames": 8,
+    "durationMs": 1440,
+    "bytes": 788919,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 47,
+    "via": "chatgpt-image-2.com"
+  },
+  "harvest-pie-steam": {
+    "width": 439,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 774314,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 50,
+    "via": "chatgpt-image-2.com"
+  },
+  "sneaker-turntable-spin": {
+    "width": 380,
+    "height": 250,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 496035,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 84,
+    "via": "chatgpt-image-2.com"
+  },
+  "boba-pearls-pour": {
+    "width": 322,
+    "height": 292,
+    "frames": 16,
+    "durationMs": 2240,
+    "bytes": 459819,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 42,
+    "via": "chatgpt-image-2.com"
+  },
+  "fox-headphones-nod": {
+    "width": 436,
+    "height": 387,
+    "frames": 9,
+    "durationMs": 1440,
+    "bytes": 362420,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 74,
+    "via": "chatgpt-image-2.com"
+  },
+  "astronaut-cat-blink": {
+    "width": 306,
+    "height": 308,
+    "frames": 16,
+    "durationMs": 2880,
+    "bytes": 684261,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 47,
+    "via": "chatgpt-image-2.com"
+  },
+  "photosynthesis-leaf-flow": {
+    "width": 439,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1620,
+    "bytes": 288420,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 46,
+    "via": "chatgpt-image-2.com"
+  },
+  "sound-wave-speaker": {
+    "width": 436,
+    "height": 388,
+    "frames": 9,
+    "durationMs": 1260,
+    "bytes": 429244,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 199,
+    "via": "chatgpt-image-2.com"
+  },
+  "pizza-cheese-pull": {
+    "width": 380,
+    "height": 249,
+    "frames": 16,
+    "durationMs": 1920,
+    "bytes": 968292,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 39,
+    "via": "chatgpt-image-2.com"
+  },
+  "smartwatch-face-glow": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 2160,
+    "bytes": 682865,
+    "model": "gpt-image-2.6",
+    "generatedAt": "2026-11-18",
+    "seconds": 75,
+    "via": "chatgpt-image-2.com"
+  },
+  "this-is-fine-dog-tea": {
+    "width": 380,
+    "height": 506,
+    "frames": 16,
+    "durationMs": 2910,
+    "bytes": 906359,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "psychedelic-cat-dance": {
+    "width": 438,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1410,
+    "bytes": 1022143,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "idiom-riddle-ceramic-props": {
+    "width": 480,
+    "height": 640,
+    "frames": 36,
+    "durationMs": 3000,
+    "bytes": 386596,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "sicilian-defense-chess": {
+    "width": 288,
+    "height": 288,
+    "frames": 16,
+    "durationMs": 3160,
+    "bytes": 684264,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "orange-bird-branch-flap": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "bytes": 723925,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "water-bottle-rock-product": {
+    "width": 480,
+    "height": 480,
+    "frames": 10,
+    "durationMs": 2000,
+    "bytes": 611415,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "skateboard-kickflip-360": {
+    "width": 358,
+    "height": 356,
+    "frames": 12,
+    "durationMs": 1330,
+    "bytes": 745613,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "canton-tower-morning-mist": {
+    "width": 480,
+    "height": 198,
+    "frames": 9,
+    "durationMs": 1580,
+    "bytes": 422131,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "pixel-word-bounce-broll": {
+    "width": 480,
+    "height": 270,
+    "frames": 12,
+    "durationMs": 3000,
+    "bytes": 365135,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
+  },
+  "cat-codex-quota-out": {
+    "width": 414,
+    "height": 412,
+    "frames": 9,
+    "durationMs": 1580,
+    "bytes": 617645,
+    "model": "gpt-image-2.6-gif",
+    "via": "source",
+    "generatedAt": "2026-11-18"
   }
 }

@@ -1,8 +1,165 @@
-# 快闪与品牌动效 · 84 条提示词
+# 快闪与品牌动效 · 87 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 烤鸡晚餐揭盖
+### 1. 滑板 360 尖翻
+
+<img src="../gifs/skateboard-kickflip-360.gif" alt="滑板 360 尖翻" width="360">
+
+<sub>12 帧 · 358×356 · 1.3s · gpt-image-2.6-gif</sub>
+
+📌 **来源：** [@justynclark on X](https://x.com/justynclark/status/2118189691820482677)
+
+**提示词**
+
+```text
+Create a GIF of a 360 kickflip on a skateboard
+```
+
+`skateboard` `sport` `trick`
+
+### 2. 成语物件猜谜：四个陶瓷摆件轮流弹跳
+
+<img src="../gifs/idiom-riddle-ceramic-props.gif" alt="成语物件猜谜：四个陶瓷摆件轮流弹跳" width="360">
+
+<sub>36 帧 · 480×640 · 3.0s · gpt-image-2.6-gif</sub>
+
+📌 **来源：** [@GeekCatX on X](https://x.com/GeekCatX/status/2118160560290480519)
+
+**提示词**
+
+```text
+制作一个中国成语物件猜谜 GIF 动图，竖版 3:4，精致可爱的短视频封面风格。
+
+【输出规格】
+输出一个可播放的 GIF 动图。
+画面尺寸：768×1024 像素。
+总时长：3秒，无限循环。
+建议帧率：20fps，约60帧。
+动画包含4个连续动作段，每段0.75秒，分别对应四件物品。
+全程为同一个完整画面，镜头固定，构图固定，没有切镜、推拉、摇移或缩放。
+【制作原则：同一母版，局部动画】
+先建立一张完整的静态母版，再基于同一母版制作动画。
+所有帧保持相同的背景、构图、文字、台面、物件造型、材质、颜色与光照。
+只允许当前指定物件进行小幅竖直位移，并同步调整它的局部高光、接触阴影与倒影。
+其余三个物件保持静止。
+文字必须使用同一份静态图层，在全部帧中重复使用，不要逐帧重新绘制。
+【背景】
+深蓝色专业摄影棚背景，中心为柔和宝蓝色，向四周自然渐暗为午夜蓝。
+背景纯净，具有轻微柔光晕，渐变细腻，没有明显纹理和杂乱装饰。
+背景空白区域分布3—5个微小、低亮度的金色光点。
+光点沿非常短的闭合轨迹缓慢漂浮，一个循环周期为3秒。
+光点不穿过文字或物件，不闪烁、不突然出现或消失，循环结束时回到起始位置。
+【文字：全程完全静止】
+画面中只允许出现以下两行文字，不增加任何其他文字：
+第一行：
+物件藏着一个成语
+
+第二行：
+你猜出来了吗
+第一行位于画面顶部居中，使用明黄色 #FFD54A 的超粗圆体大字，字形饱满圆润，带浅描边和轻微投影。
+第二行位于第一行正下方，使用白色粗圆体，字号约为第一行的60%。
+
+两行文字保持足够行距，四周预留安全边距，不贴边、不裁切。
+汉字笔画完整，字形标准，清晰易读，无错别字。
+在所有帧中，文字的位置、字号、字距、笔画、颜色、描边、阴影与透明度完全一致。
+文字不参与弹跳、高光扫动、闪烁或任何其他动画。
+【台面与构图】
+画面中下部是一条横向浅木纹展示台。
+台面干净，木纹细腻，具有柔和、克制的反光。
+四件物品集中排列于画面中下部，物件组占画面宽度约85%—90%。
+四件物品位于同一前后层级，静止时底部对齐于同一条台面接触基线。
+它们具有接近的视觉体量，间距均匀，彼此留出清晰空隙。
+不前后错落、不堆叠、不互相遮挡。
+
+采用固定的轻微俯视角度，能够清楚看见杯口和水面，同时保持四件物品横向并排的秩序感。
+【四件物品：顺序固定】
+从左到右严格依次为：
+一辆红色Q版小汽车。
+圆润饱满，车身呈中国红，轮子与车窗清晰可辨，具有精致陶瓷玩具质感。
+
+一个装满清水的青花瓷杯。
+杯身具有细腻青花纹样，杯口清晰，能够看见透明清水与柔和水面反光。
+杯身无文字，水面保持平稳，不溢出、不飞溅。
+一匹金色Q版小马。
+造型圆润可爱，具有清晰的马头、鬃毛、四肢与尾巴，表面为温润的金色陶瓷釉面。
+一条青绿色盘身小龙。
+中国传统小龙造型，身体盘曲，龙头微微抬起，龙角、龙须与鳞片适度简化，神态可爱，具有青绿色陶瓷釉面质感。
+
+四件物品保持各自明确的识别特征。
+物件表面没有文字、拼音、标签、数字或答案提示。
+【动作规则】
+所有物件均为刚性的陶瓷摆件，只允许整体轻轻向上移动，再回到原位。
+不挤压、不拉伸、不旋转、不左右移动、不改变造型。
+
+弹跳最高点距离原位约为画面高度的1%，动作轻巧、克制。
+每个物件必须完整落回原位后，下一个物件才开始动作。
+任意时刻，四件物品中最多只有一件正在运动。
+当前物件弹起时，一道低强度、柔和的高光缓缓掠过其表面。
+高光只作用于当前物件，不影响文字、背景和其他物件。
+物件下方的阴影与倒影随高度轻微变化，落地后恢复母版状态。
+小汽车轮子不转，小马不迈腿，小龙不摆尾、不转头。
+
+【3秒动作时间线】
+0.00—0.75秒：
+红色小汽车完成一次轻轻弹起并落回原位。
+瓷杯、小马、小龙保持静止。
+0.75—1.50秒：
+青花瓷杯完成一次轻轻弹起并落回原位。
+汽车、小马、小龙保持静止。
+
+1.50—2.25秒：
+金色小马完成一次轻轻弹起并落回原位。
+汽车、瓷杯、小龙保持静止。
+2.25—3.00秒：
+青绿色小龙完成一次轻轻弹起并落回原位。
+汽车、瓷杯、小马保持静止。
+
+每个0.75秒动作段均遵循：
+短暂停住 → 平缓上升 → 平缓落下 → 落定后短暂停住。
+上升和下落采用柔和缓入缓出，不突然跳位，不夸张弹震。
+
+【无缝循环】
+首帧与末帧完全一致：
+四件物品全部落在原位，所有高光、阴影、倒影与背景光点均回到初始状态。
+从末帧接回首帧时，没有位置跳变、亮度跳变或颜色闪动。
+循环中不出现黑帧、白帧、残影或重影。
+
+【整体质感】
+精致可爱的Q版3D陶瓷摆件，圆润、细腻、通透。
+以中国红、金色、青绿色和青花蓝点缀深蓝背景，融入克制的中国传统纹样细节。
+顶部柔光配合左右轮廓光，物件边缘高光清晰，台面倒影柔和。
+整体具有中国文化韵味，适合全年龄观看。
+【禁止事项】
+不出现成语答案。
+不出现额外文字、水印、品牌标志或界面元素。
+不出现分镜拼图、四宫格或多画面。
+不改变四件物品的数量、顺序、造型、颜色或比例。
+不让两个物件同时运动。
+不让物件重叠、碰撞、堆叠或横向移位。
+不让文字闪烁、变形、位移或重新生成。
+不改变相机位置、背景亮度或整体色调。
+```
+
+`riddle` `chinese idiom` `3d`
+
+### 3. 迷幻风跳舞猫
+
+<img src="../gifs/psychedelic-cat-dance.gif" alt="迷幻风跳舞猫" width="360">
+
+<sub>9 帧 · 438×390 · 1.4s · gpt-image-2.6-gif</sub>
+
+📌 **来源：** [@xedrik7 on X](https://x.com/xedrik7/status/2118258491043483978)
+
+**提示词**
+
+```text
+psychedelic gif of cat dancing
+```
+
+`cat` `psychedelic` `dance`
+
+### 4. 烤鸡晚餐揭盖
 
 <img src="../gifs/turkey-dinner-steam.gif" alt="烤鸡晚餐揭盖" width="360">
 
@@ -16,7 +173,7 @@ A silver dome lid lifts off a golden roast chicken on a platter, a burst of stea
 
 `dinner` `holiday` `food`
 
-### 2. 爆米花蹦出来
+### 5. 爆米花蹦出来
 
 <img src="../gifs/popcorn-bowl-pop.gif" alt="爆米花蹦出来" width="360">
 
@@ -30,7 +187,7 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 `popcorn` `snack` `movie`
 
-### 3. 平底锅翻煎饼
+### 6. 平底锅翻煎饼
 
 <img src="../gifs/pancake-pan-flip.gif" alt="平底锅翻煎饼" width="360">
 
@@ -44,7 +201,7 @@ A golden pancake is tossed up from a cast iron pan, flips once in the air and la
 
 `pancake` `food` `kitchen`
 
-### 4. 旅行手账贴纸逐个贴上
+### 7. 旅行手账贴纸逐个贴上
 
 <img src="../gifs/travel-journal-stickers.gif" alt="旅行手账贴纸逐个贴上" width="360">
 
@@ -58,7 +215,7 @@ An open travel journal on an ivory desk; little stickers of a plane, a ticket st
 
 `scrapbook` `travel` `journal`
 
-### 5. 木棋子翻面落定
+### 8. 木棋子翻面落定
 
 <img src="../gifs/wood-game-piece-flip.gif" alt="木棋子翻面落定" width="360">
 
@@ -72,7 +229,7 @@ A pale wooden pentagon-shaped board game piece flips over in the air and lands w
 
 `board-game` `wood` `flip`
 
-### 6. 包豪斯几何块换位
+### 9. 包豪斯几何块换位
 
 <img src="../gifs/bauhaus-shapes-shuffle.gif" alt="包豪斯几何块换位" width="360">
 
@@ -86,7 +243,7 @@ A grid of Bauhaus shapes in red, yellow, blue and black, circles, half circles, 
 
 `bauhaus` `geometric` `motion-design`
 
-### 7. 蹦跳的购物袋
+### 10. 蹦跳的购物袋
 
 <img src="../gifs/shopping-bag-hop.gif" alt="蹦跳的购物袋" width="360">
 
@@ -100,7 +257,7 @@ A glossy orange shopping bag with rope handles hops up, squashes on landing, and
 
 `shopping` `bag` `promo`
 
-### 8. 摇摆的促销吊牌
+### 11. 摇摆的促销吊牌
 
 <img src="../gifs/sale-tag-swing.gif" alt="摇摆的促销吊牌" width="360">
 
@@ -116,7 +273,7 @@ A red paper price tag that says SALE hangs from a string and swings left and rig
 
 `sale` `black-friday` `ad`
 
-### 9. 粉饼盒打开
+### 12. 粉饼盒打开
 
 <img src="../gifs/compact-mirror-open.gif" alt="粉饼盒打开" width="360">
 
@@ -130,7 +287,7 @@ A rose-gold makeup compact clicks open, the mirror catches a flash of light and 
 
 `beauty` `product` `compact`
 
-### 10. 键帽波浪按压
+### 13. 键帽波浪按压
 
 <img src="../gifs/keycap-ripple-press.gif" alt="键帽波浪按压" width="360">
 
@@ -144,7 +301,7 @@ Mechanical keyboard keycaps press down one after another in a wave from left to 
 
 `keyboard` `product` `tech`
 
-### 11. 冰块落入柠檬水
+### 14. 冰块落入柠檬水
 
 <img src="../gifs/lemonade-ice-drop.gif" alt="冰块落入柠檬水" width="360">
 
@@ -158,7 +315,7 @@ Ice cubes and a lemon slice drop into a tall glass of lemonade, splashing drople
 
 `drink` `summer` `ad`
 
-### 12. 魔法书游戏菜单
+### 15. 魔法书游戏菜单
 
 <img src="../gifs/spellbook-menu-pop.gif" alt="魔法书游戏菜单" width="360">
 
@@ -172,7 +329,7 @@ A worn leather spellbook drops onto a wooden table, flips open, and three glowin
 
 `book` `game` `menu`
 
-### 13. 墨镜反光扫过
+### 16. 墨镜反光扫过
 
 <img src="../gifs/sunglasses-sky-sweep.gif" alt="墨镜反光扫过" width="360">
 
@@ -186,7 +343,7 @@ A pair of tortoiseshell sunglasses rotates gently on a stand while a reflection 
 
 `sunglasses` `product` `summer`
 
-### 14. 巧克力掰开
+### 17. 巧克力掰开
 
 <img src="../gifs/chocolate-bar-snap.gif" alt="巧克力掰开" width="360">
 
@@ -200,7 +357,7 @@ A dark chocolate bar snaps cleanly in half and small crumbs pop into the air. Cl
 
 `chocolate` `food` `product`
 
-### 15. 甜甜圈旋转撒糖
+### 18. 甜甜圈旋转撒糖
 
 <img src="../gifs/donut-sprinkle-spin.gif" alt="甜甜圈旋转撒糖" width="360">
 
@@ -214,7 +371,7 @@ A glazed pink donut turns slowly on a small pedestal as rainbow sprinkles rain d
 
 `donut` `food` `ad`
 
-### 16. 书里飞出纸鸟
+### 19. 书里飞出纸鸟
 
 <img src="../gifs/book-paper-birds.gif" alt="书里飞出纸鸟" width="360">
 
@@ -228,7 +385,7 @@ A hardcover book opens on a table, warm light spills out and a few small paper b
 
 `book` `magic` `promo`
 
-### 17. 雨伞弹开
+### 20. 雨伞弹开
 
 <img src="../gifs/umbrella-pop-open.gif" alt="雨伞弹开" width="360">
 
@@ -242,7 +399,7 @@ A navy folding umbrella pops open and spins once while raindrops bead and roll o
 
 `umbrella` `product` `rain`
 
-### 18. 汉堡层层落下
+### 21. 汉堡层层落下
 
 <img src="../gifs/burger-stack-drop.gif" alt="汉堡层层落下" width="360">
 
@@ -256,7 +413,7 @@ Burger layers drop from above one by one, bun, patty, cheese, lettuce, tomato, t
 
 `burger` `food` `ad`
 
-### 19. 茶包入水晕开
+### 22. 茶包入水晕开
 
 <img src="../gifs/tea-bag-dunk.gif" alt="茶包入水晕开" width="360">
 
@@ -270,7 +427,7 @@ A tea bag is dipped into a clear glass mug of hot water and amber color blooms o
 
 `tea` `product` `drink`
 
-### 20. 球鞋落地回弹
+### 23. 球鞋落地回弹
 
 <img src="../gifs/sneaker-drop-bounce.gif" alt="球鞋落地回弹" width="360">
 
@@ -284,7 +441,7 @@ A white running sneaker drops onto a round platform, the sole squashes and sprin
 
 `sneaker` `product` `bounce`
 
-### 21. 面霜罐开盖
+### 24. 面霜罐开盖
 
 <img src="../gifs/skincare-jar-lid.gif" alt="面霜罐开盖" width="360">
 
@@ -298,7 +455,7 @@ A frosted glass skincare jar's lid twists off and lifts, revealing smooth white 
 
 `skincare` `product` `beauty`
 
-### 22. 生日蛋糕彩纸
+### 25. 生日蛋糕彩纸
 
 <img src="../gifs/birthday-cake-confetti.gif" alt="生日蛋糕彩纸" width="360">
 
@@ -312,7 +469,7 @@ A pink frosted birthday cake with three lit candles sits on a table; the flames 
 
 `birthday` `cake` `celebration`
 
-### 23. 浓缩咖啡萃取
+### 26. 浓缩咖啡萃取
 
 <img src="../gifs/espresso-shot-pour.gif" alt="浓缩咖啡萃取" width="360">
 
@@ -326,7 +483,7 @@ Close-up of a chrome espresso machine pulling a shot into a small glass cup; the
 
 `coffee` `product` `espresso`
 
-### 24. 文章头图纸飞机
+### 27. 文章头图纸飞机
 
 <img src="../gifs/blog-header-plane.gif" alt="文章头图纸飞机" width="360">
 
@@ -342,7 +499,7 @@ A wide article header banner in soft pastel colors with the short title 'WEEKLY 
 
 `banner` `header` `text`
 
-### 25. 亚克力挂件转动
+### 28. 亚克力挂件转动
 
 <img src="../gifs/acrylic-charm-spin.gif" alt="亚克力挂件转动" width="360">
 
@@ -356,7 +513,7 @@ A clear acrylic keychain charm shaped like a bunny in a strawberry hat spins slo
 
 `acrylic` `keychain` `merch`
 
-### 26. 黄色大衣跳跃大片
+### 29. 黄色大衣跳跃大片
 
 <img src="../gifs/yellow-coat-jump.gif" alt="黄色大衣跳跃大片" width="360">
 
@@ -370,7 +527,7 @@ A fashion model in an oversized mustard-yellow coat leaps mid-air in a clean stu
 
 `fashion` `editorial` `jump`
 
-### 27. 把 logo 再放大点
+### 30. 把 logo 再放大点
 
 <img src="../gifs/logo-gets-bigger.gif" alt="把 logo 再放大点" width="360">
 
@@ -384,7 +541,7 @@ A plain kraft shipping box on a white table; the simple round star emblem printe
 
 `product` `meme` `logo`
 
-### 28. 同一个盘子换菜
+### 31. 同一个盘子换菜
 
 <img src="../gifs/same-plate-dish-swap.gif" alt="同一个盘子换菜" width="360">
 
@@ -398,7 +555,7 @@ Top-down shot of one white plate on a fixed wooden table; the dish on it changes
 
 `food` `menu` `restaurant`
 
-### 29. 乐器联动的动态签名
+### 32. 乐器联动的动态签名
 
 <img src="../gifs/violin-signature-notes.gif" alt="乐器联动的动态签名" width="360">
 
@@ -412,7 +569,7 @@ A flowing gold handwritten signature draws itself across a dark navy card while 
 
 `signature` `music` `particles`
 
-### 30. 雪山大字标题登场
+### 33. 雪山大字标题登场
 
 <img src="../gifs/mountain-title-reveal.gif" alt="雪山大字标题登场" width="360">
 
@@ -426,7 +583,7 @@ The single bold word WILD rises letter by letter over a misty snow-capped mounta
 
 `typography` `title` `landscape`
 
-### 31. 咖啡豆飞溅
+### 34. 咖啡豆飞溅
 
 <img src="../gifs/coffee-bean-burst.gif" alt="咖啡豆飞溅" width="360">
 
@@ -440,7 +597,7 @@ A matte black coffee bag with a blank label, roasted beans burst up from behind 
 
 `product` `coffee` `ad`
 
-### 32. 手机开箱
+### 35. 手机开箱
 
 <img src="../gifs/phone-unbox-reveal.gif" alt="手机开箱" width="360">
 
@@ -454,7 +611,7 @@ A plain white box lid lifts off to reveal a generic slim smartphone that rises s
 
 `product` `tech` `unboxing`
 
-### 33. 香薰蜡烛点亮
+### 36. 香薰蜡烛点亮
 
 <img src="../gifs/candle-jar-light.gif" alt="香薰蜡烛点亮" width="360">
 
@@ -468,7 +625,7 @@ A frosted glass candle jar with a blank label, the wick sparks and lights, warm 
 
 `product` `candle` `ad`
 
-### 34. 运动鞋自动系鞋带
+### 37. 运动鞋自动系鞋带
 
 <img src="../gifs/sneaker-lace-tie.gif" alt="运动鞋自动系鞋带" width="360">
 
@@ -482,7 +639,7 @@ A white sneaker on a pedestal ties its own laces into a neat bow, then gives a t
 
 `product` `fashion` `3d`
 
-### 35. 冰淇淋滴落广告
+### 38. 冰淇淋滴落广告
 
 <img src="../gifs/ice-cream-drip-promo.gif" alt="冰淇淋滴落广告" width="360">
 
@@ -496,7 +653,7 @@ A pink strawberry ice cream cone slowly drips one drop of melted cream while spr
 
 `product` `food` `ad`
 
-### 36. 蜂蜜滴落
+### 39. 蜂蜜滴落
 
 <img src="../gifs/honey-dipper-drizzle.gif" alt="蜂蜜滴落" width="360">
 
@@ -510,7 +667,7 @@ A wooden honey dipper lifts above a jar, a thick ribbon of golden honey drizzles
 
 `food` `product` `macro`
 
-### 37. 精华滴管
+### 40. 精华滴管
 
 <img src="../gifs/serum-dropper-drip.gif" alt="精华滴管" width="360">
 
@@ -524,7 +681,7 @@ A glass skincare dropper squeezes out one clear golden drop that falls into an o
 
 `product` `beauty` `skincare`
 
-### 38. 冰镇汽水罐
+### 41. 冰镇汽水罐
 
 <img src="../gifs/soda-can-fizz.gif" alt="冰镇汽水罐" width="360">
 
@@ -538,7 +695,7 @@ An unbranded mint-green soda can covered in cold condensation stands on crushed 
 
 `product` `drink` `ecommerce`
 
-### 39. 麦片倒牛奶
+### 42. 麦片倒牛奶
 
 <img src="../gifs/cereal-milk-pour.gif" alt="麦片倒牛奶" width="360">
 
@@ -552,7 +709,7 @@ Milk pours into a white bowl of colorful ring cereal, the rings bob up and swirl
 
 `food` `product` `breakfast`
 
-### 40. 照片卡片错位滑动
+### 43. 照片卡片错位滑动
 
 <img src="../gifs/photo-cards-shuffle.gif" alt="照片卡片错位滑动" width="360">
 
@@ -566,7 +723,7 @@ Three overlapping instant photo cards showing a beach, a mountain and a city at 
 
 `photo` `layout` `social`
 
-### 41. 陶瓷花瓶转台
+### 44. 陶瓷花瓶转台
 
 <img src="../gifs/vase-turntable-spin.gif" alt="陶瓷花瓶转台" width="360">
 
@@ -580,7 +737,7 @@ A speckled sage-green ceramic vase holding one dried branch rotates a full turn 
 
 `product` `ceramic` `turntable`
 
-### 42. 开幕帷幕与彩纸
+### 45. 开幕帷幕与彩纸
 
 <img src="../gifs/stage-curtain-confetti.gif" alt="开幕帷幕与彩纸" width="360">
 
@@ -594,7 +751,7 @@ Red velvet theater curtains part on a small stage; a spotlight sweeps across and
 
 `event` `announcement` `celebration`
 
-### 43. 耳机盒开盖
+### 46. 耳机盒开盖
 
 <img src="../gifs/earbud-case-open.gif" alt="耳机盒开盖" width="360">
 
@@ -608,7 +765,7 @@ A matte terracotta-orange egg-shaped charging case with a wooden lid sits on a b
 
 `product` `tech` `ecommerce`
 
-### 44. 中文草书签名
+### 47. 中文草书签名
 
 <img src="../gifs/chinese-brush-signature.gif" alt="中文草书签名" width="360">
 
@@ -624,7 +781,7 @@ On textured rice paper, a black ink brush writes two Chinese characters in flowi
 
 `signature` `calligraphy` `text`
 
-### 45. 水彩街景翻页书
+### 48. 水彩街景翻页书
 
 <img src="../gifs/watercolor-street-flipbook.gif" alt="水彩街景翻页书" width="360">
 
@@ -638,7 +795,7 @@ A sketchbook lies open and its pages turn by themselves, each showing a loose wa
 
 `watercolor` `sketchbook` `city`
 
-### 46. 玻璃罐里的小岛
+### 49. 玻璃罐里的小岛
 
 <img src="../gifs/jar-island-lighthouse.gif" alt="玻璃罐里的小岛" width="360">
 
@@ -652,7 +809,7 @@ A tiny island with a white lighthouse sealed inside a glass jar on a table; smal
 
 `miniature` `glass` `diorama`
 
-### 47. 旅行明信片翻页
+### 50. 旅行明信片翻页
 
 <img src="../gifs/travel-postcard-stack.gif" alt="旅行明信片翻页" width="360">
 
@@ -666,7 +823,7 @@ A stack of illustrated travel postcards flips one after another: a mountain lake
 
 `travel` `illustration` `flip`
 
-### 48. 漫画风 BOOM 海报
+### 51. 漫画风 BOOM 海报
 
 <img src="../gifs/comic-boom-poster.gif" alt="漫画风 BOOM 海报" width="360">
 
@@ -680,7 +837,7 @@ A halftone comic-print poster: a small cartoon rocket blasts upward and a big ja
 
 `poster` `comic` `text`
 
-### 49. 3D 金币旋转
+### 52. 3D 金币旋转
 
 <img src="../gifs/gold-token-spin.gif" alt="3D 金币旋转" width="360">
 
@@ -694,7 +851,7 @@ A thick 3D gold coin embossed with a simple star emblem spins smoothly on its ve
 
 `3d` `coin` `spin`
 
-### 50. 戴上耳机，街道瞬间安静
+### 53. 戴上耳机，街道瞬间安静
 
 <img src="../gifs/headphones-silence-cut.gif" alt="戴上耳机，街道瞬间安静" width="360">
 
@@ -708,7 +865,7 @@ Stylized illustration: a person on a crowded noisy street with honking cars puts
 
 `product` `ad` `before-after`
 
-### 51. 星云闪烁的美甲片
+### 54. 星云闪烁的美甲片
 
 <img src="../gifs/nail-tips-nebula.gif" alt="星云闪烁的美甲片" width="360">
 
@@ -722,7 +879,7 @@ Five glossy almond-shaped nail tips on a white display stand, each painted deep 
 
 `beauty` `product` `sparkle`
 
-### 52. 一个瓶子三个世界
+### 55. 一个瓶子三个世界
 
 <img src="../gifs/bottle-three-worlds.gif" alt="一个瓶子三个世界" width="360">
 
@@ -736,7 +893,7 @@ A frosted glass serum bottle stays fixed in the center while the world behind it
 
 `product` `ad` `background`
 
-### 53. 金色签名自己写出来
+### 56. 金色签名自己写出来
 
 <img src="../gifs/signature-ink-write.gif" alt="金色签名自己写出来" width="360">
 
@@ -750,7 +907,7 @@ An elegant cursive signature reading Mira writes itself stroke by stroke in shim
 
 `signature` `text` `brand`
 
-### 54. 极简手表特写
+### 57. 极简手表特写
 
 <img src="../gifs/watch-hands-sweep.gif" alt="极简手表特写" width="360">
 
@@ -764,7 +921,7 @@ A minimalist wristwatch with a white dial lying on a linen surface, the second h
 
 `product` `watch` `minimal`
 
-### 55. 旋出的口红
+### 58. 旋出的口红
 
 <img src="../gifs/lipstick-twist-up.gif" alt="旋出的口红" width="360">
 
@@ -780,7 +937,7 @@ A lipstick in a plain smooth rose-gold cylindrical case with no logo, letters or
 
 `product` `beauty` `luxury`
 
-### 56. 柑橘饮料瓶溅水
+### 59. 柑橘饮料瓶溅水
 
 <img src="../gifs/citrus-bottle-splash.gif" alt="柑橘饮料瓶溅水" width="360">
 
@@ -794,7 +951,7 @@ A glass bottle of orange juice with a plain unbranded label standing in the cent
 
 `product` `drink` `splash`
 
-### 57. 悬浮旋转的耳机
+### 60. 悬浮旋转的耳机
 
 <img src="../gifs/headphones-float-spin.gif" alt="悬浮旋转的耳机" width="360">
 
@@ -808,7 +965,7 @@ A pair of matte white over-ear headphones floating above a round pedestal, slowl
 
 `product` `tech` `studio`
 
-### 58. 虚构品牌标志展开
+### 61. 虚构品牌标志展开
 
 <img src="../gifs/leaf-logo-reveal.gif" alt="虚构品牌标志展开" width="360">
 
@@ -822,7 +979,7 @@ A minimal logo reveal on a deep green background for a fictional tea brand calle
 
 `logo` `brand` `reveal`
 
-### 59. 纸拼贴夜景逐块拼出
+### 62. 纸拼贴夜景逐块拼出
 
 <img src="../gifs/collage-moon-cut.gif" alt="纸拼贴夜景逐块拼出" width="360">
 
@@ -838,7 +995,7 @@ A paper collage on a blank cream page: torn paper pieces slide in one by one to 
 
 `collage` `b-roll` `reveal`
 
-### 60. 帆布包卖点标注
+### 63. 帆布包卖点标注
 
 <img src="../gifs/tote-feature-callouts.gif" alt="帆布包卖点标注" width="360">
 
@@ -852,7 +1009,7 @@ A product shot of a natural canvas tote bag; small glowing circle markers with p
 
 `product` `ecommerce` `callout`
 
-### 61. 马克杯换色展示
+### 64. 马克杯换色展示
 
 <img src="../gifs/mug-color-cycle.gif" alt="马克杯换色展示" width="360">
 
@@ -868,7 +1025,7 @@ A single ceramic coffee mug shown whole and centered in a square frame, handle t
 
 `product` `colorway` `ecommerce`
 
-### 62. 霓虹星星与环绕光轨
+### 65. 霓虹星星与环绕光轨
 
 <img src="../gifs/neon-star-orbit.gif" alt="霓虹星星与环绕光轨" width="360">
 
@@ -882,7 +1039,7 @@ A neon sign shaped like a five-pointed star, outlined in orange-pink LED dots, g
 
 `neon` `glow` `sign`
 
-### 63. 房屋剖面展开
+### 66. 房屋剖面展开
 
 <img src="../gifs/house-cutaway.gif" alt="房屋剖面展开" width="360">
 
@@ -896,7 +1053,7 @@ An isometric 3D cutaway of a small two-story house: the front wall slides away t
 
 `3d` `isometric` `reveal`
 
-### 64. 网点漫画动感海报
+### 67. 网点漫画动感海报
 
 <img src="../gifs/halftone-fox-poster.gif" alt="网点漫画动感海报" width="360">
 
@@ -910,7 +1067,7 @@ A bold comic-style action poster: a masked fox thief in a long red coat leaps ac
 
 `poster` `comic` `bold`
 
-### 65. 冰晶绽放
+### 68. 冰晶绽放
 
 <img src="../gifs/ice-crystal-bloom.gif" alt="冰晶绽放" width="360">
 
@@ -924,7 +1081,7 @@ A pale blue ice crystal growing from the center of the frame, frost branches spr
 
 `vfx` `ice` `game`
 
-### 66. 水流旋涡球
+### 69. 水流旋涡球
 
 <img src="../gifs/water-spiral-orb.gif" alt="水流旋涡球" width="360">
 
@@ -938,7 +1095,7 @@ A floating sphere of clear water with a spiral current turning inside it, small 
 
 `vfx` `water` `game`
 
-### 67. 瓶中闪电
+### 70. 瓶中闪电
 
 <img src="../gifs/lightning-jar.gif" alt="瓶中闪电" width="360">
 
@@ -952,7 +1109,7 @@ A corked glass jar on a wooden table with a tiny bolt of blue-white lightning cr
 
 `vfx` `lightning` `fantasy`
 
-### 68. 火焰法阵
+### 71. 火焰法阵
 
 <img src="../gifs/fire-ring-spell.gif" alt="火焰法阵" width="360">
 
@@ -966,7 +1123,7 @@ A glowing circular magic sigil on dark stone floor ignites into a ring of orange
 
 `vfx` `fire` `game`
 
-### 69. 礼物盒弹出小白鬼
+### 72. 礼物盒弹出小白鬼
 
 <img src="../gifs/gift-box-ghost-pop.gif" alt="礼物盒弹出小白鬼" width="360">
 
@@ -980,7 +1137,7 @@ A glossy red cartoon gift box with a gold ribbon: the lid pops open and a tiny r
 
 `3d` `surprise` `bouncy`
 
-### 70. 同一只狐狸换六种材质
+### 73. 同一只狐狸换六种材质
 
 <img src="../gifs/material-style-flip.gif" alt="同一只狐狸换六种材质" width="360">
 
@@ -994,7 +1151,7 @@ The same sitting fox in the same pose, each frame rendered in a different materi
 
 `style` `material` `comparison`
 
-### 71. 城堡拔地而起
+### 74. 城堡拔地而起
 
 <img src="../gifs/castle-builds-up.gif" alt="城堡拔地而起" width="360">
 
@@ -1008,7 +1165,7 @@ A medieval stone castle on a green hill building itself up from the foundation: 
 
 `build` `castle` `timelapse`
 
-### 72. 小人们搭建三明治
+### 75. 小人们搭建三明治
 
 <img src="../gifs/tiny-chefs-sandwich.gif" alt="小人们搭建三明治" width="360">
 
@@ -1022,7 +1179,7 @@ A team of miniature people in aprons on a full-size kitchen table hauling a lett
 
 `miniature` `food` `funny`
 
-### 73. 城市千年变迁
+### 76. 城市千年变迁
 
 <img src="../gifs/city-future-timelapse.gif" alt="城市千年变迁" width="360">
 
@@ -1036,7 +1193,7 @@ The same riverside city skyline from a fixed viewpoint changing era by era: low 
 
 `timelapse` `city` `sci-fi`
 
-### 74. 聊天气泡逐条弹出
+### 77. 聊天气泡逐条弹出
 
 <img src="../gifs/chat-bubbles-pop.gif" alt="聊天气泡逐条弹出" width="360">
 
@@ -1050,7 +1207,7 @@ A phone chat screen where three message bubbles pop in one by one: grey "Are you
 
 `ui` `chat` `text`
 
-### 75. 两行活动标题动效
+### 78. 两行活动标题动效
 
 <img src="../gifs/event-title-reveal.gif" alt="两行活动标题动效" width="360">
 
@@ -1064,7 +1221,7 @@ A bold two-line title "SUMMER" and "MARKET 2026" sliding in from the left one li
 
 `text` `title` `motion-graphics`
 
-### 76. 香水瓶在水面旋转
+### 79. 香水瓶在水面旋转
 
 <img src="../gifs/perfume-water-spin.gif" alt="香水瓶在水面旋转" width="360">
 
@@ -1078,7 +1235,7 @@ A square amber perfume bottle labeled "SOL" slowly rotating on the surface of st
 
 `product` `perfume` `water`
 
-### 77. 产品背景光掠过
+### 80. 产品背景光掠过
 
 <img src="../gifs/product-light-sweep.gif" alt="产品背景光掠过" width="360">
 
@@ -1092,7 +1249,7 @@ A frosted glass skincare bottle standing still on a beige stone plinth while a s
 
 `product` `ad` `light`
 
-### 78. 霓虹 OPEN 招牌闪烁
+### 81. 霓虹 OPEN 招牌闪烁
 
 <img src="../gifs/neon-open-sign.gif" alt="霓虹 OPEN 招牌闪烁" width="360">
 
@@ -1106,7 +1263,7 @@ A pink and blue neon "OPEN" sign in a dark shop window at night, buzzing and fli
 
 `neon` `sign` `text`
 
-### 79. 纸飞机从桌面滑到笔记本
+### 82. 纸飞机从桌面滑到笔记本
 
 <img src="../gifs/paper-airplane-glide.gif" alt="纸飞机从桌面滑到笔记本" width="360">
 
@@ -1120,7 +1277,7 @@ An orange paper airplane with one navy stripe lifting off a wooden desk, gliding
 
 `storyboard` `object` `desk`
 
-### 80. 杂志拼贴逐格弹出
+### 83. 杂志拼贴逐格弹出
 
 <img src="../gifs/magazine-panels-pop.gif" alt="杂志拼贴逐格弹出" width="360">
 
@@ -1136,7 +1293,7 @@ A fashion-magazine collage layout where photo panels pop in one by one — a flo
 
 `flash-cut` `editorial` `layout`
 
-### 81. 一棵树的四季
+### 84. 一棵树的四季
 
 <img src="../gifs/four-seasons-tree.gif" alt="一棵树的四季" width="360">
 
@@ -1150,7 +1307,7 @@ The same lone round tree on a small hill, framed identically in every frame, cyc
 
 `flash-cut` `nature` `seasons`
 
-### 82. 球鞋配色快闪
+### 85. 球鞋配色快闪
 
 <img src="../gifs/sneaker-colorway-flash.gif" alt="球鞋配色快闪" width="360">
 
@@ -1166,7 +1323,7 @@ A fast flash-cut in a square frame: the same chunky sneaker seen from the side, 
 
 `flash-cut` `product` `fashion`
 
-### 83. 猫头 Logo 品牌快闪
+### 86. 猫头 Logo 品牌快闪
 
 <img src="../gifs/cat-brand-reel.gif" alt="猫头 Logo 品牌快闪" width="360">
 
@@ -1182,7 +1339,7 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
-### 84. 花卉微距快闪
+### 87. 花卉微距快闪
 
 <img src="../gifs/flower-macro-flash.gif" alt="花卉微距快闪" width="360">
 

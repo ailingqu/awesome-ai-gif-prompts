@@ -25,6 +25,26 @@
       "id": "explainers",
       "title": "Science & Explainers",
       "title_zh": "科普讲解动图"
+    },
+    {
+      "id": "holidays",
+      "title": "Holidays & Greetings",
+      "title_zh": "节日与祝福"
+    },
+    {
+      "id": "product",
+      "title": "Product Showcase",
+      "title_zh": "电商与产品展示"
+    },
+    {
+      "id": "food",
+      "title": "Food & Drinks",
+      "title_zh": "美食饮品"
+    },
+    {
+      "id": "avatars",
+      "title": "Animated Avatars",
+      "title_zh": "动态头像"
     }
   ],
   "prompts": [
@@ -6007,6 +6027,313 @@
         "knitting",
         "winter"
       ]
+    },
+    {
+      "id": "gingerbread-door-wave",
+      "category": "holidays",
+      "title": "Gingerbread house waving",
+      "title_zh": "姜饼屋门口挥手的小姜饼人",
+      "prompt": "A tiny gingerbread figure with white icing buttons stands in the doorway of a candy-trimmed gingerbread house and waves one arm, while soft snowflakes drift past. Warm cozy illustration, cream background.",
+      "tags": [
+        "christmas",
+        "gingerbread",
+        "greeting"
+      ]
+    },
+    {
+      "id": "harvest-pie-steam",
+      "category": "holidays",
+      "title": "Thank-you pie with rising steam",
+      "title_zh": "冒热气的感恩节南瓜派",
+      "prompt": "A whole pumpkin pie on a checkered cloth with three curls of steam rising and fading, a small hand-lettered card beside it reading \"THANK YOU\". Soft gouache style, warm orange and brown tones.",
+      "tags": [
+        "thanksgiving",
+        "pie",
+        "thank you"
+      ]
+    },
+    {
+      "id": "sneaker-turntable-spin",
+      "category": "product",
+      "title": "Sneaker on a turntable",
+      "title_zh": "转台上旋转的运动鞋",
+      "prompt": "A clean white running sneaker with a mint green sole slowly rotates on a round white turntable, a soft highlight sliding across the toe. Studio product shot, pale grey seamless background, no text.",
+      "tags": [
+        "sneaker",
+        "turntable",
+        "ecommerce"
+      ]
+    },
+    {
+      "id": "boba-pearls-pour",
+      "category": "food",
+      "title": "Milk tea pearls pour",
+      "title_zh": "奶茶加珍珠",
+      "prompt": "A clear cup of milk tea sits on a counter as a spoonful of dark tapioca pearls drops in and sinks, swirling brown sugar streaks along the glass. Bright cute flat illustration, pastel pink background.",
+      "tags": [
+        "bubble tea",
+        "boba",
+        "drink"
+      ]
+    },
+    {
+      "id": "pizza-cheese-pull",
+      "category": "food",
+      "title": "Pizza slice cheese pull",
+      "title_zh": "披萨拉丝",
+      "prompt": "A hand lifts one slice of pepperoni pizza away from the whole pie, long strings of melted mozzarella stretching between the slice and the pan, then the slice settles back into place. Warm close-up food illustration, rustic wooden table.",
+      "tags": [
+        "pizza",
+        "cheese",
+        "food"
+      ]
+    },
+    {
+      "id": "smartwatch-face-glow",
+      "category": "product",
+      "title": "Smartwatch screen wake-up",
+      "title_zh": "智能手表亮屏",
+      "prompt": "A round matte black smartwatch with a sage green strap lies on a light stone surface; its screen wakes up with a soft glow, the clock hands sweep into place, then the screen dims again. Minimal studio product shot, no text, no logos.",
+      "tags": [
+        "smartwatch",
+        "wearable",
+        "product shot"
+      ]
+    },
+    {
+      "id": "fox-headphones-nod",
+      "category": "avatars",
+      "title": "Fox with headphones nodding",
+      "title_zh": "戴耳机点头的狐狸头像",
+      "prompt": "Circular avatar of a red fox wearing chunky yellow headphones, eyes closed, nodding its head to a beat as small music notes pop beside it. Flat vector style, teal background.",
+      "tags": [
+        "avatar",
+        "fox",
+        "music"
+      ]
+    },
+    {
+      "id": "astronaut-cat-blink",
+      "category": "avatars",
+      "title": "Astronaut cat blinking",
+      "title_zh": "宇航员猫咪眨眼头像",
+      "prompt": "Circular profile avatar of a grey cat inside a round astronaut helmet, blinking slowly while a tiny star glints across the glass visor. Soft 3D clay style, navy blue background.",
+      "tags": [
+        "avatar",
+        "cat",
+        "space"
+      ]
+    },
+    {
+      "id": "photosynthesis-leaf-flow",
+      "category": "explainers",
+      "title": "Photosynthesis in a leaf",
+      "title_zh": "叶片光合作用示意",
+      "prompt": "Simple science diagram of a green leaf: yellow sun rays enter from the top, blue water droplets rise from the stem, and small bubbles labeled O2 float out of the leaf. Clean textbook illustration, white background.",
+      "tags": [
+        "photosynthesis",
+        "biology",
+        "diagram"
+      ]
+    },
+    {
+      "id": "sound-wave-speaker",
+      "category": "explainers",
+      "title": "Speaker sound waves",
+      "title_zh": "扬声器声波传播",
+      "prompt": "Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly spaced curved sound waves rippling to the right toward a cartoon ear. Flat educational infographic, light blue background.",
+      "tags": [
+        "sound",
+        "physics",
+        "waves"
+      ]
+    },
+    {
+      "id": "this-is-fine-dog-tea",
+      "category": "stickers",
+      "title": "\"This is fine\" dog sipping tea",
+      "title_zh": "着火房间里喝茶的狗",
+      "prompt": "做一个循环 GIF，一只戴着小帽子的卡通狗坐在着火的房间里，先是平静地喝茶，然后慢慢意识到不对劲，表情逐渐从“没事”变成“其实有事”，最后又假装没事继续喝茶。风格偏扁平插画，表情夸张，背景火焰轻微闪动，6-8帧，无缝循环。",
+      "tags": [
+        "dog",
+        "meme",
+        "fire"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/shitunote/status/2118187063241777311",
+        "author": "马识途",
+        "handle": "shitunote",
+        "profile_url": "https://x.com/shitunote"
+      }
+    },
+    {
+      "id": "psychedelic-cat-dance",
+      "category": "flash",
+      "title": "Psychedelic dancing cat",
+      "title_zh": "迷幻风跳舞猫",
+      "prompt": "psychedelic gif of cat dancing",
+      "tags": [
+        "cat",
+        "psychedelic",
+        "dance"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/xedrik7/status/2118258491043483978",
+        "author": "Xedrik",
+        "handle": "xedrik7",
+        "profile_url": "https://x.com/xedrik7"
+      }
+    },
+    {
+      "id": "idiom-riddle-ceramic-props",
+      "category": "flash",
+      "title": "Idiom riddle: four ceramic props bounce in turn",
+      "title_zh": "成语物件猜谜：四个陶瓷摆件轮流弹跳",
+      "prompt": "制作一个中国成语物件猜谜 GIF 动图，竖版 3:4，精致可爱的短视频封面风格。\n\n【输出规格】\n输出一个可播放的 GIF 动图。\n画面尺寸：768×1024 像素。\n总时长：3秒，无限循环。\n建议帧率：20fps，约60帧。\n动画包含4个连续动作段，每段0.75秒，分别对应四件物品。\n全程为同一个完整画面，镜头固定，构图固定，没有切镜、推拉、摇移或缩放。\n【制作原则：同一母版，局部动画】\n先建立一张完整的静态母版，再基于同一母版制作动画。\n所有帧保持相同的背景、构图、文字、台面、物件造型、材质、颜色与光照。\n只允许当前指定物件进行小幅竖直位移，并同步调整它的局部高光、接触阴影与倒影。\n其余三个物件保持静止。\n文字必须使用同一份静态图层，在全部帧中重复使用，不要逐帧重新绘制。\n【背景】\n深蓝色专业摄影棚背景，中心为柔和宝蓝色，向四周自然渐暗为午夜蓝。\n背景纯净，具有轻微柔光晕，渐变细腻，没有明显纹理和杂乱装饰。\n背景空白区域分布3—5个微小、低亮度的金色光点。\n光点沿非常短的闭合轨迹缓慢漂浮，一个循环周期为3秒。\n光点不穿过文字或物件，不闪烁、不突然出现或消失，循环结束时回到起始位置。\n【文字：全程完全静止】\n画面中只允许出现以下两行文字，不增加任何其他文字：\n第一行：\n物件藏着一个成语\n\n第二行：\n你猜出来了吗\n第一行位于画面顶部居中，使用明黄色 #FFD54A 的超粗圆体大字，字形饱满圆润，带浅描边和轻微投影。\n第二行位于第一行正下方，使用白色粗圆体，字号约为第一行的60%。\n\n两行文字保持足够行距，四周预留安全边距，不贴边、不裁切。\n汉字笔画完整，字形标准，清晰易读，无错别字。\n在所有帧中，文字的位置、字号、字距、笔画、颜色、描边、阴影与透明度完全一致。\n文字不参与弹跳、高光扫动、闪烁或任何其他动画。\n【台面与构图】\n画面中下部是一条横向浅木纹展示台。\n台面干净，木纹细腻，具有柔和、克制的反光。\n四件物品集中排列于画面中下部，物件组占画面宽度约85%—90%。\n四件物品位于同一前后层级，静止时底部对齐于同一条台面接触基线。\n它们具有接近的视觉体量，间距均匀，彼此留出清晰空隙。\n不前后错落、不堆叠、不互相遮挡。\n\n采用固定的轻微俯视角度，能够清楚看见杯口和水面，同时保持四件物品横向并排的秩序感。\n【四件物品：顺序固定】\n从左到右严格依次为：\n一辆红色Q版小汽车。\n圆润饱满，车身呈中国红，轮子与车窗清晰可辨，具有精致陶瓷玩具质感。\n\n一个装满清水的青花瓷杯。\n杯身具有细腻青花纹样，杯口清晰，能够看见透明清水与柔和水面反光。\n杯身无文字，水面保持平稳，不溢出、不飞溅。\n一匹金色Q版小马。\n造型圆润可爱，具有清晰的马头、鬃毛、四肢与尾巴，表面为温润的金色陶瓷釉面。\n一条青绿色盘身小龙。\n中国传统小龙造型，身体盘曲，龙头微微抬起，龙角、龙须与鳞片适度简化，神态可爱，具有青绿色陶瓷釉面质感。\n\n四件物品保持各自明确的识别特征。\n物件表面没有文字、拼音、标签、数字或答案提示。\n【动作规则】\n所有物件均为刚性的陶瓷摆件，只允许整体轻轻向上移动，再回到原位。\n不挤压、不拉伸、不旋转、不左右移动、不改变造型。\n\n弹跳最高点距离原位约为画面高度的1%，动作轻巧、克制。\n每个物件必须完整落回原位后，下一个物件才开始动作。\n任意时刻，四件物品中最多只有一件正在运动。\n当前物件弹起时，一道低强度、柔和的高光缓缓掠过其表面。\n高光只作用于当前物件，不影响文字、背景和其他物件。\n物件下方的阴影与倒影随高度轻微变化，落地后恢复母版状态。\n小汽车轮子不转，小马不迈腿，小龙不摆尾、不转头。\n\n【3秒动作时间线】\n0.00—0.75秒：\n红色小汽车完成一次轻轻弹起并落回原位。\n瓷杯、小马、小龙保持静止。\n0.75—1.50秒：\n青花瓷杯完成一次轻轻弹起并落回原位。\n汽车、小马、小龙保持静止。\n\n1.50—2.25秒：\n金色小马完成一次轻轻弹起并落回原位。\n汽车、瓷杯、小龙保持静止。\n2.25—3.00秒：\n青绿色小龙完成一次轻轻弹起并落回原位。\n汽车、瓷杯、小马保持静止。\n\n每个0.75秒动作段均遵循：\n短暂停住 → 平缓上升 → 平缓落下 → 落定后短暂停住。\n上升和下落采用柔和缓入缓出，不突然跳位，不夸张弹震。\n\n【无缝循环】\n首帧与末帧完全一致：\n四件物品全部落在原位，所有高光、阴影、倒影与背景光点均回到初始状态。\n从末帧接回首帧时，没有位置跳变、亮度跳变或颜色闪动。\n循环中不出现黑帧、白帧、残影或重影。\n\n【整体质感】\n精致可爱的Q版3D陶瓷摆件，圆润、细腻、通透。\n以中国红、金色、青绿色和青花蓝点缀深蓝背景，融入克制的中国传统纹样细节。\n顶部柔光配合左右轮廓光，物件边缘高光清晰，台面倒影柔和。\n整体具有中国文化韵味，适合全年龄观看。\n【禁止事项】\n不出现成语答案。\n不出现额外文字、水印、品牌标志或界面元素。\n不出现分镜拼图、四宫格或多画面。\n不改变四件物品的数量、顺序、造型、颜色或比例。\n不让两个物件同时运动。\n不让物件重叠、碰撞、堆叠或横向移位。\n不让文字闪烁、变形、位移或重新生成。\n不改变相机位置、背景亮度或整体色调。",
+      "tags": [
+        "riddle",
+        "chinese idiom",
+        "3d"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/GeekCatX/status/2118160560290480519",
+        "author": "知识猫",
+        "handle": "GeekCatX",
+        "profile_url": "https://x.com/GeekCatX"
+      }
+    },
+    {
+      "id": "sicilian-defense-chess",
+      "category": "explainers",
+      "title": "Sicilian Defense chess opening",
+      "title_zh": "西西里防御开局动画",
+      "prompt": "A simple animation of the Sicilian Defense opening on a chess board, flat vector illustration",
+      "tags": [
+        "chess",
+        "opening",
+        "diagram"
+      ],
+      "source": {
+        "platform": "Mordenstar",
+        "url": "https://imgpb.com/OzSMKJ",
+        "author": "vunderba",
+        "profile_url": "https://news.ycombinator.com/user?id=vunderba"
+      }
+    },
+    {
+      "id": "orange-bird-branch-flap",
+      "category": "loops",
+      "title": "Orange bird flapping on a branch",
+      "title_zh": "树枝上扇动翅膀的橙色小鸟",
+      "prompt": "Create a looping animation of a small orange bird on a stationary branch against a plain cream background. The bird raises its wings, pauses, then lowers them to its starting pose. Keep the camera fixed, the branch still, and the bird shape and colors consistent. No text. Make the transition back to the start smooth.",
+      "tags": [
+        "bird",
+        "loop",
+        "api"
+      ],
+      "source": {
+        "platform": "Ofox",
+        "url": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+        "author": "Ofox",
+        "profile_url": "https://ofox.ai/"
+      }
+    },
+    {
+      "id": "water-bottle-rock-product",
+      "category": "product",
+      "title": "Water bottle rocking (product loop)",
+      "title_zh": "左右摇摆的水杯产品动图",
+      "prompt": "Generate an actual animated GIF file, not a still picture, sprite sheet, video, or Python-coded animation. Square 512 by 512 pixels, a seamless 2-second loop. A bright orange reusable water bottle with a charcoal screw cap and a small turquoise circular badge remains centered on a pale gray studio background. The bottle rocks gently left and right and returns to its starting pose; the camera and background stay fixed. The bottle reads exactly \"KINGY LAB\" and \"750 mL\" throughout. No other text or objects. Use ChatGPT's native GIF generation and provide the downloadable GIF. If native GIF generation is unavailable, state that limitation rather than simulating it with code.",
+      "tags": [
+        "product",
+        "bottle",
+        "api"
+      ],
+      "source": {
+        "platform": "Kingy AI",
+        "url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+        "author": "Curtis Pyke",
+        "profile_url": "https://kingy.ai/curtis-pyke/"
+      }
+    },
+    {
+      "id": "skateboard-kickflip-360",
+      "category": "flash",
+      "title": "360 kickflip on a skateboard",
+      "title_zh": "滑板 360 尖翻",
+      "prompt": "Create a GIF of a 360 kickflip on a skateboard",
+      "tags": [
+        "skateboard",
+        "sport",
+        "trick"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/justynclark/status/2118189691820482677",
+        "author": "Justyn",
+        "handle": "justynclark",
+        "profile_url": "https://x.com/justynclark"
+      }
+    },
+    {
+      "id": "canton-tower-morning-mist",
+      "category": "loops",
+      "title": "Canton Tower rising from morning mist",
+      "title_zh": "晨雾中的广州塔",
+      "prompt": "清晨珠江，薄雾，镜头低空推进，广州塔从雾里露出来，一艘游船划过。",
+      "tags": [
+        "city",
+        "mist",
+        "river"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/AIWAVE2025/status/2118154755826766225",
+        "author": "Lucien｜影视后期与AI实践",
+        "handle": "AIWAVE2025",
+        "profile_url": "https://x.com/AIWAVE2025"
+      }
+    },
+    {
+      "id": "pixel-word-bounce-broll",
+      "category": "pixel-ui",
+      "title": "Pixel letters bounce: B-ROLL",
+      "title_zh": "像素字母依次跳动 B-ROLL",
+      "prompt": "深青色背景，奶油色像素字体 B-ROLL，字母从左到右轻轻跳起再落回原位，珊瑚色光标从下方划过。字形、拼写和间距保持一致，动画 GIF。",
+      "tags": [
+        "pixel font",
+        "text",
+        "title"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/Wv3EcACHtizRjZK/status/2119673507068203035",
+        "author": "大v（没互关就是在cd）",
+        "handle": "Wv3EcACHtizRjZK",
+        "profile_url": "https://x.com/Wv3EcACHtizRjZK"
+      }
+    },
+    {
+      "id": "cat-codex-quota-out",
+      "category": "stickers",
+      "title": "Cat coder runs out of Codex quota",
+      "title_zh": "橘猫敲代码额度用光",
+      "prompt": "生成一个循环 GIF：一只橘猫趴在电脑前敲键盘，codex提示没额度了，表情从平静变成崩溃，最后无奈地趴在键盘上。Q版3D风格，9帧，循环播放",
+      "tags": [
+        "cat",
+        "coding",
+        "meme"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/DawienZZ/status/2120785093661012027",
+        "author": "Dawien",
+        "handle": "DawienZZ",
+        "profile_url": "https://x.com/DawienZZ"
+      }
     }
   ]
 }

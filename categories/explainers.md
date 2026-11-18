@@ -1,8 +1,52 @@
-# Science & Explainers · 8 prompts
+# Science & Explainers · 11 prompts
 
 [← README](../README.md)
 
-### 1. Seesaw lever balance
+### 1. Sicilian Defense chess opening
+
+<img src="../gifs/sicilian-defense-chess.gif" alt="Sicilian Defense chess opening" width="360">
+
+<sub>16 frames · 288×288 · 3.2s · gpt-image-2.6-gif</sub>
+
+📌 **Source:** [vunderba on Mordenstar](https://imgpb.com/OzSMKJ)
+
+**Prompt**
+
+```text
+A simple animation of the Sicilian Defense opening on a chess board, flat vector illustration
+```
+
+`chess` `opening` `diagram`
+
+### 2. Speaker sound waves
+
+<img src="../gifs/sound-wave-speaker.gif" alt="Speaker sound waves" width="360">
+
+<sub>9 frames · 436×388 · 1.3s · gpt-image-2.6 · generated 2026-11-18</sub>
+
+**Prompt**
+
+```text
+Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly spaced curved sound waves rippling to the right toward a cartoon ear. Flat educational infographic, light blue background.
+```
+
+`sound` `physics` `waves`
+
+### 3. Photosynthesis in a leaf
+
+<img src="../gifs/photosynthesis-leaf-flow.gif" alt="Photosynthesis in a leaf" width="360">
+
+<sub>9 frames · 439×390 · 1.6s · gpt-image-2.6 · generated 2026-11-18</sub>
+
+**Prompt**
+
+```text
+Simple science diagram of a green leaf: yellow sun rays enter from the top, blue water droplets rise from the stem, and small bubbles labeled O2 float out of the leaf. Clean textbook illustration, white background.
+```
+
+`photosynthesis` `biology` `diagram`
+
+### 4. Seesaw lever balance
 
 <img src="../gifs/seesaw-lever-balance.gif" alt="Seesaw lever balance" width="360">
 
@@ -16,7 +60,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 2. Prism splits light
+### 5. Prism splits light
 
 <img src="../gifs/prism-rainbow-split.gif" alt="Prism splits light" width="360">
 
@@ -30,7 +74,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 3. Planets orbit the sun
+### 6. Planets orbit the sun
 
 <img src="../gifs/solar-system-orbit.gif" alt="Planets orbit the sun" width="360">
 
@@ -44,7 +88,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 4. Beating heart diagram
+### 7. Beating heart diagram
 
 <img src="../gifs/heart-pump-diagram.gif" alt="Beating heart diagram" width="360">
 
@@ -58,7 +102,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 5. Bean sprouting underground
+### 8. Bean sprouting underground
 
 <img src="../gifs/bean-roots-cutaway.gif" alt="Bean sprouting underground" width="360">
 
@@ -72,7 +116,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 6. Moon phases
+### 9. Moon phases
 
 <img src="../gifs/moon-phases-cycle.gif" alt="Moon phases" width="360">
 
@@ -86,7 +130,7 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 7. Water cycle
+### 10. Water cycle
 
 <img src="../gifs/water-cycle-loop.gif" alt="Water cycle" width="360">
 
@@ -100,7 +144,7 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 8. Pendulum swing
+### 11. Pendulum swing
 
 <img src="../gifs/pendulum-swing-trace.gif" alt="Pendulum swing" width="360">
 

@@ -1,8 +1,52 @@
-# 科普讲解动图 · 8 条提示词
+# 科普讲解动图 · 11 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 跷跷板杠杆平衡
+### 1. 西西里防御开局动画
+
+<img src="../gifs/sicilian-defense-chess.gif" alt="西西里防御开局动画" width="360">
+
+<sub>16 帧 · 288×288 · 3.2s · gpt-image-2.6-gif</sub>
+
+📌 **来源：** [vunderba on Mordenstar](https://imgpb.com/OzSMKJ)
+
+**提示词**
+
+```text
+A simple animation of the Sicilian Defense opening on a chess board, flat vector illustration
+```
+
+`chess` `opening` `diagram`
+
+### 2. 扬声器声波传播
+
+<img src="../gifs/sound-wave-speaker.gif" alt="扬声器声波传播" width="360">
+
+<sub>9 帧 · 436×388 · 1.3s · gpt-image-2.6 · 生成于 2026-11-18</sub>
+
+**提示词**
+
+```text
+Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly spaced curved sound waves rippling to the right toward a cartoon ear. Flat educational infographic, light blue background.
+```
+
+`sound` `physics` `waves`
+
+### 3. 叶片光合作用示意
+
+<img src="../gifs/photosynthesis-leaf-flow.gif" alt="叶片光合作用示意" width="360">
+
+<sub>9 帧 · 439×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-18</sub>
+
+**提示词**
+
+```text
+Simple science diagram of a green leaf: yellow sun rays enter from the top, blue water droplets rise from the stem, and small bubbles labeled O2 float out of the leaf. Clean textbook illustration, white background.
+```
+
+`photosynthesis` `biology` `diagram`
+
+### 4. 跷跷板杠杆平衡
 
 <img src="../gifs/seesaw-lever-balance.gif" alt="跷跷板杠杆平衡" width="360">
 
@@ -16,7 +60,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 2. 三棱镜分光
+### 5. 三棱镜分光
 
 <img src="../gifs/prism-rainbow-split.gif" alt="三棱镜分光" width="360">
 
@@ -30,7 +74,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 3. 行星绕日运行
+### 6. 行星绕日运行
 
 <img src="../gifs/solar-system-orbit.gif" alt="行星绕日运行" width="360">
 
@@ -44,7 +88,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 4. 心脏跳动示意
+### 7. 心脏跳动示意
 
 <img src="../gifs/heart-pump-diagram.gif" alt="心脏跳动示意" width="360">
 
@@ -58,7 +102,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 5. 豆子发芽地下剖面
+### 8. 豆子发芽地下剖面
 
 <img src="../gifs/bean-roots-cutaway.gif" alt="豆子发芽地下剖面" width="360">
 
@@ -72,7 +116,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 6. 月相变化
+### 9. 月相变化
 
 <img src="../gifs/moon-phases-cycle.gif" alt="月相变化" width="360">
 
@@ -86,7 +130,7 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 7. 水循环示意
+### 10. 水循环示意
 
 <img src="../gifs/water-cycle-loop.gif" alt="水循环示意" width="360">
 
@@ -100,7 +144,7 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 8. 单摆来回摆动
+### 11. 单摆来回摆动
 
 <img src="../gifs/pendulum-swing-trace.gif" alt="单摆来回摆动" width="360">
 

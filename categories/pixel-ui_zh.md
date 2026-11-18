@@ -1,8 +1,24 @@
-# 像素风与界面动效 · 84 条提示词
+# 像素风与界面动效 · 85 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 成功提示条滑入
+### 1. 像素字母依次跳动 B-ROLL
+
+<img src="../gifs/pixel-word-bounce-broll.gif" alt="像素字母依次跳动 B-ROLL" width="360">
+
+<sub>12 帧 · 480×270 · 3.0s · gpt-image-2.6-gif</sub>
+
+📌 **来源：** [@Wv3EcACHtizRjZK on X](https://x.com/Wv3EcACHtizRjZK/status/2119673507068203035)
+
+**提示词**
+
+```text
+深青色背景，奶油色像素字体 B-ROLL，字母从左到右轻轻跳起再落回原位，珊瑚色光标从下方划过。字形、拼写和间距保持一致，动画 GIF。
+```
+
+`pixel font` `text` `title`
+
+### 2. 成功提示条滑入
 
 <img src="../gifs/toast-success-slide.gif" alt="成功提示条滑入" width="360">
 
@@ -16,7 +32,7 @@ A green rounded notification toast slides in from the top with a white check mar
 
 `ui` `toast` `notification`
 
-### 2. 表情回应依次弹出
+### 3. 表情回应依次弹出
 
 <img src="../gifs/emoji-reaction-pop.gif" alt="表情回应依次弹出" width="360">
 
@@ -30,7 +46,7 @@ A rounded white reaction bar where five round emoji faces, smile, laugh, heart e
 
 `ui` `emoji` `reaction`
 
-### 3. 像素火车过桥
+### 4. 像素火车过桥
 
 <img src="../gifs/pixel-train-bridge.gif" alt="像素火车过桥" width="360">
 
@@ -44,7 +60,7 @@ A small pixel art steam train crosses a stone arch bridge over a river, puffing 
 
 `pixel` `train` `landscape`
 
-### 4. 像素蜜蜂花园
+### 5. 像素蜜蜂花园
 
 <img src="../gifs/pixel-bee-garden.gif" alt="像素蜜蜂花园" width="360">
 
@@ -58,7 +74,7 @@ A pixel art bee buzzes in a figure eight between three pixel flowers that sway s
 
 `pixel` `bee` `garden`
 
-### 5. 书签收藏
+### 6. 书签收藏
 
 <img src="../gifs/bookmark-ribbon-save.gif" alt="书签收藏" width="360">
 
@@ -72,7 +88,7 @@ An outlined bookmark icon fills with solid gold from top to bottom and gives a s
 
 `ui` `bookmark` `save`
 
-### 6. 加入购物车
+### 7. 加入购物车
 
 <img src="../gifs/cart-add-badge.gif" alt="加入购物车" width="360">
 
@@ -86,7 +102,7 @@ A flat shopping cart icon; a small box drops into it, the cart wiggles, and a re
 
 `ui` `cart` `ecommerce`
 
-### 7. 像素小恐龙跺脚吼叫
+### 8. 像素小恐龙跺脚吼叫
 
 <img src="../gifs/pixel-dino-stomp.gif" alt="像素小恐龙跺脚吼叫" width="360">
 
@@ -100,7 +116,7 @@ A small green pixel art dinosaur stomps one foot, opens its mouth in a tiny roar
 
 `pixel` `dinosaur` `sprite`
 
-### 8. 低多边形主角慢跑
+### 9. 低多边形主角慢跑
 
 <img src="../gifs/lowpoly-hero-jog.gif" alt="低多边形主角慢跑" width="360">
 
@@ -114,7 +130,7 @@ A blocky low-poly game hero in a red jacket jogs along a dirt path in a side vie
 
 `low-poly` `retro-game` `run`
 
-### 9. 像素宇航员跑步
+### 10. 像素宇航员跑步
 
 <img src="../gifs/pixel-astronaut-run.gif" alt="像素宇航员跑步" width="360">
 
@@ -130,7 +146,7 @@ A pixel art astronaut in a white suit with an orange visor runs in place in a sm
 
 `pixel` `astronaut` `run-cycle`
 
-### 10. 环形图填充
+### 11. 环形图填充
 
 <img src="../gifs/donut-chart-fill.gif" alt="环形图填充" width="360">
 
@@ -144,7 +160,7 @@ A donut chart fills segment by segment in teal, coral and yellow while the perce
 
 `ui` `chart` `data`
 
-### 11. 地图图钉落下
+### 12. 地图图钉落下
 
 <img src="../gifs/map-pin-drop.gif" alt="地图图钉落下" width="360">
 
@@ -158,7 +174,7 @@ A red location pin drops onto a simple folded map, bounces once and sends out a 
 
 `ui` `map` `location`
 
-### 12. 复制成功
+### 13. 复制成功
 
 <img src="../gifs/clipboard-copy-check.gif" alt="复制成功" width="360">
 
@@ -172,7 +188,7 @@ Two stacked rounded squares slide together into a clipboard icon, then a green c
 
 `ui` `copy` `icon`
 
-### 13. 音量滑块
+### 14. 音量滑块
 
 <img src="../gifs/volume-slider-waves.gif" alt="音量滑块" width="360">
 
@@ -186,7 +202,7 @@ A rounded volume slider knob glides from left to right while sound wave arcs gro
 
 `ui` `volume` `icon`
 
-### 14. 像素水壶烧开
+### 15. 像素水壶烧开
 
 <img src="../gifs/pixel-kettle-whistle.gif" alt="像素水壶烧开" width="360">
 
@@ -200,7 +216,7 @@ A pixel art red kettle on a tiny stove rattles its lid and puffs steam clouds as
 
 `pixel` `kettle` `cozy`
 
-### 15. 像素举盾格挡
+### 16. 像素举盾格挡
 
 <img src="../gifs/pixel-shield-block.gif" alt="像素举盾格挡" width="360">
 
@@ -214,7 +230,7 @@ A pixel art armored hedgehog raises a round shield and a fireball bursts into sp
 
 `pixel` `shield` `game`
 
-### 16. 像素地牢开门
+### 17. 像素地牢开门
 
 <img src="../gifs/pixel-key-door.gif" alt="像素地牢开门" width="360">
 
@@ -228,7 +244,7 @@ A pixel art golden key turns in a heavy wooden dungeon door, which creaks open t
 
 `pixel` `door` `game`
 
-### 17. 下拉刷新
+### 18. 下拉刷新
 
 <img src="../gifs/pull-to-refresh-arrow.gif" alt="下拉刷新" width="360">
 
@@ -242,7 +258,7 @@ A circular arrow icon is pulled down, stretches slightly, then spins and snaps b
 
 `refresh` `ui` `mobile`
 
-### 18. 复选框打勾
+### 19. 复选框打勾
 
 <img src="../gifs/checkbox-tick-draw.gif" alt="复选框打勾" width="360">
 
@@ -256,7 +272,7 @@ An empty rounded checkbox fills with green and a white checkmark draws itself in
 
 `checkbox` `ui` `icon`
 
-### 19. 爪印加载动画
+### 20. 爪印加载动画
 
 <img src="../gifs/paw-print-loader.gif" alt="爪印加载动画" width="360">
 
@@ -270,7 +286,7 @@ Six small paw prints appear one after another in a circle and fade, like a loadi
 
 `loader` `ui` `paw`
 
-### 20. 像素帆船
+### 21. 像素帆船
 
 <img src="../gifs/pixel-sailboat-sea.gif" alt="像素帆船" width="360">
 
@@ -284,7 +300,7 @@ A small pixel art sailboat bobs on rolling waves with seagulls flapping overhead
 
 `pixel` `sea` `boat`
 
-### 21. 像素飞碟吸牛
+### 22. 像素飞碟吸牛
 
 <img src="../gifs/pixel-ufo-beam.gif" alt="像素飞碟吸牛" width="360">
 
@@ -298,7 +314,7 @@ A pixel art flying saucer hovers over a farm at night and a green tractor beam l
 
 `pixel` `ufo` `cow`
 
-### 22. 像素铁匠打铁
+### 23. 像素铁匠打铁
 
 <img src="../gifs/pixel-blacksmith-anvil.gif" alt="像素铁匠打铁" width="360">
 
@@ -312,7 +328,7 @@ A pixel art blacksmith in a leather apron hammers a glowing sword on an anvil, s
 
 `pixel` `blacksmith` `rpg`
 
-### 23. 像素洞穴瀑布
+### 24. 像素洞穴瀑布
 
 <img src="../gifs/pixel-cave-waterfall.gif" alt="像素洞穴瀑布" width="360">
 
@@ -326,7 +342,7 @@ A pixel art cave with a waterfall pouring into a pool, glowing crystals blinking
 
 `pixel` `cave` `waterfall`
 
-### 24. 钱包充值动效
+### 25. 钱包充值动效
 
 <img src="../gifs/wallet-top-up-coins.gif" alt="钱包充值动效" width="360">
 
@@ -340,7 +356,7 @@ A flat app icon of a teal wallet; three gold coins drop in one by one and a smal
 
 `wallet` `ui` `icon`
 
-### 25. ASCII 字符拼出星形标志
+### 26. ASCII 字符拼出星形标志
 
 <img src="../gifs/ascii-star-logo.gif" alt="ASCII 字符拼出星形标志" width="360">
 
@@ -354,7 +370,7 @@ Scattered green ASCII characters on a black terminal screen drift into place and
 
 `ascii` `logo` `terminal`
 
-### 26. 像素火箭发射
+### 27. 像素火箭发射
 
 <img src="../gifs/pixel-rocket-launch.gif" alt="像素火箭发射" width="360">
 
@@ -368,7 +384,7 @@ A pixel-art rocket on a launch pad rumbles, flames burst from its base and it li
 
 `pixel` `space` `rocket`
 
-### 27. 像素狐狸冲刺
+### 28. 像素狐狸冲刺
 
 <img src="../gifs/pixel-fox-dash.gif" alt="像素狐狸冲刺" width="360">
 
@@ -382,7 +398,7 @@ A pixel-art orange fox crouches then dashes forward with a burst of dust and a s
 
 `pixel` `sprite` `fox`
 
-### 28. 像素邮箱来信
+### 29. 像素邮箱来信
 
 <img src="../gifs/pixel-mailbox-letter.gif" alt="像素邮箱来信" width="360">
 
@@ -396,7 +412,7 @@ A pixel-art red mailbox flips its flag up and a letter pops out with a small spa
 
 `pixel` `ui` `mail`
 
-### 29. 升级徽章
+### 30. 升级徽章
 
 <img src="../gifs/level-up-badge.gif" alt="升级徽章" width="360">
 
@@ -410,7 +426,7 @@ A shiny gold badge with a star flips in, flashes, and small sparkles burst aroun
 
 `ui` `game` `icon`
 
-### 30. 像素忍者蛙冲刺
+### 31. 像素忍者蛙冲刺
 
 <img src="../gifs/pixel-ninja-frog.gif" alt="像素忍者蛙冲刺" width="360">
 
@@ -424,7 +440,7 @@ A pixel-art frog in a red ninja headband dashes forward and leaves a short speed
 
 `pixel` `game` `sprite`
 
-### 31. 像素药水店
+### 32. 像素药水店
 
 <img src="../gifs/pixel-potion-shop.gif" alt="像素药水店" width="360">
 
@@ -438,7 +454,7 @@ A pixel-art potion shop counter with bubbling colorful bottles and a shopkeeper 
 
 `pixel` `game` `shop`
 
-### 32. 像素雪夜小屋
+### 33. 像素雪夜小屋
 
 <img src="../gifs/pixel-snow-cabin.gif" alt="像素雪夜小屋" width="360">
 
@@ -452,7 +468,7 @@ A pixel-art log cabin in a snowy forest, smoke rising from the chimney, windows 
 
 `pixel` `winter` `ambient`
 
-### 33. 像素龙蛋孵化
+### 34. 像素龙蛋孵化
 
 <img src="../gifs/pixel-dragon-egg-hatch.gif" alt="像素龙蛋孵化" width="360">
 
@@ -466,7 +482,7 @@ A speckled pixel-art dragon egg wobbles in a straw nest, cracks appear, and a ti
 
 `pixel` `game` `dragon`
 
-### 34. 日历翻页
+### 35. 日历翻页
 
 <img src="../gifs/calendar-page-flip.gif" alt="日历翻页" width="360">
 
@@ -480,7 +496,7 @@ A flat desk calendar icon with a red header; the top page curls up and flips ove
 
 `ui` `icon` `calendar`
 
-### 35. 像素金币收集
+### 36. 像素金币收集
 
 <img src="../gifs/pixel-coin-collect.gif" alt="像素金币收集" width="360">
 
@@ -494,7 +510,7 @@ A spinning pixel-art gold coin pops up above a brick block, flips in the air, th
 
 `pixel` `game` `coin`
 
-### 36. 像素生命值爱心
+### 37. 像素生命值爱心
 
 <img src="../gifs/pixel-heart-health.gif" alt="像素生命值爱心" width="360">
 
@@ -508,7 +524,7 @@ A row of five pixel-art red hearts as a game health bar; one empty heart refills
 
 `pixel` `game` `ui`
 
-### 37. 开关切换
+### 38. 开关切换
 
 <img src="../gifs/toggle-switch-on.gif" alt="开关切换" width="360">
 
@@ -522,7 +538,7 @@ A large rounded toggle switch slides from gray off to bright green on, the knob 
 
 `ui` `toggle` `micro-interaction`
 
-### 38. 悬浮药水瓶
+### 39. 悬浮药水瓶
 
 <img src="../gifs/potion-bottle-hover.gif" alt="悬浮药水瓶" width="360">
 
@@ -536,7 +552,7 @@ A round glass potion bottle with a cork stopper hovers and bobs gently; the glow
 
 `game` `item` `icon`
 
-### 39. 角色属性卡
+### 40. 角色属性卡
 
 <img src="../gifs/rpg-stats-card.gif" alt="角色属性卡" width="360">
 
@@ -550,7 +566,7 @@ A fantasy RPG character stat card with a cartoon fox ranger portrait; five horiz
 
 `ui` `game` `stats`
 
-### 40. 像素变色龙奔跑
+### 41. 像素变色龙奔跑
 
 <img src="../gifs/pixel-chameleon-run.gif" alt="像素变色龙奔跑" width="360">
 
@@ -564,7 +580,7 @@ A side-view pixel-art run cycle of a small green chameleon with a curled tail an
 
 `pixel` `sprite` `game`
 
-### 41. 音乐均衡器跳动
+### 42. 音乐均衡器跳动
 
 <img src="../gifs/equalizer-bars-bounce.gif" alt="音乐均衡器跳动" width="360">
 
@@ -578,7 +594,7 @@ Seven rounded equalizer bars in a purple-to-pink gradient bounce up and down to 
 
 `ui` `music` `audio`
 
-### 42. 上传箭头飞进云朵
+### 43. 上传箭头飞进云朵
 
 <img src="../gifs/cloud-upload-arrow.gif" alt="上传箭头飞进云朵" width="360">
 
@@ -592,7 +608,7 @@ A white arrow rises from the bottom into a soft blue cloud icon, the cloud puffs
 
 `ui` `upload` `icon`
 
-### 43. 放大镜扫描文档
+### 44. 放大镜扫描文档
 
 <img src="../gifs/magnifier-doc-scan.gif" alt="放大镜扫描文档" width="360">
 
@@ -606,7 +622,7 @@ A flat UI document icon with gray text lines; a magnifying glass sweeps across i
 
 `ui` `search` `icon`
 
-### 44. 挂锁解锁变绿
+### 45. 挂锁解锁变绿
 
 <img src="../gifs/padlock-unlock.gif" alt="挂锁解锁变绿" width="360">
 
@@ -620,7 +636,7 @@ A flat gray padlock icon wiggles, its shackle pops open, and the body turns gree
 
 `ui` `icon` `security`
 
-### 45. 发送按钮变纸飞机
+### 46. 发送按钮变纸飞机
 
 <img src="../gifs/send-button-plane.gif" alt="发送按钮变纸飞机" width="360">
 
@@ -634,7 +650,7 @@ A rounded blue Send button squeezes inward and folds into a white paper plane th
 
 `ui` `button` `send`
 
-### 46. 五星评分逐个点亮
+### 47. 五星评分逐个点亮
 
 <img src="../gifs/star-rating-fill.gif" alt="五星评分逐个点亮" width="360">
 
@@ -648,7 +664,7 @@ Five outlined stars in a row fill with gold one after another, each popping slig
 
 `ui` `rating` `icon`
 
-### 47. 纸团扔进垃圾桶
+### 48. 纸团扔进垃圾桶
 
 <img src="../gifs/trash-crumple-toss.gif" alt="纸团扔进垃圾桶" width="360">
 
@@ -662,7 +678,7 @@ Flat UI animation: a sheet of paper crumples into a ball, arcs into a gray trash
 
 `ui` `icon` `delete`
 
-### 48. Wi-Fi 信号格逐个点亮
+### 49. Wi-Fi 信号格逐个点亮
 
 <img src="../gifs/wifi-bars-fill.gif" alt="Wi-Fi 信号格逐个点亮" width="360">
 
@@ -676,7 +692,7 @@ A flat UI Wi-Fi icon whose arcs light up one by one from the center dot outward 
 
 `ui` `icon` `signal`
 
-### 49. 像素坩埚冒泡
+### 50. 像素坩埚冒泡
 
 <img src="../gifs/pixel-cauldron-brew.gif" alt="像素坩埚冒泡" width="360">
 
@@ -690,7 +706,7 @@ A pixel art black cauldron over a small fire bubbles with green potion, bubbles 
 
 `pixel` `potion` `item`
 
-### 50. 像素蘑菇跳舞
+### 51. 像素蘑菇跳舞
 
 <img src="../gifs/pixel-mushroom-dance.gif" alt="像素蘑菇跳舞" width="360">
 
@@ -704,7 +720,7 @@ A pixel art mushroom character with a teal cap striped in orange and a stubby la
 
 `pixel` `dance` `sprite`
 
-### 51. 像素猫头鹰法师施法
+### 52. 像素猫头鹰法师施法
 
 <img src="../gifs/pixel-owl-wizard.gif" alt="像素猫头鹰法师施法" width="360">
 
@@ -718,7 +734,7 @@ A pixel art owl in a starry purple wizard hat raises a wooden wand and releases 
 
 `pixel` `magic` `sprite`
 
-### 52. 像素水桶头盔青蛙跳劈
+### 53. 像素水桶头盔青蛙跳劈
 
 <img src="../gifs/pixel-frog-jump-attack.gif" alt="像素水桶头盔青蛙跳劈" width="360">
 
@@ -732,7 +748,7 @@ A chunky orange pixel art frog wearing a dented tin bucket as a helmet and holdi
 
 `pixel` `game` `sprite`
 
-### 53. 像素字母跳动
+### 54. 像素字母跳动
 
 <img src="../gifs/pixel-text-broll.gif" alt="像素字母跳动" width="360">
 
@@ -746,7 +762,7 @@ Cream pixel-font letters spelling B-ROLL on a deep teal background hop up one by
 
 `pixel` `text` `title`
 
-### 54. 像素巴士进站
+### 55. 像素巴士进站
 
 <img src="../gifs/pixel-bus-arrive.gif" alt="像素巴士进站" width="360">
 
@@ -760,7 +776,7 @@ Top-down pixel art street at morning rush hour: a yellow bus pulls into a stop w
 
 `pixel` `city` `bus`
 
-### 55. 下载箭头变成对勾
+### 56. 下载箭头变成对勾
 
 <img src="../gifs/download-arrow-check.gif" alt="下载箭头变成对勾" width="360">
 
@@ -774,7 +790,7 @@ A flat UI animation: a blue down arrow drops into a rounded tray, the tray fills
 
 `ui` `icon` `download`
 
-### 56. 电池充电图标
+### 57. 电池充电图标
 
 <img src="../gifs/battery-charging-icon.gif" alt="电池充电图标" width="360">
 
@@ -788,7 +804,7 @@ A flat rounded battery icon filling up segment by segment from red to green, a w
 
 `ui` `icon` `loading`
 
-### 57. 通知铃铛摇晃
+### 58. 通知铃铛摇晃
 
 <img src="../gifs/notification-bell-ring.gif" alt="通知铃铛摇晃" width="360">
 
@@ -802,7 +818,7 @@ A flat rounded yellow notification bell icon swinging side to side as if ringing
 
 `ui` `icon` `notification`
 
-### 58. 像素农田发芽
+### 59. 像素农田发芽
 
 <img src="../gifs/pixel-farm-sprout.gif" alt="像素农田发芽" width="360">
 
@@ -816,7 +832,7 @@ A flat rounded yellow notification bell icon swinging side to side as if ringing
 
 `pixel` `farm` `game`
 
-### 59. 雨夜像素小镇
+### 60. 雨夜像素小镇
 
 <img src="../gifs/pixel-rain-town.gif" alt="雨夜像素小镇" width="360">
 
@@ -830,7 +846,7 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 
 `pixel` `rain` `night`
 
-### 60. 像素钓鱼上钩
+### 61. 像素钓鱼上钩
 
 <img src="../gifs/pixel-fishing-catch.gif" alt="像素钓鱼上钩" width="360">
 
@@ -844,7 +860,7 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 
 `pixel` `game` `fishing`
 
-### 61. 地球 Online：早高峰通勤
+### 62. 地球 Online：早高峰通勤
 
 <img src="../gifs/earth-online-commute.gif" alt="地球 Online：早高峰通勤" width="360">
 
@@ -860,7 +876,7 @@ A 16-bit pixel art RPG scene of a tired office worker character walking to a bus
 
 `pixel` `rpg` `daily-life` `text`
 
-### 62. 日夜模式切换开关
+### 63. 日夜模式切换开关
 
 <img src="../gifs/sun-moon-toggle.gif" alt="日夜模式切换开关" width="360">
 
@@ -874,7 +890,7 @@ A rounded toggle switch sliding from a sunny yellow side with a sun icon to a da
 
 `ui` `toggle` `dark-mode`
 
-### 63. 火箭进度条
+### 64. 火箭进度条
 
 <img src="../gifs/rocket-progress-bar.gif" alt="火箭进度条" width="360">
 
@@ -888,7 +904,7 @@ A flat UI progress bar filling from left to right as a tiny cartoon rocket flies
 
 `ui` `loader` `rocket`
 
-### 64. 像素宝箱开启
+### 65. 像素宝箱开启
 
 <img src="../gifs/pixel-treasure-chest.gif" alt="像素宝箱开启" width="360">
 
@@ -902,7 +918,7 @@ A flat UI progress bar filling from left to right as a tiny cartoon rocket flies
 
 `pixel` `game` `reward`
 
-### 65. 宝石合成游戏广告
+### 66. 宝石合成游戏广告
 
 <img src="../gifs/gem-merge-ad.gif" alt="宝石合成游戏广告" width="360">
 
@@ -916,7 +932,7 @@ A mobile puzzle game ad shot: two identical glowing blue gems slide together on 
 
 `game` `ad` `mobile`
 
-### 66. 像素提灯驱鬼
+### 67. 像素提灯驱鬼
 
 <img src="../gifs/pixel-lantern-ghosts.gif" alt="像素提灯驱鬼" width="360">
 
@@ -930,7 +946,7 @@ A mobile puzzle game ad shot: two identical glowing blue gems slide together on 
 
 `pixel` `game` `halloween`
 
-### 67. 向下滑动提示箭头
+### 68. 向下滑动提示箭头
 
 <img src="../gifs/scroll-arrow-hint.gif" alt="向下滑动提示箭头" width="360">
 
@@ -944,7 +960,7 @@ A minimalist rounded chevron arrow pointing down, bouncing gently up and down wi
 
 `ui` `arrow` `minimal`
 
-### 68. 像素咖啡杯
+### 69. 像素咖啡杯
 
 <img src="../gifs/pixel-coffee-steam.gif" alt="像素咖啡杯" width="360">
 
@@ -958,7 +974,7 @@ A pixel-art coffee cup on a saucer with three wisps of steam rising and curling 
 
 `pixel` `coffee` `icon`
 
-### 69. 8 位像素外星人蹦迪
+### 70. 8 位像素外星人蹦迪
 
 <img src="../gifs/pixel-raver-alien.gif" alt="8 位像素外星人蹦迪" width="360">
 
@@ -972,7 +988,7 @@ A pixel-art coffee cup on a saucer with three wisps of steam rising and curling 
 
 `pixel` `dance` `retro`
 
-### 70. 徒手深蹲示范
+### 71. 徒手深蹲示范
 
 <img src="../gifs/squat-form-guide.gif" alt="徒手深蹲示范" width="360">
 
@@ -986,7 +1002,7 @@ A clean flat infographic of a faceless fitness figure in a teal tank top doing a
 
 `fitness` `infographic` `tutorial`
 
-### 71. 16 位格斗角色出拳
+### 72. 16 位格斗角色出拳
 
 <img src="../gifs/arcade-fighter-punch.gif" alt="16 位格斗角色出拳" width="360">
 
@@ -1000,7 +1016,7 @@ A 16-bit arcade fighter, a stocky red panda in a blue gi, throwing a jab and a s
 
 `pixel-art` `fighting` `sprite`
 
-### 72. AI 助手正在输入
+### 73. AI 助手正在输入
 
 <img src="../gifs/ai-typing-indicator.gif" alt="AI 助手正在输入" width="360">
 
@@ -1014,7 +1030,7 @@ A chat interface where a small rounded robot avatar sits beside a grey bubble wi
 
 `ui` `chat` `loader`
 
-### 73. 弹跳球挤压拉伸
+### 74. 弹跳球挤压拉伸
 
 <img src="../gifs/bouncing-ball-squash.gif" alt="弹跳球挤压拉伸" width="360">
 
@@ -1028,7 +1044,7 @@ A red rubber ball bouncing on a flat floor with classic squash and stretch, a so
 
 `animation-basics` `ball` `loop`
 
-### 74. 掌机风城堡横版关卡
+### 75. 掌机风城堡横版关卡
 
 <img src="../gifs/pixel-castle-scroller.gif" alt="掌机风城堡横版关卡" width="360">
 
@@ -1042,7 +1058,7 @@ A 32-bit handheld-style side-scrolling level: a small round armadillo knight in 
 
 `pixel-art` `platformer` `game`
 
-### 75. 像素勇者挥剑
+### 76. 像素勇者挥剑
 
 <img src="../gifs/pixel-hero-slash.gif" alt="像素勇者挥剑" width="360">
 
@@ -1056,7 +1072,7 @@ A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a b
 
 `pixel-art` `sprite` `attack`
 
-### 76. 废品场机器人行走
+### 77. 废品场机器人行走
 
 <img src="../gifs/junkyard-robot-walk.gif" alt="废品场机器人行走" width="360">
 
@@ -1070,7 +1086,7 @@ A rusty little scrap-metal robot with one antenna and a mismatched arm walking t
 
 `pixel-art` `sprite` `game`
 
-### 77. 爱心爆发技能动画
+### 78. 爱心爆发技能动画
 
 <img src="../gifs/love-burst-skill.gif" alt="爱心爆发技能动画" width="360">
 
@@ -1084,7 +1100,7 @@ A chibi magical girl with a pink bob raises her wand and casts a "love burst" sk
 
 `game` `skill` `effects`
 
-### 78. 8-bit 史莱姆 Boss 战
+### 79. 8-bit 史莱姆 Boss 战
 
 <img src="../gifs/pixel-slime-boss.gif" alt="8-bit 史莱姆 Boss 战" width="360">
 
@@ -1098,7 +1114,7 @@ An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squ
 
 `pixel-art` `game` `boss`
 
-### 79. 街机对战 VS 画面
+### 80. 街机对战 VS 画面
 
 <img src="../gifs/arcade-vs-screen.gif" alt="街机对战 VS 画面" width="360">
 
@@ -1114,7 +1130,7 @@ A retro arcade versus screen: on the left a chubby panda wrestler in a yellow ca
 
 `pixel-art` `game` `versus`
 
-### 80. 沙漏加载
+### 81. 沙漏加载
 
 <img src="../gifs/hourglass-flip.gif" alt="沙漏加载" width="360">
 
@@ -1128,7 +1144,7 @@ A simple flat hourglass icon with sand pouring from the top to the bottom, then 
 
 `ui` `loader` `icon`
 
-### 81. 点赞爱心爆开
+### 82. 点赞爱心爆开
 
 <img src="../gifs/like-heart-burst.gif" alt="点赞爱心爆开" width="360">
 
@@ -1142,7 +1158,7 @@ A rounded outline heart icon that fills with red, pops bigger with a bounce and 
 
 `ui` `icon` `micro-interaction`
 
-### 82. 像素骑士跑步循环
+### 83. 像素骑士跑步循环
 
 <img src="../gifs/pixel-knight-run.gif" alt="像素骑士跑步循环" width="360">
 
@@ -1158,7 +1174,7 @@ A pixel art knight with a blue cape and a small sword running to the right in a 
 
 `pixel-art` `sprite` `game`
 
-### 83. 弹跳圆点加载动画
+### 84. 弹跳圆点加载动画
 
 <img src="../gifs/bouncing-dots-loader.gif" alt="弹跳圆点加载动画" width="360">
 
@@ -1174,7 +1190,7 @@ A minimal loading animation: three rounded dots in coral, violet and teal bounci
 
 `ui` `loader` `minimal`
 
-### 84. 像素风篝火
+### 85. 像素风篝火
 
 <img src="../gifs/pixel-campfire.gif" alt="像素风篝火" width="360">
 
