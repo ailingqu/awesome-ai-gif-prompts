@@ -1,8 +1,72 @@
-# Product Showcase · 3 prompts
+# Product Showcase · 7 prompts
 
 [← README](../README.md)
 
-### 1. Water bottle rocking (product loop)
+### 1. Bathroom remodel banner with rising steam
+
+<img src="../gifs/bath-remodel-steam-banner.gif" alt="Bathroom remodel banner with rising steam" width="360">
+
+<sub>6 frames · 480×240 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [末松 光太郎 on WizTry Blog](https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/)
+
+**Prompt**
+
+```text
+ホームページのトップに置く、横長の広告バナーのループGIFを作って。写真のようにリアルな、木の窓がある明るいお風呂。湯船の湯気だけがゆっくり上がる。左側に大きく「冬のお風呂リフォーム応援キャンペーン」、その下に「手すりの取り付け無料」と「11月20日〜12月25日」。文字は動かさないで。
+```
+
+`banner` `ad` `japanese`
+
+### 2. Earbuds case lid opens and closes
+
+<img src="../gifs/earbuds-case-lid-open-close.gif" alt="Earbuds case lid opens and closes" width="360">
+
+<sub>12 frames · 358×358 · 1.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 1:1 的高質感產品展示 GIF。畫面中央是一個【極簡白色無線耳機充電盒】，放置於淡灰色攝影棚背景。動畫從盒蓋關閉開始，接著盒蓋慢慢打開，展示內部耳機，最後緩緩關閉。商品外觀、比例、材質與顏色必須保持一致，鏡頭固定，使用柔和商業攝影光線，製作平滑循環動畫，不要加入文字。
+```
+
+`product` `tech` `ecommerce`
+
+### 3. Earbuds case with pulsing LED
+
+<img src="../gifs/earbuds-case-led-pulse.gif" alt="Earbuds case with pulsing LED" width="360">
+
+<sub>9 frames · 480×270 · 1.6s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-gray wireless earbuds charging case sits open with both earbuds resting inside, completely motionless. Only the tiny round emerald-green status LED on the front lip of the case pulses smoothly from dim to bright green with a soft tiny halo and fades back to dim on the final frame for a clean loop. Keep the case, earbuds, and reflections completely still, no text.
+```
+
+`product` `tech` `macro`
+
+### 4. Coffee bag hero shot with espresso steam
+
+<img src="../gifs/coffee-bag-espresso-steam.gif" alt="Coffee bag hero shot with espresso steam" width="360">
+
+<sub>9 frames · 480×606 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Locked tripod commercial product shot in soft morning studio light. A matte terracotta kraft coffee bag with a clean cream front label reading "MORNING ROAST" in sharp dark-brown sans-serif type stands completely motionless beside a speckled stoneware espresso cup on a travertine counter. Only a thin ribbon of warm white steam curls gently upward from the cup and settles back to the exact starting wisp on the final frame for a clean loop. Keep the coffee bag, label text, and cup completely still across every frame.
+```
+
+`product` `coffee` `steam`
+
+### 5. Water bottle rocking (product loop)
 
 <img src="../gifs/water-bottle-rock-product.gif" alt="Water bottle rocking (product loop)" width="360">
 
@@ -18,7 +82,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 2. Smartwatch screen wake-up
+### 6. Smartwatch screen wake-up
 
 <img src="../gifs/smartwatch-face-glow.gif" alt="Smartwatch screen wake-up" width="360">
 
@@ -32,7 +96,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 3. Sneaker on a turntable
+### 7. Sneaker on a turntable
 
 <img src="../gifs/sneaker-turntable-spin.gif" alt="Sneaker on a turntable" width="360">
 

@@ -1,8 +1,56 @@
-# 科普讲解动图 · 11 条提示词
+# 科普讲解动图 · 14 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 西西里防御开局动画
+### 1. 纸质发票经 AI 识别入表（四格流程）
+
+<img src="../gifs/invoice-ai-scan-flow.gif" alt="纸质发票经 AI 识别入表（四格流程）" width="360">
+
+<sub>4 帧 · 480×238 · 3.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [末松 光太郎 on WizTry Blog](https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/)
+
+**提示词**
+
+```text
+紙の請求書をスマホで撮ると、AIが読み取って、表に入力されるまでの流れを、4コマのループGIFにして。
+```
+
+`workflow` `business` `japanese`
+
+### 2. 土壤剖面里种子发芽
+
+<img src="../gifs/seed-sprout-soil-cutaway.gif" alt="土壤剖面里种子发芽" width="360">
+
+<sub>12 帧 · 358×358 · 3.1s · GPT Image 2.6</sub>
+
+📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**提示词**
+
+```text
+製作一張教育用途的 GIF 動畫，呈現一顆種子逐漸發芽，長出嫩芽與兩片小葉子的過程。使用清楚的科普插畫風格，固定土壤剖面與攝影機視角，讓植物生長過程自然銜接，並設計成循環動畫。
+```
+
+`science` `plant` `education`
+
+### 3. 年度营收柱状图逐年增长
+
+<img src="../gifs/revenue-bar-chart-grow.gif" alt="年度营收柱状图逐年增长" width="360">
+
+<sub>33 帧 · 480×270 · 4.8s · GPT Image 2.6</sub>
+
+📌 **来源：** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**提示词**
+
+```text
+請製作一張 16:9 橫式 GIF 動畫，主題為企業年度營收成長。畫面使用暖白色背景、深灰色文字與橘色重點配色，呈現簡潔專業的商業資訊圖表風格。中央有四根長條圖，分別代表 2023、2024、2025、2026 年，數值依序為 100、150、210、300，單位為百萬元。動畫開始時所有長條從零逐漸向上延伸，依照年份由左至右依序完成，最後停留在完整圖表畫面。確保年份、數字與長條高度完全對應，所有文字清晰可讀，鏡頭固定。動畫約 5 秒，不要增加其他數據或裝飾元素。
+```
+
+`chart` `business` `data`
+
+### 4. 西西里防御开局动画
 
 <img src="../gifs/sicilian-defense-chess.gif" alt="西西里防御开局动画" width="360">
 
@@ -18,7 +66,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 2. 扬声器声波传播
+### 5. 扬声器声波传播
 
 <img src="../gifs/sound-wave-speaker.gif" alt="扬声器声波传播" width="360">
 
@@ -32,7 +80,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 3. 叶片光合作用示意
+### 6. 叶片光合作用示意
 
 <img src="../gifs/photosynthesis-leaf-flow.gif" alt="叶片光合作用示意" width="360">
 
@@ -46,7 +94,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 4. 跷跷板杠杆平衡
+### 7. 跷跷板杠杆平衡
 
 <img src="../gifs/seesaw-lever-balance.gif" alt="跷跷板杠杆平衡" width="360">
 
@@ -60,7 +108,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 5. 三棱镜分光
+### 8. 三棱镜分光
 
 <img src="../gifs/prism-rainbow-split.gif" alt="三棱镜分光" width="360">
 
@@ -74,7 +122,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 6. 行星绕日运行
+### 9. 行星绕日运行
 
 <img src="../gifs/solar-system-orbit.gif" alt="行星绕日运行" width="360">
 
@@ -88,7 +136,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 7. 心脏跳动示意
+### 10. 心脏跳动示意
 
 <img src="../gifs/heart-pump-diagram.gif" alt="心脏跳动示意" width="360">
 
@@ -102,7 +150,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 8. 豆子发芽地下剖面
+### 11. 豆子发芽地下剖面
 
 <img src="../gifs/bean-roots-cutaway.gif" alt="豆子发芽地下剖面" width="360">
 
@@ -116,7 +164,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 9. 月相变化
+### 12. 月相变化
 
 <img src="../gifs/moon-phases-cycle.gif" alt="月相变化" width="360">
 
@@ -130,7 +178,7 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 10. 水循环示意
+### 13. 水循环示意
 
 <img src="../gifs/water-cycle-loop.gif" alt="水循环示意" width="360">
 
@@ -144,7 +192,7 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 11. 单摆来回摆动
+### 14. 单摆来回摆动
 
 <img src="../gifs/pendulum-swing-trace.gif" alt="单摆来回摆动" width="360">
 

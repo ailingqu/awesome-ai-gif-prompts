@@ -1,8 +1,56 @@
-# Science & Explainers · 11 prompts
+# Science & Explainers · 14 prompts
 
 [← README](../README.md)
 
-### 1. Sicilian Defense chess opening
+### 1. Paper invoice to spreadsheet via AI, 4 panels
+
+<img src="../gifs/invoice-ai-scan-flow.gif" alt="Paper invoice to spreadsheet via AI, 4 panels" width="360">
+
+<sub>4 frames · 480×238 · 3.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [末松 光太郎 on WizTry Blog](https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/)
+
+**Prompt**
+
+```text
+紙の請求書をスマホで撮ると、AIが読み取って、表に入力されるまでの流れを、4コマのループGIFにして。
+```
+
+`workflow` `business` `japanese`
+
+### 2. Seed sprouting in a soil cutaway
+
+<img src="../gifs/seed-sprout-soil-cutaway.gif" alt="Seed sprouting in a soil cutaway" width="360">
+
+<sub>12 frames · 358×358 · 3.1s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張教育用途的 GIF 動畫，呈現一顆種子逐漸發芽，長出嫩芽與兩片小葉子的過程。使用清楚的科普插畫風格，固定土壤剖面與攝影機視角，讓植物生長過程自然銜接，並設計成循環動畫。
+```
+
+`science` `plant` `education`
+
+### 3. Annual revenue bar chart growing
+
+<img src="../gifs/revenue-bar-chart-grow.gif" alt="Annual revenue bar chart growing" width="360">
+
+<sub>33 frames · 480×270 · 4.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 16:9 橫式 GIF 動畫，主題為企業年度營收成長。畫面使用暖白色背景、深灰色文字與橘色重點配色，呈現簡潔專業的商業資訊圖表風格。中央有四根長條圖，分別代表 2023、2024、2025、2026 年，數值依序為 100、150、210、300，單位為百萬元。動畫開始時所有長條從零逐漸向上延伸，依照年份由左至右依序完成，最後停留在完整圖表畫面。確保年份、數字與長條高度完全對應，所有文字清晰可讀，鏡頭固定。動畫約 5 秒，不要增加其他數據或裝飾元素。
+```
+
+`chart` `business` `data`
+
+### 4. Sicilian Defense chess opening
 
 <img src="../gifs/sicilian-defense-chess.gif" alt="Sicilian Defense chess opening" width="360">
 
@@ -18,7 +66,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 2. Speaker sound waves
+### 5. Speaker sound waves
 
 <img src="../gifs/sound-wave-speaker.gif" alt="Speaker sound waves" width="360">
 
@@ -32,7 +80,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 3. Photosynthesis in a leaf
+### 6. Photosynthesis in a leaf
 
 <img src="../gifs/photosynthesis-leaf-flow.gif" alt="Photosynthesis in a leaf" width="360">
 
@@ -46,7 +94,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 4. Seesaw lever balance
+### 7. Seesaw lever balance
 
 <img src="../gifs/seesaw-lever-balance.gif" alt="Seesaw lever balance" width="360">
 
@@ -60,7 +108,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 5. Prism splits light
+### 8. Prism splits light
 
 <img src="../gifs/prism-rainbow-split.gif" alt="Prism splits light" width="360">
 
@@ -74,7 +122,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 6. Planets orbit the sun
+### 9. Planets orbit the sun
 
 <img src="../gifs/solar-system-orbit.gif" alt="Planets orbit the sun" width="360">
 
@@ -88,7 +136,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 7. Beating heart diagram
+### 10. Beating heart diagram
 
 <img src="../gifs/heart-pump-diagram.gif" alt="Beating heart diagram" width="360">
 
@@ -102,7 +150,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 8. Bean sprouting underground
+### 11. Bean sprouting underground
 
 <img src="../gifs/bean-roots-cutaway.gif" alt="Bean sprouting underground" width="360">
 
@@ -116,7 +164,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 9. Moon phases
+### 12. Moon phases
 
 <img src="../gifs/moon-phases-cycle.gif" alt="Moon phases" width="360">
 
@@ -130,7 +178,7 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 10. Water cycle
+### 13. Water cycle
 
 <img src="../gifs/water-cycle-loop.gif" alt="Water cycle" width="360">
 
@@ -144,7 +192,7 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 11. Pendulum swing
+### 14. Pendulum swing
 
 <img src="../gifs/pendulum-swing-trace.gif" alt="Pendulum swing" width="360">
 

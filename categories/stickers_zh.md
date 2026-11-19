@@ -1,8 +1,200 @@
-# 表情包与贴纸 · 191 条提示词
+# 表情包与贴纸 · 203 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 橘猫敲代码额度用光
+### 1. 圆滚滚的蓝色机器人吉祥物打招呼
+
+<img src="../gifs/blue-robot-mascot-hello.gif" alt="圆滚滚的蓝色机器人吉祥物打招呼" width="360">
+
+<sub>6 帧 · 480×480 · 0.9s · GPT Image 2.6</sub>
+
+📌 **来源：** [@super_lewis on DEV Community](https://dev.to/super_lewis/animated-gifs-and-markup-guided-edits-with-the-gpt-image-26-api-real-timings-and-per-call-cost-2jmd)
+
+**提示词**
+
+```text
+A round blue robot mascot waves hello. Seamless loop, same framing in every frame.
+```
+
+`mascot` `robot` `api`
+
+### 2. 粉色爱心心跳缩放
+
+<img src="../gifs/pink-heart-heartbeat.gif" alt="粉色爱心心跳缩放" width="360">
+
+<sub>12 帧 · 357×356 · 1.7s · GPT Image 2.6</sub>
+
+📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**提示词**
+
+```text
+製作一張粉紅色愛心 GIF。愛心在畫面中央輕輕放大，再縮回原本大小，呈現柔和的心跳節奏。背景簡潔、固定視角，畫面乾淨，無縫循環，不要文字。
+```
+
+`heart` `social` `flat`
+
+### 3. 绿斗篷银发少年原地轻跳
+
+<img src="../gifs/cloak-boy-forest-jump.gif" alt="绿斗篷银发少年原地轻跳" width="360">
+
+<sub>12 帧 · 309×414 · 1.7s · GPT Image 2.6</sub>
+
+📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**提示词**
+
+```text
+製作一張日系動畫風格 GIF。一名銀白色短髮少年穿著深綠色斗篷，站在森林空地上，輕輕跳起一次，然後回到站立姿勢。保持角色五官、衣服與背景一致，固定鏡頭，動作自然、無縫循環。
+```
+
+`anime` `character` `jump`
+
+### 4. 穿吊带裤的 3D 小白兔挥手
+
+<img src="../gifs/3d-bunny-overalls-wave.gif" alt="穿吊带裤的 3D 小白兔挥手" width="360">
+
+<sub>12 帧 · 358×358 · 2.2s · GPT Image 2.6</sub>
+
+📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**提示词**
+
+```text
+製作一張可愛 3D 小白兔 GIF。小白兔穿著淺藍色吊帶褲，站在花園裡，慢慢舉起右手揮手打招呼，然後自然放下。背景固定，柔和晨光，可愛 3D 動畫風格，動作連貫，無縫循環，不要字幕。
+```
+
+`bunny` `3d` `greeting`
+
+### 5. 穿格子衫的黏土橘猫疯狂敲键盘
+
+<img src="../gifs/plaid-shirt-cat-coding-clay.gif" alt="穿格子衫的黏土橘猫疯狂敲键盘" width="360">
+
+<sub>9 帧 · 427×400 · 1.0s · GPT Image 2.6</sub>
+
+📌 **来源：** [STRUGGLE_xlf on CSDN](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html)
+
+**提示词**
+
+```text
+帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。
+```
+
+`cat` `3d-clay` `programmer`
+
+### 6. Q版上班族看到工作通知瘫倒
+
+<img src="../gifs/chibi-worker-notification-flop.gif" alt="Q版上班族看到工作通知瘫倒" width="360">
+
+<sub>12 帧 · 308×414 · 2.0s · GPT Image 2.6</sub>
+
+📌 **来源：** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**提示词**
+
+```text
+請製作一張幽默的 GIF 動畫。一名 Q 版上班族坐在電腦前，先露出充滿期待的表情，接著看到螢幕上的工作通知，眼睛瞬間睜大，最後無奈地趴在桌上。使用可愛的日系 2D 插畫風格，背景為簡約辦公室，角色服裝與桌面物品保持一致。鏡頭固定，動作誇張但自然，動畫可以無縫循環，不要加入文字。
+```
+
+`office` `reaction` `chibi`
+
+### 7. 3D 黏土橘猫挥手眨眼
+
+<img src="../gifs/clay-orange-cat-wave-blink.gif" alt="3D 黏土橘猫挥手眨眼" width="360">
+
+<sub>12 帧 · 358×356 · 1.7s · GPT Image 2.6</sub>
+
+📌 **来源：** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**提示词**
+
+```text
+請製作一張正方形 1:1 GIF 動畫。一隻可愛的橘貓坐在奶油白色背景前，慢慢抬起前腳揮手，接著眨眼，最後回到原本姿勢。採用精緻的 3D 黏土插畫風格，毛髮柔軟、表情可愛。鏡頭固定，保持角色外觀一致，製作自然流暢的無縫循環動畫，不要加入文字。
+```
+
+`cat` `3d-clay` `sticker`
+
+### 8. 磁带“SIDE A”贴纸冒音符
+
+<img src="../gifs/cassette-side-a-sticker.gif" alt="磁带“SIDE A”贴纸冒音符" width="360">
+
+<sub>14 帧 · 480×480 · 1.2s · GPT Image 2.6</sub>
+
+📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/gpt-image-2-6)
+
+**提示词**
+
+```text
+Locked front-on 1:1 animated die-cut vinyl sticker on a fully transparent background with a crisp thick white kiss-cut border. A tilted brushed-silver and signal-orange compact cassette tape labeled 'SIDE A' in clean white sans-serif type. Across 8 frames, both white inner tape reel gears rotate smoothly while two bold electric-cobalt musical notes pop playfully out of the top-right corner on frames 2 to 5 and fade cleanly away by frame 8 so frame 8 matches frame 1's clean silhouette for a seamless loop.
+```
+
+`sticker` `retro` `music`
+
+### 9. 浣熊梗图：五分钟修复搞崩线上
+
+<img src="../gifs/raccoon-breaks-prod-meme.gif" alt="浣熊梗图：五分钟修复搞崩线上" width="360">
+
+<sub>8 帧 · 480×480 · 1.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**提示词**
+
+```text
+Square internet reaction meme GIF with a solid white top caption bar reading "WHEN THE '5-MINUTE FIX' BREAKS PROD" in bold black sans-serif all-caps letters. Below the caption bar, locked front-on comic illustration of a wide-eyed gray raccoon wearing a black headset sitting at a dark desk behind an open laptop. Warm red-orange monitor light pulses across the raccoon's face as its paws hover tensely over the keyboard and its ears flatten slightly, then return to the exact starting pose on the final frame for a clean loop. Keep the white top bar and every letter of "WHEN THE '5-MINUTE FIX' BREAKS PROD" completely crisp and motionless across all frames.
+```
+
+`meme` `caption` `developer`
+
+### 10. “SHIP IT!”徽章贴纸摇摆
+
+<img src="../gifs/ship-it-badge-wiggle.gif" alt="“SHIP IT!”徽章贴纸摇摆" width="360">
+
+<sub>14 帧 · 480×480 · 1.3s · GPT Image 2.6</sub>
+
+📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**提示词**
+
+```text
+Bold street-art die-cut sticker badge with a thick white cutout border on a completely transparent background, locked front-on camera. Chunky crimson block letters reading "SHIP IT!" sit centered inside a bright yellow starburst badge. The badge tilts slightly left and right with tiny black comic wiggle lines around the border, then returns to the exact starting angle on the final frame for a clean loop. Crisp flat ink colors, exact spelling.
+```
+
+`sticker` `text` `transparent`
+
+### 11. 黏土星星蹦跳贴纸
+
+<img src="../gifs/clay-star-hop-sticker.gif" alt="黏土星星蹦跳贴纸" width="360">
+
+<sub>14 帧 · 480×480 · 1.2s · GPT Image 2.6</sub>
+
+📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**提示词**
+
+```text
+Glossy 3D clay-style die-cut sticker with a thick white sticker border on a completely transparent background, locked front-on camera. A cheerful yellow five-pointed star character wearing tiny round black sunglasses does a happy little hop and lands softly back in its exact starting stance on the final frame for a clean loop. Crisp cutout edge, flat vibrant colors, no text.
+```
+
+`sticker` `transparent` `3d-clay`
+
+### 12. 戴眼镜的青蛙疯狂打字
+
+<img src="../gifs/glasses-frog-fast-typing.gif" alt="戴眼镜的青蛙疯狂打字" width="360">
+
+<sub>8 帧 · 480×480 · 0.9s · GPT Image 2.6</sub>
+
+📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**提示词**
+
+```text
+Flat cel-shaded comic reaction illustration, locked front-on camera. A determined little green tree frog wearing round wire-rim glasses sits behind a silver laptop at a desk, rapidly tapping alternate webbed hands on the keyboard with tiny white motion arcs above its fingers while its glasses glint once, returning to the exact starting hand position on the final frame for a clean loop. Solid warm cream-teal background, bold outlines, no text.
+```
+
+`reaction` `frog` `work`
+
+### 13. 橘猫敲代码额度用光
 
 <img src="../gifs/cat-codex-quota-out.gif" alt="橘猫敲代码额度用光" width="360">
 
@@ -18,7 +210,7 @@
 
 `cat` `coding` `meme`
 
-### 2. 着火房间里喝茶的狗
+### 14. 着火房间里喝茶的狗
 
 <img src="../gifs/this-is-fine-dog-tea.gif" alt="着火房间里喝茶的狗" width="360">
 
@@ -34,7 +226,7 @@
 
 `dog` `meme` `fire`
 
-### 3. 织围巾的企鹅
+### 15. 织围巾的企鹅
 
 <img src="../gifs/penguin-scarf-knit.gif" alt="织围巾的企鹅" width="360">
 
@@ -48,7 +240,7 @@ A round penguin sits clicking two knitting needles, a striped red scarf growing 
 
 `penguin` `knitting` `winter`
 
-### 4. 小兔吸面条
+### 16. 小兔吸面条
 
 <img src="../gifs/bunny-noodle-slurp.gif" alt="小兔吸面条" width="360">
 
@@ -62,7 +254,7 @@ A white bunny with chopsticks slurps a long noodle from a bowl, cheeks puffing, 
 
 `bunny` `noodles` `food`
 
-### 5. 章鱼喷墨尴尬
+### 17. 章鱼喷墨尴尬
 
 <img src="../gifs/octopus-ink-oops.gif" alt="章鱼喷墨尴尬" width="360">
 
@@ -76,7 +268,7 @@ A small pink octopus gets startled and puffs out a cloud of ink, then peeks out 
 
 `octopus` `oops` `funny`
 
-### 6. 河马打大哈欠
+### 18. 河马打大哈欠
 
 <img src="../gifs/hippo-big-yawn.gif" alt="河马打大哈欠" width="360">
 
@@ -90,7 +282,7 @@ A sleepy round lavender hippo opens its mouth in an enormous yawn, eyes squeezed
 
 `hippo` `yawn` `sleepy`
 
-### 7. 叼吐司赶路的柴犬
+### 19. 叼吐司赶路的柴犬
 
 <img src="../gifs/shiba-late-toast.gif" alt="叼吐司赶路的柴犬" width="360">
 
@@ -104,7 +296,7 @@ A shiba inu with a slice of toast in its mouth runs in place in a panic, ears fl
 
 `shiba` `late` `sticker`
 
-### 8. 小象鼻子喷水
+### 20. 小象鼻子喷水
 
 <img src="../gifs/elephant-trunk-spray.gif" alt="小象鼻子喷水" width="360">
 
@@ -118,7 +310,7 @@ A chubby baby elephant lifts its trunk and sprays a happy fountain of water over
 
 `elephant` `water` `cute`
 
-### 9. 涂鸦小人翻白眼
+### 21. 涂鸦小人翻白眼
 
 <img src="../gifs/doodle-eye-roll.gif" alt="涂鸦小人翻白眼" width="360">
 
@@ -132,7 +324,7 @@ A round hand-drawn doodle face with marker lines rolls its eyes up in exaggerate
 
 `doodle` `eye-roll` `reaction`
 
-### 10. 本子上的火柴人跳舞
+### 22. 本子上的火柴人跳舞
 
 <img src="../gifs/doodle-stick-dance.gif" alt="本子上的火柴人跳舞" width="360">
 
@@ -146,7 +338,7 @@ A hand-drawn ballpoint stick figure on lined notebook paper does a goofy hip-sha
 
 `doodle` `dance` `sketch`
 
-### 11. 小狐狸上前打招呼
+### 23. 小狐狸上前打招呼
 
 <img src="../gifs/fox-hello-steps.gif" alt="小狐狸上前打招呼" width="360">
 
@@ -162,7 +354,7 @@ An orange fox in a little blue scarf takes two small steps toward the viewer, wa
 
 `fox` `wave` `greeting`
 
-### 12. 小熊猫眨眼微笑
+### 24. 小熊猫眨眼微笑
 
 <img src="../gifs/red-panda-blink-smile.gif" alt="小熊猫眨眼微笑" width="360">
 
@@ -176,7 +368,7 @@ A fluffy red panda mascot closes its eyes, opens them again with a small happy s
 
 `red-panda` `blink` `cute`
 
-### 13. 薄荷色机器人挥手
+### 25. 薄荷色机器人挥手
 
 <img src="../gifs/robot-antenna-wave.gif" alt="薄荷色机器人挥手" width="360">
 
@@ -190,7 +382,7 @@ A small mint-green robot with a round screen face and a blinking antenna raises 
 
 `robot` `wave` `hello`
 
-### 14. 手机里修屏的小猫
+### 26. 手机里修屏的小猫
 
 <img src="../gifs/kitten-screen-repair.gif" alt="手机里修屏的小猫" width="360">
 
@@ -204,7 +396,7 @@ A tiny gray kitten in a yellow hard hat stands inside a cracked phone screen and
 
 `kitten` `phone` `repair`
 
-### 15. 转圈企鹅
+### 27. 转圈企鹅
 
 <img src="../gifs/penguin-pirouette.gif" alt="转圈企鹅" width="360">
 
@@ -218,7 +410,7 @@ A chubby penguin in a tiny tutu does one wobbly spin on ice and ends with a prou
 
 `penguin` `dance` `sticker`
 
-### 16. 纸箱探头猫
+### 28. 纸箱探头猫
 
 <img src="../gifs/cat-box-peek.gif" alt="纸箱探头猫" width="360">
 
@@ -232,7 +424,7 @@ A gray tabby slowly rises out of a cardboard box until its eyes clear the edge, 
 
 `cat` `box` `peek`
 
-### 17. 大叫的山羊
+### 29. 大叫的山羊
 
 <img src="../gifs/goat-yell-surprise.gif" alt="大叫的山羊" width="360">
 
@@ -246,7 +438,7 @@ A small white goat opens its mouth wide in a dramatic yell, ears flapping and mo
 
 `goat` `shock` `meme`
 
-### 18. 撞花的小蜜蜂
+### 30. 撞花的小蜜蜂
 
 <img src="../gifs/bee-flower-bump.gif" alt="撞花的小蜜蜂" width="360">
 
@@ -260,7 +452,7 @@ A round bumblebee buzzes forward, bonks into a big daisy, and spins dizzily with
 
 `bee` `oops` `sticker`
 
-### 19. 今天休息
+### 31. 今天休息
 
 <img src="../gifs/hamster-day-off.gif" alt="今天休息" width="360">
 
@@ -274,7 +466,7 @@ A hamster yawns and pulls a tiny quilt over its head, leaving only its ears and 
 
 `hamster` `rest` `sticker`
 
-### 20. 得救了谢谢
+### 32. 得救了谢谢
 
 <img src="../gifs/duck-lifebuoy-thanks.gif" alt="得救了谢谢" width="360">
 
@@ -288,7 +480,7 @@ A yellow duck clinging to a red-white lifebuoy pops up from water and waves grat
 
 `duck` `thanks` `sticker`
 
-### 21. 你先吃吧
+### 33. 你先吃吧
 
 <img src="../gifs/bear-eat-first.gif" alt="你先吃吧" width="360">
 
@@ -302,7 +494,7 @@ A brown bear in an apron sets down a steaming bowl and waves a paw toward it wit
 
 `bear` `dinner` `family`
 
-### 22. 回家带牛奶
+### 34. 回家带牛奶
 
 <img src="../gifs/cat-milk-please.gif" alt="回家带牛奶" width="360">
 
@@ -316,7 +508,7 @@ A round white cat holds up an empty milk carton and gives a hopeful little bow, 
 
 `cat` `family` `sticker`
 
-### 23. 顽强的盆栽
+### 35. 顽强的盆栽
 
 <img src="../gifs/plant-will-survive.gif" alt="顽强的盆栽" width="360">
 
@@ -330,7 +522,7 @@ A droopy potted plant with two leaves sags, then perks straight up and flexes on
 
 `plant` `survive` `sticker`
 
-### 24. 备战松鼠
+### 36. 备战松鼠
 
 <img src="../gifs/squirrel-boxing-nuts.gif" alt="备战松鼠" width="360">
 
@@ -344,7 +536,7 @@ A chubby red squirrel in tiny boxing gloves, cheeks stuffed with nuts, bounces o
 
 `squirrel` `fight` `sticker`
 
-### 25. 赶路的蜗牛
+### 37. 赶路的蜗牛
 
 <img src="../gifs/snail-rush-sweat.gif" alt="赶路的蜗牛" width="360">
 
@@ -358,7 +550,7 @@ A snail with a tiny backpack strains forward with sweat drops and speed lines fl
 
 `snail` `late` `sticker`
 
-### 26. 螃蟹剪刀舞
+### 38. 螃蟹剪刀舞
 
 <img src="../gifs/crab-claw-snip-dance.gif" alt="螃蟹剪刀舞" width="360">
 
@@ -372,7 +564,7 @@ A red crab sidesteps left and right, snipping both claws in rhythm with a proud 
 
 `crab` `dance` `sticker`
 
-### 27. 小猪踩泥巴
+### 39. 小猪踩泥巴
 
 <img src="../gifs/piglet-mud-splash.gif" alt="小猪踩泥巴" width="360">
 
@@ -386,7 +578,7 @@ A pink piglet hops into a mud puddle, brown droplets splash up, and it grins hap
 
 `pig` `happy` `sticker`
 
-### 28. 鹦鹉点头摇摆
+### 40. 鹦鹉点头摇摆
 
 <img src="../gifs/parrot-head-bob.gif" alt="鹦鹉点头摇摆" width="360">
 
@@ -400,7 +592,7 @@ A green parrot on a perch bobs its head to a beat, eyes half closed, as small mu
 
 `parrot` `music` `sticker`
 
-### 29. 鼹鼠冒头打招呼
+### 41. 鼹鼠冒头打招呼
 
 <img src="../gifs/mole-pop-hello.gif" alt="鼹鼠冒头打招呼" width="360">
 
@@ -414,7 +606,7 @@ A little mole pops out of a dirt hole, waves a tiny pink paw, then ducks back do
 
 `mole` `hello` `sticker`
 
-### 30. 小鸭眨眼比心
+### 42. 小鸭眨眼比心
 
 <img src="../gifs/duck-wink-heart.gif" alt="小鸭眨眼比心" width="360">
 
@@ -428,7 +620,7 @@ A white duck with a pink bow winks and a small red heart pops out beside its che
 
 `duck` `love` `sticker`
 
-### 31. 面包猫打瞌睡
+### 43. 面包猫打瞌睡
 
 <img src="../gifs/loaf-cat-doze.gif" alt="面包猫打瞌睡" width="360">
 
@@ -442,7 +634,7 @@ An orange cat tucked into a perfect loaf shape slowly nods off, its head dipping
 
 `cat` `sleepy` `sticker`
 
-### 32. 水獭击掌
+### 44. 水獭击掌
 
 <img src="../gifs/otter-high-five.gif" alt="水獭击掌" width="360">
 
@@ -456,7 +648,7 @@ Two brown otters float on their backs, reach up and slap a high five with a smal
 
 `otter` `high-five` `sticker`
 
-### 33. 气鼓鼓的河豚
+### 45. 气鼓鼓的河豚
 
 <img src="../gifs/pufferfish-puff-angry.gif" alt="气鼓鼓的河豚" width="360">
 
@@ -470,7 +662,7 @@ A small pufferfish frowns, puffs up into a spiky round ball with red cheeks, the
 
 `pufferfish` `angry` `sticker`
 
-### 34. 柯基扭屁股拜拜
+### 46. 柯基扭屁股拜拜
 
 <img src="../gifs/corgi-butt-bye.gif" alt="柯基扭屁股拜拜" width="360">
 
@@ -484,7 +676,7 @@ A corgi walks away from the viewer wiggling its fluffy rear, then looks back ove
 
 `corgi` `bye` `sticker`
 
-### 35. 小鸡探头
+### 47. 小鸡探头
 
 <img src="../gifs/chick-egg-peek.gif" alt="小鸡探头" width="360">
 
@@ -498,7 +690,7 @@ A yellow chick lifts the cracked top of its eggshell like a lid, peeks out, wave
 
 `chick` `hello` `sticker`
 
-### 36. 海象托腮思考
+### 48. 海象托腮思考
 
 <img src="../gifs/walrus-thinking.gif" alt="海象托腮思考" width="360">
 
@@ -512,7 +704,7 @@ A round walrus strokes one tusk with its flipper, eyes rolling up in thought, an
 
 `walrus` `thinking` `sticker`
 
-### 37. 豆腐块翻牌反转
+### 49. 豆腐块翻牌反转
 
 <img src="../gifs/tofu-sign-plot-twist.gif" alt="豆腐块翻牌反转" width="360">
 
@@ -526,7 +718,7 @@ A square tofu character holds up a small sign with a big smiley face, then flips
 
 `tofu` `reversal` `sticker`
 
-### 38. 精神状态不稳定的猫
+### 50. 精神状态不稳定的猫
 
 <img src="../gifs/frazzled-cat-stare.gif" alt="精神状态不稳定的猫" width="360">
 
@@ -540,7 +732,7 @@ A white cat with messy fur and spiral eyes stares blankly ahead while a tiny gra
 
 `cat` `mood` `sticker`
 
-### 39. 功夫小猫踢腿
+### 51. 功夫小猫踢腿
 
 <img src="../gifs/kungfu-kitten-kick.gif" alt="功夫小猫踢腿" width="360">
 
@@ -554,7 +746,7 @@ A chubby gray kitten wearing a red cloth sash holds a martial arts stance, snaps
 
 `cat` `kung-fu` `sticker`
 
-### 40. 撑伞的小鸡
+### 52. 撑伞的小鸡
 
 <img src="../gifs/chick-umbrella-rain.gif" alt="撑伞的小鸡" width="360">
 
@@ -568,7 +760,7 @@ A tiny yellow chick holds a red umbrella and twirls it while raindrops bounce of
 
 `sticker` `rain` `chick`
 
-### 41. 带影子的兔子蹦跳
+### 53. 带影子的兔子蹦跳
 
 <img src="../gifs/bunny-hop-shadow.gif" alt="带影子的兔子蹦跳" width="360">
 
@@ -582,7 +774,7 @@ A white bunny hops in place, ears flopping on each landing while its oval shadow
 
 `sticker` `bunny` `hop`
 
-### 42. 不想上班的猫
+### 54. 不想上班的猫
 
 <img src="../gifs/cat-refuse-work-bed.gif" alt="不想上班的猫" width="360">
 
@@ -596,7 +788,7 @@ A tabby cat clings to a pillow with all four paws and shakes its head no as an a
 
 `sticker` `cat` `monday`
 
-### 43. 这得加钱的猫
+### 55. 这得加钱的猫
 
 <img src="../gifs/cat-pay-me-extra.gif" alt="这得加钱的猫" width="360">
 
@@ -610,7 +802,7 @@ A businesslike white cat in a tiny tie rubs its paw pads together, and small gol
 
 `sticker` `cat` `work`
 
-### 44. 戴圣诞帽的懒狮子
+### 56. 戴圣诞帽的懒狮子
 
 <img src="../gifs/lazy-lion-santa-hat.gif" alt="戴圣诞帽的懒狮子" width="360">
 
@@ -624,7 +816,7 @@ A droopy-eyed chubby lion wearing a Santa hat sighs heavily, its mane flopping, 
 
 `sticker` `christmas` `lion`
 
-### 45. 戴手套的小雪人挥手
+### 57. 戴手套的小雪人挥手
 
 <img src="../gifs/snowman-mitten-wave.gif" alt="戴手套的小雪人挥手" width="360">
 
@@ -638,7 +830,7 @@ A small round snowman with a red knitted scarf and blue mittens waves one arm wh
 
 `sticker` `winter` `snowman`
 
-### 46. 两只小老鼠跳舞
+### 58. 两只小老鼠跳舞
 
 <img src="../gifs/two-mice-dance.gif" alt="两只小老鼠跳舞" width="360">
 
@@ -652,7 +844,7 @@ Two little gray mice hold paws and do a happy hopping dance in a circle, tails s
 
 `sticker` `mouse` `dance`
 
-### 47. 满血复活的猫
+### 59. 满血复活的猫
 
 <img src="../gifs/cat-full-hp-revive.gif" alt="满血复活的猫" width="360">
 
@@ -666,7 +858,7 @@ A limp flattened orange cat lies on the floor, a green health bar above it fills
 
 `sticker` `cat` `energy`
 
-### 48. 熊猫叼竹子点赞
+### 60. 熊猫叼竹子点赞
 
 <img src="../gifs/panda-bamboo-thumbs.gif" alt="熊猫叼竹子点赞" width="360">
 
@@ -680,7 +872,7 @@ A chubby panda chewing a bamboo stalk gives a slow confident thumbs up and nods 
 
 `sticker` `panda` `ok`
 
-### 49. 害羞小幽灵吓人失败
+### 61. 害羞小幽灵吓人失败
 
 <img src="../gifs/ghost-boo-oops.gif" alt="害羞小幽灵吓人失败" width="360">
 
@@ -694,7 +886,7 @@ A tiny white ghost jumps out shouting boo with raised arms, then immediately hid
 
 `sticker` `ghost` `funny`
 
-### 50. 包子扭扭舞
+### 62. 包子扭扭舞
 
 <img src="../gifs/bao-bun-wiggle.gif" alt="包子扭扭舞" width="360">
 
@@ -708,7 +900,7 @@ A soft steamed bao bun with a tiny face wiggles side to side on a bamboo steamer
 
 `sticker` `food` `dance`
 
-### 51. 气到冒烟的番茄
+### 63. 气到冒烟的番茄
 
 <img src="../gifs/tomato-angry-steam.gif" alt="气到冒烟的番茄" width="360">
 
@@ -722,7 +914,7 @@ A cartoon tomato character turns from red to deep crimson, shakes with anger and
 
 `sticker` `food` `angry`
 
-### 52. 猫头鹰打大哈欠
+### 64. 猫头鹰打大哈欠
 
 <img src="../gifs/owl-big-yawn.gif" alt="猫头鹰打大哈欠" width="360">
 
@@ -736,7 +928,7 @@ A round brown owl on a branch stretches its wings and lets out a huge yawn, eyes
 
 `sticker` `owl` `sleepy`
 
-### 53. 小狗兴奋转圈
+### 65. 小狗兴奋转圈
 
 <img src="../gifs/puppy-zoomies-circle.gif" alt="小狗兴奋转圈" width="360">
 
@@ -750,7 +942,7 @@ A fluffy cream puppy spins in fast happy circles chasing its own tail, ears flap
 
 `sticker` `dog` `happy`
 
-### 54. 企鹅要续咖啡
+### 66. 企鹅要续咖啡
 
 <img src="../gifs/penguin-coffee-refill.gif" alt="企鹅要续咖啡" width="360">
 
@@ -764,7 +956,7 @@ A sleepy penguin holds up an empty mug, shakes it upside down, and droops with h
 
 `sticker` `penguin` `coffee`
 
-### 55. 暴躁猫猫狂敲键盘
+### 67. 暴躁猫猫狂敲键盘
 
 <img src="../gifs/cat-keyboard-rage.gif" alt="暴躁猫猫狂敲键盘" width="360">
 
@@ -778,7 +970,7 @@ An angry gray cat with a furrowed brow mashes a tiny keyboard with both paws, li
 
 `sticker` `cat` `work`
 
-### 56. 摸头融化的兔子
+### 68. 摸头融化的兔子
 
 <img src="../gifs/bunny-headpat-melt.gif" alt="摸头融化的兔子" width="360">
 
@@ -792,7 +984,7 @@ A small white bunny receives gentle pats from a hand entering the frame and slow
 
 `sticker` `bunny` `cute`
 
-### 57. 青蛙敬礼收到
+### 69. 青蛙敬礼收到
 
 <img src="../gifs/frog-noted-salute.gif" alt="青蛙敬礼收到" width="360">
 
@@ -806,7 +998,7 @@ A round green frog in a tiny yellow raincoat stands up straight and gives a cris
 
 `sticker` `frog` `ok`
 
-### 58. 刺猬害羞缩成球
+### 70. 刺猬害羞缩成球
 
 <img src="../gifs/hedgehog-blush-hide.gif" alt="刺猬害羞缩成球" width="360">
 
@@ -820,7 +1012,7 @@ A tiny brown hedgehog with pink cheeks hears a compliment, blushes bright red an
 
 `sticker` `hedgehog` `shy`
 
-### 59. 卡通鲨鱼挥鳍打招呼
+### 71. 卡通鲨鱼挥鳍打招呼
 
 <img src="../gifs/shark-fin-wave.gif" alt="卡通鲨鱼挥鳍打招呼" width="360">
 
@@ -834,7 +1026,7 @@ A chubby light-blue cartoon shark pops halfway out of a tiny wave, waves one fin
 
 `sticker` `shark` `hello`
 
-### 60. 鲸鱼喷水打招呼
+### 72. 鲸鱼喷水打招呼
 
 <img src="../gifs/whale-spout-hello.gif" alt="鲸鱼喷水打招呼" width="360">
 
@@ -848,7 +1040,7 @@ a chubby baby blue whale bobs on small waves and puffs a water spout shaped like
 
 `sticker` `whale` `hello`
 
-### 61. 松鼠抛橡果
+### 73. 松鼠抛橡果
 
 <img src="../gifs/squirrel-acorn-juggle.gif" alt="松鼠抛橡果" width="360">
 
@@ -862,7 +1054,7 @@ a red cartoon squirrel with a huge fluffy tail juggles three acorns in an arc, t
 
 `sticker` `squirrel` `fun`
 
-### 62. 小羊鞠躬道歉
+### 74. 小羊鞠躬道歉
 
 <img src="../gifs/lamb-sorry-bow.gif" alt="小羊鞠躬道歉" width="360">
 
@@ -876,7 +1068,7 @@ a fluffy cartoon lamb with a cloud-like wool coat presses its hooves together an
 
 `sticker` `apology` `lamb`
 
-### 63. 兔子啃胡萝卜
+### 75. 兔子啃胡萝卜
 
 <img src="../gifs/bunny-carrot-crunch.gif" alt="兔子啃胡萝卜" width="360">
 
@@ -890,7 +1082,7 @@ a white cartoon bunny with floppy ears holds a big carrot and munches quickly, c
 
 `sticker` `bunny` `food`
 
-### 64. 倒挂蝙蝠晚安
+### 76. 倒挂蝙蝠晚安
 
 <img src="../gifs/bat-upside-goodnight.gif" alt="倒挂蝙蝠晚安" width="360">
 
@@ -904,7 +1096,7 @@ a fluffy little purple bat hangs upside down from a branch, wraps its wings arou
 
 `sticker` `goodnight` `bat`
 
-### 65. 慢吞吞点赞
+### 77. 慢吞吞点赞
 
 <img src="../gifs/turtle-slow-thumbs-up.gif" alt="慢吞吞点赞" width="360">
 
@@ -918,7 +1110,7 @@ a sleepy green cartoon turtle in a tiny knit cap very slowly raises one flipper 
 
 `sticker` `turtle` `approval`
 
-### 66. 狐狸打翻咖啡
+### 78. 狐狸打翻咖啡
 
 <img src="../gifs/fox-coffee-oops.gif" alt="狐狸打翻咖啡" width="360">
 
@@ -932,7 +1124,7 @@ a cartoon orange fox in a green hoodie bumps a coffee cup, the coffee splashes u
 
 `sticker` `fox` `oops`
 
-### 67. 企鹅肚皮滑
+### 79. 企鹅肚皮滑
 
 <img src="../gifs/penguin-belly-slide.gif" alt="企鹅肚皮滑" width="360">
 
@@ -946,7 +1138,7 @@ a round cartoon penguin with a tiny red beanie slides on its belly across a patc
 
 `sticker` `penguin` `winter`
 
-### 68. 心情切换小方块
+### 80. 心情切换小方块
 
 <img src="../gifs/cube-mood-toggle.gif" alt="心情切换小方块" width="360">
 
@@ -960,7 +1152,7 @@ a cute pastel yellow cube character with stubby legs stands still and switches e
 
 `sticker` `emotion` `reaction`
 
-### 69. 毛绒熊喝可可
+### 81. 毛绒熊喝可可
 
 <img src="../gifs/plush-bear-cocoa.gif" alt="毛绒熊喝可可" width="360">
 
@@ -974,7 +1166,7 @@ a soft plush teddy bear with visible fabric texture and stitched seams holds a b
 
 `sticker` `plush` `cozy`
 
-### 70. 牛油果吓一跳
+### 82. 牛油果吓一跳
 
 <img src="../gifs/avocado-omg-jump.gif" alt="牛油果吓一跳" width="360">
 
@@ -988,7 +1180,7 @@ a cartoon avocado half with a big seed belly and tiny arms leaps up in surprise,
 
 `sticker` `food` `text`
 
-### 71. 截止日火烧仓鼠
+### 83. 截止日火烧仓鼠
 
 <img src="../gifs/hamster-deadline-fire.gif" alt="截止日火烧仓鼠" width="360">
 
@@ -1002,7 +1194,7 @@ a tiny golden hamster in round glasses types furiously on a little keyboard whil
 
 `sticker` `deadline` `work`
 
-### 72. 工位伸懒腰
+### 84. 工位伸懒腰
 
 <img src="../gifs/desk-stretch-break.gif" alt="工位伸懒腰" width="360">
 
@@ -1016,7 +1208,7 @@ a chibi office worker with messy hair types fast on a laptop, then leans back an
 
 `sticker` `office` `work`
 
-### 73. 片尾挥手
+### 85. 片尾挥手
 
 <img src="../gifs/end-screen-wave.gif" alt="片尾挥手" width="360">
 
@@ -1030,7 +1222,7 @@ a friendly cartoon robot with a round screen face showing a smile stands on the 
 
 `creator` `video` `mascot`
 
-### 74. 嘴上不要手很诚实
+### 86. 嘴上不要手很诚实
 
 <img src="../gifs/red-envelope-pocket.gif" alt="嘴上不要手很诚实" width="360">
 
@@ -1044,7 +1236,7 @@ a round cartoon panda in a red padded jacket shakes its head and waves one paw i
 
 `sticker` `lunar-new-year` `holiday`
 
-### 75. 跨年倒数睡着了
+### 87. 跨年倒数睡着了
 
 <img src="../gifs/countdown-asleep.gif" alt="跨年倒数睡着了" width="360">
 
@@ -1058,7 +1250,7 @@ a chibi kid in pajamas and a party hat sits on a sofa holding a tiny noisemaker;
 
 `sticker` `new-year` `holiday`
 
-### 76. 平安果层层拆开
+### 88. 平安果层层拆开
 
 <img src="../gifs/christmas-apple-unwrap.gif" alt="平安果层层拆开" width="360">
 
@@ -1072,7 +1264,7 @@ a cute cartoon red apple wrapped in a shiny gift wrapper with a green ribbon, on
 
 `sticker` `christmas` `holiday`
 
-### 77. 打工熊：下班冲刺
+### 89. 打工熊：下班冲刺
 
 <img src="../gifs/bear-clock-out-dash.gif" alt="打工熊：下班冲刺" width="360">
 
@@ -1086,7 +1278,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 78. 打工熊：发薪日大笑
+### 90. 打工熊：发薪日大笑
 
 <img src="../gifs/bear-payday-laugh.gif" alt="打工熊：发薪日大笑" width="360">
 
@@ -1100,7 +1292,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `money`
 
-### 79. 打工熊：又加班大哭
+### 91. 打工熊：又加班大哭
 
 <img src="../gifs/bear-overtime-wail.gif" alt="打工熊：又加班大哭" width="360">
 
@@ -1114,7 +1306,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 80. 打工熊：摸鱼偷吃
+### 92. 打工熊：摸鱼偷吃
 
 <img src="../gifs/bear-sneaky-snack.gif" alt="打工熊：摸鱼偷吃" width="360">
 
@@ -1128,7 +1320,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 81. 打工熊：已读翻白眼
+### 93. 打工熊：已读翻白眼
 
 <img src="../gifs/bear-read-eye-roll.gif" alt="打工熊：已读翻白眼" width="360">
 
@@ -1142,7 +1334,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `reaction`
 
-### 82. 打工熊：周一叹气
+### 94. 打工熊：周一叹气
 
 <img src="../gifs/bear-monday-sigh.gif" alt="打工熊：周一叹气" width="360">
 
@@ -1156,7 +1348,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 83. 大鹅生气嘎嘎叫
+### 95. 大鹅生气嘎嘎叫
 
 <img src="../gifs/goose-honk-flap.gif" alt="大鹅生气嘎嘎叫" width="360">
 
@@ -1170,7 +1362,7 @@ A white goose stretches its neck forward, flaps its wings wide, and honks angril
 
 `sticker` `angry` `animal`
 
-### 84. 饺子害羞捂脸
+### 96. 饺子害羞捂脸
 
 <img src="../gifs/dumpling-blush-hide.gif" alt="饺子害羞捂脸" width="360">
 
@@ -1184,7 +1376,7 @@ A plump steamed dumpling character covers its face with tiny hands, peeks out be
 
 `sticker` `shy` `food`
 
-### 85. 豆腐冻得发抖
+### 97. 豆腐冻得发抖
 
 <img src="../gifs/tofu-shiver-cold.gif" alt="豆腐冻得发抖" width="360">
 
@@ -1198,7 +1390,7 @@ A soft white tofu block character wrapped in a tiny scarf shivers hard, teeth ch
 
 `sticker` `cold` `food`
 
-### 86. 蘑菇猛点头
+### 98. 蘑菇猛点头
 
 <img src="../gifs/mushroom-yes-nod.gif" alt="蘑菇猛点头" width="360">
 
@@ -1212,7 +1404,7 @@ A small red-capped mushroom character with white spots nods enthusiastically, it
 
 `sticker` `yes` `cute`
 
-### 87. 鸭子丢麦克风
+### 99. 鸭子丢麦克风
 
 <img src="../gifs/duck-mic-drop.gif" alt="鸭子丢麦克风" width="360">
 
@@ -1226,7 +1418,7 @@ A white duck in sunglasses holds a tiny microphone out at wing's length, drops i
 
 `sticker` `smug` `reaction`
 
-### 88. 章鱼同时敲四个键盘
+### 100. 章鱼同时敲四个键盘
 
 <img src="../gifs/octopus-four-keyboards.gif" alt="章鱼同时敲四个键盘" width="360">
 
@@ -1240,7 +1432,7 @@ A purple cartoon octopus wearing glasses types furiously on four keyboards at on
 
 `sticker` `work` `busy`
 
-### 89. 小羊蓬起来打瞌睡
+### 101. 小羊蓬起来打瞌睡
 
 <img src="../gifs/sheep-fluff-doze.gif" alt="小羊蓬起来打瞌睡" width="360">
 
@@ -1254,7 +1446,7 @@ A round fluffy sheep slowly puffs up its wool like a cloud, its eyes droop close
 
 `sticker` `sleepy` `animal`
 
-### 90. 小鸡弹跳登场
+### 102. 小鸡弹跳登场
 
 <img src="../gifs/chick-bounce-entrance.gif" alt="小鸡弹跳登场" width="360">
 
@@ -1268,7 +1460,7 @@ A fluffy yellow chick drops in from above, squashes flat on landing, springs bac
 
 `entrance` `sticker` `bounce`
 
-### 91. 小法师操控悬浮光球
+### 103. 小法师操控悬浮光球
 
 <img src="../gifs/mage-floating-orb.gif" alt="小法师操控悬浮光球" width="360">
 
@@ -1282,7 +1474,7 @@ A young mage in a hooded blue cloak holds both palms apart while a glowing turqu
 
 `magic` `character` `glow`
 
-### 92. 仙人掌看报纸
+### 104. 仙人掌看报纸
 
 <img src="../gifs/cactus-newspaper-read.gif" alt="仙人掌看报纸" width="360">
 
@@ -1296,7 +1488,7 @@ A green cactus character wearing a wide straw hat sits on a stool reading a news
 
 `sticker` `reading` `plant`
 
-### 93. 小角萌娃转圈跳舞
+### 105. 小角萌娃转圈跳舞
 
 <img src="../gifs/horned-chibi-twirl.gif" alt="小角萌娃转圈跳舞" width="360">
 
@@ -1310,7 +1502,7 @@ A chibi girl with small curled ivory horns, wearing a ruffled lavender gown, doe
 
 `dance` `chibi` `original-character`
 
-### 94. 霓虹餐厅里吹爆泡泡糖
+### 106. 霓虹餐厅里吹爆泡泡糖
 
 <img src="../gifs/bubblegum-diner-pop.gif" alt="霓虹餐厅里吹爆泡泡糖" width="360">
 
@@ -1324,7 +1516,7 @@ An illustrated girl in a retro neon diner booth at night slowly blows a big pink
 
 `reaction` `neon` `retro`
 
-### 95. 穿轮滑鞋的小猴子
+### 107. 穿轮滑鞋的小猴子
 
 <img src="../gifs/monkey-roller-skate.gif" alt="穿轮滑鞋的小猴子" width="360">
 
@@ -1338,7 +1530,7 @@ A cheerful cartoon monkey in red roller skates glides along a sidewalk, arms out
 
 `character` `skate` `animal`
 
-### 96. 圆滚滚机器人听到好消息
+### 108. 圆滚滚机器人听到好消息
 
 <img src="../gifs/robot-good-news.gif" alt="圆滚滚机器人听到好消息" width="360">
 
@@ -1352,7 +1544,7 @@ A small round white robot with a screen face: its pixel eyes grow wide and spark
 
 `sticker` `celebrate` `robot`
 
-### 97. 鸽子喷茶
+### 109. 鸽子喷茶
 
 <img src="../gifs/pigeon-spit-take.gif" alt="鸽子喷茶" width="360">
 
@@ -1366,7 +1558,7 @@ A gray city pigeon holding a tiny teacup takes a sip and sprays the tea out in a
 
 `sticker` `reaction` `shock`
 
-### 98. 兔子拿纸扇吐槽
+### 110. 兔子拿纸扇吐槽
 
 <img src="../gifs/rabbit-fan-smack.gif" alt="兔子拿纸扇吐槽" width="360">
 
@@ -1380,7 +1572,7 @@ A white rabbit in a tiny bow tie swings a folded paper fan sideways in a classic
 
 `sticker` `reaction` `comedy`
 
-### 99. 小熊踩香蕉皮滑倒
+### 111. 小熊踩香蕉皮滑倒
 
 <img src="../gifs/bear-banana-slip.gif" alt="小熊踩香蕉皮滑倒" width="360">
 
@@ -1394,7 +1586,7 @@ A round brown cartoon bear walks forward, steps on a banana peel, and flips onto
 
 `sticker` `slapstick` `fail`
 
-### 100. 猫耳卫衣女孩点头
+### 112. 猫耳卫衣女孩点头
 
 <img src="../gifs/cat-ear-hood-nod.gif" alt="猫耳卫衣女孩点头" width="360">
 
@@ -1408,7 +1600,7 @@ A chibi girl in an oversized mint hoodie with cat ears on the hood nods eagerly 
 
 `sticker` `yes` `chibi`
 
-### 101. 奶油泡芙伸懒腰打哈欠
+### 113. 奶油泡芙伸懒腰打哈欠
 
 <img src="../gifs/cream-puff-yawn.gif" alt="奶油泡芙伸懒腰打哈欠" width="360">
 
@@ -1422,7 +1614,7 @@ A chubby cream puff character with tiny arms stretches upward and lets out a big
 
 `sticker` `sleepy` `food`
 
-### 102. 樱桃蛋糕帽小家伙挥手
+### 114. 樱桃蛋糕帽小家伙挥手
 
 <img src="../gifs/cherry-cake-hat-sprite.gif" alt="樱桃蛋糕帽小家伙挥手" width="360">
 
@@ -1436,7 +1628,7 @@ A tiny round cream-colored creature wearing a little strawberry shortcake with a
 
 `sticker` `cute` `original-character`
 
-### 103. 甩刘海的羊驼
+### 115. 甩刘海的羊驼
 
 <img src="../gifs/alpaca-hair-flip.gif" alt="甩刘海的羊驼" width="360">
 
@@ -1450,7 +1642,7 @@ A fluffy white cartoon alpaca with a huge curly fringe tossing its head to flip 
 
 `sticker` `sassy` `alpaca`
 
-### 104. 吹蜡烛的巴哥犬
+### 116. 吹蜡烛的巴哥犬
 
 <img src="../gifs/pug-birthday-blow.gif" alt="吹蜡烛的巴哥犬" width="360">
 
@@ -1464,7 +1656,7 @@ A pug in a striped party hat puffing its cheeks and blowing out a single candle 
 
 `sticker` `birthday` `dog`
 
-### 105. 打喷嚏下雨的小云朵
+### 117. 打喷嚏下雨的小云朵
 
 <img src="../gifs/cloud-sneeze-rain.gif" alt="打喷嚏下雨的小云朵" width="360">
 
@@ -1478,7 +1670,7 @@ A small fluffy white cloud character with rosy cheeks scrunching up its face and
 
 `sticker` `weather` `cute`
 
-### 106. 斜眼看人的猫头鹰
+### 118. 斜眼看人的猫头鹰
 
 <img src="../gifs/owl-side-eye.gif" alt="斜眼看人的猫头鹰" width="360">
 
@@ -1492,7 +1684,7 @@ A round brown cartoon owl perched on a branch, slowly turning its eyes sideways 
 
 `sticker` `side-eye` `reaction`
 
-### 107. 小短手鼓掌的恐龙
+### 119. 小短手鼓掌的恐龙
 
 <img src="../gifs/dino-tiny-clap.gif" alt="小短手鼓掌的恐龙" width="360">
 
@@ -1506,7 +1698,7 @@ A chubby mint-green cartoon dinosaur trying hard to clap with its very short arm
 
 `sticker` `clap` `dinosaur`
 
-### 108. 从纸箱里探出头炫宝的浣熊
+### 120. 从纸箱里探出头炫宝的浣熊
 
 <img src="../gifs/raccoon-box-treasure.gif" alt="从纸箱里探出头炫宝的浣熊" width="360">
 
@@ -1520,7 +1712,7 @@ A grey cartoon raccoon popping up out of a cardboard box holding a shiny silver 
 
 `sticker` `proud` `raccoon`
 
-### 109. 乌龟：在路上了
+### 121. 乌龟：在路上了
 
 <img src="../gifs/tortoise-on-my-way.gif" alt="乌龟：在路上了" width="360">
 
@@ -1534,7 +1726,7 @@ A green cartoon tortoise with a tiny backpack running as fast as it can, legs sp
 
 `sticker` `late` `funny`
 
-### 110. 戴大耳机摇头晃脑的小鸭
+### 122. 戴大耳机摇头晃脑的小鸭
 
 <img src="../gifs/duckling-headphones-bop.gif" alt="戴大耳机摇头晃脑的小鸭" width="360">
 
@@ -1548,7 +1740,7 @@ A fluffy yellow duckling wearing oversized purple headphones, eyes closed, bobbi
 
 `sticker` `music` `duck`
 
-### 111. 被咖啡惊醒的考拉
+### 123. 被咖啡惊醒的考拉
 
 <img src="../gifs/koala-coffee-jolt.gif" alt="被咖啡惊醒的考拉" width="360">
 
@@ -1562,7 +1754,7 @@ A sleepy grey cartoon koala hugging a giant mug, nodding off until its nose dips
 
 `sticker` `coffee` `sleepy`
 
-### 112. 水豚：泡温泉
+### 124. 水豚：泡温泉
 
 <img src="../gifs/capybara-bath.gif" alt="水豚：泡温泉" width="360">
 
@@ -1576,7 +1768,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 113. 水豚：加油
+### 125. 水豚：加油
 
 <img src="../gifs/capybara-cheer.gif" alt="水豚：加油" width="360">
 
@@ -1590,7 +1782,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 114. 水豚：困到点头
+### 126. 水豚：困到点头
 
 <img src="../gifs/capybara-sleepy-nod.gif" alt="水豚：困到点头" width="360">
 
@@ -1604,7 +1796,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 115. 水豚：好的
+### 127. 水豚：好的
 
 <img src="../gifs/capybara-ok.gif" alt="水豚：好的" width="360">
 
@@ -1620,7 +1812,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 116. 虎斑猫猛地回头
+### 128. 虎斑猫猛地回头
 
 <img src="../gifs/tabby-double-take.gif" alt="虎斑猫猛地回头" width="360">
 
@@ -1634,7 +1826,7 @@ A calm orange tabby cat sitting sideways, then suddenly turning toward the viewe
 
 `sticker` `cat` `shocked`
 
-### 117. 舒芙蕾塌了哭着吃掉
+### 129. 舒芙蕾塌了哭着吃掉
 
 <img src="../gifs/souffle-collapse-cry.gif" alt="舒芙蕾塌了哭着吃掉" width="360">
 
@@ -1650,7 +1842,7 @@ A chibi baker girl in a white apron pulling a tall souffle out of the oven, the 
 
 `sticker` `baking` `chibi`
 
-### 118. 周一瘫在桌前的胖橘猫
+### 130. 周一瘫在桌前的胖橘猫
 
 <img src="../gifs/monday-cat-slump.gif" alt="周一瘫在桌前的胖橘猫" width="360">
 
@@ -1664,7 +1856,7 @@ A chubby orange cat wearing a navy necktie slumping over a laptop, sinking lower
 
 `sticker` `office` `monday` `text`
 
-### 119. 得意地摆手说不用了的浣熊
+### 131. 得意地摆手说不用了的浣熊
 
 <img src="../gifs/smug-raccoon-no-thanks.gif" alt="得意地摆手说不用了的浣熊" width="360">
 
@@ -1678,7 +1870,7 @@ A smug cartoon raccoon in pink heart-shaped sunglasses lounging in a beach chair
 
 `sticker` `smug` `reaction`
 
-### 120. 邮件太多，默默合上电脑
+### 132. 邮件太多，默默合上电脑
 
 <img src="../gifs/inbox-close-laptop.gif" alt="邮件太多，默默合上电脑" width="360">
 
@@ -1692,7 +1884,7 @@ A cartoon office worker with round glasses opening a laptop, the screen showing 
 
 `sticker` `office` `email`
 
-### 121. 耸肩的原始人
+### 133. 耸肩的原始人
 
 <img src="../gifs/caveman-shrug.gif" alt="耸肩的原始人" width="360">
 
@@ -1706,7 +1898,7 @@ A stocky cartoon caveman with a wild orange beard, a bone hair clip and a spotte
 
 `sticker` `shrug` `reaction`
 
-### 122. 抱着烤红薯的小刺猬
+### 134. 抱着烤红薯的小刺猬
 
 <img src="../gifs/hedgehog-sweet-potato.gif" alt="抱着烤红薯的小刺猬" width="360">
 
@@ -1720,7 +1912,7 @@ A tiny cartoon hedgehog hugging a roasted sweet potato almost as big as itself, 
 
 `sticker` `food` `doodle`
 
-### 123. 靠着靠垫休息的熊猫
+### 135. 靠着靠垫休息的熊猫
 
 <img src="../gifs/panda-cushion-rest.gif" alt="靠着靠垫休息的熊猫" width="360">
 
@@ -1734,7 +1926,7 @@ A chubby cartoon panda leaning back on a big round yellow cushion, slowly closin
 
 `sticker` `rest` `panda`
 
-### 124. 文件找回后喜极而泣的小虾
+### 136. 文件找回后喜极而泣的小虾
 
 <img src="../gifs/shrimp-file-rescued.gif" alt="文件找回后喜极而泣的小虾" width="360">
 
@@ -1748,7 +1940,7 @@ A small pink cartoon shrimp in a tiny office lanyard hugging a glowing blue fold
 
 `sticker` `office` `relief`
 
-### 125. 举牌道谢的水獭
+### 137. 举牌道谢的水獭
 
 <img src="../gifs/otter-thank-you.gif" alt="举牌道谢的水獭" width="360">
 
@@ -1764,7 +1956,7 @@ A small brown cartoon otter holding up a little wooden sign that reads "THANK YO
 
 `sticker` `thanks` `text`
 
-### 126. 90 年代动画风害羞脸红
+### 138. 90 年代动画风害羞脸红
 
 <img src="../gifs/anime-90s-blush.gif" alt="90 年代动画风害羞脸红" width="360">
 
@@ -1778,7 +1970,7 @@ A 1990s cel-animation style boy with messy brown hair and a red scarf blushing: 
 
 `anime` `retro` `reaction`
 
-### 127. 90 年代动画风倒吸一口气
+### 139. 90 年代动画风倒吸一口气
 
 <img src="../gifs/anime-90s-gasp.gif" alt="90 年代动画风倒吸一口气" width="360">
 
@@ -1794,7 +1986,7 @@ A 1990s cel-animation style girl with two long auburn braids, a band of freckles
 
 `anime` `retro` `reaction`
 
-### 128. 在地上打滚大哭的兔子
+### 140. 在地上打滚大哭的兔子
 
 <img src="../gifs/crying-roll-floor.gif" alt="在地上打滚大哭的兔子" width="360">
 
@@ -1808,7 +2000,7 @@ A chubby cream-colored cartoon bunny lying on its back on the floor, kicking its
 
 `sticker` `crying` `bunny`
 
-### 129. 青蛙跳水坑
+### 141. 青蛙跳水坑
 
 <img src="../gifs/frog-puddle-jump.gif" alt="青蛙跳水坑" width="360">
 
@@ -1822,7 +2014,7 @@ A small green frog in a red raincoat leaping into a puddle, water splashing up i
 
 `sticker` `rain` `frog`
 
-### 130. 树懒喝咖啡醒了
+### 142. 树懒喝咖啡醒了
 
 <img src="../gifs/sloth-coffee-wake.gif" alt="树懒喝咖啡醒了" width="360">
 
@@ -1836,7 +2028,7 @@ A sleepy sloth hanging from a branch slowly sipping coffee from a tiny cup, then
 
 `sticker` `coffee` `morning`
 
-### 131. 六角恐龙吹泡泡
+### 143. 六角恐龙吹泡泡
 
 <img src="../gifs/axolotl-bubble.gif" alt="六角恐龙吹泡泡" width="360">
 
@@ -1850,7 +2042,7 @@ A pink axolotl with frilly gills puffing its cheeks to blow a round bubble that 
 
 `sticker` `water` `cute`
 
-### 132. 想要抱抱的仙人掌
+### 144. 想要抱抱的仙人掌
 
 <img src="../gifs/cactus-hug-ouch.gif" alt="想要抱抱的仙人掌" width="360">
 
@@ -1864,7 +2056,7 @@ A small potted cactus character opening its spiky arms wide for a hug, then look
 
 `sticker` `hug` `sad`
 
-### 133. 吐司弹出吓一跳
+### 145. 吐司弹出吓一跳
 
 <img src="../gifs/toaster-pop-surprise.gif" alt="吐司弹出吓一跳" width="360">
 
@@ -1878,7 +2070,7 @@ Two slices of toast with cartoon faces popping out of a chrome toaster, flipping
 
 `sticker` `food` `surprise`
 
-### 134. 蜗牛送信
+### 146. 蜗牛送信
 
 <img src="../gifs/snail-mail-delivery.gif" alt="蜗牛送信" width="360">
 
@@ -1892,7 +2084,7 @@ A small snail with a tiny leather postbag slowly sliding forward and holding out
 
 `sticker` `mail` `slow`
 
-### 135. 麻薯团子说 OK
+### 147. 麻薯团子说 OK
 
 <img src="../gifs/mochi-ok-bow.gif" alt="麻薯团子说 OK" width="360">
 
@@ -1906,7 +2098,7 @@ A round white mochi character with tiny arms bowing politely and then popping up
 
 `sticker` `caption` `ok`
 
-### 136. 雨衣小孩起跳落地
+### 148. 雨衣小孩起跳落地
 
 <img src="../gifs/raincoat-kid-jump.gif" alt="雨衣小孩起跳落地" width="360">
 
@@ -1920,7 +2112,7 @@ A chibi kid in a yellow raincoat crouching down, springing into a high jump with
 
 `sticker` `jump` `character`
 
-### 137. 戴花环的猫跳舞
+### 149. 戴花环的猫跳舞
 
 <img src="../gifs/flower-crown-cat-dance.gif" alt="戴花环的猫跳舞" width="360">
 
@@ -1934,7 +2126,7 @@ A grey cat wearing a crown of small daisies doing a happy side-step dance on its
 
 `sticker` `cat` `dance`
 
-### 138. 白猫滚毛线球
+### 150. 白猫滚毛线球
 
 <img src="../gifs/white-cat-yarn.gif" alt="白猫滚毛线球" width="360">
 
@@ -1948,7 +2140,7 @@ A fluffy white kitten batting a red yarn ball, rolling onto its back with the ba
 
 `sticker` `cat` `play`
 
-### 139. 戏精贵宾犬晕倒
+### 151. 戏精贵宾犬晕倒
 
 <img src="../gifs/poodle-dramatic-faint.gif" alt="戏精贵宾犬晕倒" width="360">
 
@@ -1962,7 +2154,7 @@ A white poodle mascot striking a dramatic pose, pressing a paw to its forehead a
 
 `sticker` `drama` `dog`
 
-### 140. 柯基讨零食
+### 152. 柯基讨零食
 
 <img src="../gifs/corgi-snack-beg.gif" alt="柯基讨零食" width="360">
 
@@ -1976,7 +2168,7 @@ A fluffy corgi mascot staring up at a treat just above its head, drooling, wiggl
 
 `sticker` `dog` `food`
 
-### 141. 纸箱机器人霹雳舞
+### 153. 纸箱机器人霹雳舞
 
 <img src="../gifs/box-robot-breakdance.gif" alt="纸箱机器人霹雳舞" width="360">
 
@@ -1990,7 +2182,7 @@ A robot made from cardboard boxes with bottle-cap eyes doing a breakdance toproc
 
 `sticker` `dance` `robot`
 
-### 142. 戴礼帽的奶奶
+### 154. 戴礼帽的奶奶
 
 <img src="../gifs/sunday-hat-grandma.gif" alt="戴礼帽的奶奶" width="360">
 
@@ -2004,7 +2196,7 @@ A cheerful cartoon grandma in a big floral Sunday hat and a pearl necklace clapp
 
 `sticker` `joy` `character`
 
-### 143. 仓鼠快递员
+### 155. 仓鼠快递员
 
 <img src="../gifs/hamster-courier.gif" alt="仓鼠快递员" width="360">
 
@@ -2018,7 +2210,7 @@ A small golden hamster in a tiny brown courier cap pushing a cardboard parcel tw
 
 `sticker` `work` `hamster`
 
-### 144. 奶牛猫扑逗猫棒
+### 156. 奶牛猫扑逗猫棒
 
 <img src="../gifs/tuxedo-cat-foxtail.gif" alt="奶牛猫扑逗猫棒" width="360">
 
@@ -2032,7 +2224,7 @@ A simple black-and-white anime-style tuxedo cat sitting up and swatting at a fox
 
 `sticker` `cat` `monochrome`
 
-### 145. 柴犬被雪球砸脸
+### 157. 柴犬被雪球砸脸
 
 <img src="../gifs/shiba-snowball-face.gif" alt="柴犬被雪球砸脸" width="360">
 
@@ -2046,7 +2238,7 @@ A shiba inu in a red knitted winter hat standing in the snow gets hit in the fac
 
 `sticker` `winter` `funny`
 
-### 146. 柴犬：在改了在改了
+### 158. 柴犬：在改了在改了
 
 <img src="../gifs/shiba-fixing-caption.gif" alt="柴犬：在改了在改了" width="360">
 
@@ -2060,7 +2252,7 @@ A cream shiba inu at a desk typing furiously on a keyboard with both paws, sweat
 
 `sticker` `caption` `work`
 
-### 147. 小海豹：比心
+### 159. 小海豹：比心
 
 <img src="../gifs/seal-heart.gif" alt="小海豹：比心" width="360">
 
@@ -2076,7 +2268,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `love`
 
-### 148. 小海豹：大哭
+### 160. 小海豹：大哭
 
 <img src="../gifs/seal-crying.gif" alt="小海豹：大哭" width="360">
 
@@ -2092,7 +2284,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `cry`
 
-### 149. 小海豹：摆烂
+### 161. 小海豹：摆烂
 
 <img src="../gifs/seal-melt-slack.gif" alt="小海豹：摆烂" width="360">
 
@@ -2108,7 +2300,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `lazy`
 
-### 150. 小海豹：偷笑
+### 162. 小海豹：偷笑
 
 <img src="../gifs/seal-giggle.gif" alt="小海豹：偷笑" width="360">
 
@@ -2124,7 +2316,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `laugh`
 
-### 151. 小海豹：震惊
+### 163. 小海豹：震惊
 
 <img src="../gifs/seal-shocked.gif" alt="小海豹：震惊" width="360">
 
@@ -2140,7 +2332,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `shock`
 
-### 152. 西瓜头小狗刷手机
+### 164. 西瓜头小狗刷手机
 
 <img src="../gifs/bowl-cut-dog-phone.gif" alt="西瓜头小狗刷手机" width="360">
 
@@ -2154,7 +2346,7 @@ A small dog with a perfectly round bowl-cut hairstyle lying on its belly, scroll
 
 `sticker` `phone` `dog`
 
-### 153. 领结大猩猩摇摆舞
+### 165. 领结大猩猩摇摆舞
 
 <img src="../gifs/gorilla-bowtie-shuffle.gif" alt="领结大猩猩摇摆舞" width="360">
 
@@ -2168,7 +2360,7 @@ A chunky cartoon gorilla wearing a tiny red bow tie doing a side-to-side shuffle
 
 `sticker` `dance` `animal`
 
-### 154. 螳螂虾戳布丁
+### 166. 螳螂虾戳布丁
 
 <img src="../gifs/mantis-shrimp-flan.gif" alt="螳螂虾戳布丁" width="360">
 
@@ -2182,7 +2374,7 @@ A rainbow-colored cartoon mantis shrimp poking a caramel flan on a plate with bo
 
 `sticker` `food` `funny`
 
-### 155. 感激涕零的小虾
+### 167. 感激涕零的小虾
 
 <img src="../gifs/grateful-shrimp-bow.gif" alt="感激涕零的小虾" width="360">
 
@@ -2196,7 +2388,7 @@ A small pink cartoon shrimp pressing its claws together, raising them high over 
 
 `sticker` `caption` `thanks`
 
-### 156. 戴 VR 眼镜打瞌睡的猫
+### 168. 戴 VR 眼镜打瞌睡的猫
 
 <img src="../gifs/vr-cat-nap.gif" alt="戴 VR 眼镜打瞌睡的猫" width="360">
 
@@ -2210,7 +2402,7 @@ A fluffy grey cat wearing a sleek white VR headset slowly nodding off, its head 
 
 `sticker` `cat` `tech`
 
-### 157. 健身熊推胸
+### 169. 健身熊推胸
 
 <img src="../gifs/gym-chest-press.gif" alt="健身熊推胸" width="360">
 
@@ -2224,7 +2416,7 @@ A muscular cartoon brown bear in a red tank top lying on a bench and pressing a 
 
 `sticker` `fitness` `bear`
 
-### 158. 撑伞小黄鸭
+### 170. 撑伞小黄鸭
 
 <img src="../gifs/duck-dance-umbrella.gif" alt="撑伞小黄鸭" width="360">
 
@@ -2238,7 +2430,7 @@ A yellow duckling holding a tiny red umbrella hopping in a small puddle, splashe
 
 `sticker` `duck` `rain`
 
-### 159. 仓鼠塞满腮帮子
+### 171. 仓鼠塞满腮帮子
 
 <img src="../gifs/hamster-cheek-stuff.gif" alt="仓鼠塞满腮帮子" width="360">
 
@@ -2252,7 +2444,7 @@ A golden hamster sitting up and stuffing sunflower seeds into its cheeks until t
 
 `sticker` `hamster` `food`
 
-### 160. 小机器人挥手蹦跳
+### 172. 小机器人挥手蹦跳
 
 <img src="../gifs/baby-robot-hop.gif" alt="小机器人挥手蹦跳" width="360">
 
@@ -2266,7 +2458,7 @@ A tiny round white baby robot with a glowing blue face screen and stubby legs wa
 
 `sticker` `robot` `hello`
 
-### 161. 骑扫把飞行的猫
+### 173. 骑扫把飞行的猫
 
 <img src="../gifs/cat-on-broom.gif" alt="骑扫把飞行的猫" width="360">
 
@@ -2280,7 +2472,7 @@ A black cat with a tiny red scarf riding a wooden broomstick across a night sky,
 
 `sticker` `cat` `magic`
 
-### 162. 打工人：收到
+### 174. 打工人：收到
 
 <img src="../gifs/office-worker-received.gif" alt="打工人：收到" width="360">
 
@@ -2294,7 +2486,7 @@ A chibi office worker with a tidy bob and a lanyard snapping to attention and gi
 
 `sticker` `office` `reply`
 
-### 163. 围巾小水獭挥手
+### 175. 围巾小水獭挥手
 
 <img src="../gifs/otter-scarf-wave.gif" alt="围巾小水獭挥手" width="360">
 
@@ -2308,7 +2500,7 @@ A small brown sea otter with a cream muzzle and a teal knitted scarf turning tow
 
 `sticker` `otter` `hello`
 
-### 164. 按下发送后慌了的企鹅
+### 176. 按下发送后慌了的企鹅
 
 <img src="../gifs/penguin-send-panic.gif" alt="按下发送后慌了的企鹅" width="360">
 
@@ -2322,7 +2514,7 @@ A small cartoon penguin slapping a big round red button labeled "SEND", then fre
 
 `sticker` `penguin` `reaction`
 
-### 165. 深夜加班的龙虾
+### 177. 深夜加班的龙虾
 
 <img src="../gifs/lobster-overtime.gif" alt="深夜加班的龙虾" width="360">
 
@@ -2336,7 +2528,7 @@ A red cartoon lobster wearing round glasses typing furiously on a keyboard with 
 
 `sticker` `work` `funny`
 
-### 166. 橘猫揉面打喷嚏
+### 178. 橘猫揉面打喷嚏
 
 <img src="../gifs/cat-baker-sneeze.gif" alt="橘猫揉面打喷嚏" width="360">
 
@@ -2350,7 +2542,7 @@ An anthropomorphic orange cat in an apron kneading dough on a wooden counter, th
 
 `sticker` `cat` `cooking`
 
-### 167. 魔法学徒咒语失控
+### 179. 魔法学徒咒语失控
 
 <img src="../gifs/wizard-spell-backfire.gif" alt="魔法学徒咒语失控" width="360">
 
@@ -2364,7 +2556,7 @@ A chibi wizard apprentice in an oversized purple hat waves a wand, a small puff 
 
 `sticker` `magic` `fail`
 
-### 168. 笑出眼泪的小团子
+### 180. 笑出眼泪的小团子
 
 <img src="../gifs/laughing-tears-blob.gif" alt="笑出眼泪的小团子" width="360">
 
@@ -2378,7 +2570,7 @@ A round pink mochi blob character throwing its head back and laughing hysterical
 
 `sticker` `laugh` `reaction`
 
-### 169. 橘猫扑向镜头
+### 181. 橘猫扑向镜头
 
 <img src="../gifs/orange-cat-pounce-lens.gif" alt="橘猫扑向镜头" width="360">
 
@@ -2392,7 +2584,7 @@ A chubby orange cat crouching, wiggling its rear, then leaping straight toward t
 
 `sticker` `cat` `funny`
 
-### 170. 晚安喵
+### 182. 晚安喵
 
 <img src="../gifs/goodnight-cat.gif" alt="晚安喵" width="360">
 
@@ -2406,7 +2598,7 @@ A sleepy white kitten in a blue nightcap hugging a small pillow, slowly yawning 
 
 `sticker` `cat` `goodnight`
 
-### 171. 小狗摇摆冒爱心
+### 183. 小狗摇摆冒爱心
 
 <img src="../gifs/puppy-heart-sway.gif" alt="小狗摇摆冒爱心" width="360">
 
@@ -2420,7 +2612,7 @@ A fluffy cream-colored puppy sitting and swaying its head left and right with it
 
 `sticker` `dog` `love`
 
-### 172. 勤劳小蜜蜂打卡上班
+### 184. 勤劳小蜜蜂打卡上班
 
 <img src="../gifs/busy-bee-clock-in.gif" alt="勤劳小蜜蜂打卡上班" width="360">
 
@@ -2434,7 +2626,7 @@ A round fuzzy cartoon bee with a tiny lanyard badge buzzing in place, wings flut
 
 `sticker` `bee` `work`
 
-### 173. 高礼帽青蛙驱散霉运
+### 185. 高礼帽青蛙驱散霉运
 
 <img src="../gifs/top-hat-frog-shoo.gif" alt="高礼帽青蛙驱散霉运" width="360">
 
@@ -2448,7 +2640,7 @@ A small green frog in a tall black top hat and a monocle waving a tiny cane in c
 
 `sticker` `frog` `reaction`
 
-### 174. 戴墨镜的猫跳舞
+### 186. 戴墨镜的猫跳舞
 
 <img src="../gifs/sunglasses-cat-dance.gif" alt="戴墨镜的猫跳舞" width="360">
 
@@ -2462,7 +2654,7 @@ A cool grey cat wearing tiny black sunglasses doing a side-to-side groove dance,
 
 `sticker` `cat` `dance`
 
-### 175. Q 版上班族看股价暴涨
+### 187. Q 版上班族看股价暴涨
 
 <img src="../gifs/chibi-trader-moon.gif" alt="Q 版上班族看股价暴涨" width="360">
 
@@ -2476,7 +2668,7 @@ A chibi office worker in a white shirt and loose tie jumping up from his chair a
 
 `sticker` `office` `finance`
 
-### 176. Q 版上班族看股价暴跌
+### 188. Q 版上班族看股价暴跌
 
 <img src="../gifs/chibi-trader-crash.gif" alt="Q 版上班族看股价暴跌" width="360">
 
@@ -2490,7 +2682,7 @@ A chibi office worker in a white shirt and loose tie staring at a laptop where a
 
 `sticker` `office` `finance`
 
-### 177. 咆哮的小黄鸭
+### 189. 咆哮的小黄鸭
 
 <img src="../gifs/roaring-duck.gif" alt="咆哮的小黄鸭" width="360">
 
@@ -2504,7 +2696,7 @@ A small round yellow duck suddenly opening its beak wide and roaring like a lion
 
 `sticker` `reaction` `funny`
 
-### 178. 打工猫：下班啦
+### 190. 打工猫：下班啦
 
 <img src="../gifs/office-cat-clock-out.gif" alt="打工猫：下班啦" width="360">
 
@@ -2518,7 +2710,7 @@ A chubby orange tabby cat office worker with a tiny blue tie and an employee bad
 
 `sticker` `work` `sticker-pack`
 
-### 179. 打工猫：累瘫
+### 191. 打工猫：累瘫
 
 <img src="../gifs/office-cat-exhausted.gif" alt="打工猫：累瘫" width="360">
 
@@ -2534,7 +2726,7 @@ A chubby orange tabby cat office worker with a tiny blue tie and an employee bad
 
 `sticker` `work` `sticker-pack`
 
-### 180. 黑猫出拳
+### 192. 黑猫出拳
 
 <img src="../gifs/black-cat-punch.gif" alt="黑猫出拳" width="360">
 
@@ -2548,7 +2740,7 @@ A round black cat with big yellow eyes throwing a quick one-two punch toward the
 
 `sticker` `reaction` `cat`
 
-### 181. 猫厨师颠勺炒饭
+### 193. 猫厨师颠勺炒饭
 
 <img src="../gifs/cat-chef-fried-rice.gif" alt="猫厨师颠勺炒饭" width="360">
 
@@ -2562,7 +2754,7 @@ A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies 
 
 `sticker` `food` `cat`
 
-### 182. 投篮命中庆祝
+### 194. 投篮命中庆祝
 
 <img src="../gifs/basketball-shot-sticker.gif" alt="投篮命中庆祝" width="360">
 
@@ -2578,7 +2770,7 @@ A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes thro
 
 `sticker` `sports` `celebration`
 
-### 183. 企鹅捂脸
+### 195. 企鹅捂脸
 
 <img src="../gifs/penguin-facepalm.gif" alt="企鹅捂脸" width="360">
 
@@ -2592,7 +2784,7 @@ A chubby cartoon penguin slowly raising one flipper and slapping it onto its for
 
 `sticker` `reaction` `facepalm`
 
-### 184. 青蛙吹出爱心
+### 196. 青蛙吹出爱心
 
 <img src="../gifs/frog-heart-bubble.gif" alt="青蛙吹出爱心" width="360">
 
@@ -2606,7 +2798,7 @@ A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bu
 
 `sticker` `love` `cute`
 
-### 185. 猫猫疯狂打字
+### 197. 猫猫疯狂打字
 
 <img src="../gifs/cat-typing-laptop.gif" alt="猫猫疯狂打字" width="360">
 
@@ -2622,7 +2814,7 @@ A grey tabby cat sitting at a tiny laptop and typing furiously with both front p
 
 `sticker` `work` `cat`
 
-### 186. 柴犬歪头疑惑
+### 198. 柴犬歪头疑惑
 
 <img src="../gifs/shiba-head-tilt.gif" alt="柴犬歪头疑惑" width="360">
 
@@ -2636,7 +2828,7 @@ A fluffy orange shiba inu puppy tilting its head to one side and back again, ear
 
 `sticker` `reaction` `dog`
 
-### 187. 卡通猫挥手打招呼
+### 199. 卡通猫挥手打招呼
 
 <img src="../gifs/cat-waving-hello.gif" alt="卡通猫挥手打招呼" width="360">
 
@@ -2652,7 +2844,7 @@ A cheerful cartoon cat waving hello.
 
 `sticker` `greeting` `minimal-prompt`
 
-### 188. 兔兔犯困
+### 200. 兔兔犯困
 
 <img src="../gifs/bunny-sleepy.gif" alt="兔兔犯困" width="360">
 
@@ -2666,7 +2858,7 @@ A small white cartoon bunny with long floppy ears and a pink nose, sitting and n
 
 `sticker` `reaction` `sticker-pack`
 
-### 189. 兔兔笑出眼泪
+### 201. 兔兔笑出眼泪
 
 <img src="../gifs/bunny-laughing.gif" alt="兔兔笑出眼泪" width="360">
 
@@ -2680,7 +2872,7 @@ A small white cartoon bunny with long floppy ears and a pink nose, laughing so h
 
 `sticker` `reaction` `sticker-pack`
 
-### 190. 兔兔点赞
+### 202. 兔兔点赞
 
 <img src="../gifs/bunny-thumbs-up.gif" alt="兔兔点赞" width="360">
 
@@ -2696,7 +2888,7 @@ A small white cartoon bunny with long floppy ears and a pink nose, giving an ent
 
 `sticker` `reaction` `sticker-pack`
 
-### 191. Q 弹果冻熊摇晃
+### 203. Q 弹果冻熊摇晃
 
 <img src="../gifs/jelly-bear-wobble.gif" alt="Q 弹果冻熊摇晃" width="360">
 

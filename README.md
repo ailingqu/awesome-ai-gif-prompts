@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 511+ Cases
+# Awesome AI GIF Prompts · 554+ Cases
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-511-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--18-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-554-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--19-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Our own examples were generated from the exact prompt shown, with no editing; community picks are marked with their source and credited to their creators.
 
-> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-18**. ⭐ Star or 👀 watch the repo to get new cases.
+> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-19**. ⭐ Star or 👀 watch the repo to get new cases.
 >
 > 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
@@ -25,14 +25,14 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 ## Contents
 
 - [How these GIFs are made](#how-these-gifs-are-made)
-- [Stickers & Reactions](#stickers-reactions) · 191 prompts
-- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 87 prompts
-- [Ambient Loops](#ambient-loops) · 128 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 85 prompts
-- [Science & Explainers](#science-explainers) · 11 prompts
-- [Holidays & Greetings](#holidays-greetings) · 2 prompts
-- [Product Showcase](#product-showcase) · 3 prompts
-- [Food & Drinks](#food-drinks) · 2 prompts
+- [Stickers & Reactions](#stickers-reactions) · 203 prompts
+- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 91 prompts
+- [Ambient Loops](#ambient-loops) · 133 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 97 prompts
+- [Science & Explainers](#science-explainers) · 14 prompts
+- [Holidays & Greetings](#holidays-greetings) · 3 prompts
+- [Product Showcase](#product-showcase) · 7 prompts
+- [Food & Drinks](#food-drinks) · 4 prompts
 - [Animated Avatars](#animated-avatars) · 2 prompts
 - [Generate them yourself](#generate-them-yourself)
 
@@ -62,189 +62,271 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 ## Stickers & Reactions
 
-The 12 newest of 191 prompts in this category. [See all 191 →](categories/stickers.md)
+The 12 newest of 203 prompts in this category. [See all 203 →](categories/stickers.md)
 
-### 1. Cat coder runs out of Codex quota
+### 1. Round blue robot mascot waves hello
 
-<img src="gifs/cat-codex-quota-out.gif" alt="Cat coder runs out of Codex quota" width="360">
+<img src="gifs/blue-robot-mascot-hello.gif" alt="Round blue robot mascot waves hello" width="360">
 
-<sub>9 frames · 414×412 · 1.6s · gpt-image-2.6-gif</sub>
+<sub>6 frames · 480×480 · 0.9s · GPT Image 2.6</sub>
 
-📌 **Source:** [@DawienZZ on X](https://x.com/DawienZZ/status/2120785093661012027)
-
-**Prompt**
-
-```text
-生成一个循环 GIF：一只橘猫趴在电脑前敲键盘，codex提示没额度了，表情从平静变成崩溃，最后无奈地趴在键盘上。Q版3D风格，9帧，循环播放
-```
-
-`cat` `coding` `meme`
-
-### 2. "This is fine" dog sipping tea
-
-<img src="gifs/this-is-fine-dog-tea.gif" alt=""This is fine" dog sipping tea" width="360">
-
-<sub>16 frames · 380×506 · 2.9s · gpt-image-2.6-gif</sub>
-
-📌 **Source:** [@shitunote on X](https://x.com/shitunote/status/2118187063241777311)
+📌 **Source:** [@super_lewis on DEV Community](https://dev.to/super_lewis/animated-gifs-and-markup-guided-edits-with-the-gpt-image-26-api-real-timings-and-per-call-cost-2jmd)
 
 **Prompt**
 
 ```text
-做一个循环 GIF，一只戴着小帽子的卡通狗坐在着火的房间里，先是平静地喝茶，然后慢慢意识到不对劲，表情逐渐从“没事”变成“其实有事”，最后又假装没事继续喝茶。风格偏扁平插画，表情夸张，背景火焰轻微闪动，6-8帧，无缝循环。
+A round blue robot mascot waves hello. Seamless loop, same framing in every frame.
 ```
 
-`dog` `meme` `fire`
+`mascot` `robot` `api`
 
-### 3. Penguin knitting a scarf
+### 2. Pink heart heartbeat pulse
 
-<img src="gifs/penguin-scarf-knit.gif" alt="Penguin knitting a scarf" width="360">
+<img src="gifs/pink-heart-heartbeat.gif" alt="Pink heart heartbeat pulse" width="360">
 
-<sub>16 frames · 328×290 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>12 frames · 357×356 · 1.7s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
 
 **Prompt**
 
 ```text
-A round penguin sits clicking two knitting needles, a striped red scarf growing longer from its flippers. Cute flat cartoon, snowy light blue background.
+製作一張粉紅色愛心 GIF。愛心在畫面中央輕輕放大，再縮回原本大小，呈現柔和的心跳節奏。背景簡潔、固定視角，畫面乾淨，無縫循環，不要文字。
 ```
 
-`penguin` `knitting` `winter`
+`heart` `social` `flat`
 
-### 4. Bunny slurps noodles
+### 3. Silver-haired boy in green cloak hops
 
-<img src="gifs/bunny-noodle-slurp.gif" alt="Bunny slurps noodles" width="360">
+<img src="gifs/cloak-boy-forest-jump.gif" alt="Silver-haired boy in green cloak hops" width="360">
 
-<sub>16 frames · 309×309 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>12 frames · 309×414 · 1.7s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
 
 **Prompt**
 
 ```text
-A white bunny with chopsticks slurps a long noodle from a bowl, cheeks puffing, the noodle wiggling up into its mouth. Cute flat sticker style, thick outline, pale orange background.
+製作一張日系動畫風格 GIF。一名銀白色短髮少年穿著深綠色斗篷，站在森林空地上，輕輕跳起一次，然後回到站立姿勢。保持角色五官、衣服與背景一致，固定鏡頭，動作自然、無縫循環。
 ```
 
-`bunny` `noodles` `food`
+`anime` `character` `jump`
 
-### 5. Octopus ink oops
+### 4. 3D bunny in overalls waves
 
-<img src="gifs/octopus-ink-oops.gif" alt="Octopus ink oops" width="360">
+<img src="gifs/3d-bunny-overalls-wave.gif" alt="3D bunny in overalls waves" width="360">
 
-<sub>9 frames · 412×412 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>12 frames · 358×358 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
 
 **Prompt**
 
 ```text
-A small pink octopus gets startled and puffs out a cloud of ink, then peeks out of the cloud with an embarrassed grin. Cute flat cartoon, light aqua background.
+製作一張可愛 3D 小白兔 GIF。小白兔穿著淺藍色吊帶褲，站在花園裡，慢慢舉起右手揮手打招呼，然後自然放下。背景固定，柔和晨光，可愛 3D 動畫風格，動作連貫，無縫循環，不要字幕。
 ```
 
-`octopus` `oops` `funny`
+`bunny` `3d` `greeting`
 
-### 6. Hippo big yawn
+### 5. Clay orange cat in plaid shirt typing
 
-<img src="gifs/hippo-big-yawn.gif" alt="Hippo big yawn" width="360">
+<img src="gifs/plaid-shirt-cat-coding-clay.gif" alt="Clay orange cat in plaid shirt typing" width="360">
 
-<sub>9 frames · 432×395 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>9 frames · 427×400 · 1.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [STRUGGLE_xlf on CSDN](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html)
 
 **Prompt**
 
 ```text
-A sleepy round lavender hippo opens its mouth in an enormous yawn, eyes squeezed shut, then closes it with a satisfied smack. Soft clay-like 3D style, pale peach background.
+帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。
 ```
 
-`hippo` `yawn` `sleepy`
+`cat` `3d-clay` `programmer`
 
-### 7. Shiba running late
+### 6. Chibi office worker sees the notification
 
-<img src="gifs/shiba-late-toast.gif" alt="Shiba running late" width="360">
+<img src="gifs/chibi-worker-notification-flop.gif" alt="Chibi office worker sees the notification" width="360">
 
-<sub>8 frames · 429×394 · 1.0s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>12 frames · 308×414 · 2.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
 
 **Prompt**
 
 ```text
-A shiba inu with a slice of toast in its mouth runs in place in a panic, ears flapping, a sweat drop flying off. Funny flat sticker style, thick white outline, light yellow background.
+請製作一張幽默的 GIF 動畫。一名 Q 版上班族坐在電腦前，先露出充滿期待的表情，接著看到螢幕上的工作通知，眼睛瞬間睜大，最後無奈地趴在桌上。使用可愛的日系 2D 插畫風格，背景為簡約辦公室，角色服裝與桌面物品保持一致。鏡頭固定，動作誇張但自然，動畫可以無縫循環，不要加入文字。
 ```
 
-`shiba` `late` `sticker`
+`office` `reaction` `chibi`
 
-### 8. Baby elephant trunk shower
+### 7. 3D clay orange cat waves and blinks
 
-<img src="gifs/elephant-trunk-spray.gif" alt="Baby elephant trunk shower" width="360">
+<img src="gifs/clay-orange-cat-wave-blink.gif" alt="3D clay orange cat waves and blinks" width="360">
 
-<sub>16 frames · 379×251 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>12 frames · 358×356 · 1.7s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
 
 **Prompt**
 
 ```text
-A chubby baby elephant lifts its trunk and sprays a happy fountain of water over its own head, droplets sparkling. Cute flat cartoon, light blue background, fixed camera.
+請製作一張正方形 1:1 GIF 動畫。一隻可愛的橘貓坐在奶油白色背景前，慢慢抬起前腳揮手，接著眨眼，最後回到原本姿勢。採用精緻的 3D 黏土插畫風格，毛髮柔軟、表情可愛。鏡頭固定，保持角色外觀一致，製作自然流暢的無縫循環動畫，不要加入文字。
 ```
 
-`elephant` `water` `cute`
+`cat` `3d-clay` `sticker`
 
-### 9. Doodle eye roll
+### 8. Cassette "SIDE A" sticker with notes
 
-<img src="gifs/doodle-eye-roll.gif" alt="Doodle eye roll" width="360">
+<img src="gifs/cassette-side-a-sticker.gif" alt="Cassette "SIDE A" sticker with notes" width="360">
 
-<sub>9 frames · 425×399 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>14 frames · 480×480 · 1.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/gpt-image-2-6)
 
 **Prompt**
 
 ```text
-A round hand-drawn doodle face with marker lines rolls its eyes up in exaggerated annoyance, then looks back forward with a flat mouth. White paper background, wobbly ink lines.
+Locked front-on 1:1 animated die-cut vinyl sticker on a fully transparent background with a crisp thick white kiss-cut border. A tilted brushed-silver and signal-orange compact cassette tape labeled 'SIDE A' in clean white sans-serif type. Across 8 frames, both white inner tape reel gears rotate smoothly while two bold electric-cobalt musical notes pop playfully out of the top-right corner on frames 2 to 5 and fade cleanly away by frame 8 so frame 8 matches frame 1's clean silhouette for a seamless loop.
 ```
 
-`doodle` `eye-roll` `reaction`
+`sticker` `retro` `music`
 
-### 10. Notebook stick figure dances
+### 9. Raccoon meme: the 5-minute fix broke prod
 
-<img src="gifs/doodle-stick-dance.gif" alt="Notebook stick figure dances" width="360">
+<img src="gifs/raccoon-breaks-prod-meme.gif" alt="Raccoon meme: the 5-minute fix broke prod" width="360">
 
-<sub>9 frames · 438×387 · 1.3s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>8 frames · 480×480 · 1.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
 
 **Prompt**
 
 ```text
-A hand-drawn ballpoint stick figure on lined notebook paper does a goofy hip-shaking dance with arms waving, slight line boil like a flipbook. Paper texture, fixed overhead camera.
+Square internet reaction meme GIF with a solid white top caption bar reading "WHEN THE '5-MINUTE FIX' BREAKS PROD" in bold black sans-serif all-caps letters. Below the caption bar, locked front-on comic illustration of a wide-eyed gray raccoon wearing a black headset sitting at a dark desk behind an open laptop. Warm red-orange monitor light pulses across the raccoon's face as its paws hover tensely over the keyboard and its ears flatten slightly, then return to the exact starting pose on the final frame for a clean loop. Keep the white top bar and every letter of "WHEN THE '5-MINUTE FIX' BREAKS PROD" completely crisp and motionless across all frames.
 ```
 
-`doodle` `dance` `sketch`
+`meme` `caption` `developer`
 
-### 11. Fox steps up and waves
+### 10. "SHIP IT!" badge sticker wiggle
 
-<img src="gifs/fox-hello-steps.gif" alt="Fox steps up and waves" width="360">
+<img src="gifs/ship-it-badge-wiggle.gif" alt=""SHIP IT!" badge sticker wiggle" width="360">
 
-<sub>12 frames · 358×358 · 1.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>14 frames · 480×480 · 1.3s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
 
 **Prompt**
 
 ```text
-An orange fox in a little blue scarf takes two small steps toward the viewer, waves one paw, then steps back to where it started. Flat vector cartoon, pale mint background, fixed camera.
+Bold street-art die-cut sticker badge with a thick white cutout border on a completely transparent background, locked front-on camera. Chunky crimson block letters reading "SHIP IT!" sit centered inside a bright yellow starburst badge. The badge tilts slightly left and right with tiny black comic wiggle lines around the border, then returns to the exact starting angle on the final frame for a clean loop. Crisp flat ink colors, exact spelling.
 ```
 
-> 💡 **Tip:** Describe the start pose, the action and the return to start; it keeps the first and last frames matched.
+`sticker` `text` `transparent`
 
-`fox` `wave` `greeting`
+### 11. Die-cut clay star hop
 
-### 12. Red panda blinks and smiles
+<img src="gifs/clay-star-hop-sticker.gif" alt="Die-cut clay star hop" width="360">
 
-<img src="gifs/red-panda-blink-smile.gif" alt="Red panda blinks and smiles" width="360">
+<sub>14 frames · 480×480 · 1.2s · GPT Image 2.6</sub>
 
-<sub>9 frames · 414×414 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
 
 **Prompt**
 
 ```text
-A fluffy red panda mascot closes its eyes, opens them again with a small happy smile, ears twitching once. Soft flat illustration, cream background, fixed camera.
+Glossy 3D clay-style die-cut sticker with a thick white sticker border on a completely transparent background, locked front-on camera. A cheerful yellow five-pointed star character wearing tiny round black sunglasses does a happy little hop and lands softly back in its exact starting stance on the final frame for a clean loop. Crisp cutout edge, flat vibrant colors, no text.
 ```
 
-`red-panda` `blink` `cute`
+`sticker` `transparent` `3d-clay`
 
-**[See all 191 prompts in this category →](categories/stickers.md)**
+### 12. Glasses frog typing fast
+
+<img src="gifs/glasses-frog-fast-typing.gif" alt="Glasses frog typing fast" width="360">
+
+<sub>8 frames · 480×480 · 0.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Flat cel-shaded comic reaction illustration, locked front-on camera. A determined little green tree frog wearing round wire-rim glasses sits behind a silver laptop at a desk, rapidly tapping alternate webbed hands on the keyboard with tiny white motion arcs above its fingers while its glasses glint once, returning to the exact starting hand position on the final frame for a clean loop. Solid warm cream-teal background, bold outlines, no text.
+```
+
+`reaction` `frog` `work`
+
+**[See all 203 prompts in this category →](categories/stickers.md)**
 
 ## Flash Cuts & Brand Reels
 
-The 12 newest of 87 prompts in this category. [See all 87 →](categories/flash.md)
+The 12 newest of 91 prompts in this category. [See all 91 →](categories/flash.md)
 
-### 1. 360 kickflip on a skateboard
+### 1. Orange bear mascot with scarf waves
+
+<img src="gifs/orange-bear-scarf-mascot.gif" alt="Orange bear mascot with scarf waves" width="360">
+
+<sub>12 frames · 358×358 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張品牌吉祥物 GIF。角色是一隻圓潤、可愛的橘色小熊，戴著米白色圍巾，站在簡潔的淺色背景前。小熊慢慢揮手，露出友善笑容。保留品牌配色與角色比例，循環播放，背景固定。
+```
+
+`mascot` `bear` `brand`
+
+### 2. Round robot mascot welcome wave
+
+<img src="gifs/robot-mascot-welcome-wave.gif" alt="Round robot mascot welcome wave" width="360">
+
+<sub>12 frames · 357×358 · 1.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 GIF 動畫，一隻圓潤可愛的機器人吉祥物站在畫面中央，先微笑眨眼，再抬起右手向觀眾揮手，最後恢復站立姿勢。使用柔和的藍白配色、簡潔 3D 插畫風格，背景灰白。保持角色造型、配色及身體比例一致，鏡頭固定，製作可以無縫循環的動畫。
+```
+
+`mascot` `brand` `3d`
+
+### 3. "ON AIR" neon sign with level meter
+
+<img src="gifs/on-air-neon-meter-pulse.gif" alt=""ON AIR" neon sign with level meter" width="360">
+
+<sub>9 frames · 480×270 · 1.6s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/gpt-image-2-6)
+
+**Prompt**
+
+```text
+Locked tripod close-up shot through a dark midnight recording studio glass booth window, 16:9 looping animation. Inside the dark acoustic booth, a sleek red neon sign reading 'ON AIR' above a minimal 4-bar digital LED audio level meter pulses in a clean seamless cycle: frame 1 starts at a soft dim crimson resting glow with four low blue meter bars, frames 3 to 6 flare into a bright vermilion neon halo with warm glass reflections while the LED bars jump into yellow and red peaks, and frames 7 to 9 settle smoothly back to the exact dim resting glow and four blue bars of frame 1. Condenser microphone silhouette and studio headphones in foreground stay completely still.
+```
+
+`neon` `studio` `text`
+
+### 4. EMBER logo with flickering flame
+
+<img src="gifs/ember-logo-flame-flicker.gif" alt="EMBER logo with flickering flame" width="360">
+
+<sub>8 frames · 480×480 · 1.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Minimalist flat vector brand logo lockup on a solid charcoal-black square background, locked front-on view. Centered copper-orange stylized campfire emblem above clean cream geometric sans-serif all-caps wordmark reading "EMBER". Only the center flame tongue of the copper emblem flickers smoothly upward a few pixels and settles back into its exact starting silhouette on the final frame for a clean loop. Keep the wordmark "EMBER" and side logs completely motionless across every frame, crisp flat colors.
+```
+
+`logo` `brand` `flat`
+
+### 5. 360 kickflip on a skateboard
 
 <img src="gifs/skateboard-kickflip-360.gif" alt="360 kickflip on a skateboard" width="360">
 
@@ -260,7 +342,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `skateboard` `sport` `trick`
 
-### 2. Idiom riddle: four ceramic props bounce in turn
+### 6. Idiom riddle: four ceramic props bounce in turn
 
 <img src="gifs/idiom-riddle-ceramic-props.gif" alt="Idiom riddle: four ceramic props bounce in turn" width="360">
 
@@ -385,7 +467,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `riddle` `chinese idiom` `3d`
 
-### 3. Psychedelic dancing cat
+### 7. Psychedelic dancing cat
 
 <img src="gifs/psychedelic-cat-dance.gif" alt="Psychedelic dancing cat" width="360">
 
@@ -401,7 +483,7 @@ psychedelic gif of cat dancing
 
 `cat` `psychedelic` `dance`
 
-### 4. Roast dinner reveal
+### 8. Roast dinner reveal
 
 <img src="gifs/turkey-dinner-steam.gif" alt="Roast dinner reveal" width="360">
 
@@ -415,7 +497,7 @@ A silver dome lid lifts off a golden roast chicken on a platter, a burst of stea
 
 `dinner` `holiday` `food`
 
-### 5. Popcorn popping
+### 9. Popcorn popping
 
 <img src="gifs/popcorn-bowl-pop.gif" alt="Popcorn popping" width="360">
 
@@ -429,7 +511,7 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 `popcorn` `snack` `movie`
 
-### 6. Pancake flip
+### 10. Pancake flip
 
 <img src="gifs/pancake-pan-flip.gif" alt="Pancake flip" width="360">
 
@@ -443,7 +525,7 @@ A golden pancake is tossed up from a cast iron pan, flips once in the air and la
 
 `pancake` `food` `kitchen`
 
-### 7. Travel journal stickers
+### 11. Travel journal stickers
 
 <img src="gifs/travel-journal-stickers.gif" alt="Travel journal stickers" width="360">
 
@@ -457,7 +539,7 @@ An open travel journal on an ivory desk; little stickers of a plane, a ticket st
 
 `scrapbook` `travel` `journal`
 
-### 8. Wooden game piece flips
+### 12. Wooden game piece flips
 
 <img src="gifs/wood-game-piece-flip.gif" alt="Wooden game piece flips" width="360">
 
@@ -471,71 +553,93 @@ A pale wooden pentagon-shaped board game piece flips over in the air and lands w
 
 `board-game` `wood` `flip`
 
-### 9. Bauhaus shapes shuffle
-
-<img src="gifs/bauhaus-shapes-shuffle.gif" alt="Bauhaus shapes shuffle" width="360">
-
-<sub>16 frames · 380×250 · 2.6s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A grid of Bauhaus shapes in red, yellow, blue and black, circles, half circles, squares and triangles, slide and rotate into new positions in crisp steps. Flat poster style, off-white background.
-```
-
-`bauhaus` `geometric` `motion-design`
-
-### 10. Shopping bag hops
-
-<img src="gifs/shopping-bag-hop.gif" alt="Shopping bag hops" width="360">
-
-<sub>16 frames · 307×306 · 2.2s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A glossy orange shopping bag with rope handles hops up, squashes on landing, and a little gift box pops out of the top and drops back in. Playful 3D product style, pastel pink background.
-```
-
-`shopping` `bag` `promo`
-
-### 11. SALE tag swings
-
-<img src="gifs/sale-tag-swing.gif" alt="SALE tag swings" width="360">
-
-<sub>16 frames · 313×302 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A red paper price tag that says SALE hangs from a string and swings left and right with a tiny bounce, a few gold sparkles popping around it. Bold flat ad style, solid black background edge to edge in every frame.
-```
-
-> 💡 **Tip:** Keep on-image text to one short word; longer text tends to change between frames.
-
-`sale` `black-friday` `ad`
-
-### 12. Compact mirror opens
-
-<img src="gifs/compact-mirror-open.gif" alt="Compact mirror opens" width="360">
-
-<sub>9 frames · 428×398 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A rose-gold makeup compact clicks open, the mirror catches a flash of light and a little powder puff lifts out. Elegant beauty product shot, blush pink background.
-```
-
-`beauty` `product` `compact`
-
-**[See all 87 prompts in this category →](categories/flash.md)**
+**[See all 91 prompts in this category →](categories/flash.md)**
 
 ## Ambient Loops
 
-The 12 newest of 128 prompts in this category. [See all 128 →](categories/loops.md)
+The 12 newest of 133 prompts in this category. [See all 133 →](categories/loops.md)
 
-### 1. Canton Tower rising from morning mist
+### 1. Orange cat blinks by the window
+
+<img src="gifs/window-orange-cat-blink.gif" alt="Orange cat blinks by the window" width="360">
+
+<sub>12 frames · 357×358 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張橘色貓咪 GIF 動畫。貓咪坐在窗邊，緩慢眨一下眼睛，然後恢復原本表情。保持姿勢、毛色與背景一致，溫暖插畫風格，固定鏡頭，無縫循環。
+```
+
+`cat` `cozy` `illustration`
+
+### 2. Watercolor sakura town in the breeze
+
+<img src="gifs/watercolor-sakura-town-breeze.gif" alt="Watercolor sakura town in the breeze" width="360">
+
+<sub>16 frames · 414×232 · 5.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 16:9 橫式 GIF 動畫。畫面是一座日系手繪風格的小鎮，街道兩側有溫暖的木造房屋、綠色植物與盛開的櫻花樹，遠方能看見淡藍色天空。採用柔和水彩與鉛筆線條交織的繪本插畫風格，保留細緻的紙張紋理。動畫中微風吹過，櫻花花瓣緩緩從樹上飄落，街邊植物輕輕搖擺，天空中的白雲緩慢移動。所有建築與街道保持靜止，鏡頭固定，整體氛圍安靜療癒。製作約 5 秒、動作自然且可以無縫循環的 GIF，不要加入任何文字。
+```
+
+`watercolor` `sakura` `storybook`
+
+### 3. Vintage brass metronome swing
+
+<img src="gifs/brass-metronome-swing.gif" alt="Vintage brass metronome swing" width="360">
+
+<sub>9 frames · 480×270 · 1.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Clean studio illustration on a muted sage-green background, locked dead-center front-on camera. A vintage pyramid-shaped walnut and polished-brass desk metronome rests motionless on a dark oak shelf. On frame 1, the vertical brass pendulum rod stands dead-center upright at 12 o'clock; across the middle frames it swings smoothly left, then swings right, and on the final frame it returns to the exact dead-center 12 o'clock upright starting position for a seamless loop. Keep the wooden metronome body, scale markings, and shelf completely still, no text.
+```
+
+`metronome` `mechanical` `loop`
+
+### 4. Snowy twilight campfire (16 frames)
+
+<img src="gifs/snowy-twilight-campfire.gif" alt="Snowy twilight campfire (16 frames)" width="360">
+
+<sub>16 frames · 480×264 · 1.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Flat storybook winter landscape illustration, locked wide camera. In a quiet twilight clearing ringed by snow-dusted dark-teal pine trees, a small stone-ringed campfire crackles gently as warm orange flames sway and three tiny glowing embers drift slightly upward before settling back to the exact starting flame shape on the final frame for a clean loop. Keep the pine trees, snowbanks, and stones completely motionless, no text.
+```
+
+`winter` `campfire` `storybook`
+
+### 5. Rainy dusk window with puddle ripples
+
+<img src="gifs/rainy-dusk-window-puddle.gif" alt="Rainy dusk window with puddle ripples" width="360">
+
+<sub>9 frames · 480×270 · 1.6s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Cozy lo-fi anime illustration seen through a dark wooden apartment window at dusk, locked camera. Diagonal rain streaks fall across the windowpane while warm amber streetlamp reflections ripple gently inside a wet cobblestone puddle below, returning to the exact starting rain and ripple pattern on the final frame for a clean loop. Keep the wooden window frame and indoor potted fern completely still, clean flat shading, no text.
+```
+
+`rain` `lo-fi` `anime`
+
+### 6. Canton Tower rising from morning mist
 
 <img src="gifs/canton-tower-morning-mist.gif" alt="Canton Tower rising from morning mist" width="360">
 
@@ -551,7 +655,7 @@ The 12 newest of 128 prompts in this category. [See all 128 →](categories/loop
 
 `city` `mist` `river`
 
-### 2. Orange bird flapping on a branch
+### 7. Orange bird flapping on a branch
 
 <img src="gifs/orange-bird-branch-flap.gif" alt="Orange bird flapping on a branch" width="360">
 
@@ -567,7 +671,7 @@ Create a looping animation of a small orange bird on a stationary branch against
 
 `bird` `loop` `api`
 
-### 3. Snow globe swirl
+### 8. Snow globe swirl
 
 <img src="gifs/snow-globe-cabin-shake.gif" alt="Snow globe swirl" width="360">
 
@@ -581,7 +685,7 @@ A glass snow globe with a tiny red cabin and pine trees inside; snowflakes swirl
 
 `snow-globe` `winter` `cozy`
 
-### 4. Roasting chestnuts
+### 9. Roasting chestnuts
 
 <img src="gifs/chestnut-roast-pan.gif" alt="Roasting chestnuts" width="360">
 
@@ -595,7 +699,7 @@ A big iron wok of chestnuts and dark sand is stirred by a wooden paddle, steam c
 
 `chestnut` `street-food` `winter`
 
-### 5. First snow under a lamp
+### 10. First snow under a lamp
 
 <img src="gifs/street-lamp-first-snow.gif" alt="First snow under a lamp" width="360">
 
@@ -609,7 +713,7 @@ Big soft snowflakes drift down through the warm cone of an old street lamp on a 
 
 `snow` `night` `street`
 
-### 6. Frost spreads on glass
+### 11. Frost spreads on glass
 
 <img src="gifs/window-frost-spread.gif" alt="Frost spreads on glass" width="360">
 
@@ -623,7 +727,7 @@ Delicate fern-like frost patterns creep across a cold window pane from the corne
 
 `frost` `winter` `macro`
 
-### 7. Sky lanterns rising
+### 12. Sky lanterns rising
 
 <img src="gifs/sky-lanterns-rise.gif" alt="Sky lanterns rising" width="360">
 
@@ -637,259 +741,259 @@ Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky
 
 `lantern` `night` `festival`
 
-### 8. Ladybug and dewdrop
-
-<img src="gifs/ladybug-dew-slide.gif" alt="Ladybug and dewdrop" width="360">
-
-<sub>9 frames · 439×389 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A ladybug walks along a curved green leaf while a dewdrop at the leaf tip swells and wobbles. Macro nature photography, soft morning bokeh, fixed camera.
-```
-
-`ladybug` `macro` `nature`
-
-### 9. Bear snoring in a cave
-
-<img src="gifs/bear-cave-snore.gif" alt="Bear snoring in a cave" width="360">
-
-<sub>16 frames · 380×248 · 2.9s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A brown bear sleeps curled up in a cozy cave, its belly rising and falling as a snore bubble grows and shrinks from its nose, snow falling softly outside. Storybook illustration, fixed camera.
-```
-
-`bear` `hibernation` `winter`
-
-### 10. Otter floats and naps
-
-<img src="gifs/sea-otter-float-nap.gif" alt="Otter floats and naps" width="360">
-
-<sub>9 frames · 432×395 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A sea otter floats on its back in calm water, holding a small shell on its belly, bobbing gently with the ripples as its eyes stay closed. Soft watercolor style, fixed overhead-angle camera.
-```
-
-`otter` `sleep` `calm`
-
-### 11. Comet over the desert
-
-<img src="gifs/comet-desert-night.gif" alt="Comet over the desert" width="360">
-
-<sub>9 frames · 506×337 · 2.0s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A bright comet with a long glowing tail drifts slowly across a starry sky above dark desert dunes, the tail shimmering. Calm night photography look, fixed wide camera.
-```
-
-`comet` `night` `sky`
-
-### 12. Glowing mycelium bridge
-
-<img src="gifs/mycelium-bridge-glow.gif" alt="Glowing mycelium bridge" width="360">
-
-<sub>9 frames · 506×337 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A delicate bridge woven from glowing white fungal threads spans a misty canyon at dusk; soft pulses of blue light travel along the threads from one side to the other. Fantasy concept art, fixed wide shot.
-```
-
-`fantasy` `bridge` `glow`
-
-**[See all 128 prompts in this category →](categories/loops.md)**
+**[See all 133 prompts in this category →](categories/loops.md)**
 
 ## Pixel Art & UI Motion
 
-The 12 newest of 85 prompts in this category. [See all 85 →](categories/pixel-ui.md)
+The 12 newest of 97 prompts in this category. [See all 97 →](categories/pixel-ui.md)
 
-### 1. Pixel letters bounce: B-ROLL
+### 1. Green CTA button with light sweep
 
-<img src="gifs/pixel-word-bounce-broll.gif" alt="Pixel letters bounce: B-ROLL" width="360">
+<img src="gifs/green-quote-button-shine.gif" alt="Green CTA button with light sweep" width="360">
 
-<sub>12 frames · 480×270 · 3.0s · gpt-image-2.6-gif</sub>
+<sub>8 frames · 480×238 · 1.1s · GPT Image 2.6</sub>
 
-📌 **Source:** [@Wv3EcACHtizRjZK on X](https://x.com/Wv3EcACHtizRjZK/status/2119673507068203035)
-
-**Prompt**
-
-```text
-深青色背景，奶油色像素字体 B-ROLL，字母从左到右轻轻跳起再落回原位，珊瑚色光标从下方划过。字形、拼写和间距保持一致，动画 GIF。
-```
-
-`pixel font` `text` `title`
-
-### 2. Success toast slides in
-
-<img src="gifs/toast-success-slide.gif" alt="Success toast slides in" width="360">
-
-<sub>16 frames · 380×252 · 1.8s · gpt-image-2.6 · generated 2026-11-17</sub>
+📌 **Source:** [末松 光太郎 on WizTry Blog](https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/)
 
 **Prompt**
 
 ```text
-A green rounded notification toast slides in from the top with a white check mark drawing itself, holds a moment, then slides back up. Minimal app UI, white background, no other text.
+ホームページに置くボタンのループGIFを作って。横長の角丸で、緑色のボタンに白い文字で「無料見積りはこちら」。文字の位置は動かさず、光が左から右へ流れて、ボタンが少しだけふくらむ動きにして。背景は白。
 ```
 
-`ui` `toast` `notification`
+`button` `ui` `japanese`
 
-### 3. Emoji reactions pop
+### 2. Lightbulb icon glows on
 
-<img src="gifs/emoji-reaction-pop.gif" alt="Emoji reactions pop" width="360">
+<img src="gifs/lightbulb-icon-glow.gif" alt="Lightbulb icon glows on" width="360">
 
-<sub>12 frames · 356×356 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>12 frames · 308×414 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
 
 **Prompt**
 
 ```text
-A rounded white reaction bar where five round emoji faces, smile, laugh, heart eyes, surprise and sad, pop up one after another with a springy bounce. Clean app UI style, light gray background.
+製作一張極簡扁平插畫 GIF。畫面中央是一個黃色燈泡圖示，燈泡從微暗逐漸亮起，接著恢復原本狀態。背景純白、圖示位置固定，動畫柔和，不要任何文字，無縫循環。
 ```
 
-`ui` `emoji` `reaction`
+`icon` `flat` `education`
 
-### 4. Pixel train on a bridge
+### 3. Pixel-art lightning strike
 
-<img src="gifs/pixel-train-bridge.gif" alt="Pixel train on a bridge" width="360">
+<img src="gifs/pixel-lightning-strike.gif" alt="Pixel-art lightning strike" width="360">
 
-<sub>12 frames · 358×345 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>12 frames · 358×268 · 1.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [@kasperzackgames on GitHub](https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/lightning)
 
 **Prompt**
 
 ```text
-A small pixel art steam train crosses a stone arch bridge over a river, puffing little smoke clouds, mountains behind. 16-bit side-scroller style, sunset palette.
+Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, rendered as large as you can. 14 frames, about 70 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide, so the bolt has a lot of detail (it spans the full frame height, about 120 art pixels). The camera does not move. The bottom edge of the frame is the ground line, and the bolt hits the ground at the bottom centre, at the same point in every frame. Don't draw the ground itself. Sequence: a thin flickering leader zigzags down from the top edge; the full bolt strikes: a thick jagged white core with an electric blue and violet glow outline and three or four forked branches; one frame where the bolt and a bright white burst at the impact point are at their brightest; the bolt flickers twice, changing its branches each time; at the impact point a burst of electric sparks flies out in arcs and short arcs of electricity crawl sideways along the ground; the bolt vanishes, leaving a glowing blue afterimage that fades; a few sparks and a small curl of dark smoke fade out until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 16 colours (white, pale cyan, electric blues, violets, two dark greys for the smoke). Background: flat solid pure green #00FF00 in every frame, nothing else. No text, no borders.
 ```
 
-`pixel` `train` `landscape`
+`pixel-art` `game-fx` `lightning`
 
-### 5. Pixel bee garden
+### 4. Pixel-art fire pillar
 
-<img src="gifs/pixel-bee-garden.gif" alt="Pixel bee garden" width="360">
+<img src="gifs/pixel-fire-pillar-burst.gif" alt="Pixel-art fire pillar" width="360">
 
-<sub>16 frames · 375×246 · 1.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>15 frames · 265×358 · 1.3s · GPT Image 2.6</sub>
+
+📌 **Source:** [@kasperzackgames on GitHub](https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/fire-pillar)
 
 **Prompt**
 
 ```text
-A pixel art bee buzzes in a figure eight between three pixel flowers that sway slightly. 16-bit game style, light green background.
+Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 2D side-view game, in a tall frame (taller than wide), rendered as large as you can. 16 frames, about 80 ms per frame. Use fine pixel art: each art pixel is exactly 2 image pixels wide, so the fire has a lot of detail. The camera does not move. The bottom edge of the frame is the ground line, and the pillar erupts at the bottom centre, at the same point in every frame. Don't draw the ground itself. The tallest flame tips reach about 85 percent of the frame height: always leave empty background above the fire and at both sides, so nothing is ever cut off by the frame edges. Sequence: a small glowing crack and a few embers rising; flames burst upward into a tall roaring column of fire, wider at the base, with swirling tongues of flame, a white-yellow hot core and orange, red and dark red edges; burning chunks and sparks fly out of the top; the column roars for several frames, its flames changing shape every frame; it collapses downward into low flickering flames and puffs of dark smoke; glowing embers drift up and fade until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 18 colours (white, yellows, oranges, reds, dark reds and three dark greys for the smoke). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.
 ```
 
-`pixel` `bee` `garden`
+`pixel-art` `game-fx` `fire-pillar`
 
-### 6. Bookmark saved
+### 5. Pixel-art volcano eruption
 
-<img src="gifs/bookmark-ribbon-save.gif" alt="Bookmark saved" width="360">
+<img src="gifs/pixel-volcano-eruption.gif" alt="Pixel-art volcano eruption" width="360">
 
-<sub>9 frames · 438×389 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>16 frames · 309×308 · 1.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [@kasperzackgames on GitHub](https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/eruption)
 
 **Prompt**
 
 ```text
-An outlined bookmark icon fills with solid gold from top to bottom and gives a small bounce, with a few tiny sparkles. Minimal app icon style, white background.
+Make an animated GIF of a pixel-art volcano eruption seen from far away, for the background of a 2D side-view game, in a square frame, rendered as large as you can. 16 frames, about 90 ms per frame. Use fine pixel art: each art pixel is exactly 2 image pixels wide. The camera does not move. The crater is at the bottom centre of the frame, at the same point in every frame; don't draw the mountain itself, only what comes out of the crater. Sequence: frames 1 to 4: the crater glows brighter and spits a few sparks; frame 5: a bright burst; frames 6 to 16: a full eruption that loops seamlessly from frame 16 back to frame 6: a fountain of glowing lava shooting straight up from the crater, glowing lava bombs flying out in high arcs and falling back down on both sides, and a thick dark ash column rising above it, its underside lit red and orange by the lava, the top of the ash staying inside the frame. Leave empty background around everything so nothing is cut off by the frame edges. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 18 colours (white, yellows, oranges, reds, dark reds, and four dark grey-browns for the ash). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.
 ```
 
-`ui` `bookmark` `save`
+`pixel-art` `game-fx` `eruption`
 
-### 7. Add to cart
+### 6. Pixel-art energy beam
 
-<img src="gifs/cart-add-badge.gif" alt="Add to cart" width="360">
+<img src="gifs/pixel-energy-beam-blast.gif" alt="Pixel-art energy beam" width="360">
 
-<sub>9 frames · 437×388 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>13 frames · 439×216 · 1.1s · GPT Image 2.6</sub>
+
+📌 **Source:** [@kasperzackgames on GitHub](https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/beam)
 
 **Prompt**
 
 ```text
-A flat shopping cart icon; a small box drops into it, the cart wiggles, and a red badge with the number 1 pops up on its corner. Clean app UI icon style, white background.
+Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wide frame twice as wide as it is tall, rendered as large as you can. 16 frames, about 70 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide. The camera does not move. The beam starts at the left edge at mid-height, at the same point in every frame. Sequence: a small glowing orb of energy charges at the left edge, crackling and growing as sparks are pulled into it; it fires: a thick straight beam with a white core and cyan and electric blue outer layers shoots to the right edge within two frames; the beam holds for several frames, pulsing thicker and thinner, with bright ripples travelling along it, rings around its origin and sparks spraying off its edges; the beam thins to a line and vanishes; small sparks and a fading glow at the origin until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 14 colours (white, pale cyan, cyans, electric blues, deep blue). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.
 ```
 
-`ui` `cart` `ecommerce`
+`pixel-art` `game-fx` `beam`
 
-### 8. Pixel dino stomps and roars
+### 7. Pixel-art explosion with mushroom cloud
 
-<img src="gifs/pixel-dino-stomp.gif" alt="Pixel dino stomps and roars" width="360">
+<img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="Pixel-art explosion with mushroom cloud" width="360">
 
-<sub>12 frames · 344×366 · 1.7s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>15 frames · 316×302 · 1.3s · GPT Image 2.6</sub>
+
+📌 **Source:** [@kasperzackgames on GitHub](https://github.com/kasperzackgames/chatgpt-pixel-effects)
 
 **Prompt**
 
 ```text
-A small green pixel art dinosaur stomps one foot, opens its mouth in a tiny roar with a shake line, then settles back. 16-bit game sprite, plain sand-colored background.
+Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered as large as you can (at least 512x512). 16 frames, about 80 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide, so the explosion has a lot of detail (about 120 art pixels tall at its peak). The camera does not move. The bottom edge of the frame is the ground line, and the explosion hits the ground at the bottom centre, at the same point in every frame. Don't draw the ground itself. Sequence: a tiny spark on the ground; one bright white flash frame; a huge orange and yellow fireball that grows until it fills about three quarters of the frame height and rises into a mushroom cloud with a fiery stem; debris chunks and sparks flying out in arcs; a thin dust ring rolling sideways along the ground; the fire breaks up into a light grey smoke column that rises and drifts; glowing embers fade out until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 20 colours (white, yellows, oranges, reds, dark reds and four neutral greys for the smoke). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.
 ```
 
-`pixel` `dinosaur` `sprite`
+`pixel-art` `game-fx` `explosion`
 
-### 9. Low-poly hero jog
+### 8. Three orange dots bounce loader
 
-<img src="gifs/lowpoly-hero-jog.gif" alt="Low-poly hero jog" width="360">
+<img src="gifs/orange-dots-bounce-loader.gif" alt="Three orange dots bounce loader" width="360">
 
-<sub>12 frames · 380×337 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>13 frames · 416×404 · 1.1s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
 
 **Prompt**
 
 ```text
-A blocky low-poly game hero in a red jacket jogs along a dirt path in a side view, rendered like an early 2000s console game with chunky polygons and blurry textures. Fixed camera, simple green hills behind.
+請設計一張極簡風格的 GIF 載入動畫。畫面中央有三顆橘色小圓點，依序從左至右向上跳動，再回到原本位置，形成自然連續的節奏。背景透明，整體使用簡潔的扁平化設計，圓點大小與顏色保持一致。鏡頭固定，動畫無縫循環，不要加入文字或其他裝飾。
 ```
 
-`low-poly` `retro-game` `run`
+`loader` `ui` `flat`
 
-### 10. Pixel astronaut run cycle
+### 9. Compass app icon needle swing
 
-<img src="gifs/pixel-astronaut-run.gif" alt="Pixel astronaut run cycle" width="360">
+<img src="gifs/compass-app-icon-settle.gif" alt="Compass app icon needle swing" width="360">
 
-<sub>16 frames · 378×249 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>14 frames · 480×480 · 1.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
 
 **Prompt**
 
 ```text
-A pixel art astronaut in a white suit with an orange visor runs in place in a smooth side-view run cycle, small dust puffs at each step. Limited 16-color palette, dark navy background with a few stars.
+Minimalist flat-vector rounded-square app icon on a completely transparent background, locked front-on view. A solid deep-teal rounded square dial with four tiny white tick marks holds a two-tone coral-and-white diamond compass needle pointing straight up. The compass needle swings 20 degrees clockwise, rebounds slightly left, and settles pointing straight up again in its exact starting alignment on the final frame for a clean loop. Flat crisp vector shapes, no gradients, no text.
 ```
 
-> 💡 **Tip:** Run and walk cycles look smoother with 12–16 frames.
+`icon` `app` `transparent`
 
-`pixel` `astronaut` `run-cycle`
+### 10. Paper airplane empty-state loader
 
-### 11. Donut chart fills
+<img src="gifs/paper-plane-empty-state.gif" alt="Paper airplane empty-state loader" width="360">
 
-<img src="gifs/donut-chart-fill.gif" alt="Donut chart fills" width="360">
+<sub>8 frames · 480×480 · 1.2s · GPT Image 2.6</sub>
 
-<sub>16 frames · 379×263 · 1.6s · gpt-image-2.6 · generated 2026-11-17</sub>
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
 
 **Prompt**
 
 ```text
-A donut chart fills segment by segment in teal, coral and yellow while the percentage in the middle counts up. Clean dashboard UI style, white background.
+Clean flat vector empty-state loading illustration, locked front-on view. Inside a soft powder-blue circle badge on a crisp off-white square background, a folded coral-orange paper airplane glides in a gentle up-and-down bobbing arc above two tiny stationary white clouds, returning to its exact starting height and angle on the final frame for a clean loop. Flat colors, no gradients, no text.
 ```
 
-`ui` `chart` `data`
+`loader` `ui` `flat`
 
-### 12. Map pin drops
+### 11. Three-pill wave loader
 
-<img src="gifs/map-pin-drop.gif" alt="Map pin drops" width="360">
+<img src="gifs/three-pill-wave-loader.gif" alt="Three-pill wave loader" width="360">
 
-<sub>12 frames · 358×357 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
+<sub>11 frames · 480×480 · 1.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
 
 **Prompt**
 
 ```text
-A red location pin drops onto a simple folded map, bounces once and sends out a soft ripple ring. Flat UI icon style, pale green background.
+Minimalist flat-vector UI loading indicator on a completely transparent background, locked front-on view. Three rounded cobalt-blue pill dots sit in a horizontal row; the left dot hops up, then the center dot, then the right dot in a crisp wave, and all three settle level in their exact starting alignment on the final frame for a clean loop. Sharp vector edges, solid flat blue, no text.
 ```
 
-`ui` `map` `location`
+`loader` `ui` `transparent`
 
-**[See all 85 prompts in this category →](categories/pixel-ui.md)**
+### 12. 16-bit golden retriever thumbs-up
+
+<img src="gifs/pixel-retriever-thumbs-up.gif" alt="16-bit golden retriever thumbs-up" width="360">
+
+<sub>8 frames · 480×480 · 1.1s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Crisp 16-bit pixel art reaction icon, locked front-on camera. A cheerful golden retriever wearing cool dark pixel sunglasses gives an enthusiastic double thumbs-up as three tiny yellow pixel stars pop around its head and fade out, returning to the exact starting pose on the final frame for a clean loop. Solid deep midnight-blue background, limited retro palette, no text.
+```
+
+`pixel-art` `dog` `reaction`
+
+**[See all 97 prompts in this category →](categories/pixel-ui.md)**
 
 ## Science & Explainers
 
-### 1. Sicilian Defense chess opening
+The 12 newest of 14 prompts in this category. [See all 14 →](categories/explainers.md)
+
+### 1. Paper invoice to spreadsheet via AI, 4 panels
+
+<img src="gifs/invoice-ai-scan-flow.gif" alt="Paper invoice to spreadsheet via AI, 4 panels" width="360">
+
+<sub>4 frames · 480×238 · 3.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [末松 光太郎 on WizTry Blog](https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/)
+
+**Prompt**
+
+```text
+紙の請求書をスマホで撮ると、AIが読み取って、表に入力されるまでの流れを、4コマのループGIFにして。
+```
+
+`workflow` `business` `japanese`
+
+### 2. Seed sprouting in a soil cutaway
+
+<img src="gifs/seed-sprout-soil-cutaway.gif" alt="Seed sprouting in a soil cutaway" width="360">
+
+<sub>12 frames · 358×358 · 3.1s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張教育用途的 GIF 動畫，呈現一顆種子逐漸發芽，長出嫩芽與兩片小葉子的過程。使用清楚的科普插畫風格，固定土壤剖面與攝影機視角，讓植物生長過程自然銜接，並設計成循環動畫。
+```
+
+`science` `plant` `education`
+
+### 3. Annual revenue bar chart growing
+
+<img src="gifs/revenue-bar-chart-grow.gif" alt="Annual revenue bar chart growing" width="360">
+
+<sub>33 frames · 480×270 · 4.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 16:9 橫式 GIF 動畫，主題為企業年度營收成長。畫面使用暖白色背景、深灰色文字與橘色重點配色，呈現簡潔專業的商業資訊圖表風格。中央有四根長條圖，分別代表 2023、2024、2025、2026 年，數值依序為 100、150、210、300，單位為百萬元。動畫開始時所有長條從零逐漸向上延伸，依照年份由左至右依序完成，最後停留在完整圖表畫面。確保年份、數字與長條高度完全對應，所有文字清晰可讀，鏡頭固定。動畫約 5 秒，不要增加其他數據或裝飾元素。
+```
+
+`chart` `business` `data`
+
+### 4. Sicilian Defense chess opening
 
 <img src="gifs/sicilian-defense-chess.gif" alt="Sicilian Defense chess opening" width="360">
 
@@ -905,7 +1009,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 2. Speaker sound waves
+### 5. Speaker sound waves
 
 <img src="gifs/sound-wave-speaker.gif" alt="Speaker sound waves" width="360">
 
@@ -919,7 +1023,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 3. Photosynthesis in a leaf
+### 6. Photosynthesis in a leaf
 
 <img src="gifs/photosynthesis-leaf-flow.gif" alt="Photosynthesis in a leaf" width="360">
 
@@ -933,7 +1037,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 4. Seesaw lever balance
+### 7. Seesaw lever balance
 
 <img src="gifs/seesaw-lever-balance.gif" alt="Seesaw lever balance" width="360">
 
@@ -947,7 +1051,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 5. Prism splits light
+### 8. Prism splits light
 
 <img src="gifs/prism-rainbow-split.gif" alt="Prism splits light" width="360">
 
@@ -961,7 +1065,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 6. Planets orbit the sun
+### 9. Planets orbit the sun
 
 <img src="gifs/solar-system-orbit.gif" alt="Planets orbit the sun" width="360">
 
@@ -975,7 +1079,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 7. Beating heart diagram
+### 10. Beating heart diagram
 
 <img src="gifs/heart-pump-diagram.gif" alt="Beating heart diagram" width="360">
 
@@ -989,7 +1093,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 8. Bean sprouting underground
+### 11. Bean sprouting underground
 
 <img src="gifs/bean-roots-cutaway.gif" alt="Bean sprouting underground" width="360">
 
@@ -1003,7 +1107,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 9. Moon phases
+### 12. Moon phases
 
 <img src="gifs/moon-phases-cycle.gif" alt="Moon phases" width="360">
 
@@ -1017,39 +1121,27 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 10. Water cycle
-
-<img src="gifs/water-cycle-loop.gif" alt="Water cycle" width="360">
-
-<sub>16 frames · 380×252 · 2.9s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A friendly cutaway landscape showing the water cycle: vapor rises from a lake, gathers into a cloud, rain falls on a mountain and flows back down a river into the lake. Flat educational illustration, soft blue palette, no text.
-```
-
-`water-cycle` `science` `diagram`
-
-### 11. Pendulum swing
-
-<img src="gifs/pendulum-swing-trace.gif" alt="Pendulum swing" width="360">
-
-<sub>12 frames · 358×357 · 1.4s · gpt-image-2.6 · generated 2026-11-17</sub>
-
-**Prompt**
-
-```text
-A simple science diagram of a pendulum: a metal ball on a string swings left and right from a fixed pivot, a faint dotted arc showing its path. Clean flat textbook illustration, white background, no text labels.
-```
-
-> 💡 **Tip:** Ask for no text labels; diagram text drifts between frames.
-
-`physics` `pendulum` `science`
+**[See all 14 prompts in this category →](categories/explainers.md)**
 
 ## Holidays & Greetings
 
-### 1. Thank-you pie with rising steam
+### 1. Felt-style birthday cake with a party kitten
+
+<img src="gifs/felt-birthday-cake-kitten.gif" alt="Felt-style birthday cake with a party kitten" width="360">
+
+<sub>16 frames · 276×346 · 4.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 直式 4:5、約 4 秒的生日祝福 GIF 動畫，採用溫暖可愛的日系羊毛氈 3D 插畫風格。畫面中央是一個精緻的草莓鮮奶油蛋糕，插著三根點燃的粉色蠟燭。蛋糕右側坐著一隻戴生日帽的奶油色小貓，開心地抱著蛋糕，左側擺放粉色禮物盒。背景搭配三角旗幟、發光星星與木質桌面，使用奶油白、蜜桃粉與暖金色調，呈現溫馨療癒的童話氛圍。動畫效果： 蠟燭火焰輕輕搖曳，星星依序閃爍，最後少量粉色彩紙從上方緩緩飄落。保持角色、蛋糕與背景造型一致，鏡頭固定，動作自然流暢，可無縫循環播放。不要加入任何文字。
+```
+
+`birthday` `felt` `greeting`
+
+### 2. Thank-you pie with rising steam
 
 <img src="gifs/harvest-pie-steam.gif" alt="Thank-you pie with rising steam" width="360">
 
@@ -1063,7 +1155,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 2. Gingerbread house waving
+### 3. Gingerbread house waving
 
 <img src="gifs/gingerbread-door-wave.gif" alt="Gingerbread house waving" width="360">
 
@@ -1079,7 +1171,71 @@ A tiny gingerbread figure with white icing buttons stands in the doorway of a ca
 
 ## Product Showcase
 
-### 1. Water bottle rocking (product loop)
+### 1. Bathroom remodel banner with rising steam
+
+<img src="gifs/bath-remodel-steam-banner.gif" alt="Bathroom remodel banner with rising steam" width="360">
+
+<sub>6 frames · 480×240 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [末松 光太郎 on WizTry Blog](https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/)
+
+**Prompt**
+
+```text
+ホームページのトップに置く、横長の広告バナーのループGIFを作って。写真のようにリアルな、木の窓がある明るいお風呂。湯船の湯気だけがゆっくり上がる。左側に大きく「冬のお風呂リフォーム応援キャンペーン」、その下に「手すりの取り付け無料」と「11月20日〜12月25日」。文字は動かさないで。
+```
+
+`banner` `ad` `japanese`
+
+### 2. Earbuds case lid opens and closes
+
+<img src="gifs/earbuds-case-lid-open-close.gif" alt="Earbuds case lid opens and closes" width="360">
+
+<sub>12 frames · 358×358 · 1.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 1:1 的高質感產品展示 GIF。畫面中央是一個【極簡白色無線耳機充電盒】，放置於淡灰色攝影棚背景。動畫從盒蓋關閉開始，接著盒蓋慢慢打開，展示內部耳機，最後緩緩關閉。商品外觀、比例、材質與顏色必須保持一致，鏡頭固定，使用柔和商業攝影光線，製作平滑循環動畫，不要加入文字。
+```
+
+`product` `tech` `ecommerce`
+
+### 3. Earbuds case with pulsing LED
+
+<img src="gifs/earbuds-case-led-pulse.gif" alt="Earbuds case with pulsing LED" width="360">
+
+<sub>9 frames · 480×270 · 1.6s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-gray wireless earbuds charging case sits open with both earbuds resting inside, completely motionless. Only the tiny round emerald-green status LED on the front lip of the case pulses smoothly from dim to bright green with a soft tiny halo and fades back to dim on the final frame for a clean loop. Keep the case, earbuds, and reflections completely still, no text.
+```
+
+`product` `tech` `macro`
+
+### 4. Coffee bag hero shot with espresso steam
+
+<img src="gifs/coffee-bag-espresso-steam.gif" alt="Coffee bag hero shot with espresso steam" width="360">
+
+<sub>9 frames · 480×606 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Locked tripod commercial product shot in soft morning studio light. A matte terracotta kraft coffee bag with a clean cream front label reading "MORNING ROAST" in sharp dark-brown sans-serif type stands completely motionless beside a speckled stoneware espresso cup on a travertine counter. Only a thin ribbon of warm white steam curls gently upward from the cup and settles back to the exact starting wisp on the final frame for a clean loop. Keep the coffee bag, label text, and cup completely still across every frame.
+```
+
+`product` `coffee` `steam`
+
+### 5. Water bottle rocking (product loop)
 
 <img src="gifs/water-bottle-rock-product.gif" alt="Water bottle rocking (product loop)" width="360">
 
@@ -1095,7 +1251,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 2. Smartwatch screen wake-up
+### 6. Smartwatch screen wake-up
 
 <img src="gifs/smartwatch-face-glow.gif" alt="Smartwatch screen wake-up" width="360">
 
@@ -1109,7 +1265,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 3. Sneaker on a turntable
+### 7. Sneaker on a turntable
 
 <img src="gifs/sneaker-turntable-spin.gif" alt="Sneaker on a turntable" width="360">
 
@@ -1125,7 +1281,39 @@ A clean white running sneaker with a mint green sole slowly rotates on a round w
 
 ## Food & Drinks
 
-### 1. Pizza slice cheese pull
+### 1. Hand-drawn coffee cup with rising steam
+
+<img src="gifs/handdrawn-coffee-steam.gif" alt="Hand-drawn coffee cup with rising steam" width="360">
+
+<sub>12 frames · 358×358 · 2.7s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張溫暖手繪風 GIF。木桌上放著一杯熱咖啡，杯子與背景保持完全靜止，只有白色蒸氣緩慢向上飄動。柔和晨光、咖啡館氛圍，畫面自然循環。
+```
+
+`coffee` `hand-drawn` `cozy`
+
+### 2. Latte art with rising steam in a sunny cafe
+
+<img src="gifs/latte-art-steam-cafe.gif" alt="Latte art with rising steam in a sunny cafe" width="360">
+
+<sub>16 frames · 309×310 · 4.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 1:1 正方形 GIF 動畫。畫面中央是一杯放在木桌上的熱拿鐵，杯中有精緻的愛心拉花，背景是陽光灑落的日系咖啡廳。讓咖啡上方的白色蒸氣緩緩向上飄動，窗邊的薄紗窗簾輕輕晃動，陽光保持溫暖柔和。採用高質感寫實攝影風格，固定鏡頭，杯子、桌面與拉花完全保持靜止。動畫長度約 4 秒，節奏緩慢、自然流暢，適合無縫循環播放，不要加入文字。
+```
+
+`coffee` `cafe` `steam`
+
+### 3. Pizza slice cheese pull
 
 <img src="gifs/pizza-cheese-pull.gif" alt="Pizza slice cheese pull" width="360">
 
@@ -1139,7 +1327,7 @@ A hand lifts one slice of pepperoni pizza away from the whole pie, long strings 
 
 `pizza` `cheese` `food`
 
-### 2. Milk tea pearls pour
+### 4. Milk tea pearls pour
 
 <img src="gifs/boba-pearls-pour.gif" alt="Milk tea pearls pour" width="360">
 

@@ -1,8 +1,200 @@
-# Stickers & Reactions · 191 prompts
+# Stickers & Reactions · 203 prompts
 
 [← README](../README.md)
 
-### 1. Cat coder runs out of Codex quota
+### 1. Round blue robot mascot waves hello
+
+<img src="../gifs/blue-robot-mascot-hello.gif" alt="Round blue robot mascot waves hello" width="360">
+
+<sub>6 frames · 480×480 · 0.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [@super_lewis on DEV Community](https://dev.to/super_lewis/animated-gifs-and-markup-guided-edits-with-the-gpt-image-26-api-real-timings-and-per-call-cost-2jmd)
+
+**Prompt**
+
+```text
+A round blue robot mascot waves hello. Seamless loop, same framing in every frame.
+```
+
+`mascot` `robot` `api`
+
+### 2. Pink heart heartbeat pulse
+
+<img src="../gifs/pink-heart-heartbeat.gif" alt="Pink heart heartbeat pulse" width="360">
+
+<sub>12 frames · 357×356 · 1.7s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張粉紅色愛心 GIF。愛心在畫面中央輕輕放大，再縮回原本大小，呈現柔和的心跳節奏。背景簡潔、固定視角，畫面乾淨，無縫循環，不要文字。
+```
+
+`heart` `social` `flat`
+
+### 3. Silver-haired boy in green cloak hops
+
+<img src="../gifs/cloak-boy-forest-jump.gif" alt="Silver-haired boy in green cloak hops" width="360">
+
+<sub>12 frames · 309×414 · 1.7s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張日系動畫風格 GIF。一名銀白色短髮少年穿著深綠色斗篷，站在森林空地上，輕輕跳起一次，然後回到站立姿勢。保持角色五官、衣服與背景一致，固定鏡頭，動作自然、無縫循環。
+```
+
+`anime` `character` `jump`
+
+### 4. 3D bunny in overalls waves
+
+<img src="../gifs/3d-bunny-overalls-wave.gif" alt="3D bunny in overalls waves" width="360">
+
+<sub>12 frames · 358×358 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張可愛 3D 小白兔 GIF。小白兔穿著淺藍色吊帶褲，站在花園裡，慢慢舉起右手揮手打招呼，然後自然放下。背景固定，柔和晨光，可愛 3D 動畫風格，動作連貫，無縫循環，不要字幕。
+```
+
+`bunny` `3d` `greeting`
+
+### 5. Clay orange cat in plaid shirt typing
+
+<img src="../gifs/plaid-shirt-cat-coding-clay.gif" alt="Clay orange cat in plaid shirt typing" width="360">
+
+<sub>9 frames · 427×400 · 1.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [STRUGGLE_xlf on CSDN](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html)
+
+**Prompt**
+
+```text
+帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。
+```
+
+`cat` `3d-clay` `programmer`
+
+### 6. Chibi office worker sees the notification
+
+<img src="../gifs/chibi-worker-notification-flop.gif" alt="Chibi office worker sees the notification" width="360">
+
+<sub>12 frames · 308×414 · 2.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張幽默的 GIF 動畫。一名 Q 版上班族坐在電腦前，先露出充滿期待的表情，接著看到螢幕上的工作通知，眼睛瞬間睜大，最後無奈地趴在桌上。使用可愛的日系 2D 插畫風格，背景為簡約辦公室，角色服裝與桌面物品保持一致。鏡頭固定，動作誇張但自然，動畫可以無縫循環，不要加入文字。
+```
+
+`office` `reaction` `chibi`
+
+### 7. 3D clay orange cat waves and blinks
+
+<img src="../gifs/clay-orange-cat-wave-blink.gif" alt="3D clay orange cat waves and blinks" width="360">
+
+<sub>12 frames · 358×356 · 1.7s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張正方形 1:1 GIF 動畫。一隻可愛的橘貓坐在奶油白色背景前，慢慢抬起前腳揮手，接著眨眼，最後回到原本姿勢。採用精緻的 3D 黏土插畫風格，毛髮柔軟、表情可愛。鏡頭固定，保持角色外觀一致，製作自然流暢的無縫循環動畫，不要加入文字。
+```
+
+`cat` `3d-clay` `sticker`
+
+### 8. Cassette "SIDE A" sticker with notes
+
+<img src="../gifs/cassette-side-a-sticker.gif" alt="Cassette "SIDE A" sticker with notes" width="360">
+
+<sub>14 frames · 480×480 · 1.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/gpt-image-2-6)
+
+**Prompt**
+
+```text
+Locked front-on 1:1 animated die-cut vinyl sticker on a fully transparent background with a crisp thick white kiss-cut border. A tilted brushed-silver and signal-orange compact cassette tape labeled 'SIDE A' in clean white sans-serif type. Across 8 frames, both white inner tape reel gears rotate smoothly while two bold electric-cobalt musical notes pop playfully out of the top-right corner on frames 2 to 5 and fade cleanly away by frame 8 so frame 8 matches frame 1's clean silhouette for a seamless loop.
+```
+
+`sticker` `retro` `music`
+
+### 9. Raccoon meme: the 5-minute fix broke prod
+
+<img src="../gifs/raccoon-breaks-prod-meme.gif" alt="Raccoon meme: the 5-minute fix broke prod" width="360">
+
+<sub>8 frames · 480×480 · 1.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Square internet reaction meme GIF with a solid white top caption bar reading "WHEN THE '5-MINUTE FIX' BREAKS PROD" in bold black sans-serif all-caps letters. Below the caption bar, locked front-on comic illustration of a wide-eyed gray raccoon wearing a black headset sitting at a dark desk behind an open laptop. Warm red-orange monitor light pulses across the raccoon's face as its paws hover tensely over the keyboard and its ears flatten slightly, then return to the exact starting pose on the final frame for a clean loop. Keep the white top bar and every letter of "WHEN THE '5-MINUTE FIX' BREAKS PROD" completely crisp and motionless across all frames.
+```
+
+`meme` `caption` `developer`
+
+### 10. "SHIP IT!" badge sticker wiggle
+
+<img src="../gifs/ship-it-badge-wiggle.gif" alt=""SHIP IT!" badge sticker wiggle" width="360">
+
+<sub>14 frames · 480×480 · 1.3s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Bold street-art die-cut sticker badge with a thick white cutout border on a completely transparent background, locked front-on camera. Chunky crimson block letters reading "SHIP IT!" sit centered inside a bright yellow starburst badge. The badge tilts slightly left and right with tiny black comic wiggle lines around the border, then returns to the exact starting angle on the final frame for a clean loop. Crisp flat ink colors, exact spelling.
+```
+
+`sticker` `text` `transparent`
+
+### 11. Die-cut clay star hop
+
+<img src="../gifs/clay-star-hop-sticker.gif" alt="Die-cut clay star hop" width="360">
+
+<sub>14 frames · 480×480 · 1.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Glossy 3D clay-style die-cut sticker with a thick white sticker border on a completely transparent background, locked front-on camera. A cheerful yellow five-pointed star character wearing tiny round black sunglasses does a happy little hop and lands softly back in its exact starting stance on the final frame for a clean loop. Crisp cutout edge, flat vibrant colors, no text.
+```
+
+`sticker` `transparent` `3d-clay`
+
+### 12. Glasses frog typing fast
+
+<img src="../gifs/glasses-frog-fast-typing.gif" alt="Glasses frog typing fast" width="360">
+
+<sub>8 frames · 480×480 · 0.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Flat cel-shaded comic reaction illustration, locked front-on camera. A determined little green tree frog wearing round wire-rim glasses sits behind a silver laptop at a desk, rapidly tapping alternate webbed hands on the keyboard with tiny white motion arcs above its fingers while its glasses glint once, returning to the exact starting hand position on the final frame for a clean loop. Solid warm cream-teal background, bold outlines, no text.
+```
+
+`reaction` `frog` `work`
+
+### 13. Cat coder runs out of Codex quota
 
 <img src="../gifs/cat-codex-quota-out.gif" alt="Cat coder runs out of Codex quota" width="360">
 
@@ -18,7 +210,7 @@
 
 `cat` `coding` `meme`
 
-### 2. "This is fine" dog sipping tea
+### 14. "This is fine" dog sipping tea
 
 <img src="../gifs/this-is-fine-dog-tea.gif" alt=""This is fine" dog sipping tea" width="360">
 
@@ -34,7 +226,7 @@
 
 `dog` `meme` `fire`
 
-### 3. Penguin knitting a scarf
+### 15. Penguin knitting a scarf
 
 <img src="../gifs/penguin-scarf-knit.gif" alt="Penguin knitting a scarf" width="360">
 
@@ -48,7 +240,7 @@ A round penguin sits clicking two knitting needles, a striped red scarf growing 
 
 `penguin` `knitting` `winter`
 
-### 4. Bunny slurps noodles
+### 16. Bunny slurps noodles
 
 <img src="../gifs/bunny-noodle-slurp.gif" alt="Bunny slurps noodles" width="360">
 
@@ -62,7 +254,7 @@ A white bunny with chopsticks slurps a long noodle from a bowl, cheeks puffing, 
 
 `bunny` `noodles` `food`
 
-### 5. Octopus ink oops
+### 17. Octopus ink oops
 
 <img src="../gifs/octopus-ink-oops.gif" alt="Octopus ink oops" width="360">
 
@@ -76,7 +268,7 @@ A small pink octopus gets startled and puffs out a cloud of ink, then peeks out 
 
 `octopus` `oops` `funny`
 
-### 6. Hippo big yawn
+### 18. Hippo big yawn
 
 <img src="../gifs/hippo-big-yawn.gif" alt="Hippo big yawn" width="360">
 
@@ -90,7 +282,7 @@ A sleepy round lavender hippo opens its mouth in an enormous yawn, eyes squeezed
 
 `hippo` `yawn` `sleepy`
 
-### 7. Shiba running late
+### 19. Shiba running late
 
 <img src="../gifs/shiba-late-toast.gif" alt="Shiba running late" width="360">
 
@@ -104,7 +296,7 @@ A shiba inu with a slice of toast in its mouth runs in place in a panic, ears fl
 
 `shiba` `late` `sticker`
 
-### 8. Baby elephant trunk shower
+### 20. Baby elephant trunk shower
 
 <img src="../gifs/elephant-trunk-spray.gif" alt="Baby elephant trunk shower" width="360">
 
@@ -118,7 +310,7 @@ A chubby baby elephant lifts its trunk and sprays a happy fountain of water over
 
 `elephant` `water` `cute`
 
-### 9. Doodle eye roll
+### 21. Doodle eye roll
 
 <img src="../gifs/doodle-eye-roll.gif" alt="Doodle eye roll" width="360">
 
@@ -132,7 +324,7 @@ A round hand-drawn doodle face with marker lines rolls its eyes up in exaggerate
 
 `doodle` `eye-roll` `reaction`
 
-### 10. Notebook stick figure dances
+### 22. Notebook stick figure dances
 
 <img src="../gifs/doodle-stick-dance.gif" alt="Notebook stick figure dances" width="360">
 
@@ -146,7 +338,7 @@ A hand-drawn ballpoint stick figure on lined notebook paper does a goofy hip-sha
 
 `doodle` `dance` `sketch`
 
-### 11. Fox steps up and waves
+### 23. Fox steps up and waves
 
 <img src="../gifs/fox-hello-steps.gif" alt="Fox steps up and waves" width="360">
 
@@ -162,7 +354,7 @@ An orange fox in a little blue scarf takes two small steps toward the viewer, wa
 
 `fox` `wave` `greeting`
 
-### 12. Red panda blinks and smiles
+### 24. Red panda blinks and smiles
 
 <img src="../gifs/red-panda-blink-smile.gif" alt="Red panda blinks and smiles" width="360">
 
@@ -176,7 +368,7 @@ A fluffy red panda mascot closes its eyes, opens them again with a small happy s
 
 `red-panda` `blink` `cute`
 
-### 13. Mint robot waves hello
+### 25. Mint robot waves hello
 
 <img src="../gifs/robot-antenna-wave.gif" alt="Mint robot waves hello" width="360">
 
@@ -190,7 +382,7 @@ A small mint-green robot with a round screen face and a blinking antenna raises 
 
 `robot` `wave` `hello`
 
-### 14. Kitten fixes a cracked screen
+### 26. Kitten fixes a cracked screen
 
 <img src="../gifs/kitten-screen-repair.gif" alt="Kitten fixes a cracked screen" width="360">
 
@@ -204,7 +396,7 @@ A tiny gray kitten in a yellow hard hat stands inside a cracked phone screen and
 
 `kitten` `phone` `repair`
 
-### 15. Penguin pirouette
+### 27. Penguin pirouette
 
 <img src="../gifs/penguin-pirouette.gif" alt="Penguin pirouette" width="360">
 
@@ -218,7 +410,7 @@ A chubby penguin in a tiny tutu does one wobbly spin on ice and ends with a prou
 
 `penguin` `dance` `sticker`
 
-### 16. Cat peeks from box
+### 28. Cat peeks from box
 
 <img src="../gifs/cat-box-peek.gif" alt="Cat peeks from box" width="360">
 
@@ -232,7 +424,7 @@ A gray tabby slowly rises out of a cardboard box until its eyes clear the edge, 
 
 `cat` `box` `peek`
 
-### 17. Goat yells
+### 29. Goat yells
 
 <img src="../gifs/goat-yell-surprise.gif" alt="Goat yells" width="360">
 
@@ -246,7 +438,7 @@ A small white goat opens its mouth wide in a dramatic yell, ears flapping and mo
 
 `goat` `shock` `meme`
 
-### 18. Bee bonks a flower
+### 30. Bee bonks a flower
 
 <img src="../gifs/bee-flower-bump.gif" alt="Bee bonks a flower" width="360">
 
@@ -260,7 +452,7 @@ A round bumblebee buzzes forward, bonks into a big daisy, and spins dizzily with
 
 `bee` `oops` `sticker`
 
-### 19. Taking a day off
+### 31. Taking a day off
 
 <img src="../gifs/hamster-day-off.gif" alt="Taking a day off" width="360">
 
@@ -274,7 +466,7 @@ A hamster yawns and pulls a tiny quilt over its head, leaving only its ears and 
 
 `hamster` `rest` `sticker`
 
-### 20. Saved, thank you
+### 32. Saved, thank you
 
 <img src="../gifs/duck-lifebuoy-thanks.gif" alt="Saved, thank you" width="360">
 
@@ -288,7 +480,7 @@ A yellow duck clinging to a red-white lifebuoy pops up from water and waves grat
 
 `duck` `thanks` `sticker`
 
-### 21. Go ahead and eat
+### 33. Go ahead and eat
 
 <img src="../gifs/bear-eat-first.gif" alt="Go ahead and eat" width="360">
 
@@ -302,7 +494,7 @@ A brown bear in an apron sets down a steaming bowl and waves a paw toward it wit
 
 `bear` `dinner` `family`
 
-### 22. Milk on the way home
+### 34. Milk on the way home
 
 <img src="../gifs/cat-milk-please.gif" alt="Milk on the way home" width="360">
 
@@ -316,7 +508,7 @@ A round white cat holds up an empty milk carton and gives a hopeful little bow, 
 
 `cat` `family` `sticker`
 
-### 23. Houseplant survives
+### 35. Houseplant survives
 
 <img src="../gifs/plant-will-survive.gif" alt="Houseplant survives" width="360">
 
@@ -330,7 +522,7 @@ A droopy potted plant with two leaves sags, then perks straight up and flexes on
 
 `plant` `survive` `sticker`
 
-### 24. Squirrel ready to fight
+### 36. Squirrel ready to fight
 
 <img src="../gifs/squirrel-boxing-nuts.gif" alt="Squirrel ready to fight" width="360">
 
@@ -344,7 +536,7 @@ A chubby red squirrel in tiny boxing gloves, cheeks stuffed with nuts, bounces o
 
 `squirrel` `fight` `sticker`
 
-### 25. Snail in a hurry
+### 37. Snail in a hurry
 
 <img src="../gifs/snail-rush-sweat.gif" alt="Snail in a hurry" width="360">
 
@@ -358,7 +550,7 @@ A snail with a tiny backpack strains forward with sweat drops and speed lines fl
 
 `snail` `late` `sticker`
 
-### 26. Crab snip dance
+### 38. Crab snip dance
 
 <img src="../gifs/crab-claw-snip-dance.gif" alt="Crab snip dance" width="360">
 
@@ -372,7 +564,7 @@ A red crab sidesteps left and right, snipping both claws in rhythm with a proud 
 
 `crab` `dance` `sticker`
 
-### 27. Piglet mud splash
+### 39. Piglet mud splash
 
 <img src="../gifs/piglet-mud-splash.gif" alt="Piglet mud splash" width="360">
 
@@ -386,7 +578,7 @@ A pink piglet hops into a mud puddle, brown droplets splash up, and it grins hap
 
 `pig` `happy` `sticker`
 
-### 28. Parrot head bob
+### 40. Parrot head bob
 
 <img src="../gifs/parrot-head-bob.gif" alt="Parrot head bob" width="360">
 
@@ -400,7 +592,7 @@ A green parrot on a perch bobs its head to a beat, eyes half closed, as small mu
 
 `parrot` `music` `sticker`
 
-### 29. Mole pops up
+### 41. Mole pops up
 
 <img src="../gifs/mole-pop-hello.gif" alt="Mole pops up" width="360">
 
@@ -414,7 +606,7 @@ A little mole pops out of a dirt hole, waves a tiny pink paw, then ducks back do
 
 `mole` `hello` `sticker`
 
-### 30. Duck winks
+### 42. Duck winks
 
 <img src="../gifs/duck-wink-heart.gif" alt="Duck winks" width="360">
 
@@ -428,7 +620,7 @@ A white duck with a pink bow winks and a small red heart pops out beside its che
 
 `duck` `love` `sticker`
 
-### 31. Loaf cat dozing
+### 43. Loaf cat dozing
 
 <img src="../gifs/loaf-cat-doze.gif" alt="Loaf cat dozing" width="360">
 
@@ -442,7 +634,7 @@ An orange cat tucked into a perfect loaf shape slowly nods off, its head dipping
 
 `cat` `sleepy` `sticker`
 
-### 32. Otters high five
+### 44. Otters high five
 
 <img src="../gifs/otter-high-five.gif" alt="Otters high five" width="360">
 
@@ -456,7 +648,7 @@ Two brown otters float on their backs, reach up and slap a high five with a smal
 
 `otter` `high-five` `sticker`
 
-### 33. Angry pufferfish
+### 45. Angry pufferfish
 
 <img src="../gifs/pufferfish-puff-angry.gif" alt="Angry pufferfish" width="360">
 
@@ -470,7 +662,7 @@ A small pufferfish frowns, puffs up into a spiky round ball with red cheeks, the
 
 `pufferfish` `angry` `sticker`
 
-### 34. Corgi butt wiggle bye
+### 46. Corgi butt wiggle bye
 
 <img src="../gifs/corgi-butt-bye.gif" alt="Corgi butt wiggle bye" width="360">
 
@@ -484,7 +676,7 @@ A corgi walks away from the viewer wiggling its fluffy rear, then looks back ove
 
 `corgi` `bye` `sticker`
 
-### 35. Chick peeks from the egg
+### 47. Chick peeks from the egg
 
 <img src="../gifs/chick-egg-peek.gif" alt="Chick peeks from the egg" width="360">
 
@@ -498,7 +690,7 @@ A yellow chick lifts the cracked top of its eggshell like a lid, peeks out, wave
 
 `chick` `hello` `sticker`
 
-### 36. Walrus thinking
+### 48. Walrus thinking
 
 <img src="../gifs/walrus-thinking.gif" alt="Walrus thinking" width="360">
 
@@ -512,7 +704,7 @@ A round walrus strokes one tusk with its flipper, eyes rolling up in thought, an
 
 `walrus` `thinking` `sticker`
 
-### 37. Tofu flips the sign
+### 49. Tofu flips the sign
 
 <img src="../gifs/tofu-sign-plot-twist.gif" alt="Tofu flips the sign" width="360">
 
@@ -526,7 +718,7 @@ A square tofu character holds up a small sign with a big smiley face, then flips
 
 `tofu` `reversal` `sticker`
 
-### 38. Frazzled cat stare
+### 50. Frazzled cat stare
 
 <img src="../gifs/frazzled-cat-stare.gif" alt="Frazzled cat stare" width="360">
 
@@ -540,7 +732,7 @@ A white cat with messy fur and spiral eyes stares blankly ahead while a tiny gra
 
 `cat` `mood` `sticker`
 
-### 39. Kung fu kitten kick
+### 51. Kung fu kitten kick
 
 <img src="../gifs/kungfu-kitten-kick.gif" alt="Kung fu kitten kick" width="360">
 
@@ -554,7 +746,7 @@ A chubby gray kitten wearing a red cloth sash holds a martial arts stance, snaps
 
 `cat` `kung-fu` `sticker`
 
-### 40. Chick under an umbrella
+### 52. Chick under an umbrella
 
 <img src="../gifs/chick-umbrella-rain.gif" alt="Chick under an umbrella" width="360">
 
@@ -568,7 +760,7 @@ A tiny yellow chick holds a red umbrella and twirls it while raindrops bounce of
 
 `sticker` `rain` `chick`
 
-### 41. Bunny hop with shadow
+### 53. Bunny hop with shadow
 
 <img src="../gifs/bunny-hop-shadow.gif" alt="Bunny hop with shadow" width="360">
 
@@ -582,7 +774,7 @@ A white bunny hops in place, ears flopping on each landing while its oval shadow
 
 `sticker` `bunny` `hop`
 
-### 42. Cat refuses to go to work
+### 54. Cat refuses to go to work
 
 <img src="../gifs/cat-refuse-work-bed.gif" alt="Cat refuses to go to work" width="360">
 
@@ -596,7 +788,7 @@ A tabby cat clings to a pillow with all four paws and shakes its head no as an a
 
 `sticker` `cat` `monday`
 
-### 43. Cat: that costs extra
+### 55. Cat: that costs extra
 
 <img src="../gifs/cat-pay-me-extra.gif" alt="Cat: that costs extra" width="360">
 
@@ -610,7 +802,7 @@ A businesslike white cat in a tiny tie rubs its paw pads together, and small gol
 
 `sticker` `cat` `work`
 
-### 44. Lazy lion in a Santa hat
+### 56. Lazy lion in a Santa hat
 
 <img src="../gifs/lazy-lion-santa-hat.gif" alt="Lazy lion in a Santa hat" width="360">
 
@@ -624,7 +816,7 @@ A droopy-eyed chubby lion wearing a Santa hat sighs heavily, its mane flopping, 
 
 `sticker` `christmas` `lion`
 
-### 45. Snowman mitten wave
+### 57. Snowman mitten wave
 
 <img src="../gifs/snowman-mitten-wave.gif" alt="Snowman mitten wave" width="360">
 
@@ -638,7 +830,7 @@ A small round snowman with a red knitted scarf and blue mittens waves one arm wh
 
 `sticker` `winter` `snowman`
 
-### 46. Two mice dancing
+### 58. Two mice dancing
 
 <img src="../gifs/two-mice-dance.gif" alt="Two mice dancing" width="360">
 
@@ -652,7 +844,7 @@ Two little gray mice hold paws and do a happy hopping dance in a circle, tails s
 
 `sticker` `mouse` `dance`
 
-### 47. Cat full HP revive
+### 59. Cat full HP revive
 
 <img src="../gifs/cat-full-hp-revive.gif" alt="Cat full HP revive" width="360">
 
@@ -666,7 +858,7 @@ A limp flattened orange cat lies on the floor, a green health bar above it fills
 
 `sticker` `cat` `energy`
 
-### 48. Panda bamboo thumbs up
+### 60. Panda bamboo thumbs up
 
 <img src="../gifs/panda-bamboo-thumbs.gif" alt="Panda bamboo thumbs up" width="360">
 
@@ -680,7 +872,7 @@ A chubby panda chewing a bamboo stalk gives a slow confident thumbs up and nods 
 
 `sticker` `panda` `ok`
 
-### 49. Shy ghost boo
+### 61. Shy ghost boo
 
 <img src="../gifs/ghost-boo-oops.gif" alt="Shy ghost boo" width="360">
 
@@ -694,7 +886,7 @@ A tiny white ghost jumps out shouting boo with raised arms, then immediately hid
 
 `sticker` `ghost` `funny`
 
-### 50. Bao bun wiggle dance
+### 62. Bao bun wiggle dance
 
 <img src="../gifs/bao-bun-wiggle.gif" alt="Bao bun wiggle dance" width="360">
 
@@ -708,7 +900,7 @@ A soft steamed bao bun with a tiny face wiggles side to side on a bamboo steamer
 
 `sticker` `food` `dance`
 
-### 51. Angry tomato steam
+### 63. Angry tomato steam
 
 <img src="../gifs/tomato-angry-steam.gif" alt="Angry tomato steam" width="360">
 
@@ -722,7 +914,7 @@ A cartoon tomato character turns from red to deep crimson, shakes with anger and
 
 `sticker` `food` `angry`
 
-### 52. Owl big yawn
+### 64. Owl big yawn
 
 <img src="../gifs/owl-big-yawn.gif" alt="Owl big yawn" width="360">
 
@@ -736,7 +928,7 @@ A round brown owl on a branch stretches its wings and lets out a huge yawn, eyes
 
 `sticker` `owl` `sleepy`
 
-### 53. Puppy zoomies
+### 65. Puppy zoomies
 
 <img src="../gifs/puppy-zoomies-circle.gif" alt="Puppy zoomies" width="360">
 
@@ -750,7 +942,7 @@ A fluffy cream puppy spins in fast happy circles chasing its own tail, ears flap
 
 `sticker` `dog` `happy`
 
-### 54. Penguin needs coffee
+### 66. Penguin needs coffee
 
 <img src="../gifs/penguin-coffee-refill.gif" alt="Penguin needs coffee" width="360">
 
@@ -764,7 +956,7 @@ A sleepy penguin holds up an empty mug, shakes it upside down, and droops with h
 
 `sticker` `penguin` `coffee`
 
-### 55. Cat keyboard rage
+### 67. Cat keyboard rage
 
 <img src="../gifs/cat-keyboard-rage.gif" alt="Cat keyboard rage" width="360">
 
@@ -778,7 +970,7 @@ An angry gray cat with a furrowed brow mashes a tiny keyboard with both paws, li
 
 `sticker` `cat` `work`
 
-### 56. Bunny head pat melt
+### 68. Bunny head pat melt
 
 <img src="../gifs/bunny-headpat-melt.gif" alt="Bunny head pat melt" width="360">
 
@@ -792,7 +984,7 @@ A small white bunny receives gentle pats from a hand entering the frame and slow
 
 `sticker` `bunny` `cute`
 
-### 57. Frog noted salute
+### 69. Frog noted salute
 
 <img src="../gifs/frog-noted-salute.gif" alt="Frog noted salute" width="360">
 
@@ -806,7 +998,7 @@ A round green frog in a tiny yellow raincoat stands up straight and gives a cris
 
 `sticker` `frog` `ok`
 
-### 58. Hedgehog blush hide
+### 70. Hedgehog blush hide
 
 <img src="../gifs/hedgehog-blush-hide.gif" alt="Hedgehog blush hide" width="360">
 
@@ -820,7 +1012,7 @@ A tiny brown hedgehog with pink cheeks hears a compliment, blushes bright red an
 
 `sticker` `hedgehog` `shy`
 
-### 59. Cartoon shark fin wave
+### 71. Cartoon shark fin wave
 
 <img src="../gifs/shark-fin-wave.gif" alt="Cartoon shark fin wave" width="360">
 
@@ -834,7 +1026,7 @@ A chubby light-blue cartoon shark pops halfway out of a tiny wave, waves one fin
 
 `sticker` `shark` `hello`
 
-### 60. Whale spout hello
+### 72. Whale spout hello
 
 <img src="../gifs/whale-spout-hello.gif" alt="Whale spout hello" width="360">
 
@@ -848,7 +1040,7 @@ a chubby baby blue whale bobs on small waves and puffs a water spout shaped like
 
 `sticker` `whale` `hello`
 
-### 61. Juggling squirrel
+### 73. Juggling squirrel
 
 <img src="../gifs/squirrel-acorn-juggle.gif" alt="Juggling squirrel" width="360">
 
@@ -862,7 +1054,7 @@ a red cartoon squirrel with a huge fluffy tail juggles three acorns in an arc, t
 
 `sticker` `squirrel` `fun`
 
-### 62. Lamb says sorry
+### 74. Lamb says sorry
 
 <img src="../gifs/lamb-sorry-bow.gif" alt="Lamb says sorry" width="360">
 
@@ -876,7 +1068,7 @@ a fluffy cartoon lamb with a cloud-like wool coat presses its hooves together an
 
 `sticker` `apology` `lamb`
 
-### 63. Bunny carrot crunch
+### 75. Bunny carrot crunch
 
 <img src="../gifs/bunny-carrot-crunch.gif" alt="Bunny carrot crunch" width="360">
 
@@ -890,7 +1082,7 @@ a white cartoon bunny with floppy ears holds a big carrot and munches quickly, c
 
 `sticker` `bunny` `food`
 
-### 64. Upside-down bat goodnight
+### 76. Upside-down bat goodnight
 
 <img src="../gifs/bat-upside-goodnight.gif" alt="Upside-down bat goodnight" width="360">
 
@@ -904,7 +1096,7 @@ a fluffy little purple bat hangs upside down from a branch, wraps its wings arou
 
 `sticker` `goodnight` `bat`
 
-### 65. Slow thumbs up
+### 77. Slow thumbs up
 
 <img src="../gifs/turtle-slow-thumbs-up.gif" alt="Slow thumbs up" width="360">
 
@@ -918,7 +1110,7 @@ a sleepy green cartoon turtle in a tiny knit cap very slowly raises one flipper 
 
 `sticker` `turtle` `approval`
 
-### 66. Fox spills coffee
+### 78. Fox spills coffee
 
 <img src="../gifs/fox-coffee-oops.gif" alt="Fox spills coffee" width="360">
 
@@ -932,7 +1124,7 @@ a cartoon orange fox in a green hoodie bumps a coffee cup, the coffee splashes u
 
 `sticker` `fox` `oops`
 
-### 67. Penguin belly slide
+### 79. Penguin belly slide
 
 <img src="../gifs/penguin-belly-slide.gif" alt="Penguin belly slide" width="360">
 
@@ -946,7 +1138,7 @@ a round cartoon penguin with a tiny red beanie slides on its belly across a patc
 
 `sticker` `penguin` `winter`
 
-### 68. Mood toggle cube
+### 80. Mood toggle cube
 
 <img src="../gifs/cube-mood-toggle.gif" alt="Mood toggle cube" width="360">
 
@@ -960,7 +1152,7 @@ a cute pastel yellow cube character with stubby legs stands still and switches e
 
 `sticker` `emotion` `reaction`
 
-### 69. Plush bear sipping cocoa
+### 81. Plush bear sipping cocoa
 
 <img src="../gifs/plush-bear-cocoa.gif" alt="Plush bear sipping cocoa" width="360">
 
@@ -974,7 +1166,7 @@ a soft plush teddy bear with visible fabric texture and stitched seams holds a b
 
 `sticker` `plush` `cozy`
 
-### 70. Avocado OMG jump
+### 82. Avocado OMG jump
 
 <img src="../gifs/avocado-omg-jump.gif" alt="Avocado OMG jump" width="360">
 
@@ -988,7 +1180,7 @@ a cartoon avocado half with a big seed belly and tiny arms leaps up in surprise,
 
 `sticker` `food` `text`
 
-### 71. Deadline hamster on fire
+### 83. Deadline hamster on fire
 
 <img src="../gifs/hamster-deadline-fire.gif" alt="Deadline hamster on fire" width="360">
 
@@ -1002,7 +1194,7 @@ a tiny golden hamster in round glasses types furiously on a little keyboard whil
 
 `sticker` `deadline` `work`
 
-### 72. Desk stretch break
+### 84. Desk stretch break
 
 <img src="../gifs/desk-stretch-break.gif" alt="Desk stretch break" width="360">
 
@@ -1016,7 +1208,7 @@ a chibi office worker with messy hair types fast on a laptop, then leans back an
 
 `sticker` `office` `work`
 
-### 73. End-screen wave
+### 85. End-screen wave
 
 <img src="../gifs/end-screen-wave.gif" alt="End-screen wave" width="360">
 
@@ -1030,7 +1222,7 @@ a friendly cartoon robot with a round screen face showing a smile stands on the 
 
 `creator` `video` `mascot`
 
-### 74. Red envelope: no, no, yes
+### 86. Red envelope: no, no, yes
 
 <img src="../gifs/red-envelope-pocket.gif" alt="Red envelope: no, no, yes" width="360">
 
@@ -1044,7 +1236,7 @@ a round cartoon panda in a red padded jacket shakes its head and waves one paw i
 
 `sticker` `lunar-new-year` `holiday`
 
-### 75. Asleep at the countdown
+### 87. Asleep at the countdown
 
 <img src="../gifs/countdown-asleep.gif" alt="Asleep at the countdown" width="360">
 
@@ -1058,7 +1250,7 @@ a chibi kid in pajamas and a party hat sits on a sofa holding a tiny noisemaker;
 
 `sticker` `new-year` `holiday`
 
-### 76. Christmas Eve apple unwrap
+### 88. Christmas Eve apple unwrap
 
 <img src="../gifs/christmas-apple-unwrap.gif" alt="Christmas Eve apple unwrap" width="360">
 
@@ -1072,7 +1264,7 @@ a cute cartoon red apple wrapped in a shiny gift wrapper with a green ribbon, on
 
 `sticker` `christmas` `holiday`
 
-### 77. Office bear: clocking out
+### 89. Office bear: clocking out
 
 <img src="../gifs/bear-clock-out-dash.gif" alt="Office bear: clocking out" width="360">
 
@@ -1086,7 +1278,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 78. Office bear: payday
+### 90. Office bear: payday
 
 <img src="../gifs/bear-payday-laugh.gif" alt="Office bear: payday" width="360">
 
@@ -1100,7 +1292,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `money`
 
-### 79. Office bear: overtime wail
+### 91. Office bear: overtime wail
 
 <img src="../gifs/bear-overtime-wail.gif" alt="Office bear: overtime wail" width="360">
 
@@ -1114,7 +1306,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 80. Office bear: sneaky snack
+### 92. Office bear: sneaky snack
 
 <img src="../gifs/bear-sneaky-snack.gif" alt="Office bear: sneaky snack" width="360">
 
@@ -1128,7 +1320,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 81. Office bear: eye roll
+### 93. Office bear: eye roll
 
 <img src="../gifs/bear-read-eye-roll.gif" alt="Office bear: eye roll" width="360">
 
@@ -1142,7 +1334,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `reaction`
 
-### 82. Office bear: Monday sigh
+### 94. Office bear: Monday sigh
 
 <img src="../gifs/bear-monday-sigh.gif" alt="Office bear: Monday sigh" width="360">
 
@@ -1156,7 +1348,7 @@ a chubby cartoon brown bear office worker in a loose blue tie and a lanyard badg
 
 `sticker` `bear` `series` `office`
 
-### 83. Angry goose honks
+### 95. Angry goose honks
 
 <img src="../gifs/goose-honk-flap.gif" alt="Angry goose honks" width="360">
 
@@ -1170,7 +1362,7 @@ A white goose stretches its neck forward, flaps its wings wide, and honks angril
 
 `sticker` `angry` `animal`
 
-### 84. Dumpling hides a blush
+### 96. Dumpling hides a blush
 
 <img src="../gifs/dumpling-blush-hide.gif" alt="Dumpling hides a blush" width="360">
 
@@ -1184,7 +1376,7 @@ A plump steamed dumpling character covers its face with tiny hands, peeks out be
 
 `sticker` `shy` `food`
 
-### 85. Tofu shivers in the cold
+### 97. Tofu shivers in the cold
 
 <img src="../gifs/tofu-shiver-cold.gif" alt="Tofu shivers in the cold" width="360">
 
@@ -1198,7 +1390,7 @@ A soft white tofu block character wrapped in a tiny scarf shivers hard, teeth ch
 
 `sticker` `cold` `food`
 
-### 86. Mushroom nods yes
+### 98. Mushroom nods yes
 
 <img src="../gifs/mushroom-yes-nod.gif" alt="Mushroom nods yes" width="360">
 
@@ -1212,7 +1404,7 @@ A small red-capped mushroom character with white spots nods enthusiastically, it
 
 `sticker` `yes` `cute`
 
-### 87. Duck mic drop
+### 99. Duck mic drop
 
 <img src="../gifs/duck-mic-drop.gif" alt="Duck mic drop" width="360">
 
@@ -1226,7 +1418,7 @@ A white duck in sunglasses holds a tiny microphone out at wing's length, drops i
 
 `sticker` `smug` `reaction`
 
-### 88. Octopus types on four keyboards
+### 100. Octopus types on four keyboards
 
 <img src="../gifs/octopus-four-keyboards.gif" alt="Octopus types on four keyboards" width="360">
 
@@ -1240,7 +1432,7 @@ A purple cartoon octopus wearing glasses types furiously on four keyboards at on
 
 `sticker` `work` `busy`
 
-### 89. Sheep fluffs up and dozes
+### 101. Sheep fluffs up and dozes
 
 <img src="../gifs/sheep-fluff-doze.gif" alt="Sheep fluffs up and dozes" width="360">
 
@@ -1254,7 +1446,7 @@ A round fluffy sheep slowly puffs up its wool like a cloud, its eyes droop close
 
 `sticker` `sleepy` `animal`
 
-### 90. Chick bounce entrance
+### 102. Chick bounce entrance
 
 <img src="../gifs/chick-bounce-entrance.gif" alt="Chick bounce entrance" width="360">
 
@@ -1268,7 +1460,7 @@ A fluffy yellow chick drops in from above, squashes flat on landing, springs bac
 
 `entrance` `sticker` `bounce`
 
-### 91. Young mage levitates a glowing orb
+### 103. Young mage levitates a glowing orb
 
 <img src="../gifs/mage-floating-orb.gif" alt="Young mage levitates a glowing orb" width="360">
 
@@ -1282,7 +1474,7 @@ A young mage in a hooded blue cloak holds both palms apart while a glowing turqu
 
 `magic` `character` `glow`
 
-### 92. Cactus reads the newspaper
+### 104. Cactus reads the newspaper
 
 <img src="../gifs/cactus-newspaper-read.gif" alt="Cactus reads the newspaper" width="360">
 
@@ -1296,7 +1488,7 @@ A green cactus character wearing a wide straw hat sits on a stool reading a news
 
 `sticker` `reading` `plant`
 
-### 93. Horned chibi girl twirls
+### 105. Horned chibi girl twirls
 
 <img src="../gifs/horned-chibi-twirl.gif" alt="Horned chibi girl twirls" width="360">
 
@@ -1310,7 +1502,7 @@ A chibi girl with small curled ivory horns, wearing a ruffled lavender gown, doe
 
 `dance` `chibi` `original-character`
 
-### 94. Bubblegum bubble pops in a neon diner
+### 106. Bubblegum bubble pops in a neon diner
 
 <img src="../gifs/bubblegum-diner-pop.gif" alt="Bubblegum bubble pops in a neon diner" width="360">
 
@@ -1324,7 +1516,7 @@ An illustrated girl in a retro neon diner booth at night slowly blows a big pink
 
 `reaction` `neon` `retro`
 
-### 95. Monkey on roller skates
+### 107. Monkey on roller skates
 
 <img src="../gifs/monkey-roller-skate.gif" alt="Monkey on roller skates" width="360">
 
@@ -1338,7 +1530,7 @@ A cheerful cartoon monkey in red roller skates glides along a sidewalk, arms out
 
 `character` `skate` `animal`
 
-### 96. Round robot hears good news
+### 108. Round robot hears good news
 
 <img src="../gifs/robot-good-news.gif" alt="Round robot hears good news" width="360">
 
@@ -1352,7 +1544,7 @@ A small round white robot with a screen face: its pixel eyes grow wide and spark
 
 `sticker` `celebrate` `robot`
 
-### 97. Pigeon spit-take
+### 109. Pigeon spit-take
 
 <img src="../gifs/pigeon-spit-take.gif" alt="Pigeon spit-take" width="360">
 
@@ -1366,7 +1558,7 @@ A gray city pigeon holding a tiny teacup takes a sip and sprays the tea out in a
 
 `sticker` `reaction` `shock`
 
-### 98. Rabbit comedic fan smack
+### 110. Rabbit comedic fan smack
 
 <img src="../gifs/rabbit-fan-smack.gif" alt="Rabbit comedic fan smack" width="360">
 
@@ -1380,7 +1572,7 @@ A white rabbit in a tiny bow tie swings a folded paper fan sideways in a classic
 
 `sticker` `reaction` `comedy`
 
-### 99. Bear slips on a banana peel
+### 111. Bear slips on a banana peel
 
 <img src="../gifs/bear-banana-slip.gif" alt="Bear slips on a banana peel" width="360">
 
@@ -1394,7 +1586,7 @@ A round brown cartoon bear walks forward, steps on a banana peel, and flips onto
 
 `sticker` `slapstick` `fail`
 
-### 100. Cat-ear hoodie girl nods yes
+### 112. Cat-ear hoodie girl nods yes
 
 <img src="../gifs/cat-ear-hood-nod.gif" alt="Cat-ear hoodie girl nods yes" width="360">
 
@@ -1408,7 +1600,7 @@ A chibi girl in an oversized mint hoodie with cat ears on the hood nods eagerly 
 
 `sticker` `yes` `chibi`
 
-### 101. Cream puff stretch and yawn
+### 113. Cream puff stretch and yawn
 
 <img src="../gifs/cream-puff-yawn.gif" alt="Cream puff stretch and yawn" width="360">
 
@@ -1422,7 +1614,7 @@ A chubby cream puff character with tiny arms stretches upward and lets out a big
 
 `sticker` `sleepy` `food`
 
-### 102. Cherry cake hat sprite waves
+### 114. Cherry cake hat sprite waves
 
 <img src="../gifs/cherry-cake-hat-sprite.gif" alt="Cherry cake hat sprite waves" width="360">
 
@@ -1436,7 +1628,7 @@ A tiny round cream-colored creature wearing a little strawberry shortcake with a
 
 `sticker` `cute` `original-character`
 
-### 103. Alpaca hair flip
+### 115. Alpaca hair flip
 
 <img src="../gifs/alpaca-hair-flip.gif" alt="Alpaca hair flip" width="360">
 
@@ -1450,7 +1642,7 @@ A fluffy white cartoon alpaca with a huge curly fringe tossing its head to flip 
 
 `sticker` `sassy` `alpaca`
 
-### 104. Pug blows out a candle
+### 116. Pug blows out a candle
 
 <img src="../gifs/pug-birthday-blow.gif" alt="Pug blows out a candle" width="360">
 
@@ -1464,7 +1656,7 @@ A pug in a striped party hat puffing its cheeks and blowing out a single candle 
 
 `sticker` `birthday` `dog`
 
-### 105. Cloud sneezes rain
+### 117. Cloud sneezes rain
 
 <img src="../gifs/cloud-sneeze-rain.gif" alt="Cloud sneezes rain" width="360">
 
@@ -1478,7 +1670,7 @@ A small fluffy white cloud character with rosy cheeks scrunching up its face and
 
 `sticker` `weather` `cute`
 
-### 106. Owl side-eye
+### 118. Owl side-eye
 
 <img src="../gifs/owl-side-eye.gif" alt="Owl side-eye" width="360">
 
@@ -1492,7 +1684,7 @@ A round brown cartoon owl perched on a branch, slowly turning its eyes sideways 
 
 `sticker` `side-eye` `reaction`
 
-### 107. Dinosaur tiny-arm clap
+### 119. Dinosaur tiny-arm clap
 
 <img src="../gifs/dino-tiny-clap.gif" alt="Dinosaur tiny-arm clap" width="360">
 
@@ -1506,7 +1698,7 @@ A chubby mint-green cartoon dinosaur trying hard to clap with its very short arm
 
 `sticker` `clap` `dinosaur`
 
-### 108. Raccoon finds a treasure
+### 120. Raccoon finds a treasure
 
 <img src="../gifs/raccoon-box-treasure.gif" alt="Raccoon finds a treasure" width="360">
 
@@ -1520,7 +1712,7 @@ A grey cartoon raccoon popping up out of a cardboard box holding a shiny silver 
 
 `sticker` `proud` `raccoon`
 
-### 109. Tortoise: on my way
+### 121. Tortoise: on my way
 
 <img src="../gifs/tortoise-on-my-way.gif" alt="Tortoise: on my way" width="360">
 
@@ -1534,7 +1726,7 @@ A green cartoon tortoise with a tiny backpack running as fast as it can, legs sp
 
 `sticker` `late` `funny`
 
-### 110. Duckling in big headphones
+### 122. Duckling in big headphones
 
 <img src="../gifs/duckling-headphones-bop.gif" alt="Duckling in big headphones" width="360">
 
@@ -1548,7 +1740,7 @@ A fluffy yellow duckling wearing oversized purple headphones, eyes closed, bobbi
 
 `sticker` `music` `duck`
 
-### 111. Koala jolted awake
+### 123. Koala jolted awake
 
 <img src="../gifs/koala-coffee-jolt.gif" alt="Koala jolted awake" width="360">
 
@@ -1562,7 +1754,7 @@ A sleepy grey cartoon koala hugging a giant mug, nodding off until its nose dips
 
 `sticker` `coffee` `sleepy`
 
-### 112. Capybara: hot spring
+### 124. Capybara: hot spring
 
 <img src="../gifs/capybara-bath.gif" alt="Capybara: hot spring" width="360">
 
@@ -1576,7 +1768,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 113. Capybara: cheering
+### 125. Capybara: cheering
 
 <img src="../gifs/capybara-cheer.gif" alt="Capybara: cheering" width="360">
 
@@ -1590,7 +1782,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 114. Capybara: sleepy nod
+### 126. Capybara: sleepy nod
 
 <img src="../gifs/capybara-sleepy-nod.gif" alt="Capybara: sleepy nod" width="360">
 
@@ -1604,7 +1796,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 115. Capybara: OK
+### 127. Capybara: OK
 
 <img src="../gifs/capybara-ok.gif" alt="Capybara: OK" width="360">
 
@@ -1620,7 +1812,7 @@ a round brown cartoon capybara with a small orange yuzu balanced on its head, sl
 
 `sticker` `capybara` `series`
 
-### 116. Tabby cat double take
+### 128. Tabby cat double take
 
 <img src="../gifs/tabby-double-take.gif" alt="Tabby cat double take" width="360">
 
@@ -1634,7 +1826,7 @@ A calm orange tabby cat sitting sideways, then suddenly turning toward the viewe
 
 `sticker` `cat` `shocked`
 
-### 117. Collapsed souffle tears
+### 129. Collapsed souffle tears
 
 <img src="../gifs/souffle-collapse-cry.gif" alt="Collapsed souffle tears" width="360">
 
@@ -1650,7 +1842,7 @@ A chibi baker girl in a white apron pulling a tall souffle out of the oven, the 
 
 `sticker` `baking` `chibi`
 
-### 118. Monday desk slump
+### 130. Monday desk slump
 
 <img src="../gifs/monday-cat-slump.gif" alt="Monday desk slump" width="360">
 
@@ -1664,7 +1856,7 @@ A chubby orange cat wearing a navy necktie slumping over a laptop, sinking lower
 
 `sticker` `office` `monday` `text`
 
-### 119. Smug raccoon says no thanks
+### 131. Smug raccoon says no thanks
 
 <img src="../gifs/smug-raccoon-no-thanks.gif" alt="Smug raccoon says no thanks" width="360">
 
@@ -1678,7 +1870,7 @@ A smug cartoon raccoon in pink heart-shaped sunglasses lounging in a beach chair
 
 `sticker` `smug` `reaction`
 
-### 120. Too many emails, close laptop
+### 132. Too many emails, close laptop
 
 <img src="../gifs/inbox-close-laptop.gif" alt="Too many emails, close laptop" width="360">
 
@@ -1692,7 +1884,7 @@ A cartoon office worker with round glasses opening a laptop, the screen showing 
 
 `sticker` `office` `email`
 
-### 121. Caveman shrug
+### 133. Caveman shrug
 
 <img src="../gifs/caveman-shrug.gif" alt="Caveman shrug" width="360">
 
@@ -1706,7 +1898,7 @@ A stocky cartoon caveman with a wild orange beard, a bone hair clip and a spotte
 
 `sticker` `shrug` `reaction`
 
-### 122. Hedgehog hugging a sweet potato
+### 134. Hedgehog hugging a sweet potato
 
 <img src="../gifs/hedgehog-sweet-potato.gif" alt="Hedgehog hugging a sweet potato" width="360">
 
@@ -1720,7 +1912,7 @@ A tiny cartoon hedgehog hugging a roasted sweet potato almost as big as itself, 
 
 `sticker` `food` `doodle`
 
-### 123. Panda resting on a cushion
+### 135. Panda resting on a cushion
 
 <img src="../gifs/panda-cushion-rest.gif" alt="Panda resting on a cushion" width="360">
 
@@ -1734,7 +1926,7 @@ A chubby cartoon panda leaning back on a big round yellow cushion, slowly closin
 
 `sticker` `rest` `panda`
 
-### 124. Shrimp saved by a recovered file
+### 136. Shrimp saved by a recovered file
 
 <img src="../gifs/shrimp-file-rescued.gif" alt="Shrimp saved by a recovered file" width="360">
 
@@ -1748,7 +1940,7 @@ A small pink cartoon shrimp in a tiny office lanyard hugging a glowing blue fold
 
 `sticker` `office` `relief`
 
-### 125. Otter holding a thank-you sign
+### 137. Otter holding a thank-you sign
 
 <img src="../gifs/otter-thank-you.gif" alt="Otter holding a thank-you sign" width="360">
 
@@ -1764,7 +1956,7 @@ A small brown cartoon otter holding up a little wooden sign that reads "THANK YO
 
 `sticker` `thanks` `text`
 
-### 126. 90s anime blush
+### 138. 90s anime blush
 
 <img src="../gifs/anime-90s-blush.gif" alt="90s anime blush" width="360">
 
@@ -1778,7 +1970,7 @@ A 1990s cel-animation style boy with messy brown hair and a red scarf blushing: 
 
 `anime` `retro` `reaction`
 
-### 127. 90s anime gasp
+### 139. 90s anime gasp
 
 <img src="../gifs/anime-90s-gasp.gif" alt="90s anime gasp" width="360">
 
@@ -1794,7 +1986,7 @@ A 1990s cel-animation style girl with two long auburn braids, a band of freckles
 
 `anime` `retro` `reaction`
 
-### 128. Bunny rolling on the floor crying
+### 140. Bunny rolling on the floor crying
 
 <img src="../gifs/crying-roll-floor.gif" alt="Bunny rolling on the floor crying" width="360">
 
@@ -1808,7 +2000,7 @@ A chubby cream-colored cartoon bunny lying on its back on the floor, kicking its
 
 `sticker` `crying` `bunny`
 
-### 129. Frog puddle jump
+### 141. Frog puddle jump
 
 <img src="../gifs/frog-puddle-jump.gif" alt="Frog puddle jump" width="360">
 
@@ -1822,7 +2014,7 @@ A small green frog in a red raincoat leaping into a puddle, water splashing up i
 
 `sticker` `rain` `frog`
 
-### 130. Sloth wakes up with coffee
+### 142. Sloth wakes up with coffee
 
 <img src="../gifs/sloth-coffee-wake.gif" alt="Sloth wakes up with coffee" width="360">
 
@@ -1836,7 +2028,7 @@ A sleepy sloth hanging from a branch slowly sipping coffee from a tiny cup, then
 
 `sticker` `coffee` `morning`
 
-### 131. Axolotl blows a bubble
+### 143. Axolotl blows a bubble
 
 <img src="../gifs/axolotl-bubble.gif" alt="Axolotl blows a bubble" width="360">
 
@@ -1850,7 +2042,7 @@ A pink axolotl with frilly gills puffing its cheeks to blow a round bubble that 
 
 `sticker` `water` `cute`
 
-### 132. Cactus wants a hug
+### 144. Cactus wants a hug
 
 <img src="../gifs/cactus-hug-ouch.gif" alt="Cactus wants a hug" width="360">
 
@@ -1864,7 +2056,7 @@ A small potted cactus character opening its spiky arms wide for a hug, then look
 
 `sticker` `hug` `sad`
 
-### 133. Surprised toast pops up
+### 145. Surprised toast pops up
 
 <img src="../gifs/toaster-pop-surprise.gif" alt="Surprised toast pops up" width="360">
 
@@ -1878,7 +2070,7 @@ Two slices of toast with cartoon faces popping out of a chrome toaster, flipping
 
 `sticker` `food` `surprise`
 
-### 134. Snail mail delivery
+### 146. Snail mail delivery
 
 <img src="../gifs/snail-mail-delivery.gif" alt="Snail mail delivery" width="360">
 
@@ -1892,7 +2084,7 @@ A small snail with a tiny leather postbag slowly sliding forward and holding out
 
 `sticker` `mail` `slow`
 
-### 135. Mochi says OK
+### 147. Mochi says OK
 
 <img src="../gifs/mochi-ok-bow.gif" alt="Mochi says OK" width="360">
 
@@ -1906,7 +2098,7 @@ A round white mochi character with tiny arms bowing politely and then popping up
 
 `sticker` `caption` `ok`
 
-### 136. Raincoat kid big jump
+### 148. Raincoat kid big jump
 
 <img src="../gifs/raincoat-kid-jump.gif" alt="Raincoat kid big jump" width="360">
 
@@ -1920,7 +2112,7 @@ A chibi kid in a yellow raincoat crouching down, springing into a high jump with
 
 `sticker` `jump` `character`
 
-### 137. Flower-crown cat dance
+### 149. Flower-crown cat dance
 
 <img src="../gifs/flower-crown-cat-dance.gif" alt="Flower-crown cat dance" width="360">
 
@@ -1934,7 +2126,7 @@ A grey cat wearing a crown of small daisies doing a happy side-step dance on its
 
 `sticker` `cat` `dance`
 
-### 138. White cat and yarn ball
+### 150. White cat and yarn ball
 
 <img src="../gifs/white-cat-yarn.gif" alt="White cat and yarn ball" width="360">
 
@@ -1948,7 +2140,7 @@ A fluffy white kitten batting a red yarn ball, rolling onto its back with the ba
 
 `sticker` `cat` `play`
 
-### 139. Dramatic poodle faint
+### 151. Dramatic poodle faint
 
 <img src="../gifs/poodle-dramatic-faint.gif" alt="Dramatic poodle faint" width="360">
 
@@ -1962,7 +2154,7 @@ A white poodle mascot striking a dramatic pose, pressing a paw to its forehead a
 
 `sticker` `drama` `dog`
 
-### 140. Corgi begs for a snack
+### 152. Corgi begs for a snack
 
 <img src="../gifs/corgi-snack-beg.gif" alt="Corgi begs for a snack" width="360">
 
@@ -1976,7 +2168,7 @@ A fluffy corgi mascot staring up at a treat just above its head, drooling, wiggl
 
 `sticker` `dog` `food`
 
-### 141. Cardboard robot breakdance
+### 153. Cardboard robot breakdance
 
 <img src="../gifs/box-robot-breakdance.gif" alt="Cardboard robot breakdance" width="360">
 
@@ -1990,7 +2182,7 @@ A robot made from cardboard boxes with bottle-cap eyes doing a breakdance toproc
 
 `sticker` `dance` `robot`
 
-### 142. Grandma in her Sunday hat
+### 154. Grandma in her Sunday hat
 
 <img src="../gifs/sunday-hat-grandma.gif" alt="Grandma in her Sunday hat" width="360">
 
@@ -2004,7 +2196,7 @@ A cheerful cartoon grandma in a big floral Sunday hat and a pearl necklace clapp
 
 `sticker` `joy` `character`
 
-### 143. Hamster courier
+### 155. Hamster courier
 
 <img src="../gifs/hamster-courier.gif" alt="Hamster courier" width="360">
 
@@ -2018,7 +2210,7 @@ A small golden hamster in a tiny brown courier cap pushing a cardboard parcel tw
 
 `sticker` `work` `hamster`
 
-### 144. Tuxedo cat vs. foxtail toy
+### 156. Tuxedo cat vs. foxtail toy
 
 <img src="../gifs/tuxedo-cat-foxtail.gif" alt="Tuxedo cat vs. foxtail toy" width="360">
 
@@ -2032,7 +2224,7 @@ A simple black-and-white anime-style tuxedo cat sitting up and swatting at a fox
 
 `sticker` `cat` `monochrome`
 
-### 145. Shiba takes a snowball
+### 157. Shiba takes a snowball
 
 <img src="../gifs/shiba-snowball-face.gif" alt="Shiba takes a snowball" width="360">
 
@@ -2046,7 +2238,7 @@ A shiba inu in a red knitted winter hat standing in the snow gets hit in the fac
 
 `sticker` `winter` `funny`
 
-### 146. Shiba: on it, on it
+### 158. Shiba: on it, on it
 
 <img src="../gifs/shiba-fixing-caption.gif" alt="Shiba: on it, on it" width="360">
 
@@ -2060,7 +2252,7 @@ A cream shiba inu at a desk typing furiously on a keyboard with both paws, sweat
 
 `sticker` `caption` `work`
 
-### 147. Baby seal: sending love
+### 159. Baby seal: sending love
 
 <img src="../gifs/seal-heart.gif" alt="Baby seal: sending love" width="360">
 
@@ -2076,7 +2268,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `love`
 
-### 148. Baby seal: crying
+### 160. Baby seal: crying
 
 <img src="../gifs/seal-crying.gif" alt="Baby seal: crying" width="360">
 
@@ -2092,7 +2284,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `cry`
 
-### 149. Baby seal: giving up
+### 161. Baby seal: giving up
 
 <img src="../gifs/seal-melt-slack.gif" alt="Baby seal: giving up" width="360">
 
@@ -2108,7 +2300,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `lazy`
 
-### 150. Baby seal: sneaky giggle
+### 162. Baby seal: sneaky giggle
 
 <img src="../gifs/seal-giggle.gif" alt="Baby seal: sneaky giggle" width="360">
 
@@ -2124,7 +2316,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `laugh`
 
-### 151. Baby seal: shocked
+### 163. Baby seal: shocked
 
 <img src="../gifs/seal-shocked.gif" alt="Baby seal: shocked" width="360">
 
@@ -2140,7 +2332,7 @@ a chubby white baby harp seal with big glossy black eyes, pink cheeks and a tiny
 
 `sticker` `seal` `shock`
 
-### 152. Bowl-cut dog scrolling
+### 164. Bowl-cut dog scrolling
 
 <img src="../gifs/bowl-cut-dog-phone.gif" alt="Bowl-cut dog scrolling" width="360">
 
@@ -2154,7 +2346,7 @@ A small dog with a perfectly round bowl-cut hairstyle lying on its belly, scroll
 
 `sticker` `phone` `dog`
 
-### 153. Gorilla shuffle dance
+### 165. Gorilla shuffle dance
 
 <img src="../gifs/gorilla-bowtie-shuffle.gif" alt="Gorilla shuffle dance" width="360">
 
@@ -2168,7 +2360,7 @@ A chunky cartoon gorilla wearing a tiny red bow tie doing a side-to-side shuffle
 
 `sticker` `dance` `animal`
 
-### 154. Mantis shrimp jiggles a flan
+### 166. Mantis shrimp jiggles a flan
 
 <img src="../gifs/mantis-shrimp-flan.gif" alt="Mantis shrimp jiggles a flan" width="360">
 
@@ -2182,7 +2374,7 @@ A rainbow-colored cartoon mantis shrimp poking a caramel flan on a plate with bo
 
 `sticker` `food` `funny`
 
-### 155. Grateful shrimp bows deeply
+### 167. Grateful shrimp bows deeply
 
 <img src="../gifs/grateful-shrimp-bow.gif" alt="Grateful shrimp bows deeply" width="360">
 
@@ -2196,7 +2388,7 @@ A small pink cartoon shrimp pressing its claws together, raising them high over 
 
 `sticker` `caption` `thanks`
 
-### 156. Cat dozing in a VR headset
+### 168. Cat dozing in a VR headset
 
 <img src="../gifs/vr-cat-nap.gif" alt="Cat dozing in a VR headset" width="360">
 
@@ -2210,7 +2402,7 @@ A fluffy grey cat wearing a sleek white VR headset slowly nodding off, its head 
 
 `sticker` `cat` `tech`
 
-### 157. Gym bear doing chest presses
+### 169. Gym bear doing chest presses
 
 <img src="../gifs/gym-chest-press.gif" alt="Gym bear doing chest presses" width="360">
 
@@ -2224,7 +2416,7 @@ A muscular cartoon brown bear in a red tank top lying on a bench and pressing a 
 
 `sticker` `fitness` `bear`
 
-### 158. Duckling with a tiny umbrella
+### 170. Duckling with a tiny umbrella
 
 <img src="../gifs/duck-dance-umbrella.gif" alt="Duckling with a tiny umbrella" width="360">
 
@@ -2238,7 +2430,7 @@ A yellow duckling holding a tiny red umbrella hopping in a small puddle, splashe
 
 `sticker` `duck` `rain`
 
-### 159. Hamster stuffing its cheeks
+### 171. Hamster stuffing its cheeks
 
 <img src="../gifs/hamster-cheek-stuff.gif" alt="Hamster stuffing its cheeks" width="360">
 
@@ -2252,7 +2444,7 @@ A golden hamster sitting up and stuffing sunflower seeds into its cheeks until t
 
 `sticker` `hamster` `food`
 
-### 160. Baby robot wave and hop
+### 172. Baby robot wave and hop
 
 <img src="../gifs/baby-robot-hop.gif" alt="Baby robot wave and hop" width="360">
 
@@ -2266,7 +2458,7 @@ A tiny round white baby robot with a glowing blue face screen and stubby legs wa
 
 `sticker` `robot` `hello`
 
-### 161. Cat flying on a broomstick
+### 173. Cat flying on a broomstick
 
 <img src="../gifs/cat-on-broom.gif" alt="Cat flying on a broomstick" width="360">
 
@@ -2280,7 +2472,7 @@ A black cat with a tiny red scarf riding a wooden broomstick across a night sky,
 
 `sticker` `cat` `magic`
 
-### 162. Office worker: received!
+### 174. Office worker: received!
 
 <img src="../gifs/office-worker-received.gif" alt="Office worker: received!" width="360">
 
@@ -2294,7 +2486,7 @@ A chibi office worker with a tidy bob and a lanyard snapping to attention and gi
 
 `sticker` `office` `reply`
 
-### 163. Otter in a teal scarf waving
+### 175. Otter in a teal scarf waving
 
 <img src="../gifs/otter-scarf-wave.gif" alt="Otter in a teal scarf waving" width="360">
 
@@ -2308,7 +2500,7 @@ A small brown sea otter with a cream muzzle and a teal knitted scarf turning tow
 
 `sticker` `otter` `hello`
 
-### 164. Penguin panics after hitting send
+### 176. Penguin panics after hitting send
 
 <img src="../gifs/penguin-send-panic.gif" alt="Penguin panics after hitting send" width="360">
 
@@ -2322,7 +2514,7 @@ A small cartoon penguin slapping a big round red button labeled "SEND", then fre
 
 `sticker` `penguin` `reaction`
 
-### 165. Lobster working overtime
+### 177. Lobster working overtime
 
 <img src="../gifs/lobster-overtime.gif" alt="Lobster working overtime" width="360">
 
@@ -2336,7 +2528,7 @@ A red cartoon lobster wearing round glasses typing furiously on a keyboard with 
 
 `sticker` `work` `funny`
 
-### 166. Cat baker sneezes flour
+### 178. Cat baker sneezes flour
 
 <img src="../gifs/cat-baker-sneeze.gif" alt="Cat baker sneezes flour" width="360">
 
@@ -2350,7 +2542,7 @@ An anthropomorphic orange cat in an apron kneading dough on a wooden counter, th
 
 `sticker` `cat` `cooking`
 
-### 167. Apprentice spell backfires
+### 179. Apprentice spell backfires
 
 <img src="../gifs/wizard-spell-backfire.gif" alt="Apprentice spell backfires" width="360">
 
@@ -2364,7 +2556,7 @@ A chibi wizard apprentice in an oversized purple hat waves a wand, a small puff 
 
 `sticker` `magic` `fail`
 
-### 168. Laughing so hard it cries
+### 180. Laughing so hard it cries
 
 <img src="../gifs/laughing-tears-blob.gif" alt="Laughing so hard it cries" width="360">
 
@@ -2378,7 +2570,7 @@ A round pink mochi blob character throwing its head back and laughing hysterical
 
 `sticker` `laugh` `reaction`
 
-### 169. Orange cat pouncing at the camera
+### 181. Orange cat pouncing at the camera
 
 <img src="../gifs/orange-cat-pounce-lens.gif" alt="Orange cat pouncing at the camera" width="360">
 
@@ -2392,7 +2584,7 @@ A chubby orange cat crouching, wiggling its rear, then leaping straight toward t
 
 `sticker` `cat` `funny`
 
-### 170. Goodnight kitty
+### 182. Goodnight kitty
 
 <img src="../gifs/goodnight-cat.gif" alt="Goodnight kitty" width="360">
 
@@ -2406,7 +2598,7 @@ A sleepy white kitten in a blue nightcap hugging a small pillow, slowly yawning 
 
 `sticker` `cat` `goodnight`
 
-### 171. Puppy swaying with hearts
+### 183. Puppy swaying with hearts
 
 <img src="../gifs/puppy-heart-sway.gif" alt="Puppy swaying with hearts" width="360">
 
@@ -2420,7 +2612,7 @@ A fluffy cream-colored puppy sitting and swaying its head left and right with it
 
 `sticker` `dog` `love`
 
-### 172. Busy bee clocking in
+### 184. Busy bee clocking in
 
 <img src="../gifs/busy-bee-clock-in.gif" alt="Busy bee clocking in" width="360">
 
@@ -2434,7 +2626,7 @@ A round fuzzy cartoon bee with a tiny lanyard badge buzzing in place, wings flut
 
 `sticker` `bee` `work`
 
-### 173. Top-hat frog shooing bad vibes
+### 185. Top-hat frog shooing bad vibes
 
 <img src="../gifs/top-hat-frog-shoo.gif" alt="Top-hat frog shooing bad vibes" width="360">
 
@@ -2448,7 +2640,7 @@ A small green frog in a tall black top hat and a monocle waving a tiny cane in c
 
 `sticker` `frog` `reaction`
 
-### 174. Cat in sunglasses dancing
+### 186. Cat in sunglasses dancing
 
 <img src="../gifs/sunglasses-cat-dance.gif" alt="Cat in sunglasses dancing" width="360">
 
@@ -2462,7 +2654,7 @@ A cool grey cat wearing tiny black sunglasses doing a side-to-side groove dance,
 
 `sticker` `cat` `dance`
 
-### 175. Chibi trader celebrating a rally
+### 187. Chibi trader celebrating a rally
 
 <img src="../gifs/chibi-trader-moon.gif" alt="Chibi trader celebrating a rally" width="360">
 
@@ -2476,7 +2668,7 @@ A chibi office worker in a white shirt and loose tie jumping up from his chair a
 
 `sticker` `office` `finance`
 
-### 176. Chibi trader watching stocks crash
+### 188. Chibi trader watching stocks crash
 
 <img src="../gifs/chibi-trader-crash.gif" alt="Chibi trader watching stocks crash" width="360">
 
@@ -2490,7 +2682,7 @@ A chibi office worker in a white shirt and loose tie staring at a laptop where a
 
 `sticker` `office` `finance`
 
-### 177. Roaring duck
+### 189. Roaring duck
 
 <img src="../gifs/roaring-duck.gif" alt="Roaring duck" width="360">
 
@@ -2504,7 +2696,7 @@ A small round yellow duck suddenly opening its beak wide and roaring like a lion
 
 `sticker` `reaction` `funny`
 
-### 178. Office cat: clocking out
+### 190. Office cat: clocking out
 
 <img src="../gifs/office-cat-clock-out.gif" alt="Office cat: clocking out" width="360">
 
@@ -2518,7 +2710,7 @@ A chubby orange tabby cat office worker with a tiny blue tie and an employee bad
 
 `sticker` `work` `sticker-pack`
 
-### 179. Office cat: exhausted
+### 191. Office cat: exhausted
 
 <img src="../gifs/office-cat-exhausted.gif" alt="Office cat: exhausted" width="360">
 
@@ -2534,7 +2726,7 @@ A chubby orange tabby cat office worker with a tiny blue tie and an employee bad
 
 `sticker` `work` `sticker-pack`
 
-### 180. Black cat punch
+### 192. Black cat punch
 
 <img src="../gifs/black-cat-punch.gif" alt="Black cat punch" width="360">
 
@@ -2548,7 +2740,7 @@ A round black cat with big yellow eyes throwing a quick one-two punch toward the
 
 `sticker` `reaction` `cat`
 
-### 181. Cat chef tossing fried rice
+### 193. Cat chef tossing fried rice
 
 <img src="../gifs/cat-chef-fried-rice.gif" alt="Cat chef tossing fried rice" width="360">
 
@@ -2562,7 +2754,7 @@ A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies 
 
 `sticker` `food` `cat`
 
-### 182. Basketball shot celebration
+### 194. Basketball shot celebration
 
 <img src="../gifs/basketball-shot-sticker.gif" alt="Basketball shot celebration" width="360">
 
@@ -2578,7 +2770,7 @@ A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes thro
 
 `sticker` `sports` `celebration`
 
-### 183. Penguin facepalm
+### 195. Penguin facepalm
 
 <img src="../gifs/penguin-facepalm.gif" alt="Penguin facepalm" width="360">
 
@@ -2592,7 +2784,7 @@ A chubby cartoon penguin slowly raising one flipper and slapping it onto its for
 
 `sticker` `reaction` `facepalm`
 
-### 184. Frog blowing a heart
+### 196. Frog blowing a heart
 
 <img src="../gifs/frog-heart-bubble.gif" alt="Frog blowing a heart" width="360">
 
@@ -2606,7 +2798,7 @@ A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bu
 
 `sticker` `love` `cute`
 
-### 185. Cat typing furiously
+### 197. Cat typing furiously
 
 <img src="../gifs/cat-typing-laptop.gif" alt="Cat typing furiously" width="360">
 
@@ -2622,7 +2814,7 @@ A grey tabby cat sitting at a tiny laptop and typing furiously with both front p
 
 `sticker` `work` `cat`
 
-### 186. Confused shiba head tilt
+### 198. Confused shiba head tilt
 
 <img src="../gifs/shiba-head-tilt.gif" alt="Confused shiba head tilt" width="360">
 
@@ -2636,7 +2828,7 @@ A fluffy orange shiba inu puppy tilting its head to one side and back again, ear
 
 `sticker` `reaction` `dog`
 
-### 187. Cartoon cat waving hello
+### 199. Cartoon cat waving hello
 
 <img src="../gifs/cat-waving-hello.gif" alt="Cartoon cat waving hello" width="360">
 
@@ -2652,7 +2844,7 @@ A cheerful cartoon cat waving hello.
 
 `sticker` `greeting` `minimal-prompt`
 
-### 188. Sleepy bunny
+### 200. Sleepy bunny
 
 <img src="../gifs/bunny-sleepy.gif" alt="Sleepy bunny" width="360">
 
@@ -2666,7 +2858,7 @@ A small white cartoon bunny with long floppy ears and a pink nose, sitting and n
 
 `sticker` `reaction` `sticker-pack`
 
-### 189. Bunny laughing to tears
+### 201. Bunny laughing to tears
 
 <img src="../gifs/bunny-laughing.gif" alt="Bunny laughing to tears" width="360">
 
@@ -2680,7 +2872,7 @@ A small white cartoon bunny with long floppy ears and a pink nose, laughing so h
 
 `sticker` `reaction` `sticker-pack`
 
-### 190. Bunny thumbs-up
+### 202. Bunny thumbs-up
 
 <img src="../gifs/bunny-thumbs-up.gif" alt="Bunny thumbs-up" width="360">
 
@@ -2696,7 +2888,7 @@ A small white cartoon bunny with long floppy ears and a pink nose, giving an ent
 
 `sticker` `reaction` `sticker-pack`
 
-### 191. Jelly bear wobble
+### 203. Jelly bear wobble
 
 <img src="../gifs/jelly-bear-wobble.gif" alt="Jelly bear wobble" width="360">
 

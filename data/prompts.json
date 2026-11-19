@@ -6334,6 +6334,786 @@
         "handle": "DawienZZ",
         "profile_url": "https://x.com/DawienZZ"
       }
+    },
+    {
+      "id": "glasses-frog-fast-typing",
+      "category": "stickers",
+      "title": "Glasses frog typing fast",
+      "title_zh": "戴眼镜的青蛙疯狂打字",
+      "prompt": "Flat cel-shaded comic reaction illustration, locked front-on camera. A determined little green tree frog wearing round wire-rim glasses sits behind a silver laptop at a desk, rapidly tapping alternate webbed hands on the keyboard with tiny white motion arcs above its fingers while its glasses glint once, returning to the exact starting hand position on the final frame for a clean loop. Solid warm cream-teal background, bold outlines, no text.",
+      "tags": [
+        "reaction",
+        "frog",
+        "work"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "pixel-retriever-thumbs-up",
+      "category": "pixel-ui",
+      "title": "16-bit golden retriever thumbs-up",
+      "title_zh": "16 位像素金毛点赞",
+      "prompt": "Crisp 16-bit pixel art reaction icon, locked front-on camera. A cheerful golden retriever wearing cool dark pixel sunglasses gives an enthusiastic double thumbs-up as three tiny yellow pixel stars pop around its head and fade out, returning to the exact starting pose on the final frame for a clean loop. Solid deep midnight-blue background, limited retro palette, no text.",
+      "tags": [
+        "pixel-art",
+        "dog",
+        "reaction"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "clay-star-hop-sticker",
+      "category": "stickers",
+      "title": "Die-cut clay star hop",
+      "title_zh": "黏土星星蹦跳贴纸",
+      "prompt": "Glossy 3D clay-style die-cut sticker with a thick white sticker border on a completely transparent background, locked front-on camera. A cheerful yellow five-pointed star character wearing tiny round black sunglasses does a happy little hop and lands softly back in its exact starting stance on the final frame for a clean loop. Crisp cutout edge, flat vibrant colors, no text.",
+      "tags": [
+        "sticker",
+        "transparent",
+        "3d-clay"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "ship-it-badge-wiggle",
+      "category": "stickers",
+      "title": "\"SHIP IT!\" badge sticker wiggle",
+      "title_zh": "“SHIP IT!”徽章贴纸摇摆",
+      "prompt": "Bold street-art die-cut sticker badge with a thick white cutout border on a completely transparent background, locked front-on camera. Chunky crimson block letters reading \"SHIP IT!\" sit centered inside a bright yellow starburst badge. The badge tilts slightly left and right with tiny black comic wiggle lines around the border, then returns to the exact starting angle on the final frame for a clean loop. Crisp flat ink colors, exact spelling.",
+      "tags": [
+        "sticker",
+        "text",
+        "transparent"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "coffee-bag-espresso-steam",
+      "category": "product",
+      "title": "Coffee bag hero shot with espresso steam",
+      "title_zh": "咖啡豆袋主图＋浓缩咖啡热气",
+      "prompt": "Locked tripod commercial product shot in soft morning studio light. A matte terracotta kraft coffee bag with a clean cream front label reading \"MORNING ROAST\" in sharp dark-brown sans-serif type stands completely motionless beside a speckled stoneware espresso cup on a travertine counter. Only a thin ribbon of warm white steam curls gently upward from the cup and settles back to the exact starting wisp on the final frame for a clean loop. Keep the coffee bag, label text, and cup completely still across every frame.",
+      "tags": [
+        "product",
+        "coffee",
+        "steam"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "earbuds-case-led-pulse",
+      "category": "product",
+      "title": "Earbuds case with pulsing LED",
+      "title_zh": "耳机充电盒指示灯呼吸",
+      "prompt": "Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-gray wireless earbuds charging case sits open with both earbuds resting inside, completely motionless. Only the tiny round emerald-green status LED on the front lip of the case pulses smoothly from dim to bright green with a soft tiny halo and fades back to dim on the final frame for a clean loop. Keep the case, earbuds, and reflections completely still, no text.",
+      "tags": [
+        "product",
+        "tech",
+        "macro"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "three-pill-wave-loader",
+      "category": "pixel-ui",
+      "title": "Three-pill wave loader",
+      "title_zh": "三颗胶囊波浪加载动画",
+      "prompt": "Minimalist flat-vector UI loading indicator on a completely transparent background, locked front-on view. Three rounded cobalt-blue pill dots sit in a horizontal row; the left dot hops up, then the center dot, then the right dot in a crisp wave, and all three settle level in their exact starting alignment on the final frame for a clean loop. Sharp vector edges, solid flat blue, no text.",
+      "tags": [
+        "loader",
+        "ui",
+        "transparent"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "paper-plane-empty-state",
+      "category": "pixel-ui",
+      "title": "Paper airplane empty-state loader",
+      "title_zh": "纸飞机空状态加载图",
+      "prompt": "Clean flat vector empty-state loading illustration, locked front-on view. Inside a soft powder-blue circle badge on a crisp off-white square background, a folded coral-orange paper airplane glides in a gentle up-and-down bobbing arc above two tiny stationary white clouds, returning to its exact starting height and angle on the final frame for a clean loop. Flat colors, no gradients, no text.",
+      "tags": [
+        "loader",
+        "ui",
+        "flat"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "ember-logo-flame-flicker",
+      "category": "flash",
+      "title": "EMBER logo with flickering flame",
+      "title_zh": "EMBER 标志火焰跳动",
+      "prompt": "Minimalist flat vector brand logo lockup on a solid charcoal-black square background, locked front-on view. Centered copper-orange stylized campfire emblem above clean cream geometric sans-serif all-caps wordmark reading \"EMBER\". Only the center flame tongue of the copper emblem flickers smoothly upward a few pixels and settles back into its exact starting silhouette on the final frame for a clean loop. Keep the wordmark \"EMBER\" and side logs completely motionless across every frame, crisp flat colors.",
+      "tags": [
+        "logo",
+        "brand",
+        "flat"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "compass-app-icon-settle",
+      "category": "pixel-ui",
+      "title": "Compass app icon needle swing",
+      "title_zh": "指南针 App 图标指针摆动",
+      "prompt": "Minimalist flat-vector rounded-square app icon on a completely transparent background, locked front-on view. A solid deep-teal rounded square dial with four tiny white tick marks holds a two-tone coral-and-white diamond compass needle pointing straight up. The compass needle swings 20 degrees clockwise, rebounds slightly left, and settles pointing straight up again in its exact starting alignment on the final frame for a clean loop. Flat crisp vector shapes, no gradients, no text.",
+      "tags": [
+        "icon",
+        "app",
+        "transparent"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "rainy-dusk-window-puddle",
+      "category": "loops",
+      "title": "Rainy dusk window with puddle ripples",
+      "title_zh": "雨夜窗外路灯倒影涟漪",
+      "prompt": "Cozy lo-fi anime illustration seen through a dark wooden apartment window at dusk, locked camera. Diagonal rain streaks fall across the windowpane while warm amber streetlamp reflections ripple gently inside a wet cobblestone puddle below, returning to the exact starting rain and ripple pattern on the final frame for a clean loop. Keep the wooden window frame and indoor potted fern completely still, clean flat shading, no text.",
+      "tags": [
+        "rain",
+        "lo-fi",
+        "anime"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "snowy-twilight-campfire",
+      "category": "loops",
+      "title": "Snowy twilight campfire (16 frames)",
+      "title_zh": "雪夜篝火（16 帧）",
+      "prompt": "Flat storybook winter landscape illustration, locked wide camera. In a quiet twilight clearing ringed by snow-dusted dark-teal pine trees, a small stone-ringed campfire crackles gently as warm orange flames sway and three tiny glowing embers drift slightly upward before settling back to the exact starting flame shape on the final frame for a clean loop. Keep the pine trees, snowbanks, and stones completely motionless, no text.",
+      "tags": [
+        "winter",
+        "campfire",
+        "storybook"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "brass-metronome-swing",
+      "category": "loops",
+      "title": "Vintage brass metronome swing",
+      "title_zh": "复古黄铜节拍器摆动",
+      "prompt": "Clean studio illustration on a muted sage-green background, locked dead-center front-on camera. A vintage pyramid-shaped walnut and polished-brass desk metronome rests motionless on a dark oak shelf. On frame 1, the vertical brass pendulum rod stands dead-center upright at 12 o'clock; across the middle frames it swings smoothly left, then swings right, and on the final frame it returns to the exact dead-center 12 o'clock upright starting position for a seamless loop. Keep the wooden metronome body, scale markings, and shelf completely still, no text.",
+      "tags": [
+        "metronome",
+        "mechanical",
+        "loop"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "raccoon-breaks-prod-meme",
+      "category": "stickers",
+      "title": "Raccoon meme: the 5-minute fix broke prod",
+      "title_zh": "浣熊梗图：五分钟修复搞崩线上",
+      "prompt": "Square internet reaction meme GIF with a solid white top caption bar reading \"WHEN THE '5-MINUTE FIX' BREAKS PROD\" in bold black sans-serif all-caps letters. Below the caption bar, locked front-on comic illustration of a wide-eyed gray raccoon wearing a black headset sitting at a dark desk behind an open laptop. Warm red-orange monitor light pulses across the raccoon's face as its paws hover tensely over the keyboard and its ears flatten slightly, then return to the exact starting pose on the final frame for a clean loop. Keep the white top bar and every letter of \"WHEN THE '5-MINUTE FIX' BREAKS PROD\" completely crisp and motionless across all frames.",
+      "tags": [
+        "meme",
+        "caption",
+        "developer"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/chatgpt-gif",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "on-air-neon-meter-pulse",
+      "category": "flash",
+      "title": "\"ON AIR\" neon sign with level meter",
+      "title_zh": "“ON AIR”霓虹灯与音量表闪动",
+      "prompt": "Locked tripod close-up shot through a dark midnight recording studio glass booth window, 16:9 looping animation. Inside the dark acoustic booth, a sleek red neon sign reading 'ON AIR' above a minimal 4-bar digital LED audio level meter pulses in a clean seamless cycle: frame 1 starts at a soft dim crimson resting glow with four low blue meter bars, frames 3 to 6 flare into a bright vermilion neon halo with warm glass reflections while the LED bars jump into yellow and red peaks, and frames 7 to 9 settle smoothly back to the exact dim resting glow and four blue bars of frame 1. Condenser microphone silhouette and studio headphones in foreground stay completely still.",
+      "tags": [
+        "neon",
+        "studio",
+        "text"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/gpt-image-2-6",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "cassette-side-a-sticker",
+      "category": "stickers",
+      "title": "Cassette \"SIDE A\" sticker with notes",
+      "title_zh": "磁带“SIDE A”贴纸冒音符",
+      "prompt": "Locked front-on 1:1 animated die-cut vinyl sticker on a fully transparent background with a crisp thick white kiss-cut border. A tilted brushed-silver and signal-orange compact cassette tape labeled 'SIDE A' in clean white sans-serif type. Across 8 frames, both white inner tape reel gears rotate smoothly while two bold electric-cobalt musical notes pop playfully out of the top-right corner on frames 2 to 5 and fade cleanly away by frame 8 so frame 8 matches frame 1's clean silhouette for a seamless loop.",
+      "tags": [
+        "sticker",
+        "retro",
+        "music"
+      ],
+      "source": {
+        "platform": "ChatCut Blog",
+        "url": "https://chatcut.io/blog/gpt-image-2-6",
+        "author": "Fuxuan Guo",
+        "profile_url": "https://chatcut.io/blog"
+      }
+    },
+    {
+      "id": "clay-orange-cat-wave-blink",
+      "category": "stickers",
+      "title": "3D clay orange cat waves and blinks",
+      "title_zh": "3D 黏土橘猫挥手眨眼",
+      "prompt": "請製作一張正方形 1:1 GIF 動畫。一隻可愛的橘貓坐在奶油白色背景前，慢慢抬起前腳揮手，接著眨眼，最後回到原本姿勢。採用精緻的 3D 黏土插畫風格，毛髮柔軟、表情可愛。鏡頭固定，保持角色外觀一致，製作自然流暢的無縫循環動畫，不要加入文字。",
+      "tags": [
+        "cat",
+        "3d-clay",
+        "sticker"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "robot-mascot-welcome-wave",
+      "category": "flash",
+      "title": "Round robot mascot welcome wave",
+      "title_zh": "圆润机器人吉祥物欢迎挥手",
+      "prompt": "請製作一張 GIF 動畫，一隻圓潤可愛的機器人吉祥物站在畫面中央，先微笑眨眼，再抬起右手向觀眾揮手，最後恢復站立姿勢。使用柔和的藍白配色、簡潔 3D 插畫風格，背景灰白。保持角色造型、配色及身體比例一致，鏡頭固定，製作可以無縫循環的動畫。",
+      "tags": [
+        "mascot",
+        "brand",
+        "3d"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "earbuds-case-lid-open-close",
+      "category": "product",
+      "title": "Earbuds case lid opens and closes",
+      "title_zh": "耳机充电盒开合展示",
+      "prompt": "請製作一張 1:1 的高質感產品展示 GIF。畫面中央是一個【極簡白色無線耳機充電盒】，放置於淡灰色攝影棚背景。動畫從盒蓋關閉開始，接著盒蓋慢慢打開，展示內部耳機，最後緩緩關閉。商品外觀、比例、材質與顏色必須保持一致，鏡頭固定，使用柔和商業攝影光線，製作平滑循環動畫，不要加入文字。",
+      "tags": [
+        "product",
+        "tech",
+        "ecommerce"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "chibi-worker-notification-flop",
+      "category": "stickers",
+      "title": "Chibi office worker sees the notification",
+      "title_zh": "Q版上班族看到工作通知瘫倒",
+      "prompt": "請製作一張幽默的 GIF 動畫。一名 Q 版上班族坐在電腦前，先露出充滿期待的表情，接著看到螢幕上的工作通知，眼睛瞬間睜大，最後無奈地趴在桌上。使用可愛的日系 2D 插畫風格，背景為簡約辦公室，角色服裝與桌面物品保持一致。鏡頭固定，動作誇張但自然，動畫可以無縫循環，不要加入文字。",
+      "tags": [
+        "office",
+        "reaction",
+        "chibi"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "orange-dots-bounce-loader",
+      "category": "pixel-ui",
+      "title": "Three orange dots bounce loader",
+      "title_zh": "三颗橘色圆点跳动加载",
+      "prompt": "請設計一張極簡風格的 GIF 載入動畫。畫面中央有三顆橘色小圓點，依序從左至右向上跳動，再回到原本位置，形成自然連續的節奏。背景透明，整體使用簡潔的扁平化設計，圓點大小與顏色保持一致。鏡頭固定，動畫無縫循環，不要加入文字或其他裝飾。",
+      "tags": [
+        "loader",
+        "ui",
+        "flat"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "latte-art-steam-cafe",
+      "category": "food",
+      "title": "Latte art with rising steam in a sunny cafe",
+      "title_zh": "阳光咖啡馆里冒热气的拉花拿铁",
+      "prompt": "請製作一張 1:1 正方形 GIF 動畫。畫面中央是一杯放在木桌上的熱拿鐵，杯中有精緻的愛心拉花，背景是陽光灑落的日系咖啡廳。讓咖啡上方的白色蒸氣緩緩向上飄動，窗邊的薄紗窗簾輕輕晃動，陽光保持溫暖柔和。採用高質感寫實攝影風格，固定鏡頭，杯子、桌面與拉花完全保持靜止。動畫長度約 4 秒，節奏緩慢、自然流暢，適合無縫循環播放，不要加入文字。",
+      "tags": [
+        "coffee",
+        "cafe",
+        "steam"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "felt-birthday-cake-kitten",
+      "category": "holidays",
+      "title": "Felt-style birthday cake with a party kitten",
+      "title_zh": "羊毛毡风生日蛋糕与戴帽小猫",
+      "prompt": "請製作一張 直式 4:5、約 4 秒的生日祝福 GIF 動畫，採用溫暖可愛的日系羊毛氈 3D 插畫風格。畫面中央是一個精緻的草莓鮮奶油蛋糕，插著三根點燃的粉色蠟燭。蛋糕右側坐著一隻戴生日帽的奶油色小貓，開心地抱著蛋糕，左側擺放粉色禮物盒。背景搭配三角旗幟、發光星星與木質桌面，使用奶油白、蜜桃粉與暖金色調，呈現溫馨療癒的童話氛圍。動畫效果： 蠟燭火焰輕輕搖曳，星星依序閃爍，最後少量粉色彩紙從上方緩緩飄落。保持角色、蛋糕與背景造型一致，鏡頭固定，動作自然流暢，可無縫循環播放。不要加入任何文字。",
+      "tags": [
+        "birthday",
+        "felt",
+        "greeting"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "revenue-bar-chart-grow",
+      "category": "explainers",
+      "title": "Annual revenue bar chart growing",
+      "title_zh": "年度营收柱状图逐年增长",
+      "prompt": "請製作一張 16:9 橫式 GIF 動畫，主題為企業年度營收成長。畫面使用暖白色背景、深灰色文字與橘色重點配色，呈現簡潔專業的商業資訊圖表風格。中央有四根長條圖，分別代表 2023、2024、2025、2026 年，數值依序為 100、150、210、300，單位為百萬元。動畫開始時所有長條從零逐漸向上延伸，依照年份由左至右依序完成，最後停留在完整圖表畫面。確保年份、數字與長條高度完全對應，所有文字清晰可讀，鏡頭固定。動畫約 5 秒，不要增加其他數據或裝飾元素。",
+      "tags": [
+        "chart",
+        "business",
+        "data"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "watercolor-sakura-town-breeze",
+      "category": "loops",
+      "title": "Watercolor sakura town in the breeze",
+      "title_zh": "水彩绘本小镇樱花飘落",
+      "prompt": "請製作一張 16:9 橫式 GIF 動畫。畫面是一座日系手繪風格的小鎮，街道兩側有溫暖的木造房屋、綠色植物與盛開的櫻花樹，遠方能看見淡藍色天空。採用柔和水彩與鉛筆線條交織的繪本插畫風格，保留細緻的紙張紋理。動畫中微風吹過，櫻花花瓣緩緩從樹上飄落，街邊植物輕輕搖擺，天空中的白雲緩慢移動。所有建築與街道保持靜止，鏡頭固定，整體氛圍安靜療癒。製作約 5 秒、動作自然且可以無縫循環的 GIF，不要加入任何文字。",
+      "tags": [
+        "watercolor",
+        "sakura",
+        "storybook"
+      ],
+      "source": {
+        "platform": "數位時代 BusinessNext",
+        "url": "https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts",
+        "author": "蘇柔瑋",
+        "profile_url": "https://www.bnext.com.tw/"
+      }
+    },
+    {
+      "id": "pixel-explosion-mushroom-cloud",
+      "category": "pixel-ui",
+      "title": "Pixel-art explosion with mushroom cloud",
+      "title_zh": "像素爆炸与蘑菇云特效",
+      "prompt": "Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered as large as you can (at least 512x512). 16 frames, about 80 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide, so the explosion has a lot of detail (about 120 art pixels tall at its peak). The camera does not move. The bottom edge of the frame is the ground line, and the explosion hits the ground at the bottom centre, at the same point in every frame. Don't draw the ground itself. Sequence: a tiny spark on the ground; one bright white flash frame; a huge orange and yellow fireball that grows until it fills about three quarters of the frame height and rises into a mushroom cloud with a fiery stem; debris chunks and sparks flying out in arcs; a thin dust ring rolling sideways along the ground; the fire breaks up into a light grey smoke column that rises and drifts; glowing embers fade out until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 20 colours (white, yellows, oranges, reds, dark reds and four neutral greys for the smoke). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.",
+      "tags": [
+        "pixel-art",
+        "game-fx",
+        "explosion"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/kasperzackgames/chatgpt-pixel-effects",
+        "author": "kasperzackgames",
+        "handle": "kasperzackgames",
+        "profile_url": "https://github.com/kasperzackgames"
+      }
+    },
+    {
+      "id": "pixel-energy-beam-blast",
+      "category": "pixel-ui",
+      "title": "Pixel-art energy beam",
+      "title_zh": "像素能量光束特效",
+      "prompt": "Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wide frame twice as wide as it is tall, rendered as large as you can. 16 frames, about 70 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide. The camera does not move. The beam starts at the left edge at mid-height, at the same point in every frame. Sequence: a small glowing orb of energy charges at the left edge, crackling and growing as sparks are pulled into it; it fires: a thick straight beam with a white core and cyan and electric blue outer layers shoots to the right edge within two frames; the beam holds for several frames, pulsing thicker and thinner, with bright ripples travelling along it, rings around its origin and sparks spraying off its edges; the beam thins to a line and vanishes; small sparks and a fading glow at the origin until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 14 colours (white, pale cyan, cyans, electric blues, deep blue). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.",
+      "tags": [
+        "pixel-art",
+        "game-fx",
+        "beam"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/beam",
+        "author": "kasperzackgames",
+        "handle": "kasperzackgames",
+        "profile_url": "https://github.com/kasperzackgames"
+      }
+    },
+    {
+      "id": "pixel-volcano-eruption",
+      "category": "pixel-ui",
+      "title": "Pixel-art volcano eruption",
+      "title_zh": "像素火山喷发特效",
+      "prompt": "Make an animated GIF of a pixel-art volcano eruption seen from far away, for the background of a 2D side-view game, in a square frame, rendered as large as you can. 16 frames, about 90 ms per frame. Use fine pixel art: each art pixel is exactly 2 image pixels wide. The camera does not move. The crater is at the bottom centre of the frame, at the same point in every frame; don't draw the mountain itself, only what comes out of the crater. Sequence: frames 1 to 4: the crater glows brighter and spits a few sparks; frame 5: a bright burst; frames 6 to 16: a full eruption that loops seamlessly from frame 16 back to frame 6: a fountain of glowing lava shooting straight up from the crater, glowing lava bombs flying out in high arcs and falling back down on both sides, and a thick dark ash column rising above it, its underside lit red and orange by the lava, the top of the ash staying inside the frame. Leave empty background around everything so nothing is cut off by the frame edges. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 18 colours (white, yellows, oranges, reds, dark reds, and four dark grey-browns for the ash). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.",
+      "tags": [
+        "pixel-art",
+        "game-fx",
+        "eruption"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/eruption",
+        "author": "kasperzackgames",
+        "handle": "kasperzackgames",
+        "profile_url": "https://github.com/kasperzackgames"
+      }
+    },
+    {
+      "id": "pixel-fire-pillar-burst",
+      "category": "pixel-ui",
+      "title": "Pixel-art fire pillar",
+      "title_zh": "像素火柱喷发特效",
+      "prompt": "Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 2D side-view game, in a tall frame (taller than wide), rendered as large as you can. 16 frames, about 80 ms per frame. Use fine pixel art: each art pixel is exactly 2 image pixels wide, so the fire has a lot of detail. The camera does not move. The bottom edge of the frame is the ground line, and the pillar erupts at the bottom centre, at the same point in every frame. Don't draw the ground itself. The tallest flame tips reach about 85 percent of the frame height: always leave empty background above the fire and at both sides, so nothing is ever cut off by the frame edges. Sequence: a small glowing crack and a few embers rising; flames burst upward into a tall roaring column of fire, wider at the base, with swirling tongues of flame, a white-yellow hot core and orange, red and dark red edges; burning chunks and sparks fly out of the top; the column roars for several frames, its flames changing shape every frame; it collapses downward into low flickering flames and puffs of dark smoke; glowing embers drift up and fade until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 18 colours (white, yellows, oranges, reds, dark reds and three dark greys for the smoke). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.",
+      "tags": [
+        "pixel-art",
+        "game-fx",
+        "fire-pillar"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/fire-pillar",
+        "author": "kasperzackgames",
+        "handle": "kasperzackgames",
+        "profile_url": "https://github.com/kasperzackgames"
+      }
+    },
+    {
+      "id": "pixel-lightning-strike",
+      "category": "pixel-ui",
+      "title": "Pixel-art lightning strike",
+      "title_zh": "像素闪电劈落特效",
+      "prompt": "Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, rendered as large as you can. 14 frames, about 70 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide, so the bolt has a lot of detail (it spans the full frame height, about 120 art pixels). The camera does not move. The bottom edge of the frame is the ground line, and the bolt hits the ground at the bottom centre, at the same point in every frame. Don't draw the ground itself. Sequence: a thin flickering leader zigzags down from the top edge; the full bolt strikes: a thick jagged white core with an electric blue and violet glow outline and three or four forked branches; one frame where the bolt and a bright white burst at the impact point are at their brightest; the bolt flickers twice, changing its branches each time; at the impact point a burst of electric sparks flies out in arcs and short arcs of electricity crawl sideways along the ground; the bolt vanishes, leaving a glowing blue afterimage that fades; a few sparks and a small curl of dark smoke fade out until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 16 colours (white, pale cyan, electric blues, violets, two dark greys for the smoke). Background: flat solid pure green #00FF00 in every frame, nothing else. No text, no borders.",
+      "tags": [
+        "pixel-art",
+        "game-fx",
+        "lightning"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/kasperzackgames/chatgpt-pixel-effects/tree/main/effects/lightning",
+        "author": "kasperzackgames",
+        "handle": "kasperzackgames",
+        "profile_url": "https://github.com/kasperzackgames"
+      }
+    },
+    {
+      "id": "plaid-shirt-cat-coding-clay",
+      "category": "stickers",
+      "title": "Clay orange cat in plaid shirt typing",
+      "title_zh": "穿格子衫的黏土橘猫疯狂敲键盘",
+      "prompt": "帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。",
+      "tags": [
+        "cat",
+        "3d-clay",
+        "programmer"
+      ],
+      "source": {
+        "platform": "CSDN",
+        "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html",
+        "author": "STRUGGLE_xlf",
+        "profile_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html"
+      }
+    },
+    {
+      "id": "3d-bunny-overalls-wave",
+      "category": "stickers",
+      "title": "3D bunny in overalls waves",
+      "title_zh": "穿吊带裤的 3D 小白兔挥手",
+      "prompt": "製作一張可愛 3D 小白兔 GIF。小白兔穿著淺藍色吊帶褲，站在花園裡，慢慢舉起右手揮手打招呼，然後自然放下。背景固定，柔和晨光，可愛 3D 動畫風格，動作連貫，無縫循環，不要字幕。",
+      "tags": [
+        "bunny",
+        "3d",
+        "greeting"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "window-orange-cat-blink",
+      "category": "loops",
+      "title": "Orange cat blinks by the window",
+      "title_zh": "窗边橘猫慢慢眨眼",
+      "prompt": "製作一張橘色貓咪 GIF 動畫。貓咪坐在窗邊，緩慢眨一下眼睛，然後恢復原本表情。保持姿勢、毛色與背景一致，溫暖插畫風格，固定鏡頭，無縫循環。",
+      "tags": [
+        "cat",
+        "cozy",
+        "illustration"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "orange-bear-scarf-mascot",
+      "category": "flash",
+      "title": "Orange bear mascot with scarf waves",
+      "title_zh": "戴围巾的橘色小熊吉祥物挥手",
+      "prompt": "製作一張品牌吉祥物 GIF。角色是一隻圓潤、可愛的橘色小熊，戴著米白色圍巾，站在簡潔的淺色背景前。小熊慢慢揮手，露出友善笑容。保留品牌配色與角色比例，循環播放，背景固定。",
+      "tags": [
+        "mascot",
+        "bear",
+        "brand"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "seed-sprout-soil-cutaway",
+      "category": "explainers",
+      "title": "Seed sprouting in a soil cutaway",
+      "title_zh": "土壤剖面里种子发芽",
+      "prompt": "製作一張教育用途的 GIF 動畫，呈現一顆種子逐漸發芽，長出嫩芽與兩片小葉子的過程。使用清楚的科普插畫風格，固定土壤剖面與攝影機視角，讓植物生長過程自然銜接，並設計成循環動畫。",
+      "tags": [
+        "science",
+        "plant",
+        "education"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "cloak-boy-forest-jump",
+      "category": "stickers",
+      "title": "Silver-haired boy in green cloak hops",
+      "title_zh": "绿斗篷银发少年原地轻跳",
+      "prompt": "製作一張日系動畫風格 GIF。一名銀白色短髮少年穿著深綠色斗篷，站在森林空地上，輕輕跳起一次，然後回到站立姿勢。保持角色五官、衣服與背景一致，固定鏡頭，動作自然、無縫循環。",
+      "tags": [
+        "anime",
+        "character",
+        "jump"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "handdrawn-coffee-steam",
+      "category": "food",
+      "title": "Hand-drawn coffee cup with rising steam",
+      "title_zh": "手绘风热咖啡冒热气",
+      "prompt": "製作一張溫暖手繪風 GIF。木桌上放著一杯熱咖啡，杯子與背景保持完全靜止，只有白色蒸氣緩慢向上飄動。柔和晨光、咖啡館氛圍，畫面自然循環。",
+      "tags": [
+        "coffee",
+        "hand-drawn",
+        "cozy"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "lightbulb-icon-glow",
+      "category": "pixel-ui",
+      "title": "Lightbulb icon glows on",
+      "title_zh": "灯泡图标慢慢亮起",
+      "prompt": "製作一張極簡扁平插畫 GIF。畫面中央是一個黃色燈泡圖示，燈泡從微暗逐漸亮起，接著恢復原本狀態。背景純白、圖示位置固定，動畫柔和，不要任何文字，無縫循環。",
+      "tags": [
+        "icon",
+        "flat",
+        "education"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "pink-heart-heartbeat",
+      "category": "stickers",
+      "title": "Pink heart heartbeat pulse",
+      "title_zh": "粉色爱心心跳缩放",
+      "prompt": "製作一張粉紅色愛心 GIF。愛心在畫面中央輕輕放大，再縮回原本大小，呈現柔和的心跳節奏。背景簡潔、固定視角，畫面乾淨，無縫循環，不要文字。",
+      "tags": [
+        "heart",
+        "social",
+        "flat"
+      ],
+      "source": {
+        "platform": "方格子 vocus",
+        "url": "https://vocus.cc/article/6aebf9a0fd8978000170526d",
+        "author": "牧牧的成長實驗室",
+        "profile_url": "https://vocus.cc/user/@Jamia"
+      }
+    },
+    {
+      "id": "green-quote-button-shine",
+      "category": "pixel-ui",
+      "title": "Green CTA button with light sweep",
+      "title_zh": "绿色询价按钮流光",
+      "prompt": "ホームページに置くボタンのループGIFを作って。横長の角丸で、緑色のボタンに白い文字で「無料見積りはこちら」。文字の位置は動かさず、光が左から右へ流れて、ボタンが少しだけふくらむ動きにして。背景は白。",
+      "tags": [
+        "button",
+        "ui",
+        "japanese"
+      ],
+      "source": {
+        "platform": "WizTry Blog",
+        "url": "https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/",
+        "author": "末松 光太郎",
+        "profile_url": "https://wiztrydx.com/"
+      }
+    },
+    {
+      "id": "bath-remodel-steam-banner",
+      "category": "product",
+      "title": "Bathroom remodel banner with rising steam",
+      "title_zh": "浴室翻新广告横幅热气升腾",
+      "prompt": "ホームページのトップに置く、横長の広告バナーのループGIFを作って。写真のようにリアルな、木の窓がある明るいお風呂。湯船の湯気だけがゆっくり上がる。左側に大きく「冬のお風呂リフォーム応援キャンペーン」、その下に「手すりの取り付け無料」と「11月20日〜12月25日」。文字は動かさないで。",
+      "tags": [
+        "banner",
+        "ad",
+        "japanese"
+      ],
+      "source": {
+        "platform": "WizTry Blog",
+        "url": "https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/",
+        "author": "末松 光太郎",
+        "profile_url": "https://wiztrydx.com/"
+      }
+    },
+    {
+      "id": "invoice-ai-scan-flow",
+      "category": "explainers",
+      "title": "Paper invoice to spreadsheet via AI, 4 panels",
+      "title_zh": "纸质发票经 AI 识别入表（四格流程）",
+      "prompt": "紙の請求書をスマホで撮ると、AIが読み取って、表に入力されるまでの流れを、4コマのループGIFにして。",
+      "tags": [
+        "workflow",
+        "business",
+        "japanese"
+      ],
+      "source": {
+        "platform": "WizTry Blog",
+        "url": "https://wiztrydx.com/blog/chatgpt-images-2-6-kaisetsu/",
+        "author": "末松 光太郎",
+        "profile_url": "https://wiztrydx.com/"
+      }
+    },
+    {
+      "id": "blue-robot-mascot-hello",
+      "category": "stickers",
+      "title": "Round blue robot mascot waves hello",
+      "title_zh": "圆滚滚的蓝色机器人吉祥物打招呼",
+      "prompt": "A round blue robot mascot waves hello. Seamless loop, same framing in every frame.",
+      "tags": [
+        "mascot",
+        "robot",
+        "api"
+      ],
+      "source": {
+        "platform": "DEV Community",
+        "url": "https://dev.to/super_lewis/animated-gifs-and-markup-guided-edits-with-the-gpt-image-26-api-real-timings-and-per-call-cost-2jmd",
+        "author": "super_lewis",
+        "handle": "super_lewis",
+        "profile_url": "https://dev.to/super_lewis"
+      }
     }
   ]
 }

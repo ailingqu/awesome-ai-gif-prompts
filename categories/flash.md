@@ -1,8 +1,72 @@
-# Flash Cuts & Brand Reels · 87 prompts
+# Flash Cuts & Brand Reels · 91 prompts
 
 [← README](../README.md)
 
-### 1. 360 kickflip on a skateboard
+### 1. Orange bear mascot with scarf waves
+
+<img src="../gifs/orange-bear-scarf-mascot.gif" alt="Orange bear mascot with scarf waves" width="360">
+
+<sub>12 frames · 358×358 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+
+**Prompt**
+
+```text
+製作一張品牌吉祥物 GIF。角色是一隻圓潤、可愛的橘色小熊，戴著米白色圍巾，站在簡潔的淺色背景前。小熊慢慢揮手，露出友善笑容。保留品牌配色與角色比例，循環播放，背景固定。
+```
+
+`mascot` `bear` `brand`
+
+### 2. Round robot mascot welcome wave
+
+<img src="../gifs/robot-mascot-welcome-wave.gif" alt="Round robot mascot welcome wave" width="360">
+
+<sub>12 frames · 357×358 · 1.9s · GPT Image 2.6</sub>
+
+📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+
+**Prompt**
+
+```text
+請製作一張 GIF 動畫，一隻圓潤可愛的機器人吉祥物站在畫面中央，先微笑眨眼，再抬起右手向觀眾揮手，最後恢復站立姿勢。使用柔和的藍白配色、簡潔 3D 插畫風格，背景灰白。保持角色造型、配色及身體比例一致，鏡頭固定，製作可以無縫循環的動畫。
+```
+
+`mascot` `brand` `3d`
+
+### 3. "ON AIR" neon sign with level meter
+
+<img src="../gifs/on-air-neon-meter-pulse.gif" alt=""ON AIR" neon sign with level meter" width="360">
+
+<sub>9 frames · 480×270 · 1.6s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/gpt-image-2-6)
+
+**Prompt**
+
+```text
+Locked tripod close-up shot through a dark midnight recording studio glass booth window, 16:9 looping animation. Inside the dark acoustic booth, a sleek red neon sign reading 'ON AIR' above a minimal 4-bar digital LED audio level meter pulses in a clean seamless cycle: frame 1 starts at a soft dim crimson resting glow with four low blue meter bars, frames 3 to 6 flare into a bright vermilion neon halo with warm glass reflections while the LED bars jump into yellow and red peaks, and frames 7 to 9 settle smoothly back to the exact dim resting glow and four blue bars of frame 1. Condenser microphone silhouette and studio headphones in foreground stay completely still.
+```
+
+`neon` `studio` `text`
+
+### 4. EMBER logo with flickering flame
+
+<img src="../gifs/ember-logo-flame-flicker.gif" alt="EMBER logo with flickering flame" width="360">
+
+<sub>8 frames · 480×480 · 1.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+
+**Prompt**
+
+```text
+Minimalist flat vector brand logo lockup on a solid charcoal-black square background, locked front-on view. Centered copper-orange stylized campfire emblem above clean cream geometric sans-serif all-caps wordmark reading "EMBER". Only the center flame tongue of the copper emblem flickers smoothly upward a few pixels and settles back into its exact starting silhouette on the final frame for a clean loop. Keep the wordmark "EMBER" and side logs completely motionless across every frame, crisp flat colors.
+```
+
+`logo` `brand` `flat`
+
+### 5. 360 kickflip on a skateboard
 
 <img src="../gifs/skateboard-kickflip-360.gif" alt="360 kickflip on a skateboard" width="360">
 
@@ -18,7 +82,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `skateboard` `sport` `trick`
 
-### 2. Idiom riddle: four ceramic props bounce in turn
+### 6. Idiom riddle: four ceramic props bounce in turn
 
 <img src="../gifs/idiom-riddle-ceramic-props.gif" alt="Idiom riddle: four ceramic props bounce in turn" width="360">
 
@@ -143,7 +207,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `riddle` `chinese idiom` `3d`
 
-### 3. Psychedelic dancing cat
+### 7. Psychedelic dancing cat
 
 <img src="../gifs/psychedelic-cat-dance.gif" alt="Psychedelic dancing cat" width="360">
 
@@ -159,7 +223,7 @@ psychedelic gif of cat dancing
 
 `cat` `psychedelic` `dance`
 
-### 4. Roast dinner reveal
+### 8. Roast dinner reveal
 
 <img src="../gifs/turkey-dinner-steam.gif" alt="Roast dinner reveal" width="360">
 
@@ -173,7 +237,7 @@ A silver dome lid lifts off a golden roast chicken on a platter, a burst of stea
 
 `dinner` `holiday` `food`
 
-### 5. Popcorn popping
+### 9. Popcorn popping
 
 <img src="../gifs/popcorn-bowl-pop.gif" alt="Popcorn popping" width="360">
 
@@ -187,7 +251,7 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 `popcorn` `snack` `movie`
 
-### 6. Pancake flip
+### 10. Pancake flip
 
 <img src="../gifs/pancake-pan-flip.gif" alt="Pancake flip" width="360">
 
@@ -201,7 +265,7 @@ A golden pancake is tossed up from a cast iron pan, flips once in the air and la
 
 `pancake` `food` `kitchen`
 
-### 7. Travel journal stickers
+### 11. Travel journal stickers
 
 <img src="../gifs/travel-journal-stickers.gif" alt="Travel journal stickers" width="360">
 
@@ -215,7 +279,7 @@ An open travel journal on an ivory desk; little stickers of a plane, a ticket st
 
 `scrapbook` `travel` `journal`
 
-### 8. Wooden game piece flips
+### 12. Wooden game piece flips
 
 <img src="../gifs/wood-game-piece-flip.gif" alt="Wooden game piece flips" width="360">
 
@@ -229,7 +293,7 @@ A pale wooden pentagon-shaped board game piece flips over in the air and lands w
 
 `board-game` `wood` `flip`
 
-### 9. Bauhaus shapes shuffle
+### 13. Bauhaus shapes shuffle
 
 <img src="../gifs/bauhaus-shapes-shuffle.gif" alt="Bauhaus shapes shuffle" width="360">
 
@@ -243,7 +307,7 @@ A grid of Bauhaus shapes in red, yellow, blue and black, circles, half circles, 
 
 `bauhaus` `geometric` `motion-design`
 
-### 10. Shopping bag hops
+### 14. Shopping bag hops
 
 <img src="../gifs/shopping-bag-hop.gif" alt="Shopping bag hops" width="360">
 
@@ -257,7 +321,7 @@ A glossy orange shopping bag with rope handles hops up, squashes on landing, and
 
 `shopping` `bag` `promo`
 
-### 11. SALE tag swings
+### 15. SALE tag swings
 
 <img src="../gifs/sale-tag-swing.gif" alt="SALE tag swings" width="360">
 
@@ -273,7 +337,7 @@ A red paper price tag that says SALE hangs from a string and swings left and rig
 
 `sale` `black-friday` `ad`
 
-### 12. Compact mirror opens
+### 16. Compact mirror opens
 
 <img src="../gifs/compact-mirror-open.gif" alt="Compact mirror opens" width="360">
 
@@ -287,7 +351,7 @@ A rose-gold makeup compact clicks open, the mirror catches a flash of light and 
 
 `beauty` `product` `compact`
 
-### 13. Keycaps press in a wave
+### 17. Keycaps press in a wave
 
 <img src="../gifs/keycap-ripple-press.gif" alt="Keycaps press in a wave" width="360">
 
@@ -301,7 +365,7 @@ Mechanical keyboard keycaps press down one after another in a wave from left to 
 
 `keyboard` `product` `tech`
 
-### 14. Ice drops into lemonade
+### 18. Ice drops into lemonade
 
 <img src="../gifs/lemonade-ice-drop.gif" alt="Ice drops into lemonade" width="360">
 
@@ -315,7 +379,7 @@ Ice cubes and a lemon slice drop into a tall glass of lemonade, splashing drople
 
 `drink` `summer` `ad`
 
-### 15. Spellbook game menu
+### 19. Spellbook game menu
 
 <img src="../gifs/spellbook-menu-pop.gif" alt="Spellbook game menu" width="360">
 
@@ -329,7 +393,7 @@ A worn leather spellbook drops onto a wooden table, flips open, and three glowin
 
 `book` `game` `menu`
 
-### 16. Sunglasses reflection sweep
+### 20. Sunglasses reflection sweep
 
 <img src="../gifs/sunglasses-sky-sweep.gif" alt="Sunglasses reflection sweep" width="360">
 
@@ -343,7 +407,7 @@ A pair of tortoiseshell sunglasses rotates gently on a stand while a reflection 
 
 `sunglasses` `product` `summer`
 
-### 17. Chocolate snap
+### 21. Chocolate snap
 
 <img src="../gifs/chocolate-bar-snap.gif" alt="Chocolate snap" width="360">
 
@@ -357,7 +421,7 @@ A dark chocolate bar snaps cleanly in half and small crumbs pop into the air. Cl
 
 `chocolate` `food` `product`
 
-### 18. Donut sprinkle spin
+### 22. Donut sprinkle spin
 
 <img src="../gifs/donut-sprinkle-spin.gif" alt="Donut sprinkle spin" width="360">
 
@@ -371,7 +435,7 @@ A glazed pink donut turns slowly on a small pedestal as rainbow sprinkles rain d
 
 `donut` `food` `ad`
 
-### 19. Book releases paper birds
+### 23. Book releases paper birds
 
 <img src="../gifs/book-paper-birds.gif" alt="Book releases paper birds" width="360">
 
@@ -385,7 +449,7 @@ A hardcover book opens on a table, warm light spills out and a few small paper b
 
 `book` `magic` `promo`
 
-### 20. Umbrella pops open
+### 24. Umbrella pops open
 
 <img src="../gifs/umbrella-pop-open.gif" alt="Umbrella pops open" width="360">
 
@@ -399,7 +463,7 @@ A navy folding umbrella pops open and spins once while raindrops bead and roll o
 
 `umbrella` `product` `rain`
 
-### 21. Burger stacks itself
+### 25. Burger stacks itself
 
 <img src="../gifs/burger-stack-drop.gif" alt="Burger stacks itself" width="360">
 
@@ -413,7 +477,7 @@ Burger layers drop from above one by one, bun, patty, cheese, lettuce, tomato, t
 
 `burger` `food` `ad`
 
-### 22. Tea bag dunk
+### 26. Tea bag dunk
 
 <img src="../gifs/tea-bag-dunk.gif" alt="Tea bag dunk" width="360">
 
@@ -427,7 +491,7 @@ A tea bag is dipped into a clear glass mug of hot water and amber color blooms o
 
 `tea` `product` `drink`
 
-### 23. Sneaker drop bounce
+### 27. Sneaker drop bounce
 
 <img src="../gifs/sneaker-drop-bounce.gif" alt="Sneaker drop bounce" width="360">
 
@@ -441,7 +505,7 @@ A white running sneaker drops onto a round platform, the sole squashes and sprin
 
 `sneaker` `product` `bounce`
 
-### 24. Cream jar opens
+### 28. Cream jar opens
 
 <img src="../gifs/skincare-jar-lid.gif" alt="Cream jar opens" width="360">
 
@@ -455,7 +519,7 @@ A frosted glass skincare jar's lid twists off and lifts, revealing smooth white 
 
 `skincare` `product` `beauty`
 
-### 25. Birthday cake with confetti
+### 29. Birthday cake with confetti
 
 <img src="../gifs/birthday-cake-confetti.gif" alt="Birthday cake with confetti" width="360">
 
@@ -469,7 +533,7 @@ A pink frosted birthday cake with three lit candles sits on a table; the flames 
 
 `birthday` `cake` `celebration`
 
-### 26. Espresso shot pour
+### 30. Espresso shot pour
 
 <img src="../gifs/espresso-shot-pour.gif" alt="Espresso shot pour" width="360">
 
@@ -483,7 +547,7 @@ Close-up of a chrome espresso machine pulling a shot into a small glass cup; the
 
 `coffee` `product` `espresso`
 
-### 27. Article header with paper plane
+### 31. Article header with paper plane
 
 <img src="../gifs/blog-header-plane.gif" alt="Article header with paper plane" width="360">
 
@@ -499,7 +563,7 @@ A wide article header banner in soft pastel colors with the short title 'WEEKLY 
 
 `banner` `header` `text`
 
-### 28. Acrylic charm spins
+### 32. Acrylic charm spins
 
 <img src="../gifs/acrylic-charm-spin.gif" alt="Acrylic charm spins" width="360">
 
@@ -513,7 +577,7 @@ A clear acrylic keychain charm shaped like a bunny in a strawberry hat spins slo
 
 `acrylic` `keychain` `merch`
 
-### 29. Editorial jump in a yellow coat
+### 33. Editorial jump in a yellow coat
 
 <img src="../gifs/yellow-coat-jump.gif" alt="Editorial jump in a yellow coat" width="360">
 
@@ -527,7 +591,7 @@ A fashion model in an oversized mustard-yellow coat leaps mid-air in a clean stu
 
 `fashion` `editorial` `jump`
 
-### 30. Make the logo bigger
+### 34. Make the logo bigger
 
 <img src="../gifs/logo-gets-bigger.gif" alt="Make the logo bigger" width="360">
 
@@ -541,7 +605,7 @@ A plain kraft shipping box on a white table; the simple round star emblem printe
 
 `product` `meme` `logo`
 
-### 31. Same plate, new dish
+### 35. Same plate, new dish
 
 <img src="../gifs/same-plate-dish-swap.gif" alt="Same plate, new dish" width="360">
 
@@ -555,7 +619,7 @@ Top-down shot of one white plate on a fixed wooden table; the dish on it changes
 
 `food` `menu` `restaurant`
 
-### 32. Signature with music notes
+### 36. Signature with music notes
 
 <img src="../gifs/violin-signature-notes.gif" alt="Signature with music notes" width="360">
 
@@ -569,7 +633,7 @@ A flowing gold handwritten signature draws itself across a dark navy card while 
 
 `signature` `music` `particles`
 
-### 33. Bold title over mountains
+### 37. Bold title over mountains
 
 <img src="../gifs/mountain-title-reveal.gif" alt="Bold title over mountains" width="360">
 
@@ -583,7 +647,7 @@ The single bold word WILD rises letter by letter over a misty snow-capped mounta
 
 `typography` `title` `landscape`
 
-### 34. Coffee bean burst
+### 38. Coffee bean burst
 
 <img src="../gifs/coffee-bean-burst.gif" alt="Coffee bean burst" width="360">
 
@@ -597,7 +661,7 @@ A matte black coffee bag with a blank label, roasted beans burst up from behind 
 
 `product` `coffee` `ad`
 
-### 35. Phone box reveal
+### 39. Phone box reveal
 
 <img src="../gifs/phone-unbox-reveal.gif" alt="Phone box reveal" width="360">
 
@@ -611,7 +675,7 @@ A plain white box lid lifts off to reveal a generic slim smartphone that rises s
 
 `product` `tech` `unboxing`
 
-### 36. Candle jar lights up
+### 40. Candle jar lights up
 
 <img src="../gifs/candle-jar-light.gif" alt="Candle jar lights up" width="360">
 
@@ -625,7 +689,7 @@ A frosted glass candle jar with a blank label, the wick sparks and lights, warm 
 
 `product` `candle` `ad`
 
-### 37. Sneaker lace tie
+### 41. Sneaker lace tie
 
 <img src="../gifs/sneaker-lace-tie.gif" alt="Sneaker lace tie" width="360">
 
@@ -639,7 +703,7 @@ A white sneaker on a pedestal ties its own laces into a neat bow, then gives a t
 
 `product` `fashion` `3d`
 
-### 38. Ice cream drip promo
+### 42. Ice cream drip promo
 
 <img src="../gifs/ice-cream-drip-promo.gif" alt="Ice cream drip promo" width="360">
 
@@ -653,7 +717,7 @@ A pink strawberry ice cream cone slowly drips one drop of melted cream while spr
 
 `product` `food` `ad`
 
-### 39. Honey drizzle
+### 43. Honey drizzle
 
 <img src="../gifs/honey-dipper-drizzle.gif" alt="Honey drizzle" width="360">
 
@@ -667,7 +731,7 @@ A wooden honey dipper lifts above a jar, a thick ribbon of golden honey drizzles
 
 `food` `product` `macro`
 
-### 40. Serum dropper drip
+### 44. Serum dropper drip
 
 <img src="../gifs/serum-dropper-drip.gif" alt="Serum dropper drip" width="360">
 
@@ -681,7 +745,7 @@ A glass skincare dropper squeezes out one clear golden drop that falls into an o
 
 `product` `beauty` `skincare`
 
-### 41. Chilled soda can
+### 45. Chilled soda can
 
 <img src="../gifs/soda-can-fizz.gif" alt="Chilled soda can" width="360">
 
@@ -695,7 +759,7 @@ An unbranded mint-green soda can covered in cold condensation stands on crushed 
 
 `product` `drink` `ecommerce`
 
-### 42. Cereal and milk pour
+### 46. Cereal and milk pour
 
 <img src="../gifs/cereal-milk-pour.gif" alt="Cereal and milk pour" width="360">
 
@@ -709,7 +773,7 @@ Milk pours into a white bowl of colorful ring cereal, the rings bob up and swirl
 
 `food` `product` `breakfast`
 
-### 43. Photo cards shuffle
+### 47. Photo cards shuffle
 
 <img src="../gifs/photo-cards-shuffle.gif" alt="Photo cards shuffle" width="360">
 
@@ -723,7 +787,7 @@ Three overlapping instant photo cards showing a beach, a mountain and a city at 
 
 `photo` `layout` `social`
 
-### 44. Ceramic vase on a turntable
+### 48. Ceramic vase on a turntable
 
 <img src="../gifs/vase-turntable-spin.gif" alt="Ceramic vase on a turntable" width="360">
 
@@ -737,7 +801,7 @@ A speckled sage-green ceramic vase holding one dried branch rotates a full turn 
 
 `product` `ceramic` `turntable`
 
-### 45. Showtime curtain
+### 49. Showtime curtain
 
 <img src="../gifs/stage-curtain-confetti.gif" alt="Showtime curtain" width="360">
 
@@ -751,7 +815,7 @@ Red velvet theater curtains part on a small stage; a spotlight sweeps across and
 
 `event` `announcement` `celebration`
 
-### 46. Earbud case reveal
+### 50. Earbud case reveal
 
 <img src="../gifs/earbud-case-open.gif" alt="Earbud case reveal" width="360">
 
@@ -765,7 +829,7 @@ A matte terracotta-orange egg-shaped charging case with a wooden lid sits on a b
 
 `product` `tech` `ecommerce`
 
-### 47. Chinese brush signature
+### 51. Chinese brush signature
 
 <img src="../gifs/chinese-brush-signature.gif" alt="Chinese brush signature" width="360">
 
@@ -781,7 +845,7 @@ On textured rice paper, a black ink brush writes two Chinese characters in flowi
 
 `signature` `calligraphy` `text`
 
-### 48. Watercolor street flipbook
+### 52. Watercolor street flipbook
 
 <img src="../gifs/watercolor-street-flipbook.gif" alt="Watercolor street flipbook" width="360">
 
@@ -795,7 +859,7 @@ A sketchbook lies open and its pages turn by themselves, each showing a loose wa
 
 `watercolor` `sketchbook` `city`
 
-### 49. Island in a glass jar
+### 53. Island in a glass jar
 
 <img src="../gifs/jar-island-lighthouse.gif" alt="Island in a glass jar" width="360">
 
@@ -809,7 +873,7 @@ A tiny island with a white lighthouse sealed inside a glass jar on a table; smal
 
 `miniature` `glass` `diorama`
 
-### 50. Travel postcards flip through
+### 54. Travel postcards flip through
 
 <img src="../gifs/travel-postcard-stack.gif" alt="Travel postcards flip through" width="360">
 
@@ -823,7 +887,7 @@ A stack of illustrated travel postcards flips one after another: a mountain lake
 
 `travel` `illustration` `flip`
 
-### 51. Comic BOOM poster
+### 55. Comic BOOM poster
 
 <img src="../gifs/comic-boom-poster.gif" alt="Comic BOOM poster" width="360">
 
@@ -837,7 +901,7 @@ A halftone comic-print poster: a small cartoon rocket blasts upward and a big ja
 
 `poster` `comic` `text`
 
-### 52. 3D gold token spins
+### 56. 3D gold token spins
 
 <img src="../gifs/gold-token-spin.gif" alt="3D gold token spins" width="360">
 
@@ -851,7 +915,7 @@ A thick 3D gold coin embossed with a simple star emblem spins smoothly on its ve
 
 `3d` `coin` `spin`
 
-### 53. Headphones switch off the street
+### 57. Headphones switch off the street
 
 <img src="../gifs/headphones-silence-cut.gif" alt="Headphones switch off the street" width="360">
 
@@ -865,7 +929,7 @@ Stylized illustration: a person on a crowded noisy street with honking cars puts
 
 `product` `ad` `before-after`
 
-### 54. Nebula shimmer nail tips
+### 58. Nebula shimmer nail tips
 
 <img src="../gifs/nail-tips-nebula.gif" alt="Nebula shimmer nail tips" width="360">
 
@@ -879,7 +943,7 @@ Five glossy almond-shaped nail tips on a white display stand, each painted deep 
 
 `beauty` `product` `sparkle`
 
-### 55. One bottle, three worlds
+### 59. One bottle, three worlds
 
 <img src="../gifs/bottle-three-worlds.gif" alt="One bottle, three worlds" width="360">
 
@@ -893,7 +957,7 @@ A frosted glass serum bottle stays fixed in the center while the world behind it
 
 `product` `ad` `background`
 
-### 56. Gold ink signature writes itself
+### 60. Gold ink signature writes itself
 
 <img src="../gifs/signature-ink-write.gif" alt="Gold ink signature writes itself" width="360">
 
@@ -907,7 +971,7 @@ An elegant cursive signature reading Mira writes itself stroke by stroke in shim
 
 `signature` `text` `brand`
 
-### 57. Minimal watch close-up
+### 61. Minimal watch close-up
 
 <img src="../gifs/watch-hands-sweep.gif" alt="Minimal watch close-up" width="360">
 
@@ -921,7 +985,7 @@ A minimalist wristwatch with a white dial lying on a linen surface, the second h
 
 `product` `watch` `minimal`
 
-### 58. Lipstick twisting up
+### 62. Lipstick twisting up
 
 <img src="../gifs/lipstick-twist-up.gif" alt="Lipstick twisting up" width="360">
 
@@ -937,7 +1001,7 @@ A lipstick in a plain smooth rose-gold cylindrical case with no logo, letters or
 
 `product` `beauty` `luxury`
 
-### 59. Citrus bottle splash
+### 63. Citrus bottle splash
 
 <img src="../gifs/citrus-bottle-splash.gif" alt="Citrus bottle splash" width="360">
 
@@ -951,7 +1015,7 @@ A glass bottle of orange juice with a plain unbranded label standing in the cent
 
 `product` `drink` `splash`
 
-### 60. Floating headphones product shot
+### 64. Floating headphones product shot
 
 <img src="../gifs/headphones-float-spin.gif" alt="Floating headphones product shot" width="360">
 
@@ -965,7 +1029,7 @@ A pair of matte white over-ear headphones floating above a round pedestal, slowl
 
 `product` `tech` `studio`
 
-### 61. Fictional logo reveal
+### 65. Fictional logo reveal
 
 <img src="../gifs/leaf-logo-reveal.gif" alt="Fictional logo reveal" width="360">
 
@@ -979,7 +1043,7 @@ A minimal logo reveal on a deep green background for a fictional tea brand calle
 
 `logo` `brand` `reveal`
 
-### 62. Paper collage night scene assembles
+### 66. Paper collage night scene assembles
 
 <img src="../gifs/collage-moon-cut.gif" alt="Paper collage night scene assembles" width="360">
 
@@ -995,7 +1059,7 @@ A paper collage on a blank cream page: torn paper pieces slide in one by one to 
 
 `collage` `b-roll` `reveal`
 
-### 63. Tote bag feature callouts
+### 67. Tote bag feature callouts
 
 <img src="../gifs/tote-feature-callouts.gif" alt="Tote bag feature callouts" width="360">
 
@@ -1009,7 +1073,7 @@ A product shot of a natural canvas tote bag; small glowing circle markers with p
 
 `product` `ecommerce` `callout`
 
-### 64. Mug colorway cycle
+### 68. Mug colorway cycle
 
 <img src="../gifs/mug-color-cycle.gif" alt="Mug colorway cycle" width="360">
 
@@ -1025,7 +1089,7 @@ A single ceramic coffee mug shown whole and centered in a square frame, handle t
 
 `product` `colorway` `ecommerce`
 
-### 65. Neon star with light trail
+### 69. Neon star with light trail
 
 <img src="../gifs/neon-star-orbit.gif" alt="Neon star with light trail" width="360">
 
@@ -1039,7 +1103,7 @@ A neon sign shaped like a five-pointed star, outlined in orange-pink LED dots, g
 
 `neon` `glow` `sign`
 
-### 66. House cutaway reveal
+### 70. House cutaway reveal
 
 <img src="../gifs/house-cutaway.gif" alt="House cutaway reveal" width="360">
 
@@ -1053,7 +1117,7 @@ An isometric 3D cutaway of a small two-story house: the front wall slides away t
 
 `3d` `isometric` `reveal`
 
-### 67. Comic halftone action poster
+### 71. Comic halftone action poster
 
 <img src="../gifs/halftone-fox-poster.gif" alt="Comic halftone action poster" width="360">
 
@@ -1067,7 +1131,7 @@ A bold comic-style action poster: a masked fox thief in a long red coat leaps ac
 
 `poster` `comic` `bold`
 
-### 68. Ice crystal bloom
+### 72. Ice crystal bloom
 
 <img src="../gifs/ice-crystal-bloom.gif" alt="Ice crystal bloom" width="360">
 
@@ -1081,7 +1145,7 @@ A pale blue ice crystal growing from the center of the frame, frost branches spr
 
 `vfx` `ice` `game`
 
-### 69. Water spiral orb
+### 73. Water spiral orb
 
 <img src="../gifs/water-spiral-orb.gif" alt="Water spiral orb" width="360">
 
@@ -1095,7 +1159,7 @@ A floating sphere of clear water with a spiral current turning inside it, small 
 
 `vfx` `water` `game`
 
-### 70. Lightning in a jar
+### 74. Lightning in a jar
 
 <img src="../gifs/lightning-jar.gif" alt="Lightning in a jar" width="360">
 
@@ -1109,7 +1173,7 @@ A corked glass jar on a wooden table with a tiny bolt of blue-white lightning cr
 
 `vfx` `lightning` `fantasy`
 
-### 71. Ring of fire spell
+### 75. Ring of fire spell
 
 <img src="../gifs/fire-ring-spell.gif" alt="Ring of fire spell" width="360">
 
@@ -1123,7 +1187,7 @@ A glowing circular magic sigil on dark stone floor ignites into a ring of orange
 
 `vfx` `fire` `game`
 
-### 72. Gift box with a pop-up ghost
+### 76. Gift box with a pop-up ghost
 
 <img src="../gifs/gift-box-ghost-pop.gif" alt="Gift box with a pop-up ghost" width="360">
 
@@ -1137,7 +1201,7 @@ A glossy red cartoon gift box with a gold ribbon: the lid pops open and a tiny r
 
 `3d` `surprise` `bouncy`
 
-### 73. Same fox in six materials
+### 77. Same fox in six materials
 
 <img src="../gifs/material-style-flip.gif" alt="Same fox in six materials" width="360">
 
@@ -1151,7 +1215,7 @@ The same sitting fox in the same pose, each frame rendered in a different materi
 
 `style` `material` `comparison`
 
-### 74. Castle rising stone by stone
+### 78. Castle rising stone by stone
 
 <img src="../gifs/castle-builds-up.gif" alt="Castle rising stone by stone" width="360">
 
@@ -1165,7 +1229,7 @@ A medieval stone castle on a green hill building itself up from the foundation: 
 
 `build` `castle` `timelapse`
 
-### 75. Tiny people building a sandwich
+### 79. Tiny people building a sandwich
 
 <img src="../gifs/tiny-chefs-sandwich.gif" alt="Tiny people building a sandwich" width="360">
 
@@ -1179,7 +1243,7 @@ A team of miniature people in aprons on a full-size kitchen table hauling a lett
 
 `miniature` `food` `funny`
 
-### 76. City jumps a thousand years
+### 80. City jumps a thousand years
 
 <img src="../gifs/city-future-timelapse.gif" alt="City jumps a thousand years" width="360">
 
@@ -1193,7 +1257,7 @@ The same riverside city skyline from a fixed viewpoint changing era by era: low 
 
 `timelapse` `city` `sci-fi`
 
-### 77. Chat bubbles popping in
+### 81. Chat bubbles popping in
 
 <img src="../gifs/chat-bubbles-pop.gif" alt="Chat bubbles popping in" width="360">
 
@@ -1207,7 +1271,7 @@ A phone chat screen where three message bubbles pop in one by one: grey "Are you
 
 `ui` `chat` `text`
 
-### 78. Two-line event title reveal
+### 82. Two-line event title reveal
 
 <img src="../gifs/event-title-reveal.gif" alt="Two-line event title reveal" width="360">
 
@@ -1221,7 +1285,7 @@ A bold two-line title "SUMMER" and "MARKET 2026" sliding in from the left one li
 
 `text` `title` `motion-graphics`
 
-### 79. Perfume bottle spinning on water
+### 83. Perfume bottle spinning on water
 
 <img src="../gifs/perfume-water-spin.gif" alt="Perfume bottle spinning on water" width="360">
 
@@ -1235,7 +1299,7 @@ A square amber perfume bottle labeled "SOL" slowly rotating on the surface of st
 
 `product` `perfume` `water`
 
-### 80. Light sweep over a product
+### 84. Light sweep over a product
 
 <img src="../gifs/product-light-sweep.gif" alt="Light sweep over a product" width="360">
 
@@ -1249,7 +1313,7 @@ A frosted glass skincare bottle standing still on a beige stone plinth while a s
 
 `product` `ad` `light`
 
-### 81. Neon OPEN sign flicker
+### 85. Neon OPEN sign flicker
 
 <img src="../gifs/neon-open-sign.gif" alt="Neon OPEN sign flicker" width="360">
 
@@ -1263,7 +1327,7 @@ A pink and blue neon "OPEN" sign in a dark shop window at night, buzzing and fli
 
 `neon` `sign` `text`
 
-### 82. Paper airplane desk to notebook
+### 86. Paper airplane desk to notebook
 
 <img src="../gifs/paper-airplane-glide.gif" alt="Paper airplane desk to notebook" width="360">
 
@@ -1277,7 +1341,7 @@ An orange paper airplane with one navy stripe lifting off a wooden desk, gliding
 
 `storyboard` `object` `desk`
 
-### 83. Magazine collage panels pop in
+### 87. Magazine collage panels pop in
 
 <img src="../gifs/magazine-panels-pop.gif" alt="Magazine collage panels pop in" width="360">
 
@@ -1293,7 +1357,7 @@ A fashion-magazine collage layout where photo panels pop in one by one — a flo
 
 `flash-cut` `editorial` `layout`
 
-### 84. One tree, four seasons
+### 88. One tree, four seasons
 
 <img src="../gifs/four-seasons-tree.gif" alt="One tree, four seasons" width="360">
 
@@ -1307,7 +1371,7 @@ The same lone round tree on a small hill, framed identically in every frame, cyc
 
 `flash-cut` `nature` `seasons`
 
-### 85. Sneaker colorway flash
+### 89. Sneaker colorway flash
 
 <img src="../gifs/sneaker-colorway-flash.gif" alt="Sneaker colorway flash" width="360">
 
@@ -1323,7 +1387,7 @@ A fast flash-cut in a square frame: the same chunky sneaker seen from the side, 
 
 `flash-cut` `product` `fashion`
 
-### 86. Cat-head logo brand reel
+### 90. Cat-head logo brand reel
 
 <img src="../gifs/cat-brand-reel.gif" alt="Cat-head logo brand reel" width="360">
 
@@ -1339,7 +1403,7 @@ A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The sam
 
 `flash-cut` `branding` `logo`
 
-### 87. Flower macro flash cut
+### 91. Flower macro flash cut
 
 <img src="../gifs/flower-macro-flash.gif" alt="Flower macro flash cut" width="360">
 

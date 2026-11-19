@@ -5582,5 +5582,435 @@
     "model": "gpt-image-2.6-gif",
     "via": "source",
     "generatedAt": "2026-11-18"
+  },
+  "glasses-frog-fast-typing": {
+    "width": 480,
+    "height": 480,
+    "frames": 8,
+    "durationMs": 910,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 575178
+  },
+  "pixel-retriever-thumbs-up": {
+    "width": 480,
+    "height": 480,
+    "frames": 8,
+    "durationMs": 1080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 580753
+  },
+  "clay-star-hop-sticker": {
+    "width": 480,
+    "height": 480,
+    "frames": 14,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 255692
+  },
+  "ship-it-badge-wiggle": {
+    "width": 480,
+    "height": 480,
+    "frames": 14,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 451175
+  },
+  "coffee-bag-espresso-steam": {
+    "width": 480,
+    "height": 606,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 1475078
+  },
+  "earbuds-case-led-pulse": {
+    "width": 480,
+    "height": 270,
+    "frames": 9,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 396059
+  },
+  "three-pill-wave-loader": {
+    "width": 480,
+    "height": 480,
+    "frames": 11,
+    "durationMs": 1000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 26319
+  },
+  "paper-plane-empty-state": {
+    "width": 480,
+    "height": 480,
+    "frames": 8,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 373752
+  },
+  "ember-logo-flame-flicker": {
+    "width": 480,
+    "height": 480,
+    "frames": 8,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 173439
+  },
+  "compass-app-icon-settle": {
+    "width": 480,
+    "height": 480,
+    "frames": 14,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 142338
+  },
+  "rainy-dusk-window-puddle": {
+    "width": 480,
+    "height": 270,
+    "frames": 9,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 574163
+  },
+  "snowy-twilight-campfire": {
+    "width": 480,
+    "height": 264,
+    "frames": 16,
+    "durationMs": 1910,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 926270
+  },
+  "brass-metronome-swing": {
+    "width": 480,
+    "height": 270,
+    "frames": 9,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 332922
+  },
+  "raccoon-breaks-prod-meme": {
+    "width": 480,
+    "height": 480,
+    "frames": 8,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 591996
+  },
+  "on-air-neon-meter-pulse": {
+    "width": 480,
+    "height": 270,
+    "frames": 9,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 336685
+  },
+  "cassette-side-a-sticker": {
+    "width": 480,
+    "height": 480,
+    "frames": 14,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 499562
+  },
+  "clay-orange-cat-wave-blink": {
+    "width": 358,
+    "height": 356,
+    "frames": 12,
+    "durationMs": 1660,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 539266
+  },
+  "robot-mascot-welcome-wave": {
+    "width": 357,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 1910,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 302435
+  },
+  "earbuds-case-lid-open-close": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 1910,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 482233
+  },
+  "chibi-worker-notification-flop": {
+    "width": 308,
+    "height": 414,
+    "frames": 12,
+    "durationMs": 2000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 786119
+  },
+  "orange-dots-bounce-loader": {
+    "width": 416,
+    "height": 404,
+    "frames": 13,
+    "durationMs": 1080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 38685
+  },
+  "latte-art-steam-cafe": {
+    "width": 309,
+    "height": 310,
+    "frames": 16,
+    "durationMs": 4000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 941050
+  },
+  "felt-birthday-cake-kitten": {
+    "width": 276,
+    "height": 346,
+    "frames": 16,
+    "durationMs": 4000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 915824
+  },
+  "revenue-bar-chart-grow": {
+    "width": 480,
+    "height": 270,
+    "frames": 33,
+    "durationMs": 4830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 24459
+  },
+  "watercolor-sakura-town-breeze": {
+    "width": 414,
+    "height": 232,
+    "frames": 16,
+    "durationMs": 5000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 1255758
+  },
+  "pixel-explosion-mushroom-cloud": {
+    "width": 316,
+    "height": 302,
+    "frames": 15,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 534418
+  },
+  "pixel-energy-beam-blast": {
+    "width": 439,
+    "height": 216,
+    "frames": 13,
+    "durationMs": 1080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 261078
+  },
+  "pixel-volcano-eruption": {
+    "width": 309,
+    "height": 308,
+    "frames": 16,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 362075
+  },
+  "pixel-fire-pillar-burst": {
+    "width": 265,
+    "height": 358,
+    "frames": 15,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 382508
+  },
+  "pixel-lightning-strike": {
+    "width": 358,
+    "height": 268,
+    "frames": 12,
+    "durationMs": 1000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 171322
+  },
+  "plaid-shirt-cat-coding-clay": {
+    "width": 427,
+    "height": 400,
+    "frames": 9,
+    "durationMs": 1000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 640741
+  },
+  "3d-bunny-overalls-wave": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 2160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 836733
+  },
+  "window-orange-cat-blink": {
+    "width": 357,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 2160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 843632
+  },
+  "orange-bear-scarf-mascot": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 2160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 582514
+  },
+  "seed-sprout-soil-cutaway": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 3080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 762936
+  },
+  "cloak-boy-forest-jump": {
+    "width": 309,
+    "height": 414,
+    "frames": 12,
+    "durationMs": 1660,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 903832
+  },
+  "handdrawn-coffee-steam": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 2660,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 937871
+  },
+  "lightbulb-icon-glow": {
+    "width": 308,
+    "height": 414,
+    "frames": 12,
+    "durationMs": 2160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 158500
+  },
+  "pink-heart-heartbeat": {
+    "width": 357,
+    "height": 356,
+    "frames": 12,
+    "durationMs": 1660,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 252449
+  },
+  "green-quote-button-shine": {
+    "width": 480,
+    "height": 238,
+    "frames": 8,
+    "durationMs": 1080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 178171
+  },
+  "bath-remodel-steam-banner": {
+    "width": 480,
+    "height": 240,
+    "frames": 6,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 417005
+  },
+  "invoice-ai-scan-flow": {
+    "width": 480,
+    "height": 238,
+    "frames": 4,
+    "durationMs": 3410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 184747
+  },
+  "blue-robot-mascot-hello": {
+    "width": 480,
+    "height": 480,
+    "frames": 6,
+    "durationMs": 910,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-19",
+    "via": "source",
+    "bytes": 280088
   }
 }
