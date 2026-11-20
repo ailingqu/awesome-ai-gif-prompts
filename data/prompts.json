@@ -7114,6 +7114,835 @@
         "handle": "super_lewis",
         "profile_url": "https://dev.to/super_lewis"
       }
+    },
+    {
+      "id": "monday-cat-office-sticker-slide",
+      "category": "stickers",
+      "title": "Monday Cat Sinking Below the Desk",
+      "title_zh": "周一猫咪滑进桌下表情贴",
+      "prompt": "Animated GIF sticker, square, seamless loop.\nSubject: a chubby orange tabby cat in a loose navy tie, sitting in a black office chair at a wooden desk in front of an open grey laptop, deeply unimpressed. Above its head, the word \"MONDAY.\" in chunky rounded black bubble lettering.\nMotion:\n1. Stares at the laptop, half-lidded.\n2. Squints harder, a small twitch of annoyance.\n3. Slowly slides down in the chair, sinking below the desk until only its ears show.\n4. Disappears completely, leaving the empty chair.\n5. Ears peek back up, then it pops up to the starting pose.\nKeep the same cat, tie, laptop, chair, desk and lettering in every frame. Fixed front camera. Thick black outlines, flat cel colour with one soft shade tone, plain white background. Japanese LINE sticker style, bold and readable at small size. No other text.",
+      "tags": [
+        "sticker",
+        "cat",
+        "monday",
+        "reaction",
+        "line-style"
+      ],
+      "source": {
+        "platform": "Substack (AI for Creators / Novarix Studio)",
+        "url": "https://novarixstudio.substack.com/p/chatgpt-images-2-6-gifs",
+        "author": "Clayton H",
+        "profile_url": "https://novarixstudio.substack.com"
+      }
+    },
+    {
+      "id": "sydney-travel-journal-palm-shadow",
+      "category": "loops",
+      "title": "Travel Journal Spread with Drifting Palm Shadow",
+      "title_zh": "悉尼旅行手账与摇曳棕榈影",
+      "prompt": "Animated GIF, landscape, seamless loop.\nSubject: an open leather-bound travel journal, two-page spread, on heavy cream cotton paper with deckled edges. Left page: three small film photo prints of Sydney (a harbour ferry passing the Harbour Bridge, a latte with latte art, a striped umbrella on Bondi Beach) fixed with torn strips of kraft tape. Right page: a loose watercolour sketch of the Opera House sails in chalk white and harbour blue, a pressed frangipani and a ferry ticket stub. Across the top, handwritten in brown script: \"Sydney Sundays\".\nSetting: a weathered wooden café table with a cup of coffee, a glass of water and a pen.\nMotion: the soft shadow of a palm frond drifts slowly across the spread and back. Nothing else moves.\nKeep the same journal, photos, sketch and heading in every frame. Overhead camera, 35mm. Late-afternoon sun from the left, long soft shadows, Kodak Portra 400 colour grade. Sun-washed, analogue, editorial, unhurried. No other text.",
+      "tags": [
+        "cinemagraph",
+        "travel",
+        "scrapbook",
+        "journal",
+        "shadow"
+      ],
+      "source": {
+        "platform": "Substack (AI for Creators / Novarix Studio)",
+        "url": "https://novarixstudio.substack.com/p/chatgpt-images-2-6-gifs",
+        "author": "Clayton H",
+        "profile_url": "https://novarixstudio.substack.com"
+      }
+    },
+    {
+      "id": "shocked-orange-tabby-reaction",
+      "category": "stickers",
+      "title": "Shocked Orange Tabby Reaction",
+      "title_zh": "震惊橘猫反应动图",
+      "prompt": "Create a short, seamless looping GIF of a funny orange tabby cat sitting against a clean white background. The cat starts calm, hears an unexpected sound, slowly turns toward the viewer, eyes widen dramatically, ears pop upright, and its jaw drops in exaggerated disbelief. Hold the shocked expression for a moment, then return smoothly to the original calm pose so the loop is invisible. Keep the camera locked, centered medium shot, identical cat markings and proportions in every moment, crisp reaction-GIF timing, bright soft lighting, no captions, no logos, no watermark, no extra animals.",
+      "tags": [
+        "reaction",
+        "cat",
+        "meme",
+        "shocked"
+      ],
+      "source": {
+        "platform": "Substack (Ai.Alvin_daily)",
+        "url": "https://aialvin.substack.com/p/chatgpt-image-26-gif-prompts-that",
+        "author": "Ai.Alvin_daily",
+        "profile_url": "https://aialvin.substack.com"
+      }
+    },
+    {
+      "id": "rooftop-astronaut-glowing-paper-star",
+      "category": "loops",
+      "title": "Rooftop Astronaut and Glowing Paper Star",
+      "title_zh": "屋顶小宇航员与发光纸星星",
+      "prompt": "Create a short, seamless looping GIF in a whimsical cinematic illustration style. A tiny astronaut sits on a moonlit rooftop holding a small paper star. Beat 1: the astronaut looks at the dark star. Beat 2: the star begins to glow. Beat 3: the glow illuminates the astronaut’s delighted face and lifts the star gently into the air. Beat 4: the star floats back into the astronaut’s hands, returning to the exact opening pose. Keep the camera locked in a medium-wide shot, maintain the same character and rooftop layout, use clear but restrained motion, and make the final beat blend perfectly into the first. No text, no dialogue, no camera zoom, no scene change, no watermark.",
+      "tags": [
+        "astronaut",
+        "night",
+        "mini-story",
+        "illustration"
+      ],
+      "source": {
+        "platform": "Substack (Ai.Alvin_daily)",
+        "url": "https://aialvin.substack.com/p/chatgpt-image-26-gif-prompts-that",
+        "author": "Ai.Alvin_daily",
+        "profile_url": "https://aialvin.substack.com"
+      }
+    },
+    {
+      "id": "cartoon-shark-fin-wave",
+      "category": "stickers",
+      "title": "Friendly Cartoon Shark Waving",
+      "title_zh": "挥鳍打招呼的卡通鲨鱼",
+      "prompt": "Create a looping GIF of a friendly cartoon shark waving one fin.\nFlat colors, plain white background, the last frame flows back into the first.",
+      "tags": [
+        "shark",
+        "wave",
+        "cartoon",
+        "flat"
+      ],
+      "source": {
+        "platform": "Sharkly Blog",
+        "url": "https://sharkly.ai/blog/make-gifs-chatgpt-images-2-6-free/",
+        "author": "Ashley Innocent",
+        "profile_url": "https://sharkly.ai/blog"
+      }
+    },
+    {
+      "id": "orange-robot-wave-return-pose-chatgpt",
+      "category": "stickers",
+      "title": "Orange Robot Wave (ChatGPT)",
+      "title_zh": "橙色小机器人挥手",
+      "prompt": "Make a GIF of a small orange robot waving, then returning to its starting pose. Keep the background plain and the camera still.",
+      "tags": [
+        "robot",
+        "wave",
+        "mascot",
+        "loop"
+      ],
+      "source": {
+        "platform": "DataCamp Blog",
+        "url": "https://www.datacamp.com/blog/openai-images-2-6",
+        "author": "Laiba Siddiqui",
+        "profile_url": "https://www.linkedin.com/in/seo-tech-writer/"
+      }
+    },
+    {
+      "id": "orange-robot-wave-blink-flare-api",
+      "category": "stickers",
+      "title": "Orange Robot Wave and Blink (API)",
+      "title_zh": "橙色机器人挥手眨眼循环",
+      "prompt": "A small orange robot waves, blinks, and returns to its starting pose. Plain white background, fixed camera, seamless loop.",
+      "tags": [
+        "robot",
+        "wave",
+        "blink",
+        "seamless-loop"
+      ],
+      "source": {
+        "platform": "DataCamp Blog",
+        "url": "https://www.datacamp.com/blog/openai-images-2-6",
+        "author": "Laiba Siddiqui",
+        "profile_url": "https://www.linkedin.com/in/seo-tech-writer/"
+      }
+    },
+    {
+      "id": "water-cycle-classroom-diagram",
+      "category": "explainers",
+      "title": "Water Cycle Classroom Diagram",
+      "title_zh": "水循环科普示意动图",
+      "prompt": "制作一段展示水循环（示意图）的教学 GIF，横版 16:9。整体采用极简扁平化科普示意图风格，用简化几何图形表示水循环。\n动画依次表现：海面水汽上升，水汽聚集成云，云下落雨，雨水汇成河流流回海洋。配上清晰、准确、易读的简体中文标签：“蒸发”“凝结”“降水”“径流”，标签靠近对应环节，使用深灰色简洁无衬线字体。\n镜头固定，动画节奏缓慢，形状和布局保持稳定；结尾自然回到开头状态，形成无缝循环。整体画面简洁直观，像一张会动的科学课本插图。",
+      "tags": [
+        "water-cycle",
+        "education",
+        "flat-design",
+        "diagram",
+        "chinese-labels"
+      ],
+      "source": {
+        "platform": "掘金",
+        "url": "https://juejin.cn/post/7709418733185892403",
+        "author": "挖挖Github",
+        "profile_url": "https://juejin.cn/user/991084998831785"
+      }
+    },
+    {
+      "id": "orange-cat-stock-rally-cheer",
+      "category": "stickers",
+      "title": "Orange Cat Cheers Stock Rally",
+      "title_zh": "橘猫看股票上涨欢呼",
+      "prompt": "請製作1張循環播放的GIF動畫。1隻可愛的橘貓坐在辦公桌前，看到電腦上的股票走勢上漲後，開心地舉起雙手歡呼。採用3D卡通風格，固定鏡頭，背景保持一致，動作自然流暢。",
+      "tags": [
+        "cat",
+        "reaction",
+        "3d-cartoon",
+        "stock-market",
+        "office"
+      ],
+      "source": {
+        "platform": "商業周刊",
+        "url": "https://www.businessweekly.com.tw/international/blog/3023555",
+        "author": "李若綈",
+        "profile_url": "https://www.businessweekly.com.tw/"
+      }
+    },
+    {
+      "id": "cozy-bear-sipping-coffee",
+      "category": "stickers",
+      "title": "Cozy Bear Sipping Coffee",
+      "title_zh": "小熊喝咖啡",
+      "prompt": "ほっこりかわいいくまが、コーヒーを飲んでいるGIFを作ってください。",
+      "tags": [
+        "bear",
+        "coffee",
+        "cute",
+        "plush",
+        "cozy"
+      ],
+      "source": {
+        "platform": "note",
+        "url": "https://note.com/makari_5108010/n/nbfdb5c15e70b",
+        "author": "Makari｜AIイラスト",
+        "profile_url": "https://note.com/makari_5108010"
+      }
+    },
+    {
+      "id": "top-hat-frog-ego-be-gone",
+      "category": "stickers",
+      "title": "Top-Hat Frog \"Ego Be Gone\"",
+      "title_zh": "戴礼帽青蛙跳舞表情",
+      "prompt": "dancing frog with a top hat on, with ego be gone! written at the top",
+      "tags": [
+        "frog",
+        "dance",
+        "meme",
+        "caption"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/princess414141/status/2118144125354877152",
+        "author": "Lucy",
+        "handle": "princess414141",
+        "profile_url": "https://x.com/princess414141"
+      }
+    },
+    {
+      "id": "busy-bee-daily-checkin",
+      "category": "stickers",
+      "title": "Busy Bee Daily Check-In",
+      "title_zh": "勤劳小蜜蜂每日打卡",
+      "prompt": "生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂",
+      "tags": [
+        "bee",
+        "check-in",
+        "social",
+        "cute"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/MrGafish/status/2118217749680025722",
+        "author": "鱼哥",
+        "handle": "MrGafish",
+        "profile_url": "https://x.com/MrGafish"
+      }
+    },
+    {
+      "id": "sunglasses-cat-dance-meme",
+      "category": "stickers",
+      "title": "Sunglasses Cat Dance Meme",
+      "title_zh": "戴墨镜猫咪跳舞梗图",
+      "prompt": "次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF",
+      "tags": [
+        "cat",
+        "sunglasses",
+        "dance",
+        "meme"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+        "author": "SSSS.CRYPTOMAN⚡️AI",
+        "handle": "SSSS_CRYPTOMAN",
+        "profile_url": "https://x.com/SSSS_CRYPTOMAN"
+      }
+    },
+    {
+      "id": "heisei-era-sns-gif",
+      "category": "flash",
+      "title": "Heisei Era SNS GIF",
+      "title_zh": "平成时代象征社交动图",
+      "prompt": "平成を象徴する何か。SNS向けのGIF画像を生成して下さい。",
+      "tags": [
+        "heisei",
+        "retro",
+        "nostalgia",
+        "social"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/rem_rev/status/2118252486360498485",
+        "author": "リマレレ│AI×YouTube×ブログ",
+        "handle": "rem_rev",
+        "profile_url": "https://x.com/rem_rev"
+      }
+    },
+    {
+      "id": "claymation-kitten-ball-pit",
+      "category": "loops",
+      "title": "Claymation Kitten in a Ball Pit",
+      "title_zh": "黏土小猫玩海洋球",
+      "prompt": "generate an animated gif of a claymation kitten playing in a plastic ball pit",
+      "tags": [
+        "kitten",
+        "claymation",
+        "ball-pit",
+        "cute"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/dreamwieber/status/2118191599872344467",
+        "author": "Gregory Wieber",
+        "handle": "dreamwieber",
+        "profile_url": "https://x.com/dreamwieber"
+      }
+    },
+    {
+      "id": "ginger-kitten-boops-lens",
+      "category": "loops",
+      "title": "Ginger Kitten Boops the Lens",
+      "title_zh": "橘色小猫扑向镜头",
+      "prompt": "Animated 9-frame looping GIF. Fixed camera at floor level, bright cozy living room, warm soft daylight, cheerful mood. A tiny fluffy ginger kitten with big round sparkly eyes plays with a pink feather toy dangling just in front of the camera. Frames 1-2: kitten sits small in the center, wiggling, eyes locked on the feather. Frames 3-6: kitten hops playfully toward the camera, getting bigger each frame, mouth closed, ears perked, adorable curious face, one tiny paw reaching for the feather. Frame 7-8: kitten's soft pink paw pad gently boops the camera lens, kitten face cute and happy behind it. Frame 9: back to the kitten sitting small in the center, same as frame 1. Mouth closed in every frame, no teeth, no claws, cute and playful, never scary. Same kitten, same room, same lighting in every frame. Big, obvious motion. Photorealistic, sharp focus.",
+      "tags": [
+        "kitten",
+        "photoreal",
+        "camera",
+        "playful"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/meigesir/status/2118248846648287720",
+        "author": "Steve",
+        "handle": "meigesir",
+        "profile_url": "https://x.com/meigesir"
+      }
+    },
+    {
+      "id": "grandpa-chopping-wood-winter",
+      "category": "loops",
+      "title": "Grandpa Chopping Wood in Winter",
+      "title_zh": "冬日庭院劈柴老爷爷",
+      "prompt": "冬の寒い中、家の庭で薪割りをするおじいさんのGIF",
+      "tags": [
+        "winter",
+        "wood-chopping",
+        "yard",
+        "everyday"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/koe_ai414/status/2118153765094351279",
+        "author": "Koei / こうえい",
+        "handle": "koe_ai414",
+        "profile_url": "https://x.com/koe_ai414"
+      }
+    },
+    {
+      "id": "robot-brewing-coffee",
+      "category": "loops",
+      "title": "Robot Brewing Coffee",
+      "title_zh": "机器人冲咖啡",
+      "prompt": "コーヒーを淹れるロボット",
+      "tags": [
+        "robot",
+        "coffee",
+        "brewing",
+        "short-prompt"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/sousoccer6/status/2118210705585537226",
+        "author": "Soichiro Abe | AI 営業 マーケ",
+        "handle": "sousoccer6",
+        "profile_url": "https://x.com/sousoccer6"
+      }
+    },
+    {
+      "id": "osaka-castle-construction",
+      "category": "explainers",
+      "title": "Osaka Castle Construction Process",
+      "title_zh": "大阪城建造过程",
+      "prompt": "大阪城を建築する流れをGIFにして",
+      "tags": [
+        "castle",
+        "construction",
+        "history",
+        "process"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/jammaru_lab/status/2118153279821787623",
+        "author": "じゃむまる",
+        "handle": "jammaru_lab",
+        "profile_url": "https://x.com/jammaru_lab"
+      }
+    },
+    {
+      "id": "paper-boat-bobbing",
+      "category": "loops",
+      "title": "Paper Boat Bobbing on Water",
+      "title_zh": "水面漂浮的纸船",
+      "prompt": "Make a looping GIF of a paper boat bobbing on the water.",
+      "tags": [
+        "paper-boat",
+        "water",
+        "seamless",
+        "calm"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/thinkszyg/status/2118166234495947044",
+        "author": "爆裂队长NEXT",
+        "handle": "thinkszyg",
+        "profile_url": "https://x.com/thinkszyg"
+      }
+    },
+    {
+      "id": "nyc-snow-globe",
+      "category": "loops",
+      "title": "NYC Snow Globe",
+      "title_zh": "纽约雪景水晶球",
+      "prompt": "generate an animated gif of a beautiful NYC snow globe",
+      "tags": [
+        "snow-globe",
+        "city",
+        "winter",
+        "snow"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/dreamwieber/status/2118190877567037732",
+        "author": "Gregory Wieber",
+        "handle": "dreamwieber",
+        "profile_url": "https://x.com/dreamwieber"
+      }
+    },
+    {
+      "id": "robot-afrobeats-lagos-street",
+      "category": "loops",
+      "title": "Robot Dancing Afrobeats in Lagos",
+      "title_zh": "拉各斯街头机器人跳舞",
+      "prompt": "Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. Make the movement loop smoothly.",
+      "tags": [
+        "robot",
+        "dance",
+        "afrobeats",
+        "street"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/o_adeeko/status/2118203950306410729",
+        "author": "Olalekan Adeeko MVP",
+        "handle": "o_adeeko",
+        "profile_url": "https://x.com/o_adeeko"
+      }
+    },
+    {
+      "id": "luminol-beaker-vortex",
+      "category": "explainers",
+      "title": "Luminol Chemiluminescence Vortex",
+      "title_zh": "烧杯漩涡鲁米诺化学发光",
+      "prompt": "制作gif\n垂直俯拍一个烧杯的杯口，里面的水在旋转形成漩涡，然后滴入液体\nC8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL\n烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢\n胶头滴管中是含铁离子溶液 和荧光染料",
+      "tags": [
+        "chemistry",
+        "luminol",
+        "experiment",
+        "science"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/ZHENGJUNTING92/status/2118252052556255364",
+        "author": "鄭鈞霆",
+        "handle": "ZHENGJUNTING92",
+        "profile_url": "https://x.com/ZHENGJUNTING92"
+      }
+    },
+    {
+      "id": "pixel-hero-sword-slash",
+      "category": "pixel-ui",
+      "title": "Pixel Hero Sword Slash",
+      "title_zh": "像素勇者挥剑特效",
+      "prompt": "GIFを作成。ドット絵の勇者。\n剣にエフェクトをつけて振り回す",
+      "tags": [
+        "pixel-art",
+        "hero",
+        "sword",
+        "fx"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+        "author": "ヤレヤル（AI動画/AI画像/AI音楽）",
+        "handle": "YaReYaRu30Life",
+        "profile_url": "https://x.com/YaReYaRu30Life"
+      }
+    },
+    {
+      "id": "chibi-stock-crash-tears",
+      "category": "stickers",
+      "title": "Chibi Stock Crash Tears",
+      "title_zh": "股市暴跌Q版打工人哭泣",
+      "prompt": "Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart. Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.",
+      "tags": [
+        "chibi",
+        "stock-market",
+        "crying",
+        "office"
+      ],
+      "source": {
+        "platform": "OpenAI",
+        "url": "https://openai.com/index/introducing-images-2-6/",
+        "author": "OpenArt",
+        "profile_url": "https://openart.ai/"
+      }
+    },
+    {
+      "id": "chibi-stock-rally-cheer",
+      "category": "stickers",
+      "title": "Chibi Stock Rally Cheer",
+      "title_zh": "股市大涨Q版打工人撒钱",
+      "prompt": "Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing. Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.",
+      "tags": [
+        "chibi",
+        "stock-market",
+        "celebration",
+        "office"
+      ],
+      "source": {
+        "platform": "OpenAI",
+        "url": "https://openai.com/index/introducing-images-2-6/",
+        "author": "OpenArt",
+        "profile_url": "https://openart.ai/"
+      }
+    },
+    {
+      "id": "lantern-monkey-snowy-forest",
+      "category": "loops",
+      "title": "Lantern Monkey in a Snowy Forest",
+      "title_zh": "雪林提灯小猴",
+      "prompt": "A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.",
+      "tags": [
+        "monkey",
+        "lantern",
+        "snow",
+        "seamless"
+      ],
+      "source": {
+        "platform": "OpenAI",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif",
+        "author": "OpenAI Developers",
+        "profile_url": "https://x.com/OpenAIDevs"
+      }
+    },
+    {
+      "id": "dwarf-axe-360-turntable",
+      "category": "product",
+      "title": "3D Dwarf Model 360 Turntable",
+      "title_zh": "3D矮人模型360度旋转",
+      "prompt": "create a gif of a \"3d dwarf game model carrying a huge axe on his shoulders\" spinning full 360 degrees",
+      "tags": [
+        "3d",
+        "game-asset",
+        "turntable",
+        "dwarf"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/xikhar/status/2118407355859878352",
+        "author": "Shikhar",
+        "handle": "xikhar",
+        "profile_url": "https://x.com/xikhar"
+      }
+    },
+    {
+      "id": "golden-gate-gouache-travel-poster",
+      "category": "loops",
+      "title": "Golden Gate Gouache Travel Poster",
+      "title_zh": "金门大桥水粉旅行海报",
+      "prompt": "A living mid-century gouache travel-poster painting of the Golden Gate Bridge seen from a beach, static locked-off camera, seamless looping animation. The bridge is rust-orange with two tall towers, fine suspension cables and vertical hangers, spanning to a hazy grey-blue headland on the left and a tan-grey rocky cliff on the right. In the foreground deep cobalt and teal surf rolls in with white foam lines onto a sweeping beach of sandy beige scratchy dry-brush strokes, with dark rocks, a driftwood log and tiny figures in coral, navy and mustard. Warm cream sky with fine paper grain fills the upper half. Matte opaque gouache, ragged flaking edges, visible bristle streaks, speckled worn texture. Gentle motion only: waves wash and recede, foam shimmers, seagulls glide across the sky, tiny people wander. Soft hazy daylight, vertical 3:4, perfect loop.",
+      "tags": [
+        "gouache",
+        "travel-poster",
+        "bridge",
+        "waves"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/devteamdrew/status/2118308538564989025",
+        "author": "DreW",
+        "handle": "devteamdrew",
+        "profile_url": "https://x.com/devteamdrew"
+      }
+    },
+    {
+      "id": "white-house-drone-orbit",
+      "category": "loops",
+      "title": "White House 360 Drone Orbit",
+      "title_zh": "白宫外观360度环绕航拍",
+      "prompt": "【白宫外观】360°环绕\n帮我做一个真实白宫外观的360°环绕模仿无人机拍摄，要真实还原建筑环境的实际外观情况，做成gif",
+      "tags": [
+        "drone",
+        "orbit",
+        "architecture",
+        "landmark"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/nima2qisi2/status/2118295936606798006",
+        "author": "Dmiao豆苗啊",
+        "handle": "nima2qisi2",
+        "profile_url": "https://x.com/nima2qisi2"
+      }
+    },
+    {
+      "id": "boxing-tabby-cat-punch",
+      "category": "stickers",
+      "title": "Boxing Tabby Cat Punch",
+      "title_zh": "街头拳击橘猫出拳",
+      "prompt": "A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Front paws alternating punching toward the camera, body swaying side to side, then leaning close to the camera.",
+      "tags": [
+        "cat",
+        "boxing",
+        "night-street",
+        "photoreal"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/mileson/awesome-gpt-images-2.6-gif",
+        "author": "mileson",
+        "profile_url": "https://github.com/mileson"
+      }
+    },
+    {
+      "id": "boxing-tabby-cat-dance",
+      "category": "stickers",
+      "title": "Tabby Cat Night Street Dance",
+      "title_zh": "街头橘猫跳舞",
+      "prompt": "A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Bouncing and swaying side to side, paws up in the air, joyful dance.",
+      "tags": [
+        "cat",
+        "dance",
+        "night-street",
+        "photoreal"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/mileson/awesome-gpt-images-2.6-gif",
+        "author": "mileson",
+        "profile_url": "https://github.com/mileson"
+      }
+    },
+    {
+      "id": "tabby-cat-catching-snowflakes",
+      "category": "stickers",
+      "title": "Tabby Cat Catching Snowflakes",
+      "title_zh": "橘猫扑雪花",
+      "prompt": "A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Jumping up trying to catch falling snowflakes with its front paws.",
+      "tags": [
+        "cat",
+        "snow",
+        "night-street",
+        "photoreal"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/mileson/awesome-gpt-images-2.6-gif",
+        "author": "mileson",
+        "profile_url": "https://github.com/mileson"
+      }
+    },
+    {
+      "id": "cat-spinning",
+      "category": "stickers",
+      "title": "Spinning Cat",
+      "title_zh": "旋转的猫",
+      "prompt": "create a gif of a cat spinning",
+      "tags": [
+        "cat",
+        "spin",
+        "meme",
+        "short-prompt"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/xikhar/status/2118407355859878352",
+        "author": "Shikhar",
+        "handle": "xikhar",
+        "profile_url": "https://x.com/xikhar"
+      }
+    },
+    {
+      "id": "futuristic-motorbike-360-turntable",
+      "category": "product",
+      "title": "Futuristic Motorbike 360 Turntable",
+      "title_zh": "未来摩托车360度展示",
+      "prompt": "create a gif of a \"AAA 3d futuristic motorbike game asset\" spinning full 360 degrees",
+      "tags": [
+        "3d",
+        "game-asset",
+        "turntable",
+        "motorbike"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/xikhar/status/2118407355859878352",
+        "author": "Shikhar",
+        "handle": "xikhar",
+        "profile_url": "https://x.com/xikhar"
+      }
+    },
+    {
+      "id": "sword-in-stone-360-turntable",
+      "category": "product",
+      "title": "Sword in Stone 360 Turntable",
+      "title_zh": "石中剑360度旋转",
+      "prompt": "create a gif of a \"3d legendary sword in a stone game asset\" spinning full 360 degrees",
+      "tags": [
+        "3d",
+        "game-asset",
+        "turntable",
+        "sword"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/xikhar/status/2118407355859878352",
+        "author": "Shikhar",
+        "handle": "xikhar",
+        "profile_url": "https://x.com/xikhar"
+      }
+    },
+    {
+      "id": "colosseum-gouache-travel-poster",
+      "category": "loops",
+      "title": "Colosseum Gouache Travel Poster",
+      "title_zh": "罗马斗兽场水粉旅行海报",
+      "prompt": "A living mid-century gouache travel-poster painting of the Roman Colosseum, locked-off static camera, a seamless looping animation. The ruined amphitheater sits low in the frame in sun-bleached ochre, sand and travertine with dusty rose and pale blue-grey arches, painted in dry-brush gouache with flaky, speckled edges and worn-away patches. A tall Italian stone pine in dark green and bottle-green leans in from the right, a vintage teal street lamp on the left, rose-coral flowering shrubs at the base. Open warm cream paper-textured sky fills the upper two thirds with fine paper grain. Gentle motion only: a few tiny birds drift across the sky, a cyclist rides slowly along the piazza, a small scooter, a couple in coral and mustard strolling, pine foliage barely sways. Soft warm afternoon light, long pale shadows, flat matte shapes, vertical 3:4, perfect loop.",
+      "tags": [
+        "gouache",
+        "travel-poster",
+        "rome",
+        "landmark"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/devteamdrew/status/2118308538564989025",
+        "author": "DreW",
+        "handle": "devteamdrew",
+        "profile_url": "https://x.com/devteamdrew"
+      }
+    },
+    {
+      "id": "mount-fuji-gouache-travel-poster",
+      "category": "loops",
+      "title": "Mount Fuji Gouache Travel Poster",
+      "title_zh": "富士山水粉旅行海报",
+      "prompt": "A living mid-century gouache travel-poster painting of Mount Fuji behind a five-storey Japanese pagoda, static locked-off camera, seamless looping animation. The pagoda is vermilion-orange with deep teal-slate tiled roofs, a slender spire, and a dark evergreen tree beside it. Fuji sits small and distant in dusty blue-grey with a snow-white cap and ragged dry-brush ridges, over a pale mist field. Foreground cherry trees in soft coral-pink blossom with dark trunks frame the bottom, and tiny figures stand on pale speckled ground. Warm cream paper-grain sky fills the upper half. Matte flat gouache with ragged, flaking edges, visible bristle marks and speckled holes. Subtle motion only: blossom petals drift down, branches sway faintly, tiny figures shift, a bell-like gentle shimmer on the light. Soft spring morning light, vertical 3:4, perfect loop.",
+      "tags": [
+        "gouache",
+        "travel-poster",
+        "japan",
+        "cherry-blossom"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/devteamdrew/status/2118308538564989025",
+        "author": "DreW",
+        "handle": "devteamdrew",
+        "profile_url": "https://x.com/devteamdrew"
+      }
+    },
+    {
+      "id": "courier-cat-got-it-sticker",
+      "category": "stickers",
+      "title": "Courier Cat \"Got It\" Sticker",
+      "title_zh": "橘猫快递员「收到」表情",
+      "prompt": "一只圆滚滚的橘猫快递员，戴蓝色帽子，开心地举起爪子挥手，循环动画。画面下方有白色粗体中文大字「收到」，黑色描边，文字在每一帧都保持不变、不晃动。干净的浅米色背景，扁平插画风格，表情包。除了「收到」两个字，不要任何其他文字。",
+      "tags": [
+        "cat",
+        "courier",
+        "caption",
+        "sticker"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/AXIS95277/status/2118264180239184369",
+        "author": "AXIS实验室",
+        "handle": "AXIS95277",
+        "profile_url": "https://x.com/AXIS95277"
+      }
+    },
+    {
+      "id": "bubblegum-pop-loop",
+      "category": "loops",
+      "title": "Bubblegum Pop Studio Loop",
+      "title_zh": "泡泡糖吹破循环",
+      "prompt": "A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde bob, freckles, hot pink oversized puffer jacket, on a flat saturated cobalt blue studio wall and floor. Medium shot. She blows a huge bubblegum bubble, it pops on her face, it resets, forever, her eyes bored and looking straight at the camera. Bold, bright, crisp photographic look, hard studio light, no text, no logos.",
+      "tags": [
+        "bubblegum",
+        "studio",
+        "photoreal",
+        "loop"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/morphedai/status/2118424987833094244",
+        "author": "Morphed",
+        "handle": "morphedai",
+        "profile_url": "https://x.com/morphedai"
+      }
+    },
+    {
+      "id": "chibi-kungfu-girl",
+      "category": "stickers",
+      "title": "Chibi Kung Fu Girl Routine",
+      "title_zh": "Q版功夫少女演武",
+      "prompt": "ちびキャラのカンフー少女が演舞するGIFを作成して",
+      "tags": [
+        "chibi",
+        "kung-fu",
+        "martial-arts",
+        "short-prompt"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/itnavi2022/status/2118516145942843865",
+        "author": "IT navi",
+        "handle": "itnavi2022",
+        "profile_url": "https://x.com/itnavi2022"
+      }
+    },
+    {
+      "id": "ballerina-leap-landing",
+      "category": "loops",
+      "title": "Ballerina Leap and Landing",
+      "title_zh": "芭蕾舞者跳跃落地",
+      "prompt": "次の内容で GIF を作成して: バレリーナが飛び上がって着地するまで",
+      "tags": [
+        "ballet",
+        "dance",
+        "leap",
+        "short-prompt"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/kabumira862571/status/2118196682680856739",
+        "author": "カーブミラー",
+        "handle": "kabumira862571",
+        "profile_url": "https://x.com/kabumira862571"
+      }
     }
   ]
 }

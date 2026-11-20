@@ -1,8 +1,56 @@
-# Product Showcase · 7 prompts
+# Product Showcase · 10 prompts
 
 [← README](../README.md)
 
-### 1. Bathroom remodel banner with rising steam
+### 1. Sword in Stone 360 Turntable
+
+<img src="../gifs/sword-in-stone-360-turntable.gif" alt="Sword in Stone 360 Turntable" width="360">
+
+<sub>12 frames · 358×346 · 1.6s · GPT Image 2.6</sub>
+
+📌 **Source:** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**Prompt**
+
+```text
+create a gif of a "3d legendary sword in a stone game asset" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `sword`
+
+### 2. Futuristic Motorbike 360 Turntable
+
+<img src="../gifs/futuristic-motorbike-360-turntable.gif" alt="Futuristic Motorbike 360 Turntable" width="360">
+
+<sub>12 frames · 358×356 · 1.3s · GPT Image 2.6</sub>
+
+📌 **Source:** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**Prompt**
+
+```text
+create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `motorbike`
+
+### 3. 3D Dwarf Model 360 Turntable
+
+<img src="../gifs/dwarf-axe-360-turntable.gif" alt="3D Dwarf Model 360 Turntable" width="360">
+
+<sub>12 frames · 358×358 · 1.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**Prompt**
+
+```text
+create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `dwarf`
+
+### 4. Bathroom remodel banner with rising steam
 
 <img src="../gifs/bath-remodel-steam-banner.gif" alt="Bathroom remodel banner with rising steam" width="360">
 
@@ -18,7 +66,7 @@
 
 `banner` `ad` `japanese`
 
-### 2. Earbuds case lid opens and closes
+### 5. Earbuds case lid opens and closes
 
 <img src="../gifs/earbuds-case-lid-open-close.gif" alt="Earbuds case lid opens and closes" width="360">
 
@@ -34,7 +82,7 @@
 
 `product` `tech` `ecommerce`
 
-### 3. Earbuds case with pulsing LED
+### 6. Earbuds case with pulsing LED
 
 <img src="../gifs/earbuds-case-led-pulse.gif" alt="Earbuds case with pulsing LED" width="360">
 
@@ -50,7 +98,7 @@ Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-
 
 `product` `tech` `macro`
 
-### 4. Coffee bag hero shot with espresso steam
+### 7. Coffee bag hero shot with espresso steam
 
 <img src="../gifs/coffee-bag-espresso-steam.gif" alt="Coffee bag hero shot with espresso steam" width="360">
 
@@ -66,7 +114,7 @@ Locked tripod commercial product shot in soft morning studio light. A matte terr
 
 `product` `coffee` `steam`
 
-### 5. Water bottle rocking (product loop)
+### 8. Water bottle rocking (product loop)
 
 <img src="../gifs/water-bottle-rock-product.gif" alt="Water bottle rocking (product loop)" width="360">
 
@@ -82,7 +130,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 6. Smartwatch screen wake-up
+### 9. Smartwatch screen wake-up
 
 <img src="../gifs/smartwatch-face-glow.gif" alt="Smartwatch screen wake-up" width="360">
 
@@ -96,7 +144,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 7. Sneaker on a turntable
+### 10. Sneaker on a turntable
 
 <img src="../gifs/sneaker-turntable-spin.gif" alt="Sneaker on a turntable" width="360">
 

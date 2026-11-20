@@ -6012,5 +6012,425 @@
     "generatedAt": "2026-11-19",
     "via": "source",
     "bytes": 280088
+  },
+  "monday-cat-office-sticker-slide": {
+    "width": 288,
+    "height": 288,
+    "frames": 10,
+    "durationMs": 2000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 233411
+  },
+  "sydney-travel-journal-palm-shadow": {
+    "width": 480,
+    "height": 266,
+    "frames": 9,
+    "durationMs": 5830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 912123
+  },
+  "shocked-orange-tabby-reaction": {
+    "width": 356,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 706943
+  },
+  "rooftop-astronaut-glowing-paper-star": {
+    "width": 356,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 2660,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 728072
+  },
+  "cartoon-shark-fin-wave": {
+    "width": 439,
+    "height": 390,
+    "frames": 8,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 262483
+  },
+  "orange-robot-wave-return-pose-chatgpt": {
+    "width": 436,
+    "height": 388,
+    "frames": 9,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 261024
+  },
+  "orange-robot-wave-blink-flare-api": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 480344
+  },
+  "water-cycle-classroom-diagram": {
+    "width": 480,
+    "height": 270,
+    "frames": 96,
+    "durationMs": 8000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 508529
+  },
+  "orange-cat-stock-rally-cheer": {
+    "width": 439,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 608273
+  },
+  "cozy-bear-sipping-coffee": {
+    "width": 358,
+    "height": 356,
+    "frames": 12,
+    "durationMs": 2660,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 1018775
+  },
+  "top-hat-frog-ego-be-gone": {
+    "width": 480,
+    "height": 608,
+    "frames": 16,
+    "durationMs": 1750,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 1093633
+  },
+  "busy-bee-daily-checkin": {
+    "width": 412,
+    "height": 408,
+    "frames": 9,
+    "durationMs": 2000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 708663
+  },
+  "sunglasses-cat-dance-meme": {
+    "width": 426,
+    "height": 398,
+    "frames": 9,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 679060
+  },
+  "heisei-era-sns-gif": {
+    "width": 480,
+    "height": 480,
+    "frames": 6,
+    "durationMs": 1330,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 768394
+  },
+  "claymation-kitten-ball-pit": {
+    "width": 412,
+    "height": 412,
+    "frames": 9,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 691392
+  },
+  "ginger-kitten-boops-lens": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 1314961
+  },
+  "grandpa-chopping-wood-winter": {
+    "width": 288,
+    "height": 288,
+    "frames": 16,
+    "durationMs": 1910,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 1021657
+  },
+  "robot-brewing-coffee": {
+    "width": 480,
+    "height": 480,
+    "frames": 16,
+    "durationMs": 2410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 1688342
+  },
+  "osaka-castle-construction": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 738523
+  },
+  "paper-boat-bobbing": {
+    "width": 412,
+    "height": 402,
+    "frames": 9,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 752785
+  },
+  "nyc-snow-globe": {
+    "width": 414,
+    "height": 414,
+    "frames": 9,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 918676
+  },
+  "robot-afrobeats-lagos-street": {
+    "width": 414,
+    "height": 414,
+    "frames": 9,
+    "durationMs": 1080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 924447
+  },
+  "luminol-beaker-vortex": {
+    "width": 294,
+    "height": 320,
+    "frames": 16,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 676616
+  },
+  "pixel-hero-sword-slash": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 207250
+  },
+  "chibi-stock-crash-tears": {
+    "width": 480,
+    "height": 480,
+    "frames": 16,
+    "durationMs": 1330,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 1099767
+  },
+  "chibi-stock-rally-cheer": {
+    "width": 480,
+    "height": 480,
+    "frames": 12,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 930239
+  },
+  "lantern-monkey-snowy-forest": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 1265919
+  },
+  "dwarf-axe-360-turntable": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 343996
+  },
+  "golden-gate-gouache-travel-poster": {
+    "width": 480,
+    "height": 640,
+    "frames": 96,
+    "durationMs": 8000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 853401
+  },
+  "white-house-drone-orbit": {
+    "width": 474,
+    "height": 352,
+    "frames": 9,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 803052
+  },
+  "boxing-tabby-cat-punch": {
+    "width": 360,
+    "height": 360,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 665045
+  },
+  "boxing-tabby-cat-dance": {
+    "width": 360,
+    "height": 360,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 732781
+  },
+  "tabby-cat-catching-snowflakes": {
+    "width": 360,
+    "height": 360,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 698012
+  },
+  "cat-spinning": {
+    "width": 476,
+    "height": 354,
+    "frames": 9,
+    "durationMs": 830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 720484
+  },
+  "futuristic-motorbike-360-turntable": {
+    "width": 358,
+    "height": 356,
+    "frames": 12,
+    "durationMs": 1330,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 322797
+  },
+  "sword-in-stone-360-turntable": {
+    "width": 358,
+    "height": 346,
+    "frames": 12,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 290613
+  },
+  "colosseum-gouache-travel-poster": {
+    "width": 480,
+    "height": 640,
+    "frames": 96,
+    "durationMs": 8000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 690054
+  },
+  "mount-fuji-gouache-travel-poster": {
+    "width": 480,
+    "height": 640,
+    "frames": 96,
+    "durationMs": 8000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 727248
+  },
+  "courier-cat-got-it-sticker": {
+    "width": 480,
+    "height": 162,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 322756
+  },
+  "bubblegum-pop-loop": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 583009
+  },
+  "chibi-kungfu-girl": {
+    "width": 356,
+    "height": 266,
+    "frames": 38,
+    "durationMs": 8160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 951765
+  },
+  "ballerina-leap-landing": {
+    "width": 358,
+    "height": 356,
+    "frames": 12,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-20",
+    "via": "source",
+    "bytes": 774643
   }
 }

@@ -1,8 +1,56 @@
-# 电商与产品展示 · 7 条提示词
+# 电商与产品展示 · 10 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 浴室翻新广告横幅热气升腾
+### 1. 石中剑360度旋转
+
+<img src="../gifs/sword-in-stone-360-turntable.gif" alt="石中剑360度旋转" width="360">
+
+<sub>12 帧 · 358×346 · 1.6s · GPT Image 2.6</sub>
+
+📌 **来源：** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**提示词**
+
+```text
+create a gif of a "3d legendary sword in a stone game asset" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `sword`
+
+### 2. 未来摩托车360度展示
+
+<img src="../gifs/futuristic-motorbike-360-turntable.gif" alt="未来摩托车360度展示" width="360">
+
+<sub>12 帧 · 358×356 · 1.3s · GPT Image 2.6</sub>
+
+📌 **来源：** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**提示词**
+
+```text
+create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `motorbike`
+
+### 3. 3D矮人模型360度旋转
+
+<img src="../gifs/dwarf-axe-360-turntable.gif" alt="3D矮人模型360度旋转" width="360">
+
+<sub>12 帧 · 358×358 · 1.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**提示词**
+
+```text
+create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `dwarf`
+
+### 4. 浴室翻新广告横幅热气升腾
 
 <img src="../gifs/bath-remodel-steam-banner.gif" alt="浴室翻新广告横幅热气升腾" width="360">
 
@@ -18,7 +66,7 @@
 
 `banner` `ad` `japanese`
 
-### 2. 耳机充电盒开合展示
+### 5. 耳机充电盒开合展示
 
 <img src="../gifs/earbuds-case-lid-open-close.gif" alt="耳机充电盒开合展示" width="360">
 
@@ -34,7 +82,7 @@
 
 `product` `tech` `ecommerce`
 
-### 3. 耳机充电盒指示灯呼吸
+### 6. 耳机充电盒指示灯呼吸
 
 <img src="../gifs/earbuds-case-led-pulse.gif" alt="耳机充电盒指示灯呼吸" width="360">
 
@@ -50,7 +98,7 @@ Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-
 
 `product` `tech` `macro`
 
-### 4. 咖啡豆袋主图＋浓缩咖啡热气
+### 7. 咖啡豆袋主图＋浓缩咖啡热气
 
 <img src="../gifs/coffee-bag-espresso-steam.gif" alt="咖啡豆袋主图＋浓缩咖啡热气" width="360">
 
@@ -66,7 +114,7 @@ Locked tripod commercial product shot in soft morning studio light. A matte terr
 
 `product` `coffee` `steam`
 
-### 5. 左右摇摆的水杯产品动图
+### 8. 左右摇摆的水杯产品动图
 
 <img src="../gifs/water-bottle-rock-product.gif" alt="左右摇摆的水杯产品动图" width="360">
 
@@ -82,7 +130,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 6. 智能手表亮屏
+### 9. 智能手表亮屏
 
 <img src="../gifs/smartwatch-face-glow.gif" alt="智能手表亮屏" width="360">
 
@@ -96,7 +144,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 7. 转台上旋转的运动鞋
+### 10. 转台上旋转的运动鞋
 
 <img src="../gifs/sneaker-turntable-spin.gif" alt="转台上旋转的运动鞋" width="360">
 

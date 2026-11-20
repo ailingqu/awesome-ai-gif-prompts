@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 554+ 个案例
+# Awesome AI GIF Prompts · 596+ 个案例
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-554-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--19-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-596-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--20-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。自有示例都是用所列提示词原样生成的，未做任何后期修改；社区精选标注了来源并署名作者。
 
-> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-19**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
+> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-20**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
 >
 > 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
@@ -25,13 +25,13 @@
 ## 目录
 
 - [这些 GIF 是怎么生成的](#这些-gif-是怎么生成的)
-- [表情包与贴纸](#表情包与贴纸) · 203 条提示词
-- [快闪与品牌动效](#快闪与品牌动效) · 91 条提示词
-- [氛围循环动画](#氛围循环动画) · 133 条提示词
-- [像素风与界面动效](#像素风与界面动效) · 97 条提示词
-- [科普讲解动图](#科普讲解动图) · 14 条提示词
+- [表情包与贴纸](#表情包与贴纸) · 221 条提示词
+- [快闪与品牌动效](#快闪与品牌动效) · 92 条提示词
+- [氛围循环动画](#氛围循环动画) · 149 条提示词
+- [像素风与界面动效](#像素风与界面动效) · 98 条提示词
+- [科普讲解动图](#科普讲解动图) · 17 条提示词
 - [节日与祝福](#节日与祝福) · 3 条提示词
-- [电商与产品展示](#电商与产品展示) · 7 条提示词
+- [电商与产品展示](#电商与产品展示) · 10 条提示词
 - [美食饮品](#美食饮品) · 4 条提示词
 - [动态头像](#动态头像) · 2 条提示词
 - [自己动手生成](#自己动手生成)
@@ -62,207 +62,223 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 ## 表情包与贴纸
 
-这里展示本分类最新的 12 条（共 203 条）。[查看全部 203 条 →](categories/stickers_zh.md)
+这里展示本分类最新的 12 条（共 221 条）。[查看全部 221 条 →](categories/stickers_zh.md)
 
-### 1. 圆滚滚的蓝色机器人吉祥物打招呼
+### 1. Q版功夫少女演武
 
-<img src="gifs/blue-robot-mascot-hello.gif" alt="圆滚滚的蓝色机器人吉祥物打招呼" width="360">
+<img src="gifs/chibi-kungfu-girl.gif" alt="Q版功夫少女演武" width="360">
 
-<sub>6 帧 · 480×480 · 0.9s · GPT Image 2.6</sub>
+<sub>38 帧 · 356×266 · 8.2s · GPT Image 2.6</sub>
 
-📌 **来源：** [@super_lewis on DEV Community](https://dev.to/super_lewis/animated-gifs-and-markup-guided-edits-with-the-gpt-image-26-api-real-timings-and-per-call-cost-2jmd)
-
-**提示词**
-
-```text
-A round blue robot mascot waves hello. Seamless loop, same framing in every frame.
-```
-
-`mascot` `robot` `api`
-
-### 2. 粉色爱心心跳缩放
-
-<img src="gifs/pink-heart-heartbeat.gif" alt="粉色爱心心跳缩放" width="360">
-
-<sub>12 帧 · 357×356 · 1.7s · GPT Image 2.6</sub>
-
-📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+📌 **来源：** [@itnavi2022 on X](https://x.com/itnavi2022/status/2118516145942843865)
 
 **提示词**
 
 ```text
-製作一張粉紅色愛心 GIF。愛心在畫面中央輕輕放大，再縮回原本大小，呈現柔和的心跳節奏。背景簡潔、固定視角，畫面乾淨，無縫循環，不要文字。
+ちびキャラのカンフー少女が演舞するGIFを作成して
 ```
 
-`heart` `social` `flat`
+`chibi` `kung-fu` `martial-arts` `short-prompt`
 
-### 3. 绿斗篷银发少年原地轻跳
+### 2. 橘猫快递员「收到」表情
 
-<img src="gifs/cloak-boy-forest-jump.gif" alt="绿斗篷银发少年原地轻跳" width="360">
+<img src="gifs/courier-cat-got-it-sticker.gif" alt="橘猫快递员「收到」表情" width="360">
 
-<sub>12 帧 · 309×414 · 1.7s · GPT Image 2.6</sub>
+<sub>9 帧 · 480×162 · 1.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+📌 **来源：** [@AXIS95277 on X](https://x.com/AXIS95277/status/2118264180239184369)
 
 **提示词**
 
 ```text
-製作一張日系動畫風格 GIF。一名銀白色短髮少年穿著深綠色斗篷，站在森林空地上，輕輕跳起一次，然後回到站立姿勢。保持角色五官、衣服與背景一致，固定鏡頭，動作自然、無縫循環。
+一只圆滚滚的橘猫快递员，戴蓝色帽子，开心地举起爪子挥手，循环动画。画面下方有白色粗体中文大字「收到」，黑色描边，文字在每一帧都保持不变、不晃动。干净的浅米色背景，扁平插画风格，表情包。除了「收到」两个字，不要任何其他文字。
 ```
 
-`anime` `character` `jump`
+`cat` `courier` `caption` `sticker`
 
-### 4. 穿吊带裤的 3D 小白兔挥手
+### 3. 旋转的猫
 
-<img src="gifs/3d-bunny-overalls-wave.gif" alt="穿吊带裤的 3D 小白兔挥手" width="360">
+<img src="gifs/cat-spinning.gif" alt="旋转的猫" width="360">
 
-<sub>12 帧 · 358×358 · 2.2s · GPT Image 2.6</sub>
+<sub>9 帧 · 476×354 · 0.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
+📌 **来源：** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
 
 **提示词**
 
 ```text
-製作一張可愛 3D 小白兔 GIF。小白兔穿著淺藍色吊帶褲，站在花園裡，慢慢舉起右手揮手打招呼，然後自然放下。背景固定，柔和晨光，可愛 3D 動畫風格，動作連貫，無縫循環，不要字幕。
+create a gif of a cat spinning
 ```
 
-`bunny` `3d` `greeting`
+`cat` `spin` `meme` `short-prompt`
 
-### 5. 穿格子衫的黏土橘猫疯狂敲键盘
+### 4. 橘猫扑雪花
 
-<img src="gifs/plaid-shirt-cat-coding-clay.gif" alt="穿格子衫的黏土橘猫疯狂敲键盘" width="360">
+<img src="gifs/tabby-cat-catching-snowflakes.gif" alt="橘猫扑雪花" width="360">
 
-<sub>9 帧 · 427×400 · 1.0s · GPT Image 2.6</sub>
+<sub>9 帧 · 360×360 · 1.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [STRUGGLE_xlf on CSDN](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html)
+📌 **来源：** [mileson on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
 
 **提示词**
 
 ```text
-帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。
+A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Jumping up trying to catch falling snowflakes with its front paws.
 ```
 
-`cat` `3d-clay` `programmer`
+`cat` `snow` `night-street` `photoreal`
 
-### 6. Q版上班族看到工作通知瘫倒
+### 5. 街头橘猫跳舞
 
-<img src="gifs/chibi-worker-notification-flop.gif" alt="Q版上班族看到工作通知瘫倒" width="360">
+<img src="gifs/boxing-tabby-cat-dance.gif" alt="街头橘猫跳舞" width="360">
 
-<sub>12 帧 · 308×414 · 2.0s · GPT Image 2.6</sub>
+<sub>9 帧 · 360×360 · 1.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+📌 **来源：** [mileson on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
 
 **提示词**
 
 ```text
-請製作一張幽默的 GIF 動畫。一名 Q 版上班族坐在電腦前，先露出充滿期待的表情，接著看到螢幕上的工作通知，眼睛瞬間睜大，最後無奈地趴在桌上。使用可愛的日系 2D 插畫風格，背景為簡約辦公室，角色服裝與桌面物品保持一致。鏡頭固定，動作誇張但自然，動畫可以無縫循環，不要加入文字。
+A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Bouncing and swaying side to side, paws up in the air, joyful dance.
 ```
 
-`office` `reaction` `chibi`
+`cat` `dance` `night-street` `photoreal`
 
-### 7. 3D 黏土橘猫挥手眨眼
+### 6. 街头拳击橘猫出拳
 
-<img src="gifs/clay-orange-cat-wave-blink.gif" alt="3D 黏土橘猫挥手眨眼" width="360">
+<img src="gifs/boxing-tabby-cat-punch.gif" alt="街头拳击橘猫出拳" width="360">
 
-<sub>12 帧 · 358×356 · 1.7s · GPT Image 2.6</sub>
+<sub>9 帧 · 360×360 · 1.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+📌 **来源：** [mileson on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
 
 **提示词**
 
 ```text
-請製作一張正方形 1:1 GIF 動畫。一隻可愛的橘貓坐在奶油白色背景前，慢慢抬起前腳揮手，接著眨眼，最後回到原本姿勢。採用精緻的 3D 黏土插畫風格，毛髮柔軟、表情可愛。鏡頭固定，保持角色外觀一致，製作自然流暢的無縫循環動畫，不要加入文字。
+A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Front paws alternating punching toward the camera, body swaying side to side, then leaning close to the camera.
 ```
 
-`cat` `3d-clay` `sticker`
+`cat` `boxing` `night-street` `photoreal`
 
-### 8. 磁带“SIDE A”贴纸冒音符
+### 7. 股市大涨Q版打工人撒钱
 
-<img src="gifs/cassette-side-a-sticker.gif" alt="磁带“SIDE A”贴纸冒音符" width="360">
+<img src="gifs/chibi-stock-rally-cheer.gif" alt="股市大涨Q版打工人撒钱" width="360">
 
-<sub>14 帧 · 480×480 · 1.2s · GPT Image 2.6</sub>
+<sub>12 帧 · 480×480 · 1.2s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/gpt-image-2-6)
+📌 **来源：** [OpenArt on OpenAI](https://openai.com/index/introducing-images-2-6/)
 
 **提示词**
 
 ```text
-Locked front-on 1:1 animated die-cut vinyl sticker on a fully transparent background with a crisp thick white kiss-cut border. A tilted brushed-silver and signal-orange compact cassette tape labeled 'SIDE A' in clean white sans-serif type. Across 8 frames, both white inner tape reel gears rotate smoothly while two bold electric-cobalt musical notes pop playfully out of the top-right corner on frames 2 to 5 and fade cleanly away by frame 8 so frame 8 matches frame 1's clean silhouette for a seamless loop.
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing. Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.
 ```
 
-`sticker` `retro` `music`
+`chibi` `stock-market` `celebration` `office`
 
-### 9. 浣熊梗图：五分钟修复搞崩线上
+### 8. 股市暴跌Q版打工人哭泣
 
-<img src="gifs/raccoon-breaks-prod-meme.gif" alt="浣熊梗图：五分钟修复搞崩线上" width="360">
+<img src="gifs/chibi-stock-crash-tears.gif" alt="股市暴跌Q版打工人哭泣" width="360">
 
-<sub>8 帧 · 480×480 · 1.4s · GPT Image 2.6</sub>
+<sub>16 帧 · 480×480 · 1.3s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+📌 **来源：** [OpenArt on OpenAI](https://openai.com/index/introducing-images-2-6/)
 
 **提示词**
 
 ```text
-Square internet reaction meme GIF with a solid white top caption bar reading "WHEN THE '5-MINUTE FIX' BREAKS PROD" in bold black sans-serif all-caps letters. Below the caption bar, locked front-on comic illustration of a wide-eyed gray raccoon wearing a black headset sitting at a dark desk behind an open laptop. Warm red-orange monitor light pulses across the raccoon's face as its paws hover tensely over the keyboard and its ears flatten slightly, then return to the exact starting pose on the final frame for a clean loop. Keep the white top bar and every letter of "WHEN THE '5-MINUTE FIX' BREAKS PROD" completely crisp and motionless across all frames.
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart. Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.
 ```
 
-`meme` `caption` `developer`
+`chibi` `stock-market` `crying` `office`
 
-### 10. “SHIP IT!”徽章贴纸摇摆
+### 9. 戴墨镜猫咪跳舞梗图
 
-<img src="gifs/ship-it-badge-wiggle.gif" alt="“SHIP IT!”徽章贴纸摇摆" width="360">
+<img src="gifs/sunglasses-cat-dance-meme.gif" alt="戴墨镜猫咪跳舞梗图" width="360">
 
-<sub>14 帧 · 480×480 · 1.3s · GPT Image 2.6</sub>
+<sub>9 帧 · 426×398 · 1.2s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+📌 **来源：** [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108)
 
 **提示词**
 
 ```text
-Bold street-art die-cut sticker badge with a thick white cutout border on a completely transparent background, locked front-on camera. Chunky crimson block letters reading "SHIP IT!" sit centered inside a bright yellow starburst badge. The badge tilts slightly left and right with tiny black comic wiggle lines around the border, then returns to the exact starting angle on the final frame for a clean loop. Crisp flat ink colors, exact spelling.
+次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF
 ```
 
-`sticker` `text` `transparent`
+`cat` `sunglasses` `dance` `meme`
 
-### 11. 黏土星星蹦跳贴纸
+### 10. 勤劳小蜜蜂每日打卡
 
-<img src="gifs/clay-star-hop-sticker.gif" alt="黏土星星蹦跳贴纸" width="360">
+<img src="gifs/busy-bee-daily-checkin.gif" alt="勤劳小蜜蜂每日打卡" width="360">
 
-<sub>14 帧 · 480×480 · 1.2s · GPT Image 2.6</sub>
+<sub>9 帧 · 412×408 · 2.0s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+📌 **来源：** [@MrGafish on X](https://x.com/MrGafish/status/2118217749680025722)
 
 **提示词**
 
 ```text
-Glossy 3D clay-style die-cut sticker with a thick white sticker border on a completely transparent background, locked front-on camera. A cheerful yellow five-pointed star character wearing tiny round black sunglasses does a happy little hop and lands softly back in its exact starting stance on the final frame for a clean loop. Crisp cutout edge, flat vibrant colors, no text.
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
 ```
 
-`sticker` `transparent` `3d-clay`
+`bee` `check-in` `social` `cute`
 
-### 12. 戴眼镜的青蛙疯狂打字
+### 11. 戴礼帽青蛙跳舞表情
 
-<img src="gifs/glasses-frog-fast-typing.gif" alt="戴眼镜的青蛙疯狂打字" width="360">
+<img src="gifs/top-hat-frog-ego-be-gone.gif" alt="戴礼帽青蛙跳舞表情" width="360">
 
-<sub>8 帧 · 480×480 · 0.9s · GPT Image 2.6</sub>
+<sub>16 帧 · 480×608 · 1.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+📌 **来源：** [@princess414141 on X](https://x.com/princess414141/status/2118144125354877152)
 
 **提示词**
 
 ```text
-Flat cel-shaded comic reaction illustration, locked front-on camera. A determined little green tree frog wearing round wire-rim glasses sits behind a silver laptop at a desk, rapidly tapping alternate webbed hands on the keyboard with tiny white motion arcs above its fingers while its glasses glint once, returning to the exact starting hand position on the final frame for a clean loop. Solid warm cream-teal background, bold outlines, no text.
+dancing frog with a top hat on, with ego be gone! written at the top
 ```
 
-`reaction` `frog` `work`
+`frog` `dance` `meme` `caption`
 
-**[查看本分类全部 203 条 →](categories/stickers_zh.md)**
+### 12. 小熊喝咖啡
+
+<img src="gifs/cozy-bear-sipping-coffee.gif" alt="小熊喝咖啡" width="360">
+
+<sub>12 帧 · 358×356 · 2.7s · GPT Image 2.6</sub>
+
+📌 **来源：** [Makari｜AIイラスト on note](https://note.com/makari_5108010/n/nbfdb5c15e70b)
+
+**提示词**
+
+```text
+ほっこりかわいいくまが、コーヒーを飲んでいるGIFを作ってください。
+```
+
+`bear` `coffee` `cute` `plush` `cozy`
+
+**[查看本分类全部 221 条 →](categories/stickers_zh.md)**
 
 ## 快闪与品牌动效
 
-这里展示本分类最新的 12 条（共 91 条）。[查看全部 91 条 →](categories/flash_zh.md)
+这里展示本分类最新的 12 条（共 92 条）。[查看全部 92 条 →](categories/flash_zh.md)
 
-### 1. 戴围巾的橘色小熊吉祥物挥手
+### 1. 平成时代象征社交动图
+
+<img src="gifs/heisei-era-sns-gif.gif" alt="平成时代象征社交动图" width="360">
+
+<sub>6 帧 · 480×480 · 1.3s · GPT Image 2.6</sub>
+
+📌 **来源：** [@rem_rev on X](https://x.com/rem_rev/status/2118252486360498485)
+
+**提示词**
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+`heisei` `retro` `nostalgia` `social`
+
+### 2. 戴围巾的橘色小熊吉祥物挥手
 
 <img src="gifs/orange-bear-scarf-mascot.gif" alt="戴围巾的橘色小熊吉祥物挥手" width="360">
 
@@ -278,7 +294,7 @@ Flat cel-shaded comic reaction illustration, locked front-on camera. A determine
 
 `mascot` `bear` `brand`
 
-### 2. 圆润机器人吉祥物欢迎挥手
+### 3. 圆润机器人吉祥物欢迎挥手
 
 <img src="gifs/robot-mascot-welcome-wave.gif" alt="圆润机器人吉祥物欢迎挥手" width="360">
 
@@ -294,7 +310,7 @@ Flat cel-shaded comic reaction illustration, locked front-on camera. A determine
 
 `mascot` `brand` `3d`
 
-### 3. “ON AIR”霓虹灯与音量表闪动
+### 4. “ON AIR”霓虹灯与音量表闪动
 
 <img src="gifs/on-air-neon-meter-pulse.gif" alt="“ON AIR”霓虹灯与音量表闪动" width="360">
 
@@ -310,7 +326,7 @@ Locked tripod close-up shot through a dark midnight recording studio glass booth
 
 `neon` `studio` `text`
 
-### 4. EMBER 标志火焰跳动
+### 5. EMBER 标志火焰跳动
 
 <img src="gifs/ember-logo-flame-flicker.gif" alt="EMBER 标志火焰跳动" width="360">
 
@@ -326,7 +342,7 @@ Minimalist flat vector brand logo lockup on a solid charcoal-black square backgr
 
 `logo` `brand` `flat`
 
-### 5. 滑板 360 尖翻
+### 6. 滑板 360 尖翻
 
 <img src="gifs/skateboard-kickflip-360.gif" alt="滑板 360 尖翻" width="360">
 
@@ -342,7 +358,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `skateboard` `sport` `trick`
 
-### 6. 成语物件猜谜：四个陶瓷摆件轮流弹跳
+### 7. 成语物件猜谜：四个陶瓷摆件轮流弹跳
 
 <img src="gifs/idiom-riddle-ceramic-props.gif" alt="成语物件猜谜：四个陶瓷摆件轮流弹跳" width="360">
 
@@ -467,7 +483,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `riddle` `chinese idiom` `3d`
 
-### 7. 迷幻风跳舞猫
+### 8. 迷幻风跳舞猫
 
 <img src="gifs/psychedelic-cat-dance.gif" alt="迷幻风跳舞猫" width="360">
 
@@ -483,7 +499,7 @@ psychedelic gif of cat dancing
 
 `cat` `psychedelic` `dance`
 
-### 8. 烤鸡晚餐揭盖
+### 9. 烤鸡晚餐揭盖
 
 <img src="gifs/turkey-dinner-steam.gif" alt="烤鸡晚餐揭盖" width="360">
 
@@ -497,7 +513,7 @@ A silver dome lid lifts off a golden roast chicken on a platter, a burst of stea
 
 `dinner` `holiday` `food`
 
-### 9. 爆米花蹦出来
+### 10. 爆米花蹦出来
 
 <img src="gifs/popcorn-bowl-pop.gif" alt="爆米花蹦出来" width="360">
 
@@ -511,7 +527,7 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 `popcorn` `snack` `movie`
 
-### 10. 平底锅翻煎饼
+### 11. 平底锅翻煎饼
 
 <img src="gifs/pancake-pan-flip.gif" alt="平底锅翻煎饼" width="360">
 
@@ -525,7 +541,7 @@ A golden pancake is tossed up from a cast iron pan, flips once in the air and la
 
 `pancake` `food` `kitchen`
 
-### 11. 旅行手账贴纸逐个贴上
+### 12. 旅行手账贴纸逐个贴上
 
 <img src="gifs/travel-journal-stickers.gif" alt="旅行手账贴纸逐个贴上" width="360">
 
@@ -539,215 +555,229 @@ An open travel journal on an ivory desk; little stickers of a plane, a ticket st
 
 `scrapbook` `travel` `journal`
 
-### 12. 木棋子翻面落定
-
-<img src="gifs/wood-game-piece-flip.gif" alt="木棋子翻面落定" width="360">
-
-<sub>16 帧 · 380×252 · 1.9s · gpt-image-2.6 · 生成于 2026-11-17</sub>
-
-**提示词**
-
-```text
-A pale wooden pentagon-shaped board game piece flips over in the air and lands with a small clack on a wooden grid board, a puff of dust at impact. Warm tabletop lighting, close-up, fixed camera.
-```
-
-`board-game` `wood` `flip`
-
-**[查看本分类全部 91 条 →](categories/flash_zh.md)**
+**[查看本分类全部 92 条 →](categories/flash_zh.md)**
 
 ## 氛围循环动画
 
-这里展示本分类最新的 12 条（共 133 条）。[查看全部 133 条 →](categories/loops_zh.md)
+这里展示本分类最新的 12 条（共 149 条）。[查看全部 149 条 →](categories/loops_zh.md)
 
-### 1. 窗边橘猫慢慢眨眼
+### 1. 芭蕾舞者跳跃落地
 
-<img src="gifs/window-orange-cat-blink.gif" alt="窗边橘猫慢慢眨眼" width="360">
+<img src="gifs/ballerina-leap-landing.gif" alt="芭蕾舞者跳跃落地" width="360">
 
-<sub>12 帧 · 357×358 · 2.2s · GPT Image 2.6</sub>
+<sub>12 帧 · 358×356 · 1.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [牧牧的成長實驗室 on 方格子 vocus](https://vocus.cc/article/6aebf9a0fd8978000170526d)
-
-**提示词**
-
-```text
-製作一張橘色貓咪 GIF 動畫。貓咪坐在窗邊，緩慢眨一下眼睛，然後恢復原本表情。保持姿勢、毛色與背景一致，溫暖插畫風格，固定鏡頭，無縫循環。
-```
-
-`cat` `cozy` `illustration`
-
-### 2. 水彩绘本小镇樱花飘落
-
-<img src="gifs/watercolor-sakura-town-breeze.gif" alt="水彩绘本小镇樱花飘落" width="360">
-
-<sub>16 帧 · 414×232 · 5.0s · GPT Image 2.6</sub>
-
-📌 **来源：** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+📌 **来源：** [@kabumira862571 on X](https://x.com/kabumira862571/status/2118196682680856739)
 
 **提示词**
 
 ```text
-請製作一張 16:9 橫式 GIF 動畫。畫面是一座日系手繪風格的小鎮，街道兩側有溫暖的木造房屋、綠色植物與盛開的櫻花樹，遠方能看見淡藍色天空。採用柔和水彩與鉛筆線條交織的繪本插畫風格，保留細緻的紙張紋理。動畫中微風吹過，櫻花花瓣緩緩從樹上飄落，街邊植物輕輕搖擺，天空中的白雲緩慢移動。所有建築與街道保持靜止，鏡頭固定，整體氛圍安靜療癒。製作約 5 秒、動作自然且可以無縫循環的 GIF，不要加入任何文字。
+次の内容で GIF を作成して: バレリーナが飛び上がって着地するまで
 ```
 
-`watercolor` `sakura` `storybook`
+`ballet` `dance` `leap` `short-prompt`
 
-### 3. 复古黄铜节拍器摆动
+### 2. 泡泡糖吹破循环
 
-<img src="gifs/brass-metronome-swing.gif" alt="复古黄铜节拍器摆动" width="360">
+<img src="gifs/bubblegum-pop-loop.gif" alt="泡泡糖吹破循环" width="360">
 
-<sub>9 帧 · 480×270 · 1.4s · GPT Image 2.6</sub>
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+📌 **来源：** [@morphedai on X](https://x.com/morphedai/status/2118424987833094244)
 
 **提示词**
 
 ```text
-Clean studio illustration on a muted sage-green background, locked dead-center front-on camera. A vintage pyramid-shaped walnut and polished-brass desk metronome rests motionless on a dark oak shelf. On frame 1, the vertical brass pendulum rod stands dead-center upright at 12 o'clock; across the middle frames it swings smoothly left, then swings right, and on the final frame it returns to the exact dead-center 12 o'clock upright starting position for a seamless loop. Keep the wooden metronome body, scale markings, and shelf completely still, no text.
+A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde bob, freckles, hot pink oversized puffer jacket, on a flat saturated cobalt blue studio wall and floor. Medium shot. She blows a huge bubblegum bubble, it pops on her face, it resets, forever, her eyes bored and looking straight at the camera. Bold, bright, crisp photographic look, hard studio light, no text, no logos.
 ```
 
-`metronome` `mechanical` `loop`
+`bubblegum` `studio` `photoreal` `loop`
 
-### 4. 雪夜篝火（16 帧）
+### 3. 富士山水粉旅行海报
 
-<img src="gifs/snowy-twilight-campfire.gif" alt="雪夜篝火（16 帧）" width="360">
+<img src="gifs/mount-fuji-gouache-travel-poster.gif" alt="富士山水粉旅行海报" width="360">
 
-<sub>16 帧 · 480×264 · 1.9s · GPT Image 2.6</sub>
+<sub>96 帧 · 480×640 · 8.0s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+📌 **来源：** [@devteamdrew on X](https://x.com/devteamdrew/status/2118308538564989025)
 
 **提示词**
 
 ```text
-Flat storybook winter landscape illustration, locked wide camera. In a quiet twilight clearing ringed by snow-dusted dark-teal pine trees, a small stone-ringed campfire crackles gently as warm orange flames sway and three tiny glowing embers drift slightly upward before settling back to the exact starting flame shape on the final frame for a clean loop. Keep the pine trees, snowbanks, and stones completely motionless, no text.
+A living mid-century gouache travel-poster painting of Mount Fuji behind a five-storey Japanese pagoda, static locked-off camera, seamless looping animation. The pagoda is vermilion-orange with deep teal-slate tiled roofs, a slender spire, and a dark evergreen tree beside it. Fuji sits small and distant in dusty blue-grey with a snow-white cap and ragged dry-brush ridges, over a pale mist field. Foreground cherry trees in soft coral-pink blossom with dark trunks frame the bottom, and tiny figures stand on pale speckled ground. Warm cream paper-grain sky fills the upper half. Matte flat gouache with ragged, flaking edges, visible bristle marks and speckled holes. Subtle motion only: blossom petals drift down, branches sway faintly, tiny figures shift, a bell-like gentle shimmer on the light. Soft spring morning light, vertical 3:4, perfect loop.
 ```
 
-`winter` `campfire` `storybook`
+`gouache` `travel-poster` `japan` `cherry-blossom`
 
-### 5. 雨夜窗外路灯倒影涟漪
+### 4. 罗马斗兽场水粉旅行海报
 
-<img src="gifs/rainy-dusk-window-puddle.gif" alt="雨夜窗外路灯倒影涟漪" width="360">
+<img src="gifs/colosseum-gouache-travel-poster.gif" alt="罗马斗兽场水粉旅行海报" width="360">
 
-<sub>9 帧 · 480×270 · 1.6s · GPT Image 2.6</sub>
+<sub>96 帧 · 480×640 · 8.0s · GPT Image 2.6</sub>
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+📌 **来源：** [@devteamdrew on X](https://x.com/devteamdrew/status/2118308538564989025)
 
 **提示词**
 
 ```text
-Cozy lo-fi anime illustration seen through a dark wooden apartment window at dusk, locked camera. Diagonal rain streaks fall across the windowpane while warm amber streetlamp reflections ripple gently inside a wet cobblestone puddle below, returning to the exact starting rain and ripple pattern on the final frame for a clean loop. Keep the wooden window frame and indoor potted fern completely still, clean flat shading, no text.
+A living mid-century gouache travel-poster painting of the Roman Colosseum, locked-off static camera, a seamless looping animation. The ruined amphitheater sits low in the frame in sun-bleached ochre, sand and travertine with dusty rose and pale blue-grey arches, painted in dry-brush gouache with flaky, speckled edges and worn-away patches. A tall Italian stone pine in dark green and bottle-green leans in from the right, a vintage teal street lamp on the left, rose-coral flowering shrubs at the base. Open warm cream paper-textured sky fills the upper two thirds with fine paper grain. Gentle motion only: a few tiny birds drift across the sky, a cyclist rides slowly along the piazza, a small scooter, a couple in coral and mustard strolling, pine foliage barely sways. Soft warm afternoon light, long pale shadows, flat matte shapes, vertical 3:4, perfect loop.
 ```
 
-`rain` `lo-fi` `anime`
+`gouache` `travel-poster` `rome` `landmark`
 
-### 6. 晨雾中的广州塔
+### 5. 白宫外观360度环绕航拍
 
-<img src="gifs/canton-tower-morning-mist.gif" alt="晨雾中的广州塔" width="360">
+<img src="gifs/white-house-drone-orbit.gif" alt="白宫外观360度环绕航拍" width="360">
 
-<sub>9 帧 · 480×198 · 1.6s · gpt-image-2.6-gif</sub>
+<sub>9 帧 · 474×352 · 1.6s · GPT Image 2.6</sub>
 
-📌 **来源：** [@AIWAVE2025 on X](https://x.com/AIWAVE2025/status/2118154755826766225)
+📌 **来源：** [@nima2qisi2 on X](https://x.com/nima2qisi2/status/2118295936606798006)
 
 **提示词**
 
 ```text
-清晨珠江，薄雾，镜头低空推进，广州塔从雾里露出来，一艘游船划过。
+【白宫外观】360°环绕
+帮我做一个真实白宫外观的360°环绕模仿无人机拍摄，要真实还原建筑环境的实际外观情况，做成gif
 ```
 
-`city` `mist` `river`
+`drone` `orbit` `architecture` `landmark`
 
-### 7. 树枝上扇动翅膀的橙色小鸟
+### 6. 金门大桥水粉旅行海报
 
-<img src="gifs/orange-bird-branch-flap.gif" alt="树枝上扇动翅膀的橙色小鸟" width="360">
+<img src="gifs/golden-gate-gouache-travel-poster.gif" alt="金门大桥水粉旅行海报" width="360">
 
-<sub>9 帧 · 480×480 · 1.8s · gpt-image-2.6-gif</sub>
+<sub>96 帧 · 480×640 · 8.0s · GPT Image 2.6</sub>
 
-📌 **来源：** [Ofox on Ofox](https://ofox.ai/blog/gpt-image-2-6-gif-guide/)
+📌 **来源：** [@devteamdrew on X](https://x.com/devteamdrew/status/2118308538564989025)
 
 **提示词**
 
 ```text
-Create a looping animation of a small orange bird on a stationary branch against a plain cream background. The bird raises its wings, pauses, then lowers them to its starting pose. Keep the camera fixed, the branch still, and the bird shape and colors consistent. No text. Make the transition back to the start smooth.
+A living mid-century gouache travel-poster painting of the Golden Gate Bridge seen from a beach, static locked-off camera, seamless looping animation. The bridge is rust-orange with two tall towers, fine suspension cables and vertical hangers, spanning to a hazy grey-blue headland on the left and a tan-grey rocky cliff on the right. In the foreground deep cobalt and teal surf rolls in with white foam lines onto a sweeping beach of sandy beige scratchy dry-brush strokes, with dark rocks, a driftwood log and tiny figures in coral, navy and mustard. Warm cream sky with fine paper grain fills the upper half. Matte opaque gouache, ragged flaking edges, visible bristle streaks, speckled worn texture. Gentle motion only: waves wash and recede, foam shimmers, seagulls glide across the sky, tiny people wander. Soft hazy daylight, vertical 3:4, perfect loop.
 ```
 
-`bird` `loop` `api`
+`gouache` `travel-poster` `bridge` `waves`
 
-### 8. 雪花球里的小木屋
+### 7. 雪林提灯小猴
 
-<img src="gifs/snow-globe-cabin-shake.gif" alt="雪花球里的小木屋" width="360">
+<img src="gifs/lantern-monkey-snowy-forest.gif" alt="雪林提灯小猴" width="360">
 
-<sub>9 帧 · 439×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-17</sub>
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **来源：** [OpenAI Developers on OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
 
 **提示词**
 
 ```text
-A glass snow globe with a tiny red cabin and pine trees inside; snowflakes swirl up and settle slowly around the cabin. Warm cozy lighting, wooden table, fixed close-up.
+A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
 ```
 
-`snow-globe` `winter` `cozy`
+`monkey` `lantern` `snow` `seamless`
 
-### 9. 糖炒栗子
+### 8. 拉各斯街头机器人跳舞
 
-<img src="gifs/chestnut-roast-pan.gif" alt="糖炒栗子" width="360">
+<img src="gifs/robot-afrobeats-lagos-street.gif" alt="拉各斯街头机器人跳舞" width="360">
 
-<sub>9 帧 · 439×390 · 1.6s · gpt-image-2.6 · 生成于 2026-11-17</sub>
+<sub>9 帧 · 414×414 · 1.1s · GPT Image 2.6</sub>
+
+📌 **来源：** [@o_adeeko on X](https://x.com/o_adeeko/status/2118203950306410729)
 
 **提示词**
 
 ```text
-A big iron wok of chestnuts and dark sand is stirred by a wooden paddle, steam curling up under a warm bulb at a winter street stall. Cozy photographic style, close-up, fixed camera.
+Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. Make the movement loop smoothly.
 ```
 
-`chestnut` `street-food` `winter`
+`robot` `dance` `afrobeats` `street`
 
-### 10. 路灯下的初雪
+### 9. 纽约雪景水晶球
 
-<img src="gifs/street-lamp-first-snow.gif" alt="路灯下的初雪" width="360">
+<img src="gifs/nyc-snow-globe.gif" alt="纽约雪景水晶球" width="360">
 
-<sub>16 帧 · 376×252 · 2.9s · gpt-image-2.6 · 生成于 2026-11-17</sub>
+<sub>9 帧 · 414×414 · 1.3s · GPT Image 2.6</sub>
+
+📌 **来源：** [@dreamwieber on X](https://x.com/dreamwieber/status/2118190877567037732)
 
 **提示词**
 
 ```text
-Big soft snowflakes drift down through the warm cone of an old street lamp on a quiet cobblestone street at night. Cinematic, fixed camera, everything else still.
+generate an animated gif of a beautiful NYC snow globe
 ```
 
-`snow` `night` `street`
+`snow-globe` `city` `winter` `snow`
 
-### 11. 窗上霜花蔓延
+### 10. 水面漂浮的纸船
 
-<img src="gifs/window-frost-spread.gif" alt="窗上霜花蔓延" width="360">
+<img src="gifs/paper-boat-bobbing.gif" alt="水面漂浮的纸船" width="360">
 
-<sub>8 帧 · 439×388 · 1.8s · gpt-image-2.6 · 生成于 2026-11-17</sub>
+<sub>9 帧 · 412×402 · 1.3s · GPT Image 2.6</sub>
+
+📌 **来源：** [@thinkszyg on X](https://x.com/thinkszyg/status/2118166234495947044)
 
 **提示词**
 
 ```text
-Delicate fern-like frost patterns creep across a cold window pane from the corners, a blurry snowy garden visible behind. Macro winter photography, fixed camera.
+Make a looping GIF of a paper boat bobbing on the water.
 ```
 
-`frost` `winter` `macro`
+`paper-boat` `water` `seamless` `calm`
 
-### 12. 孔明灯升空
+### 11. 机器人冲咖啡
 
-<img src="gifs/sky-lanterns-rise.gif" alt="孔明灯升空" width="360">
+<img src="gifs/robot-brewing-coffee.gif" alt="机器人冲咖啡" width="360">
 
-<sub>16 帧 · 377×248 · 2.9s · gpt-image-2.6 · 生成于 2026-11-17</sub>
+<sub>16 帧 · 480×480 · 2.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [@sousoccer6 on X](https://x.com/sousoccer6/status/2118210705585537226)
 
 **提示词**
 
 ```text
-Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky above dark rooftops, flickering softly. Dreamy painterly style, fixed camera.
+コーヒーを淹れるロボット
 ```
 
-`lantern` `night` `festival`
+`robot` `coffee` `brewing` `short-prompt`
 
-**[查看本分类全部 133 条 →](categories/loops_zh.md)**
+### 12. 冬日庭院劈柴老爷爷
+
+<img src="gifs/grandpa-chopping-wood-winter.gif" alt="冬日庭院劈柴老爷爷" width="360">
+
+<sub>16 帧 · 288×288 · 1.9s · GPT Image 2.6</sub>
+
+📌 **来源：** [@koe_ai414 on X](https://x.com/koe_ai414/status/2118153765094351279)
+
+**提示词**
+
+```text
+冬の寒い中、家の庭で薪割りをするおじいさんのGIF
+```
+
+`winter` `wood-chopping` `yard` `everyday`
+
+**[查看本分类全部 149 条 →](categories/loops_zh.md)**
 
 ## 像素风与界面动效
 
-这里展示本分类最新的 12 条（共 97 条）。[查看全部 97 条 →](categories/pixel-ui_zh.md)
+这里展示本分类最新的 12 条（共 98 条）。[查看全部 98 条 →](categories/pixel-ui_zh.md)
 
-### 1. 绿色询价按钮流光
+### 1. 像素勇者挥剑特效
+
+<img src="gifs/pixel-hero-sword-slash.gif" alt="像素勇者挥剑特效" width="360">
+
+<sub>12 帧 · 358×358 · 1.2s · GPT Image 2.6</sub>
+
+📌 **来源：** [@YaReYaRu30Life on X](https://x.com/YaReYaRu30Life/status/2118166505603153922)
+
+**提示词**
+
+```text
+GIFを作成。ドット絵の勇者。
+剣にエフェクトをつけて振り回す
+```
+
+`pixel-art` `hero` `sword` `fx`
+
+### 2. 绿色询价按钮流光
 
 <img src="gifs/green-quote-button-shine.gif" alt="绿色询价按钮流光" width="360">
 
@@ -763,7 +793,7 @@ Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky
 
 `button` `ui` `japanese`
 
-### 2. 灯泡图标慢慢亮起
+### 3. 灯泡图标慢慢亮起
 
 <img src="gifs/lightbulb-icon-glow.gif" alt="灯泡图标慢慢亮起" width="360">
 
@@ -779,7 +809,7 @@ Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky
 
 `icon` `flat` `education`
 
-### 3. 像素闪电劈落特效
+### 4. 像素闪电劈落特效
 
 <img src="gifs/pixel-lightning-strike.gif" alt="像素闪电劈落特效" width="360">
 
@@ -795,7 +825,7 @@ Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, re
 
 `pixel-art` `game-fx` `lightning`
 
-### 4. 像素火柱喷发特效
+### 5. 像素火柱喷发特效
 
 <img src="gifs/pixel-fire-pillar-burst.gif" alt="像素火柱喷发特效" width="360">
 
@@ -811,7 +841,7 @@ Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 
 
 `pixel-art` `game-fx` `fire-pillar`
 
-### 5. 像素火山喷发特效
+### 6. 像素火山喷发特效
 
 <img src="gifs/pixel-volcano-eruption.gif" alt="像素火山喷发特效" width="360">
 
@@ -827,7 +857,7 @@ Make an animated GIF of a pixel-art volcano eruption seen from far away, for the
 
 `pixel-art` `game-fx` `eruption`
 
-### 6. 像素能量光束特效
+### 7. 像素能量光束特效
 
 <img src="gifs/pixel-energy-beam-blast.gif" alt="像素能量光束特效" width="360">
 
@@ -843,7 +873,7 @@ Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wi
 
 `pixel-art` `game-fx` `beam`
 
-### 7. 像素爆炸与蘑菇云特效
+### 8. 像素爆炸与蘑菇云特效
 
 <img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="像素爆炸与蘑菇云特效" width="360">
 
@@ -859,7 +889,7 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `pixel-art` `game-fx` `explosion`
 
-### 8. 三颗橘色圆点跳动加载
+### 9. 三颗橘色圆点跳动加载
 
 <img src="gifs/orange-dots-bounce-loader.gif" alt="三颗橘色圆点跳动加载" width="360">
 
@@ -875,7 +905,7 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `loader` `ui` `flat`
 
-### 9. 指南针 App 图标指针摆动
+### 10. 指南针 App 图标指针摆动
 
 <img src="gifs/compass-app-icon-settle.gif" alt="指南针 App 图标指针摆动" width="360">
 
@@ -891,7 +921,7 @@ Minimalist flat-vector rounded-square app icon on a completely transparent backg
 
 `icon` `app` `transparent`
 
-### 10. 纸飞机空状态加载图
+### 11. 纸飞机空状态加载图
 
 <img src="gifs/paper-plane-empty-state.gif" alt="纸飞机空状态加载图" width="360">
 
@@ -907,7 +937,7 @@ Clean flat vector empty-state loading illustration, locked front-on view. Inside
 
 `loader` `ui` `flat`
 
-### 11. 三颗胶囊波浪加载动画
+### 12. 三颗胶囊波浪加载动画
 
 <img src="gifs/three-pill-wave-loader.gif" alt="三颗胶囊波浪加载动画" width="360">
 
@@ -923,29 +953,67 @@ Minimalist flat-vector UI loading indicator on a completely transparent backgrou
 
 `loader` `ui` `transparent`
 
-### 12. 16 位像素金毛点赞
+**[查看本分类全部 98 条 →](categories/pixel-ui_zh.md)**
 
-<img src="gifs/pixel-retriever-thumbs-up.gif" alt="16 位像素金毛点赞" width="360">
+## 科普讲解动图
 
-<sub>8 帧 · 480×480 · 1.1s · GPT Image 2.6</sub>
+这里展示本分类最新的 12 条（共 17 条）。[查看全部 17 条 →](categories/explainers_zh.md)
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+### 1. 烧杯漩涡鲁米诺化学发光
+
+<img src="gifs/luminol-beaker-vortex.gif" alt="烧杯漩涡鲁米诺化学发光" width="360">
+
+<sub>16 帧 · 294×320 · 1.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [@ZHENGJUNTING92 on X](https://x.com/ZHENGJUNTING92/status/2118252052556255364)
 
 **提示词**
 
 ```text
-Crisp 16-bit pixel art reaction icon, locked front-on camera. A cheerful golden retriever wearing cool dark pixel sunglasses gives an enthusiastic double thumbs-up as three tiny yellow pixel stars pop around its head and fade out, returning to the exact starting pose on the final frame for a clean loop. Solid deep midnight-blue background, limited retro palette, no text.
+制作gif
+垂直俯拍一个烧杯的杯口，里面的水在旋转形成漩涡，然后滴入液体
+C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
+烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢
+胶头滴管中是含铁离子溶液 和荧光染料
 ```
 
-`pixel-art` `dog` `reaction`
+`chemistry` `luminol` `experiment` `science`
 
-**[查看本分类全部 97 条 →](categories/pixel-ui_zh.md)**
+### 2. 大阪城建造过程
 
-## 科普讲解动图
+<img src="gifs/osaka-castle-construction.gif" alt="大阪城建造过程" width="360">
 
-这里展示本分类最新的 12 条（共 14 条）。[查看全部 14 条 →](categories/explainers_zh.md)
+<sub>12 帧 · 358×358 · 1.4s · GPT Image 2.6</sub>
 
-### 1. 纸质发票经 AI 识别入表（四格流程）
+📌 **来源：** [@jammaru_lab on X](https://x.com/jammaru_lab/status/2118153279821787623)
+
+**提示词**
+
+```text
+大阪城を建築する流れをGIFにして
+```
+
+`castle` `construction` `history` `process`
+
+### 3. 水循环科普示意动图
+
+<img src="gifs/water-cycle-classroom-diagram.gif" alt="水循环科普示意动图" width="360">
+
+<sub>96 帧 · 480×270 · 8.0s · GPT Image 2.6</sub>
+
+📌 **来源：** [挖挖Github on 掘金](https://juejin.cn/post/7709418733185892403)
+
+**提示词**
+
+```text
+制作一段展示水循环（示意图）的教学 GIF，横版 16:9。整体采用极简扁平化科普示意图风格，用简化几何图形表示水循环。
+动画依次表现：海面水汽上升，水汽聚集成云，云下落雨，雨水汇成河流流回海洋。配上清晰、准确、易读的简体中文标签：“蒸发”“凝结”“降水”“径流”，标签靠近对应环节，使用深灰色简洁无衬线字体。
+镜头固定，动画节奏缓慢，形状和布局保持稳定；结尾自然回到开头状态，形成无缝循环。整体画面简洁直观，像一张会动的科学课本插图。
+```
+
+`water-cycle` `education` `flat-design` `diagram` `chinese-labels`
+
+### 4. 纸质发票经 AI 识别入表（四格流程）
 
 <img src="gifs/invoice-ai-scan-flow.gif" alt="纸质发票经 AI 识别入表（四格流程）" width="360">
 
@@ -961,7 +1029,7 @@ Crisp 16-bit pixel art reaction icon, locked front-on camera. A cheerful golden 
 
 `workflow` `business` `japanese`
 
-### 2. 土壤剖面里种子发芽
+### 5. 土壤剖面里种子发芽
 
 <img src="gifs/seed-sprout-soil-cutaway.gif" alt="土壤剖面里种子发芽" width="360">
 
@@ -977,7 +1045,7 @@ Crisp 16-bit pixel art reaction icon, locked front-on camera. A cheerful golden 
 
 `science` `plant` `education`
 
-### 3. 年度营收柱状图逐年增长
+### 6. 年度营收柱状图逐年增长
 
 <img src="gifs/revenue-bar-chart-grow.gif" alt="年度营收柱状图逐年增长" width="360">
 
@@ -993,7 +1061,7 @@ Crisp 16-bit pixel art reaction icon, locked front-on camera. A cheerful golden 
 
 `chart` `business` `data`
 
-### 4. 西西里防御开局动画
+### 7. 西西里防御开局动画
 
 <img src="gifs/sicilian-defense-chess.gif" alt="西西里防御开局动画" width="360">
 
@@ -1009,7 +1077,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 5. 扬声器声波传播
+### 8. 扬声器声波传播
 
 <img src="gifs/sound-wave-speaker.gif" alt="扬声器声波传播" width="360">
 
@@ -1023,7 +1091,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 6. 叶片光合作用示意
+### 9. 叶片光合作用示意
 
 <img src="gifs/photosynthesis-leaf-flow.gif" alt="叶片光合作用示意" width="360">
 
@@ -1037,7 +1105,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 7. 跷跷板杠杆平衡
+### 10. 跷跷板杠杆平衡
 
 <img src="gifs/seesaw-lever-balance.gif" alt="跷跷板杠杆平衡" width="360">
 
@@ -1051,7 +1119,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 8. 三棱镜分光
+### 11. 三棱镜分光
 
 <img src="gifs/prism-rainbow-split.gif" alt="三棱镜分光" width="360">
 
@@ -1065,7 +1133,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 9. 行星绕日运行
+### 12. 行星绕日运行
 
 <img src="gifs/solar-system-orbit.gif" alt="行星绕日运行" width="360">
 
@@ -1079,49 +1147,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 10. 心脏跳动示意
-
-<img src="gifs/heart-pump-diagram.gif" alt="心脏跳动示意" width="360">
-
-<sub>9 帧 · 439×388 · 1.6s · gpt-image-2.6 · 生成于 2026-11-17</sub>
-
-**提示词**
-
-```text
-A friendly simplified anatomical heart in red and blue squeezes and relaxes in a steady beat, small arrows showing blood flowing in and out. Flat medical infographic style, light background, no text.
-```
-
-`heart` `biology` `infographic`
-
-### 11. 豆子发芽地下剖面
-
-<img src="gifs/bean-roots-cutaway.gif" alt="豆子发芽地下剖面" width="360">
-
-<sub>9 帧 · 439×388 · 2.0s · gpt-image-2.6 · 生成于 2026-11-17</sub>
-
-**提示词**
-
-```text
-A cutaway of a soil pot shows a bean seed splitting open, a root reaching down and a pale shoot pushing up toward the surface. Soft flat educational illustration, brown and green palette, no text.
-```
-
-`plant` `germination` `biology`
-
-### 12. 月相变化
-
-<img src="gifs/moon-phases-cycle.gif" alt="月相变化" width="360">
-
-<sub>16 帧 · 309×309 · 1.9s · gpt-image-2.6 · 生成于 2026-11-17</sub>
-
-**提示词**
-
-```text
-A single moon centered in a square frame of dark starry sky goes through its phases, from thin crescent to full moon and back to crescent, the shadow edge sliding smoothly across it. Clean flat illustration, fixed camera.
-```
-
-`moon` `astronomy` `science`
-
-**[查看本分类全部 14 条 →](categories/explainers_zh.md)**
+**[查看本分类全部 17 条 →](categories/explainers_zh.md)**
 
 ## 节日与祝福
 
@@ -1171,7 +1197,55 @@ A tiny gingerbread figure with white icing buttons stands in the doorway of a ca
 
 ## 电商与产品展示
 
-### 1. 浴室翻新广告横幅热气升腾
+### 1. 石中剑360度旋转
+
+<img src="gifs/sword-in-stone-360-turntable.gif" alt="石中剑360度旋转" width="360">
+
+<sub>12 帧 · 358×346 · 1.6s · GPT Image 2.6</sub>
+
+📌 **来源：** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**提示词**
+
+```text
+create a gif of a "3d legendary sword in a stone game asset" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `sword`
+
+### 2. 未来摩托车360度展示
+
+<img src="gifs/futuristic-motorbike-360-turntable.gif" alt="未来摩托车360度展示" width="360">
+
+<sub>12 帧 · 358×356 · 1.3s · GPT Image 2.6</sub>
+
+📌 **来源：** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**提示词**
+
+```text
+create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `motorbike`
+
+### 3. 3D矮人模型360度旋转
+
+<img src="gifs/dwarf-axe-360-turntable.gif" alt="3D矮人模型360度旋转" width="360">
+
+<sub>12 帧 · 358×358 · 1.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [@xikhar on X](https://x.com/xikhar/status/2118407355859878352)
+
+**提示词**
+
+```text
+create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spinning full 360 degrees
+```
+
+`3d` `game-asset` `turntable` `dwarf`
+
+### 4. 浴室翻新广告横幅热气升腾
 
 <img src="gifs/bath-remodel-steam-banner.gif" alt="浴室翻新广告横幅热气升腾" width="360">
 
@@ -1187,7 +1261,7 @@ A tiny gingerbread figure with white icing buttons stands in the doorway of a ca
 
 `banner` `ad` `japanese`
 
-### 2. 耳机充电盒开合展示
+### 5. 耳机充电盒开合展示
 
 <img src="gifs/earbuds-case-lid-open-close.gif" alt="耳机充电盒开合展示" width="360">
 
@@ -1203,7 +1277,7 @@ A tiny gingerbread figure with white icing buttons stands in the doorway of a ca
 
 `product` `tech` `ecommerce`
 
-### 3. 耳机充电盒指示灯呼吸
+### 6. 耳机充电盒指示灯呼吸
 
 <img src="gifs/earbuds-case-led-pulse.gif" alt="耳机充电盒指示灯呼吸" width="360">
 
@@ -1219,7 +1293,7 @@ Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-
 
 `product` `tech` `macro`
 
-### 4. 咖啡豆袋主图＋浓缩咖啡热气
+### 7. 咖啡豆袋主图＋浓缩咖啡热气
 
 <img src="gifs/coffee-bag-espresso-steam.gif" alt="咖啡豆袋主图＋浓缩咖啡热气" width="360">
 
@@ -1235,7 +1309,7 @@ Locked tripod commercial product shot in soft morning studio light. A matte terr
 
 `product` `coffee` `steam`
 
-### 5. 左右摇摆的水杯产品动图
+### 8. 左右摇摆的水杯产品动图
 
 <img src="gifs/water-bottle-rock-product.gif" alt="左右摇摆的水杯产品动图" width="360">
 
@@ -1251,7 +1325,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 6. 智能手表亮屏
+### 9. 智能手表亮屏
 
 <img src="gifs/smartwatch-face-glow.gif" alt="智能手表亮屏" width="360">
 
@@ -1265,7 +1339,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 7. 转台上旋转的运动鞋
+### 10. 转台上旋转的运动鞋
 
 <img src="gifs/sneaker-turntable-spin.gif" alt="转台上旋转的运动鞋" width="360">
 

@@ -1,8 +1,62 @@
-# 科普讲解动图 · 14 条提示词
+# 科普讲解动图 · 17 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 纸质发票经 AI 识别入表（四格流程）
+### 1. 烧杯漩涡鲁米诺化学发光
+
+<img src="../gifs/luminol-beaker-vortex.gif" alt="烧杯漩涡鲁米诺化学发光" width="360">
+
+<sub>16 帧 · 294×320 · 1.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [@ZHENGJUNTING92 on X](https://x.com/ZHENGJUNTING92/status/2118252052556255364)
+
+**提示词**
+
+```text
+制作gif
+垂直俯拍一个烧杯的杯口，里面的水在旋转形成漩涡，然后滴入液体
+C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
+烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢
+胶头滴管中是含铁离子溶液 和荧光染料
+```
+
+`chemistry` `luminol` `experiment` `science`
+
+### 2. 大阪城建造过程
+
+<img src="../gifs/osaka-castle-construction.gif" alt="大阪城建造过程" width="360">
+
+<sub>12 帧 · 358×358 · 1.4s · GPT Image 2.6</sub>
+
+📌 **来源：** [@jammaru_lab on X](https://x.com/jammaru_lab/status/2118153279821787623)
+
+**提示词**
+
+```text
+大阪城を建築する流れをGIFにして
+```
+
+`castle` `construction` `history` `process`
+
+### 3. 水循环科普示意动图
+
+<img src="../gifs/water-cycle-classroom-diagram.gif" alt="水循环科普示意动图" width="360">
+
+<sub>96 帧 · 480×270 · 8.0s · GPT Image 2.6</sub>
+
+📌 **来源：** [挖挖Github on 掘金](https://juejin.cn/post/7709418733185892403)
+
+**提示词**
+
+```text
+制作一段展示水循环（示意图）的教学 GIF，横版 16:9。整体采用极简扁平化科普示意图风格，用简化几何图形表示水循环。
+动画依次表现：海面水汽上升，水汽聚集成云，云下落雨，雨水汇成河流流回海洋。配上清晰、准确、易读的简体中文标签：“蒸发”“凝结”“降水”“径流”，标签靠近对应环节，使用深灰色简洁无衬线字体。
+镜头固定，动画节奏缓慢，形状和布局保持稳定；结尾自然回到开头状态，形成无缝循环。整体画面简洁直观，像一张会动的科学课本插图。
+```
+
+`water-cycle` `education` `flat-design` `diagram` `chinese-labels`
+
+### 4. 纸质发票经 AI 识别入表（四格流程）
 
 <img src="../gifs/invoice-ai-scan-flow.gif" alt="纸质发票经 AI 识别入表（四格流程）" width="360">
 
@@ -18,7 +72,7 @@
 
 `workflow` `business` `japanese`
 
-### 2. 土壤剖面里种子发芽
+### 5. 土壤剖面里种子发芽
 
 <img src="../gifs/seed-sprout-soil-cutaway.gif" alt="土壤剖面里种子发芽" width="360">
 
@@ -34,7 +88,7 @@
 
 `science` `plant` `education`
 
-### 3. 年度营收柱状图逐年增长
+### 6. 年度营收柱状图逐年增长
 
 <img src="../gifs/revenue-bar-chart-grow.gif" alt="年度营收柱状图逐年增长" width="360">
 
@@ -50,7 +104,7 @@
 
 `chart` `business` `data`
 
-### 4. 西西里防御开局动画
+### 7. 西西里防御开局动画
 
 <img src="../gifs/sicilian-defense-chess.gif" alt="西西里防御开局动画" width="360">
 
@@ -66,7 +120,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 5. 扬声器声波传播
+### 8. 扬声器声波传播
 
 <img src="../gifs/sound-wave-speaker.gif" alt="扬声器声波传播" width="360">
 
@@ -80,7 +134,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 6. 叶片光合作用示意
+### 9. 叶片光合作用示意
 
 <img src="../gifs/photosynthesis-leaf-flow.gif" alt="叶片光合作用示意" width="360">
 
@@ -94,7 +148,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 7. 跷跷板杠杆平衡
+### 10. 跷跷板杠杆平衡
 
 <img src="../gifs/seesaw-lever-balance.gif" alt="跷跷板杠杆平衡" width="360">
 
@@ -108,7 +162,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 8. 三棱镜分光
+### 11. 三棱镜分光
 
 <img src="../gifs/prism-rainbow-split.gif" alt="三棱镜分光" width="360">
 
@@ -122,7 +176,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 9. 行星绕日运行
+### 12. 行星绕日运行
 
 <img src="../gifs/solar-system-orbit.gif" alt="行星绕日运行" width="360">
 
@@ -136,7 +190,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 10. 心脏跳动示意
+### 13. 心脏跳动示意
 
 <img src="../gifs/heart-pump-diagram.gif" alt="心脏跳动示意" width="360">
 
@@ -150,7 +204,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 11. 豆子发芽地下剖面
+### 14. 豆子发芽地下剖面
 
 <img src="../gifs/bean-roots-cutaway.gif" alt="豆子发芽地下剖面" width="360">
 
@@ -164,7 +218,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 12. 月相变化
+### 15. 月相变化
 
 <img src="../gifs/moon-phases-cycle.gif" alt="月相变化" width="360">
 
@@ -178,7 +232,7 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 13. 水循环示意
+### 16. 水循环示意
 
 <img src="../gifs/water-cycle-loop.gif" alt="水循环示意" width="360">
 
@@ -192,7 +246,7 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 14. 单摆来回摆动
+### 17. 单摆来回摆动
 
 <img src="../gifs/pendulum-swing-trace.gif" alt="单摆来回摆动" width="360">
 
