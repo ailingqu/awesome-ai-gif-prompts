@@ -1,8 +1,41 @@
-# Food & Drinks · 4 prompts
+# Food & Drinks · 6 prompts
 
 [← README](../README.md)
 
-### 1. Hand-drawn coffee cup with rising steam
+### 1. Coffee Steam by a Night Window
+
+<img src="../gifs/coffee-cup-steam-night-window.gif" alt="Coffee Steam by a Night Window" width="360">
+
+<sub>18 frames · 438×390 · 4.1s · GPT Image 2.6</sub>
+
+📌 **Source:** [@CoharuCrew on X](https://x.com/CoharuCrew/status/2120758651078005094)
+
+**Prompt**
+
+```text
+湯気がゆらゆら立つコーヒーカップの、ループするGIFを作って。
+もっとゆっくりにして、背景を夜の窓辺にして。
+```
+
+`coffee` `steam` `night` `cozy`
+
+### 2. Espresso Steam Cinemagraph
+
+<img src="../gifs/espresso-steam-cinemagraph.gif" alt="Espresso Steam Cinemagraph" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [Cadabra AI on Cadabra AI Blog](https://www.livinginmovie.com/en/blog/how-to-make-gif-in-chatgpt)
+
+**Prompt**
+
+```text
+A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble cafe table in warm morning light, photorealistic. The camera stays fixed and the cup and the table never move. Only the steam rises and curls slowly above the cup, and the last frame returns exactly to the first frame. No text anywhere.
+```
+
+`coffee` `cinemagraph` `steam` `product`
+
+### 3. Hand-drawn coffee cup with rising steam
 
 <img src="../gifs/handdrawn-coffee-steam.gif" alt="Hand-drawn coffee cup with rising steam" width="360">
 
@@ -18,7 +51,7 @@
 
 `coffee` `hand-drawn` `cozy`
 
-### 2. Latte art with rising steam in a sunny cafe
+### 4. Latte art with rising steam in a sunny cafe
 
 <img src="../gifs/latte-art-steam-cafe.gif" alt="Latte art with rising steam in a sunny cafe" width="360">
 
@@ -34,7 +67,7 @@
 
 `coffee` `cafe` `steam`
 
-### 3. Pizza slice cheese pull
+### 5. Pizza slice cheese pull
 
 <img src="../gifs/pizza-cheese-pull.gif" alt="Pizza slice cheese pull" width="360">
 
@@ -48,7 +81,7 @@ A hand lifts one slice of pepperoni pizza away from the whole pie, long strings 
 
 `pizza` `cheese` `food`
 
-### 4. Milk tea pearls pour
+### 6. Milk tea pearls pour
 
 <img src="../gifs/boba-pearls-pour.gif" alt="Milk tea pearls pour" width="360">
 

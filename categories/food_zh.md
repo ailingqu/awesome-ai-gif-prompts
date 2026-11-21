@@ -1,8 +1,41 @@
-# 美食饮品 · 4 条提示词
+# 美食饮品 · 6 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 手绘风热咖啡冒热气
+### 1. 夜晚窗边咖啡杯冒热气
+
+<img src="../gifs/coffee-cup-steam-night-window.gif" alt="夜晚窗边咖啡杯冒热气" width="360">
+
+<sub>18 帧 · 438×390 · 4.1s · GPT Image 2.6</sub>
+
+📌 **来源：** [@CoharuCrew on X](https://x.com/CoharuCrew/status/2120758651078005094)
+
+**提示词**
+
+```text
+湯気がゆらゆら立つコーヒーカップの、ループするGIFを作って。
+もっとゆっくりにして、背景を夜の窓辺にして。
+```
+
+`coffee` `steam` `night` `cozy`
+
+### 2. 意式浓缩热气微动图
+
+<img src="../gifs/espresso-steam-cinemagraph.gif" alt="意式浓缩热气微动图" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **来源：** [Cadabra AI on Cadabra AI Blog](https://www.livinginmovie.com/en/blog/how-to-make-gif-in-chatgpt)
+
+**提示词**
+
+```text
+A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble cafe table in warm morning light, photorealistic. The camera stays fixed and the cup and the table never move. Only the steam rises and curls slowly above the cup, and the last frame returns exactly to the first frame. No text anywhere.
+```
+
+`coffee` `cinemagraph` `steam` `product`
+
+### 3. 手绘风热咖啡冒热气
 
 <img src="../gifs/handdrawn-coffee-steam.gif" alt="手绘风热咖啡冒热气" width="360">
 
@@ -18,7 +51,7 @@
 
 `coffee` `hand-drawn` `cozy`
 
-### 2. 阳光咖啡馆里冒热气的拉花拿铁
+### 4. 阳光咖啡馆里冒热气的拉花拿铁
 
 <img src="../gifs/latte-art-steam-cafe.gif" alt="阳光咖啡馆里冒热气的拉花拿铁" width="360">
 
@@ -34,7 +67,7 @@
 
 `coffee` `cafe` `steam`
 
-### 3. 披萨拉丝
+### 5. 披萨拉丝
 
 <img src="../gifs/pizza-cheese-pull.gif" alt="披萨拉丝" width="360">
 
@@ -48,7 +81,7 @@ A hand lifts one slice of pepperoni pizza away from the whole pie, long strings 
 
 `pizza` `cheese` `food`
 
-### 4. 奶茶加珍珠
+### 6. 奶茶加珍珠
 
 <img src="../gifs/boba-pearls-pour.gif" alt="奶茶加珍珠" width="360">
 

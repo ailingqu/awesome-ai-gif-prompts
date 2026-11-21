@@ -1,8 +1,59 @@
-# Ambient Loops · 149 prompts
+# Ambient Loops · 152 prompts
 
 [← README](../README.md)
 
-### 1. Ballerina Leap and Landing
+### 1. Golden Leaf to Umbrella Boat at Sunset
+
+<img src="../gifs/golden-leaf-sunset-water.gif" alt="Golden Leaf to Umbrella Boat at Sunset" width="360">
+
+<sub>9 frames · 480×854 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [@churvikv on X](https://x.com/churvikv/status/2122636815819559091)
+
+**Prompt**
+
+```text
+A single golden leaf floats gently on calm water, creating soft ripples, with a serene sunset in the background casting warm golden hues across the sky and water, evoking a tranquil and peaceful mood in a minimalist composition.
+A surreal scene featuring a small black boat with a billowing gold cloth inside, topped by an open black umbrella, floating on calm golden water with gentle ripples. A single golden leaf drifts nearby, and a large sun sets on the horizon, casting a warm, tranquil glow across the minimalist composition and creating a serene, dreamlike mood.
+```
+
+`nature` `water` `sunset` `calm`
+
+### 2. Street Tabby Cat Asleep in the Rain
+
+<img src="../gifs/street-tabby-cat-sleeping.gif" alt="Street Tabby Cat Asleep in the Rain" width="360">
+
+<sub>9 frames · 360×360 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
+
+**Prompt**
+
+```text
+A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Curled up asleep on the wet street, breathing softly, tail wrapped around its body.
+```
+
+`cat` `sleeping` `breathing` `night-street`
+
+### 3. Retro 1970s Lava Lamp
+
+<img src="../gifs/retro-lava-lamp-glow.gif" alt="Retro 1970s Lava Lamp" width="360">
+
+<sub>16 frames · 480×480 · 2.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [Oxen.ai on Oxen.ai Blog](https://ghost.oxen.ai/gpt-image-26/)
+
+**Prompt**
+
+```text
+A retro 1970s lava lamp on a wooden side table in a dark room. Orange
+wax blobs slowly rise, stretch, split and sink through purple liquid.
+The lamp glows and casts warm light on the wall. Seamless loop.
+```
+
+`lava-lamp` `retro` `ambient` `loop`
+
+### 4. Ballerina Leap and Landing
 
 <img src="../gifs/ballerina-leap-landing.gif" alt="Ballerina Leap and Landing" width="360">
 
@@ -18,7 +69,7 @@
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 2. Bubblegum Pop Studio Loop
+### 5. Bubblegum Pop Studio Loop
 
 <img src="../gifs/bubblegum-pop-loop.gif" alt="Bubblegum Pop Studio Loop" width="360">
 
@@ -34,7 +85,7 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 3. Mount Fuji Gouache Travel Poster
+### 6. Mount Fuji Gouache Travel Poster
 
 <img src="../gifs/mount-fuji-gouache-travel-poster.gif" alt="Mount Fuji Gouache Travel Poster" width="360">
 
@@ -50,7 +101,7 @@ A living mid-century gouache travel-poster painting of Mount Fuji behind a five-
 
 `gouache` `travel-poster` `japan` `cherry-blossom`
 
-### 4. Colosseum Gouache Travel Poster
+### 7. Colosseum Gouache Travel Poster
 
 <img src="../gifs/colosseum-gouache-travel-poster.gif" alt="Colosseum Gouache Travel Poster" width="360">
 
@@ -66,7 +117,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `gouache` `travel-poster` `rome` `landmark`
 
-### 5. White House 360 Drone Orbit
+### 8. White House 360 Drone Orbit
 
 <img src="../gifs/white-house-drone-orbit.gif" alt="White House 360 Drone Orbit" width="360">
 
@@ -83,7 +134,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `drone` `orbit` `architecture` `landmark`
 
-### 6. Golden Gate Gouache Travel Poster
+### 9. Golden Gate Gouache Travel Poster
 
 <img src="../gifs/golden-gate-gouache-travel-poster.gif" alt="Golden Gate Gouache Travel Poster" width="360">
 
@@ -99,7 +150,7 @@ A living mid-century gouache travel-poster painting of the Golden Gate Bridge se
 
 `gouache` `travel-poster` `bridge` `waves`
 
-### 7. Lantern Monkey in a Snowy Forest
+### 10. Lantern Monkey in a Snowy Forest
 
 <img src="../gifs/lantern-monkey-snowy-forest.gif" alt="Lantern Monkey in a Snowy Forest" width="360">
 
@@ -115,7 +166,7 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 `monkey` `lantern` `snow` `seamless`
 
-### 8. Robot Dancing Afrobeats in Lagos
+### 11. Robot Dancing Afrobeats in Lagos
 
 <img src="../gifs/robot-afrobeats-lagos-street.gif" alt="Robot Dancing Afrobeats in Lagos" width="360">
 
@@ -131,7 +182,7 @@ Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. M
 
 `robot` `dance` `afrobeats` `street`
 
-### 9. NYC Snow Globe
+### 12. NYC Snow Globe
 
 <img src="../gifs/nyc-snow-globe.gif" alt="NYC Snow Globe" width="360">
 
@@ -147,7 +198,7 @@ generate an animated gif of a beautiful NYC snow globe
 
 `snow-globe` `city` `winter` `snow`
 
-### 10. Paper Boat Bobbing on Water
+### 13. Paper Boat Bobbing on Water
 
 <img src="../gifs/paper-boat-bobbing.gif" alt="Paper Boat Bobbing on Water" width="360">
 
@@ -163,7 +214,7 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 `paper-boat` `water` `seamless` `calm`
 
-### 11. Robot Brewing Coffee
+### 14. Robot Brewing Coffee
 
 <img src="../gifs/robot-brewing-coffee.gif" alt="Robot Brewing Coffee" width="360">
 
@@ -179,7 +230,7 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 `robot` `coffee` `brewing` `short-prompt`
 
-### 12. Grandpa Chopping Wood in Winter
+### 15. Grandpa Chopping Wood in Winter
 
 <img src="../gifs/grandpa-chopping-wood-winter.gif" alt="Grandpa Chopping Wood in Winter" width="360">
 
@@ -195,7 +246,7 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 `winter` `wood-chopping` `yard` `everyday`
 
-### 13. Ginger Kitten Boops the Lens
+### 16. Ginger Kitten Boops the Lens
 
 <img src="../gifs/ginger-kitten-boops-lens.gif" alt="Ginger Kitten Boops the Lens" width="360">
 
@@ -211,7 +262,7 @@ Animated 9-frame looping GIF. Fixed camera at floor level, bright cozy living ro
 
 `kitten` `photoreal` `camera` `playful`
 
-### 14. Claymation Kitten in a Ball Pit
+### 17. Claymation Kitten in a Ball Pit
 
 <img src="../gifs/claymation-kitten-ball-pit.gif" alt="Claymation Kitten in a Ball Pit" width="360">
 
@@ -227,7 +278,7 @@ generate an animated gif of a claymation kitten playing in a plastic ball pit
 
 `kitten` `claymation` `ball-pit` `cute`
 
-### 15. Rooftop Astronaut and Glowing Paper Star
+### 18. Rooftop Astronaut and Glowing Paper Star
 
 <img src="../gifs/rooftop-astronaut-glowing-paper-star.gif" alt="Rooftop Astronaut and Glowing Paper Star" width="360">
 
@@ -243,7 +294,7 @@ Create a short, seamless looping GIF in a whimsical cinematic illustration style
 
 `astronaut` `night` `mini-story` `illustration`
 
-### 16. Travel Journal Spread with Drifting Palm Shadow
+### 19. Travel Journal Spread with Drifting Palm Shadow
 
 <img src="../gifs/sydney-travel-journal-palm-shadow.gif" alt="Travel Journal Spread with Drifting Palm Shadow" width="360">
 
@@ -263,7 +314,7 @@ Keep the same journal, photos, sketch and heading in every frame. Overhead camer
 
 `cinemagraph` `travel` `scrapbook` `journal` `shadow`
 
-### 17. Orange cat blinks by the window
+### 20. Orange cat blinks by the window
 
 <img src="../gifs/window-orange-cat-blink.gif" alt="Orange cat blinks by the window" width="360">
 
@@ -279,7 +330,7 @@ Keep the same journal, photos, sketch and heading in every frame. Overhead camer
 
 `cat` `cozy` `illustration`
 
-### 18. Watercolor sakura town in the breeze
+### 21. Watercolor sakura town in the breeze
 
 <img src="../gifs/watercolor-sakura-town-breeze.gif" alt="Watercolor sakura town in the breeze" width="360">
 
@@ -295,7 +346,7 @@ Keep the same journal, photos, sketch and heading in every frame. Overhead camer
 
 `watercolor` `sakura` `storybook`
 
-### 19. Vintage brass metronome swing
+### 22. Vintage brass metronome swing
 
 <img src="../gifs/brass-metronome-swing.gif" alt="Vintage brass metronome swing" width="360">
 
@@ -311,7 +362,7 @@ Clean studio illustration on a muted sage-green background, locked dead-center f
 
 `metronome` `mechanical` `loop`
 
-### 20. Snowy twilight campfire (16 frames)
+### 23. Snowy twilight campfire (16 frames)
 
 <img src="../gifs/snowy-twilight-campfire.gif" alt="Snowy twilight campfire (16 frames)" width="360">
 
@@ -327,7 +378,7 @@ Flat storybook winter landscape illustration, locked wide camera. In a quiet twi
 
 `winter` `campfire` `storybook`
 
-### 21. Rainy dusk window with puddle ripples
+### 24. Rainy dusk window with puddle ripples
 
 <img src="../gifs/rainy-dusk-window-puddle.gif" alt="Rainy dusk window with puddle ripples" width="360">
 
@@ -343,7 +394,7 @@ Cozy lo-fi anime illustration seen through a dark wooden apartment window at dus
 
 `rain` `lo-fi` `anime`
 
-### 22. Canton Tower rising from morning mist
+### 25. Canton Tower rising from morning mist
 
 <img src="../gifs/canton-tower-morning-mist.gif" alt="Canton Tower rising from morning mist" width="360">
 
@@ -359,7 +410,7 @@ Cozy lo-fi anime illustration seen through a dark wooden apartment window at dus
 
 `city` `mist` `river`
 
-### 23. Orange bird flapping on a branch
+### 26. Orange bird flapping on a branch
 
 <img src="../gifs/orange-bird-branch-flap.gif" alt="Orange bird flapping on a branch" width="360">
 
@@ -375,7 +426,7 @@ Create a looping animation of a small orange bird on a stationary branch against
 
 `bird` `loop` `api`
 
-### 24. Snow globe swirl
+### 27. Snow globe swirl
 
 <img src="../gifs/snow-globe-cabin-shake.gif" alt="Snow globe swirl" width="360">
 
@@ -389,7 +440,7 @@ A glass snow globe with a tiny red cabin and pine trees inside; snowflakes swirl
 
 `snow-globe` `winter` `cozy`
 
-### 25. Roasting chestnuts
+### 28. Roasting chestnuts
 
 <img src="../gifs/chestnut-roast-pan.gif" alt="Roasting chestnuts" width="360">
 
@@ -403,7 +454,7 @@ A big iron wok of chestnuts and dark sand is stirred by a wooden paddle, steam c
 
 `chestnut` `street-food` `winter`
 
-### 26. First snow under a lamp
+### 29. First snow under a lamp
 
 <img src="../gifs/street-lamp-first-snow.gif" alt="First snow under a lamp" width="360">
 
@@ -417,7 +468,7 @@ Big soft snowflakes drift down through the warm cone of an old street lamp on a 
 
 `snow` `night` `street`
 
-### 27. Frost spreads on glass
+### 30. Frost spreads on glass
 
 <img src="../gifs/window-frost-spread.gif" alt="Frost spreads on glass" width="360">
 
@@ -431,7 +482,7 @@ Delicate fern-like frost patterns creep across a cold window pane from the corne
 
 `frost` `winter` `macro`
 
-### 28. Sky lanterns rising
+### 31. Sky lanterns rising
 
 <img src="../gifs/sky-lanterns-rise.gif" alt="Sky lanterns rising" width="360">
 
@@ -445,7 +496,7 @@ Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky
 
 `lantern` `night` `festival`
 
-### 29. Ladybug and dewdrop
+### 32. Ladybug and dewdrop
 
 <img src="../gifs/ladybug-dew-slide.gif" alt="Ladybug and dewdrop" width="360">
 
@@ -459,7 +510,7 @@ A ladybug walks along a curved green leaf while a dewdrop at the leaf tip swells
 
 `ladybug` `macro` `nature`
 
-### 30. Bear snoring in a cave
+### 33. Bear snoring in a cave
 
 <img src="../gifs/bear-cave-snore.gif" alt="Bear snoring in a cave" width="360">
 
@@ -473,7 +524,7 @@ A brown bear sleeps curled up in a cozy cave, its belly rising and falling as a 
 
 `bear` `hibernation` `winter`
 
-### 31. Otter floats and naps
+### 34. Otter floats and naps
 
 <img src="../gifs/sea-otter-float-nap.gif" alt="Otter floats and naps" width="360">
 
@@ -487,7 +538,7 @@ A sea otter floats on its back in calm water, holding a small shell on its belly
 
 `otter` `sleep` `calm`
 
-### 32. Comet over the desert
+### 35. Comet over the desert
 
 <img src="../gifs/comet-desert-night.gif" alt="Comet over the desert" width="360">
 
@@ -501,7 +552,7 @@ A bright comet with a long glowing tail drifts slowly across a starry sky above 
 
 `comet` `night` `sky`
 
-### 33. Glowing mycelium bridge
+### 36. Glowing mycelium bridge
 
 <img src="../gifs/mycelium-bridge-glow.gif" alt="Glowing mycelium bridge" width="360">
 
@@ -515,7 +566,7 @@ A delicate bridge woven from glowing white fungal threads spans a misty canyon a
 
 `fantasy` `bridge` `glow`
 
-### 34. Naive geometric face
+### 37. Naive geometric face
 
 <img src="../gifs/geo-doodle-face-wobble.gif" alt="Naive geometric face" width="360">
 
@@ -529,7 +580,7 @@ A naive hand-drawn portrait of an imaginary character built from uneven circles,
 
 `illustration` `geometric` `ink`
 
-### 35. Cove waves cinemagraph
+### 38. Cove waves cinemagraph
 
 <img src="../gifs/cove-waves-cinemagraph.gif" alt="Cove waves cinemagraph" width="360">
 
@@ -545,7 +596,7 @@ A quiet rocky cove at golden hour where only the sea moves: small waves roll in 
 
 `sea` `cinemagraph` `calm`
 
-### 36. Peony blooms open
+### 39. Peony blooms open
 
 <img src="../gifs/peony-bloom-open.gif" alt="Peony blooms open" width="360">
 
@@ -561,7 +612,7 @@ A single pink peony bud slowly unfurls its layered petals into a full bloom, a f
 
 `flower` `bloom` `macro`
 
-### 37. Snail house lights up
+### 40. Snail house lights up
 
 <img src="../gifs/snail-shell-house-lights.gif" alt="Snail house lights up" width="360">
 
@@ -575,7 +626,7 @@ A snail carrying a tiny cottage on its back inches along a mossy log as the litt
 
 `snail` `cottage` `storybook`
 
-### 38. Sea turtle in sun rays
+### 41. Sea turtle in sun rays
 
 <img src="../gifs/sea-turtle-sunrays.gif" alt="Sea turtle in sun rays" width="360">
 
@@ -589,7 +640,7 @@ A green sea turtle paddles slowly through shafts of sunlight with small fish dri
 
 `turtle` `ocean` `calm`
 
-### 39. Pottery wheel
+### 42. Pottery wheel
 
 <img src="../gifs/pottery-wheel-bowl.gif" alt="Pottery wheel" width="360">
 
@@ -603,7 +654,7 @@ Clay-covered hands shape a bowl on a spinning pottery wheel, its rim rising slow
 
 `pottery` `craft` `calm`
 
-### 40. Raking a zen garden
+### 43. Raking a zen garden
 
 <img src="../gifs/zen-sand-rake.gif" alt="Raking a zen garden" width="360">
 
@@ -617,7 +668,7 @@ A wooden rake draws smooth curving lines through white sand around a mossy stone
 
 `zen` `garden` `calm`
 
-### 41. Volcano magma rising
+### 44. Volcano magma rising
 
 <img src="../gifs/volcano-cutaway-rise.gif" alt="Volcano magma rising" width="360">
 
@@ -631,7 +682,7 @@ A cross-section of a cone volcano with labeled layers; glowing magma climbs the 
 
 `cutaway` `volcano` `science`
 
-### 42. Ant nest cross-section
+### 45. Ant nest cross-section
 
 <img src="../gifs/ant-nest-cutaway.gif" alt="Ant nest cross-section" width="360">
 
@@ -645,7 +696,7 @@ A cross-section of an underground ant nest; ants carry crumbs and leaves along w
 
 `cutaway` `ants` `science`
 
-### 43. Submarine cross-section
+### 46. Submarine cross-section
 
 <img src="../gifs/submarine-cutaway.gif" alt="Submarine cross-section" width="360">
 
@@ -659,7 +710,7 @@ A cutaway view of a yellow submarine showing small rooms; tiny crew members walk
 
 `cutaway` `submarine` `infographic`
 
-### 44. Celestial clock cracks
+### 47. Celestial clock cracks
 
 <img src="../gifs/celestial-clock-shatter.gif" alt="Celestial clock cracks" width="360">
 
@@ -673,7 +724,7 @@ A brass astronomical clock with tiny planets on its rings cracks across the face
 
 `clock` `stars` `fantasy`
 
-### 45. Cloud pours coffee
+### 48. Cloud pours coffee
 
 <img src="../gifs/cloud-pours-coffee.gif" alt="Cloud pours coffee" width="360">
 
@@ -687,7 +738,7 @@ A fluffy white cloud with a sleepy face tilts and pours a thin stream of coffee 
 
 `cloud` `coffee` `morning`
 
-### 46. Seed sprouts in a pot
+### 49. Seed sprouts in a pot
 
 <img src="../gifs/seed-sprout-pot.gif" alt="Seed sprouts in a pot" width="360">
 
@@ -701,7 +752,7 @@ A seed in a small clay pot pushes up a green sprout that unfurls two leaves, a d
 
 `plant` `sprout` `growth`
 
-### 47. Rainy greenhouse
+### 50. Rainy greenhouse
 
 <img src="../gifs/rainy-greenhouse.gif" alt="Rainy greenhouse" width="360">
 
@@ -715,7 +766,7 @@ Rain streaks down the glass panes of a small greenhouse full of potted plants, d
 
 `greenhouse` `rain` `plants`
 
-### 48. Manta ray glide
+### 51. Manta ray glide
 
 <img src="../gifs/manta-ray-glide.gif" alt="Manta ray glide" width="360">
 
@@ -729,7 +780,7 @@ A manta ray glides through blue water, its wings rising and falling slowly while
 
 `ocean` `manta` `underwater`
 
-### 49. Night laundromat
+### 52. Night laundromat
 
 <img src="../gifs/laundromat-night-spin.gif" alt="Night laundromat" width="360">
 
@@ -743,7 +794,7 @@ A front-loading washer spins colorful clothes behind its round glass door in an 
 
 `laundromat` `night` `lofi`
 
-### 50. Terrarium mist
+### 53. Terrarium mist
 
 <img src="../gifs/terrarium-mist.gif" alt="Terrarium mist" width="360">
 
@@ -757,7 +808,7 @@ Inside a glass terrarium with moss and tiny ferns, soft mist curls and a single 
 
 `terrarium` `plants` `mist`
 
-### 51. Brass gears turning
+### 54. Brass gears turning
 
 <img src="../gifs/brass-gears-turn.gif" alt="Brass gears turning" width="360">
 
@@ -771,7 +822,7 @@ A cluster of interlocking brass gears turns smoothly at different speeds, light 
 
 `gears` `steampunk` `machine`
 
-### 52. Beach hammock
+### 55. Beach hammock
 
 <img src="../gifs/beach-hammock-sway.gif" alt="Beach hammock" width="360">
 
@@ -785,7 +836,7 @@ An empty striped hammock sways between two palm trees while small waves roll ont
 
 `beach` `hammock` `summer`
 
-### 53. Wheat field in the wind
+### 56. Wheat field in the wind
 
 <img src="../gifs/wheat-field-wind.gif" alt="Wheat field in the wind" width="360">
 
@@ -799,7 +850,7 @@ Golden wheat sways in waves across a field as fluffy clouds drift slowly overhea
 
 `wheat` `wind` `nature`
 
-### 54. Moonlit boat
+### 57. Moonlit boat
 
 <img src="../gifs/moon-boat-rock.gif" alt="Moonlit boat" width="360">
 
@@ -813,7 +864,7 @@ A small wooden rowboat rocks gently on dark water under a full moon, its reflect
 
 `boat` `moon` `night`
 
-### 55. Library sunbeam dust
+### 58. Library sunbeam dust
 
 <img src="../gifs/library-dust-sunbeam.gif" alt="Library sunbeam dust" width="360">
 
@@ -827,7 +878,7 @@ Golden dust motes drift slowly through a beam of sunlight in a quiet wooden libr
 
 `library` `light` `calm`
 
-### 56. Cat portrait comes alive
+### 59. Cat portrait comes alive
 
 <img src="../gifs/painting-cat-blinks.gif" alt="Cat portrait comes alive" width="360">
 
@@ -841,7 +892,7 @@ An old oil painting in an ornate gold frame shows a noble cat wearing a lace ruf
 
 `painting` `cat` `museum`
 
-### 57. Cube morphs into a pavilion
+### 60. Cube morphs into a pavilion
 
 <img src="../gifs/cube-morph-pavilion.gif" alt="Cube morphs into a pavilion" width="360">
 
@@ -855,7 +906,7 @@ A plain white cube architectural model on a concrete plinth smoothly melts and s
 
 `architecture` `morph` `model`
 
-### 58. Felted sheep on a felt hill
+### 61. Felted sheep on a felt hill
 
 <img src="../gifs/felt-sheep-hill-walk.gif" alt="Felted sheep on a felt hill" width="360">
 
@@ -871,7 +922,7 @@ A needle-felted wool sheep trots across a rolling felt hill with tiny felt flowe
 
 `felt` `sheep` `craft`
 
-### 59. Origami fox unfolds
+### 62. Origami fox unfolds
 
 <img src="../gifs/origami-fox-unfold.gif" alt="Origami fox unfolds" width="360">
 
@@ -885,7 +936,7 @@ A flat sheet of orange paper folds itself into an origami fox that turns its hea
 
 `paper` `origami` `fox`
 
-### 60. Light-bulb head collage
+### 63. Light-bulb head collage
 
 <img src="../gifs/bulb-head-collage.gif" alt="Light-bulb head collage" width="360">
 
@@ -899,7 +950,7 @@ Cut-paper collage of a figure with a light-bulb head; gears inside the bulb turn
 
 `collage` `idea` `paper`
 
-### 61. Winter bunny catches snow
+### 64. Winter bunny catches snow
 
 <img src="../gifs/winter-bunny-snowflakes.gif" alt="Winter bunny catches snow" width="360">
 
@@ -913,7 +964,7 @@ A small bunny in a green knitted scarf looks up and catches falling snowflakes o
 
 `winter` `bunny` `cozy`
 
-### 62. Robot and scientist watch a test tube
+### 65. Robot and scientist watch a test tube
 
 <img src="../gifs/lab-robot-test-tube.gif" alt="Robot and scientist watch a test tube" width="360">
 
@@ -927,7 +978,7 @@ A scientist in a white coat and a small round robot lean in to watch a test tube
 
 `science` `robot` `illustration`
 
-### 63. Giant bubble in the park
+### 66. Giant bubble in the park
 
 <img src="../gifs/bubble-wand-park.gif" alt="Giant bubble in the park" width="360">
 
@@ -941,7 +992,7 @@ A giant soap bubble wobbles and drifts across a green park, rainbow colors swirl
 
 `ambient` `bubble` `summer`
 
-### 64. Autumn tea on the table
+### 67. Autumn tea on the table
 
 <img src="../gifs/autumn-tea-steam.gif" alt="Autumn tea on the table" width="360">
 
@@ -955,7 +1006,7 @@ A cup of tea on a wooden table by a window, steam curling up while maple leaves 
 
 `ambient` `autumn` `tea`
 
-### 65. Seaside cat nap
+### 68. Seaside cat nap
 
 <img src="../gifs/seaside-cat-nap.gif" alt="Seaside cat nap" width="360">
 
@@ -969,7 +1020,7 @@ A calico cat naps on a sunny harbor wall, its tail flicking lazily while small w
 
 `ambient` `cat` `sea`
 
-### 66. Dusk tram passing
+### 69. Dusk tram passing
 
 <img src="../gifs/tram-city-dusk.gif" alt="Dusk tram passing" width="360">
 
@@ -983,7 +1034,7 @@ A small yellow tram glides past a row of pastel buildings at dusk, its windows g
 
 `ambient` `city` `travel`
 
-### 67. Galaxy hourglass
+### 70. Galaxy hourglass
 
 <img src="../gifs/hourglass-galaxy.gif" alt="Galaxy hourglass" width="360">
 
@@ -997,7 +1048,7 @@ A glass hourglass where tiny glowing stars trickle down instead of sand, forming
 
 `ambient` `space` `magic`
 
-### 68. Socks by the fireplace
+### 71. Socks by the fireplace
 
 <img src="../gifs/fireplace-sock-dry.gif" alt="Socks by the fireplace" width="360">
 
@@ -1011,7 +1062,7 @@ Knitted socks hang on a line above a crackling fireplace, flames dancing and the
 
 `ambient` `cozy` `winter`
 
-### 69. Porch wind chime
+### 72. Porch wind chime
 
 <img src="../gifs/windchime-porch.gif" alt="Porch wind chime" width="360">
 
@@ -1025,7 +1076,7 @@ A glass wind chime on a wooden porch sways in a summer breeze, its paper tag flu
 
 `ambient` `summer` `japan`
 
-### 70. Snowy ramen stall
+### 73. Snowy ramen stall
 
 <img src="../gifs/snowy-ramen-stall.gif" alt="Snowy ramen stall" width="360">
 
@@ -1039,7 +1090,7 @@ A tiny street ramen stall at night, steam rising from a pot and paper lanterns s
 
 `ambient` `food` `snow`
 
-### 71. Overhead koi pond
+### 74. Overhead koi pond
 
 <img src="../gifs/koi-pond-overhead.gif" alt="Overhead koi pond" width="360">
 
@@ -1053,7 +1104,7 @@ Top-down view of a dark pond where three orange and white koi glide in a slow ci
 
 `ambient` `fish` `water`
 
-### 72. Rainy candle shop window
+### 75. Rainy candle shop window
 
 <img src="../gifs/candle-shop-window.gif" alt="Rainy candle shop window" width="360">
 
@@ -1067,7 +1118,7 @@ A small candle shop window at night with dozens of candles flickering softly whi
 
 `ambient` `rain` `cozy`
 
-### 73. Glowing mushroom forest
+### 76. Glowing mushroom forest
 
 <img src="../gifs/glow-mushroom-forest.gif" alt="Glowing mushroom forest" width="360">
 
@@ -1081,7 +1132,7 @@ A mossy forest floor at night with clusters of bioluminescent blue mushrooms who
 
 `fantasy` `night` `nature`
 
-### 74. Music box dancer
+### 77. Music box dancer
 
 <img src="../gifs/music-box-dancer.gif" alt="Music box dancer" width="360">
 
@@ -1095,7 +1146,7 @@ Inside an open wooden music box lined with red velvet, a small porcelain dancer 
 
 `vintage` `music-box` `object`
 
-### 75. Wind over dunes
+### 78. Wind over dunes
 
 <img src="../gifs/desert-dune-wind.gif" alt="Wind over dunes" width="360">
 
@@ -1109,7 +1160,7 @@ Fine sand streams off the sharp crest of a golden desert dune in the wind, rippl
 
 `desert` `landscape` `wind`
 
-### 76. Tide pool crab
+### 79. Tide pool crab
 
 <img src="../gifs/tide-pool-crab.gif" alt="Tide pool crab" width="360">
 
@@ -1123,7 +1174,7 @@ A small orange crab scuttles sideways between pebbles in a clear tide pool as ge
 
 `nature` `ocean` `macro`
 
-### 77. Bread rising in the oven
+### 80. Bread rising in the oven
 
 <img src="../gifs/oven-bread-rise.gif" alt="Bread rising in the oven" width="360">
 
@@ -1137,7 +1188,7 @@ Through a glowing oven window, a braided loaf slowly puffs up and turns golden w
 
 `baking` `kitchen` `cozy`
 
-### 78. Floating river lanterns
+### 81. Floating river lanterns
 
 <img src="../gifs/river-lantern-float.gif" alt="Floating river lanterns" width="360">
 
@@ -1151,7 +1202,7 @@ Paper lotus lanterns with candle flames float slowly down a dark river at night,
 
 `lantern` `night` `festival`
 
-### 79. Picture-book bear makes tea
+### 82. Picture-book bear makes tea
 
 <img src="../gifs/bear-tea-picturebook.gif" alt="Picture-book bear makes tea" width="360">
 
@@ -1165,7 +1216,7 @@ a picture-book watercolor scene of a small brown bear in a striped apron pouring
 
 `picture-book` `watercolor` `cozy`
 
-### 80. Coastal convertible drive
+### 83. Coastal convertible drive
 
 <img src="../gifs/coastal-convertible.gif" alt="Coastal convertible drive" width="360">
 
@@ -1179,7 +1230,7 @@ A vintage red convertible drives along a cliffside coastal road at sunset, the c
 
 `car` `road-trip` `cinematic`
 
-### 81. Layered paper forest
+### 84. Layered paper forest
 
 <img src="../gifs/paper-parallax-forest.gif" alt="Layered paper forest" width="360">
 
@@ -1193,7 +1244,7 @@ A layered cut-paper diorama of a pine forest at dusk, five paper layers in deepe
 
 `paper-craft` `parallax` `scenery`
 
-### 82. Cyber pastel shrine
+### 85. Cyber pastel shrine
 
 <img src="../gifs/cyber-pastel-shrine.gif" alt="Cyber pastel shrine" width="360">
 
@@ -1207,7 +1258,7 @@ A small shrine gate on a floating island in soft pastel pink and lilac, glowing 
 
 `cyber` `pastel` `scenery`
 
-### 83. Shadow puppet scholar
+### 86. Shadow puppet scholar
 
 <img src="../gifs/shadow-puppet-turn.gif" alt="Shadow puppet scholar" width="360">
 
@@ -1221,7 +1272,7 @@ A traditional Chinese leather shadow puppet of a scholar holding a fan, transluc
 
 `shadow-puppet` `chinese` `folk-art`
 
-### 84. Bookshop window in the snow
+### 87. Bookshop window in the snow
 
 <img src="../gifs/bookshop-window-snow.gif" alt="Bookshop window in the snow" width="360">
 
@@ -1235,7 +1286,7 @@ A cozy bookshop window at night with warm light; a gray cat sleeps on a stack of
 
 `cozy` `snow` `cat`
 
-### 85. Autumn leaves swirl round a bench
+### 88. Autumn leaves swirl round a bench
 
 <img src="../gifs/park-bench-leaves.gif" alt="Autumn leaves swirl round a bench" width="360">
 
@@ -1249,7 +1300,7 @@ Golden and red autumn leaves swirl in a little gust around an empty wooden park 
 
 `autumn` `park` `wind`
 
-### 86. Meteor shower over a tent
+### 89. Meteor shower over a tent
 
 <img src="../gifs/meteor-tent-night.gif" alt="Meteor shower over a tent" width="360">
 
@@ -1263,7 +1314,7 @@ A small glowing orange tent on a hill under a deep blue sky, meteors streaking a
 
 `night` `camping` `stars`
 
-### 87. Umbrellas on a rainy crosswalk
+### 90. Umbrellas on a rainy crosswalk
 
 <img src="../gifs/crosswalk-umbrellas.gif" alt="Umbrellas on a rainy crosswalk" width="360">
 
@@ -1277,7 +1328,7 @@ Top-down view of a rainy crosswalk where colorful umbrellas move across the whit
 
 `rain` `city` `top-down`
 
-### 88. Tea leaves unfurl
+### 91. Tea leaves unfurl
 
 <img src="../gifs/tea-leaves-unfurl.gif" alt="Tea leaves unfurl" width="360">
 
@@ -1291,7 +1342,7 @@ Inside a clear glass teapot, rolled green tea leaves slowly unfurl and drift dow
 
 `tea` `macro` `calm`
 
-### 89. Ferris wheel at dusk
+### 92. Ferris wheel at dusk
 
 <img src="../gifs/dusk-ferris-wheel.gif" alt="Ferris wheel at dusk" width="360">
 
@@ -1305,7 +1356,7 @@ A ferris wheel at a seaside fair turns slowly at dusk, its bulb lights twinkling
 
 `fair` `dusk` `lights`
 
-### 90. Rooftop laundry in the breeze
+### 93. Rooftop laundry in the breeze
 
 <img src="../gifs/rooftop-laundry-breeze.gif" alt="Rooftop laundry in the breeze" width="360">
 
@@ -1319,7 +1370,7 @@ Colorful laundry hangs on a line across a city rooftop, shirts and sheets flappi
 
 `city` `breeze` `calm`
 
-### 91. Lava lamp blobs
+### 94. Lava lamp blobs
 
 <img src="../gifs/lava-lamp-glow.gif" alt="Lava lamp blobs" width="360">
 
@@ -1333,7 +1384,7 @@ A retro lava lamp on a dark shelf: orange wax blobs slowly rise, stretch, split,
 
 `retro` `lamp` `ambient`
 
-### 92. Kingfisher dives
+### 95. Kingfisher dives
 
 <img src="../gifs/kingfisher-dive.gif" alt="Kingfisher dives" width="360">
 
@@ -1347,7 +1398,7 @@ A bright blue and orange kingfisher dives from a branch into a calm river, a cro
 
 `bird` `nature` `splash`
 
-### 93. Garden hose rainbow
+### 96. Garden hose rainbow
 
 <img src="../gifs/garden-hose-rainbow.gif" alt="Garden hose rainbow" width="360">
 
@@ -1361,7 +1412,7 @@ A gardener in a wide straw hat, seen from behind, sprays a fan of water over a s
 
 `garden` `summer` `rainbow`
 
-### 94. Torn paper ocean waves
+### 97. Torn paper ocean waves
 
 <img src="../gifs/torn-paper-waves.gif" alt="Torn paper ocean waves" width="360">
 
@@ -1375,7 +1426,7 @@ Layered torn-paper ocean waves in shades of blue roll forward one behind another
 
 `paper` `ocean` `collage`
 
-### 95. Risograph shapes drift
+### 98. Risograph shapes drift
 
 <img src="../gifs/risograph-blob-drift.gif" alt="Risograph shapes drift" width="360">
 
@@ -1389,7 +1440,7 @@ Four flat textured shapes in risograph colors (pink, teal, yellow, blue) slowly 
 
 `abstract` `background` `texture`
 
-### 96. Roasting a marshmallow
+### 99. Roasting a marshmallow
 
 <img src="../gifs/marshmallow-roast.gif" alt="Roasting a marshmallow" width="360">
 
@@ -1403,7 +1454,7 @@ A marshmallow on a stick held over a campfire at night, slowly turning golden br
 
 `camping` `food` `cozy`
 
-### 97. Cherry blossoms over a stone bridge
+### 100. Cherry blossoms over a stone bridge
 
 <img src="../gifs/sakura-stone-bridge.gif" alt="Cherry blossoms over a stone bridge" width="360">
 
@@ -1417,7 +1468,7 @@ An arched stone bridge over a quiet stream lined with cherry trees in full bloom
 
 `spring` `flowers` `japan`
 
-### 98. Hot-air balloons at sunrise
+### 101. Hot-air balloons at sunrise
 
 <img src="../gifs/hot-air-balloons.gif" alt="Hot-air balloons at sunrise" width="360">
 
@@ -1431,7 +1482,7 @@ Several colorful hot-air balloons drifting gently over a canyon at sunrise, the 
 
 `travel` `sunrise` `sky`
 
-### 99. Aurora over a cabin
+### 102. Aurora over a cabin
 
 <img src="../gifs/aurora-cabin.gif" alt="Aurora over a cabin" width="360">
 
@@ -1445,7 +1496,7 @@ A small wooden cabin with glowing windows in a snowy valley, green and violet au
 
 `night` `winter` `aurora`
 
-### 100. Whisking matcha
+### 103. Whisking matcha
 
 <img src="../gifs/matcha-whisk.gif" alt="Whisking matcha" width="360">
 
@@ -1459,7 +1510,7 @@ A bamboo whisk briskly whisking bright green matcha in a dark ceramic bowl, fine
 
 `tea` `food` `asmr`
 
-### 101. View from a train window
+### 104. View from a train window
 
 <img src="../gifs/train-window-fields.gif" alt="View from a train window" width="360">
 
@@ -1473,7 +1524,7 @@ The view through a train window on a sunny afternoon: green rice fields and dist
 
 `travel` `train` `scenery`
 
-### 102. Swaying kelp forest
+### 105. Swaying kelp forest
 
 <img src="../gifs/kelp-forest-sway.gif" alt="Swaying kelp forest" width="360">
 
@@ -1487,7 +1538,7 @@ An underwater kelp forest with tall golden-green kelp swaying in the current, su
 
 `ocean` `calm` `nature`
 
-### 103. Bonsai with fireflies
+### 106. Bonsai with fireflies
 
 <img src="../gifs/bonsai-fireflies.gif" alt="Bonsai with fireflies" width="360">
 
@@ -1501,7 +1552,7 @@ A small bonsai pine in a ceramic pot on a wooden shelf at dusk, a few fireflies 
 
 `calm` `nature` `night`
 
-### 104. Astronaut with a paper star
+### 107. Astronaut with a paper star
 
 <img src="../gifs/rooftop-astronaut-star.gif" alt="Astronaut with a paper star" width="360">
 
@@ -1515,7 +1566,7 @@ A small astronaut sitting on a city rooftop at night holding a folded paper star
 
 `night` `dreamy` `space`
 
-### 105. Palm shadow on a travel journal
+### 108. Palm shadow on a travel journal
 
 <img src="../gifs/palm-shadow-journal.gif" alt="Palm shadow on a travel journal" width="360">
 
@@ -1529,7 +1580,7 @@ An open travel journal on a sunny café table with taped photos and a handwritte
 
 `cinemagraph` `travel` `shadow`
 
-### 106. Ink-wash moonlit window
+### 109. Ink-wash moonlit window
 
 <img src="../gifs/ink-moon-pipa.gif" alt="Ink-wash moonlit window" width="360">
 
@@ -1543,7 +1594,7 @@ A Chinese ink-wash painting of a moonlit round window with a pipa lute leaning a
 
 `ink` `chinese` `moon`
 
-### 107. Diwali oil lamps
+### 110. Diwali oil lamps
 
 <img src="../gifs/diya-lamps-glow.gif" alt="Diwali oil lamps" width="360">
 
@@ -1557,7 +1608,7 @@ A row of small clay diya oil lamps on a stone step decorated with a colorful ran
 
 `festival` `diwali` `lights`
 
-### 108. Picture-book bunny watering flowers
+### 111. Picture-book bunny watering flowers
 
 <img src="../gifs/storybook-bunny-garden.gif" alt="Picture-book bunny watering flowers" width="360">
 
@@ -1573,7 +1624,7 @@ A children's picture-book page in soft watercolor and colored pencil: a little b
 
 `storybook` `watercolor` `kids`
 
-### 109. Spinning vinyl record
+### 112. Spinning vinyl record
 
 <img src="../gifs/vinyl-turntable.gif" alt="Spinning vinyl record" width="360">
 
@@ -1587,7 +1638,7 @@ A vinyl record spinning on a wooden turntable with the tonearm resting on it, wa
 
 `music` `lofi` `cozy`
 
-### 110. Lifting ramen noodles
+### 113. Lifting ramen noodles
 
 <img src="../gifs/ramen-steam-lift.gif" alt="Lifting ramen noodles" width="360">
 
@@ -1601,7 +1652,7 @@ A bowl of ramen with a soft-boiled egg and green onions, chopsticks lifting a bu
 
 `food` `anime` `steam`
 
-### 111. Sushi conveyor belt
+### 114. Sushi conveyor belt
 
 <img src="../gifs/sushi-conveyor.gif" alt="Sushi conveyor belt" width="360">
 
@@ -1615,7 +1666,7 @@ A sushi conveyor belt in a small restaurant with colorful plates of nigiri slidi
 
 `food` `anime` `conveyor`
 
-### 112. Candle on a writing desk
+### 115. Candle on a writing desk
 
 <img src="../gifs/desk-candle-flicker.gif" alt="Candle on a writing desk" width="360">
 
@@ -1629,7 +1680,7 @@ A lit candle on an old wooden writing desk beside an open notebook and fountain 
 
 `candle` `cozy` `cinemagraph`
 
-### 113. Glowing jellyfish
+### 116. Glowing jellyfish
 
 <img src="../gifs/jellyfish-glow.gif" alt="Glowing jellyfish" width="360">
 
@@ -1643,7 +1694,7 @@ A single translucent jellyfish drifting in the deep ocean, its bell pulsing slow
 
 `ocean` `glow` `ambient`
 
-### 114. Paper-cut river valley
+### 117. Paper-cut river valley
 
 <img src="../gifs/papercut-river-boat.gif" alt="Paper-cut river valley" width="360">
 
@@ -1657,7 +1708,7 @@ Layered paper-cut art of a river valley: paper waves slide across, a little pape
 
 `papercut` `craft` `layers`
 
-### 115. Ripples on a dawn lake
+### 118. Ripples on a dawn lake
 
 <img src="../gifs/lake-ripple-dawn.gif" alt="Ripples on a dawn lake" width="360">
 
@@ -1671,7 +1722,7 @@ A calm mountain lake at dawn, everything still except soft ripples spreading acr
 
 `landscape` `water` `cinemagraph`
 
-### 116. Cat stretching on the windowsill
+### 119. Cat stretching on the windowsill
 
 <img src="../gifs/windowsill-cat-stretch.gif" alt="Cat stretching on the windowsill" width="360">
 
@@ -1685,7 +1736,7 @@ An orange tabby cat on a sunny windowsill stretching its front legs, yawning wid
 
 `cat` `cozy` `watercolor`
 
-### 117. Steam over fresh sourdough
+### 120. Steam over fresh sourdough
 
 <img src="../gifs/sourdough-steam.gif" alt="Steam over fresh sourdough" width="360">
 
@@ -1699,7 +1750,7 @@ A freshly baked sourdough loaf on a floured wooden board, still except for thin 
 
 `food` `steam` `cinemagraph`
 
-### 118. Tang court dancer
+### 121. Tang court dancer
 
 <img src="../gifs/tang-court-dancer.gif" alt="Tang court dancer" width="360">
 
@@ -1713,7 +1764,7 @@ A court dancer in flowing red and gold Tang-dynasty robes spinning in place, her
 
 `chinese` `dance` `mural`
 
-### 119. Paper crane takes off from a card
+### 122. Paper crane takes off from a card
 
 <img src="../gifs/origami-crane-takeoff.gif" alt="Paper crane takes off from a card" width="360">
 
@@ -1727,7 +1778,7 @@ A folded white paper crane sitting on an open greeting card flaps its creased pa
 
 `paper` `message` `watercolor`
 
-### 120. Train wind on the platform
+### 123. Train wind on the platform
 
 <img src="../gifs/subway-wind-girl.gif" alt="Train wind on the platform" width="360">
 
@@ -1741,7 +1792,7 @@ A girl with long dark hair and a yellow raincoat standing on a subway platform a
 
 `anime` `wind` `cinemagraph`
 
-### 121. Robot barista pouring coffee
+### 124. Robot barista pouring coffee
 
 <img src="../gifs/robot-barista.gif" alt="Robot barista pouring coffee" width="360">
 
@@ -1755,7 +1806,7 @@ A small white robot barista with one arm pouring steamed milk into a cup of coff
 
 `robot` `coffee` `cafe`
 
-### 122. Clay dough baker mascot
+### 125. Clay dough baker mascot
 
 <img src="../gifs/clay-baker-mascot.gif" alt="Clay dough baker mascot" width="360">
 
@@ -1769,7 +1820,7 @@ A round clay dough mascot in a little white chef hat kneading a piece of dough o
 
 `clay` `mascot` `cooking`
 
-### 123. Paper lantern Jiangnan with koi
+### 126. Paper lantern Jiangnan with koi
 
 <img src="../gifs/lantern-koi-garden.gif" alt="Paper lantern Jiangnan with koi" width="360">
 
@@ -1783,7 +1834,7 @@ A layered paper-cut lantern scene of a southern Chinese water town with a stone 
 
 `paper-cut` `chinese` `lantern`
 
-### 124. Eagle flapping its wings
+### 127. Eagle flapping its wings
 
 <img src="../gifs/eagle-wing-flap.gif" alt="Eagle flapping its wings" width="360">
 
@@ -1797,7 +1848,7 @@ A golden eagle flying in place with powerful wing beats, feathers rippling, isol
 
 `bird` `flight` `animal`
 
-### 125. Glowing beaker vortex
+### 128. Glowing beaker vortex
 
 <img src="../gifs/beaker-glow-vortex.gif" alt="Glowing beaker vortex" width="360">
 
@@ -1811,7 +1862,7 @@ A glass lab beaker on a dark bench with a swirling vortex of glowing teal liquid
 
 `science` `glow` `liquid`
 
-### 126. Glass butterfly with shifting shadows
+### 129. Glass butterfly with shifting shadows
 
 <img src="../gifs/glass-butterfly.gif" alt="Glass butterfly with shifting shadows" width="360">
 
@@ -1825,7 +1876,7 @@ A butterfly made of clear glass perched on a white table, slowly opening and clo
 
 `glass` `butterfly` `light`
 
-### 127. Canyon waterfall mist
+### 130. Canyon waterfall mist
 
 <img src="../gifs/canyon-waterfall.gif" alt="Canyon waterfall mist" width="360">
 
@@ -1839,7 +1890,7 @@ A tall waterfall pouring into a deep green canyon pool, mist rising and ripples 
 
 `nature` `waterfall` `cinemagraph`
 
-### 128. Petting a shiba in the rain
+### 131. Petting a shiba in the rain
 
 <img src="../gifs/rain-shiba-pet.gif" alt="Petting a shiba in the rain" width="360">
 
@@ -1853,7 +1904,7 @@ A girl with a clear umbrella crouching on a wet city street at night to pet a sh
 
 `rain` `dog` `night`
 
-### 129. Chopping wood in winter
+### 132. Chopping wood in winter
 
 <img src="../gifs/woodcutter-winter.gif" alt="Chopping wood in winter" width="360">
 
@@ -1867,7 +1918,7 @@ An old man in a thick wool coat raising an axe and splitting a log on a stump in
 
 `winter` `rural` `work`
 
-### 130. Robot dancing on the street
+### 133. Robot dancing on the street
 
 <img src="../gifs/street-robot-dance.gif" alt="Robot dancing on the street" width="360">
 
@@ -1881,7 +1932,7 @@ A boxy orange robot doing a robotic pop-and-lock dance on a graffiti-covered cit
 
 `robot` `dance` `street`
 
-### 131. Paper boat bobbing on water
+### 134. Paper boat bobbing on water
 
 <img src="../gifs/paper-boat-ripples.gif" alt="Paper boat bobbing on water" width="360">
 
@@ -1895,7 +1946,7 @@ A white folded paper boat bobbing gently on calm water, small ripples spreading 
 
 `water` `paper` `calm`
 
-### 132. Windmill on green hills
+### 135. Windmill on green hills
 
 <img src="../gifs/windmill-hills.gif" alt="Windmill on green hills" width="360">
 
@@ -1909,7 +1960,7 @@ A white wooden windmill on rolling green hills, its four sails turning slowly wh
 
 `landscape` `windmill` `calm`
 
-### 133. Pelican riding a bicycle
+### 136. Pelican riding a bicycle
 
 <img src="../gifs/pelican-bicycle.gif" alt="Pelican riding a bicycle" width="360">
 
@@ -1923,7 +1974,7 @@ A pelican riding a red bicycle along a seaside promenade, legs pedaling and its 
 
 `animal` `bicycle` `classic-test`
 
-### 134. Clay kitten in a ball pit
+### 137. Clay kitten in a ball pit
 
 <img src="../gifs/clay-kitten-ballpit.gif" alt="Clay kitten in a ball pit" width="360">
 
@@ -1937,7 +1988,7 @@ A clay kitten popping its head out of a ball pit full of colorful plastic balls,
 
 `clay` `cat` `playful`
 
-### 135. City in a snow globe
+### 138. City in a snow globe
 
 <img src="../gifs/city-snow-globe.gif" alt="City in a snow globe" width="360">
 
@@ -1951,7 +2002,7 @@ A snow globe holding a miniature city of red-brick apartment blocks and a little
 
 `snow-globe` `city` `winter`
 
-### 136. Husky howling in a snow globe
+### 139. Husky howling in a snow globe
 
 <img src="../gifs/husky-snow-globe.gif" alt="Husky howling in a snow globe" width="360">
 
@@ -1965,7 +2016,7 @@ A tiny husky inside a glass snow globe sitting on a snowy mound and howling up a
 
 `snow-globe` `dog` `winter`
 
-### 137. Teapot steam turns into a heart
+### 140. Teapot steam turns into a heart
 
 <img src="../gifs/teapot-steam-heart.gif" alt="Teapot steam turns into a heart" width="360">
 
@@ -1979,7 +2030,7 @@ A copper teapot on a windowsill on a rainy afternoon, steam rising from the spou
 
 `steam` `cozy` `clay`
 
-### 138. Doodle monster comes alive
+### 141. Doodle monster comes alive
 
 <img src="../gifs/doodle-monster.gif" alt="Doodle monster comes alive" width="360">
 
@@ -1993,7 +2044,7 @@ A crude crayon doodle of a little purple blob monster with two eyes on wobbly st
 
 `loop` `doodle` `cute`
 
-### 139. Ink-wash galloping horse
+### 142. Ink-wash galloping horse
 
 <img src="../gifs/ink-wash-horse.gif" alt="Ink-wash galloping horse" width="360">
 
@@ -2007,7 +2058,7 @@ A racehorse with a jockey galloping to the right in a loose Chinese ink-wash pai
 
 `loop` `ink-wash` `animal`
 
-### 140. Café cinemagraph
+### 143. Café cinemagraph
 
 <img src="../gifs/cafe-cinemagraph.gif" alt="Café cinemagraph" width="360">
 
@@ -2023,7 +2074,7 @@ A cinemagraph of a quiet street café terrace in the morning: everything is perf
 
 `loop` `cinemagraph` `photo`
 
-### 141. Lo-fi study loop
+### 144. Lo-fi study loop
 
 <img src="../gifs/lofi-study-loop.gif" alt="Lo-fi study loop" width="360">
 
@@ -2037,7 +2088,7 @@ A girl with headphones writing in a notebook at a desk at night, her pencil movi
 
 `loop` `lofi` `study`
 
-### 142. Sleepy fox on a mossy rock
+### 145. Sleepy fox on a mossy rock
 
 <img src="../gifs/sleepy-fox-rock.gif" alt="Sleepy fox on a mossy rock" width="360">
 
@@ -2051,7 +2102,7 @@ A small orange fox curled up asleep on a mossy rock, its tail gently swaying and
 
 `loop` `animal` `calm`
 
-### 143. Lantern monkey in the snow
+### 146. Lantern monkey in the snow
 
 <img src="../gifs/lantern-monkey-snow.gif" alt="Lantern monkey in the snow" width="360">
 
@@ -2067,7 +2118,7 @@ A small monkey in an olive-green hooded coat standing in a snowy pine forest at 
 
 `loop` `character` `winter`
 
-### 144. Cat sleeping by the fireplace
+### 147. Cat sleeping by the fireplace
 
 <img src="../gifs/cat-by-fireplace.gif" alt="Cat sleeping by the fireplace" width="360">
 
@@ -2083,7 +2134,7 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
-### 145. Lighthouse at night
+### 148. Lighthouse at night
 
 <img src="../gifs/lighthouse-night.gif" alt="Lighthouse at night" width="360">
 
@@ -2097,7 +2148,7 @@ A white lighthouse on a rocky shore at night, its beam sweeping slowly across a 
 
 `loop` `seascape` `night`
 
-### 146. Goldfish in a bowl
+### 149. Goldfish in a bowl
 
 <img src="../gifs/goldfish-bowl.gif" alt="Goldfish in a bowl" width="360">
 
@@ -2111,7 +2162,7 @@ A round glass fishbowl on a windowsill with one orange goldfish swimming a slow 
 
 `loop` `pet` `calm`
 
-### 147. Rainy window and plant
+### 150. Rainy window and plant
 
 <img src="../gifs/rain-on-window.gif" alt="Rainy window and plant" width="360">
 
@@ -2125,7 +2176,7 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
-### 148. Steaming coffee loop
+### 151. Steaming coffee loop
 
 <img src="../gifs/steaming-coffee.gif" alt="Steaming coffee loop" width="360">
 
@@ -2139,7 +2190,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 149. Reading by the window, day to night
+### 152. Reading by the window, day to night
 
 <img src="../gifs/window-day-to-night.gif" alt="Reading by the window, day to night" width="360">
 

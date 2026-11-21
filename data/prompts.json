@@ -7943,6 +7943,301 @@
         "handle": "kabumira862571",
         "profile_url": "https://x.com/kabumira862571"
       }
+    },
+    {
+      "id": "pixel-ox-walk-cycle",
+      "category": "pixel-ui",
+      "title": "8-bit Ox Walk Cycle Sprite",
+      "title_zh": "8 位像素小牛行走循环",
+      "prompt": "An 8-bit pixel art sprite of a stocky brown ox with a tiny yoke,\nwalking in place from left to right. Classic side-scrolling game walk\ncycle, flat sky blue background, crisp pixels, no blur.",
+      "tags": [
+        "pixel-art",
+        "sprite",
+        "walk-cycle",
+        "game"
+      ],
+      "source": {
+        "platform": "Oxen.ai Blog",
+        "url": "https://ghost.oxen.ai/gpt-image-26/",
+        "author": "Oxen.ai",
+        "profile_url": "https://ghost.oxen.ai"
+      }
+    },
+    {
+      "id": "retro-lava-lamp-glow",
+      "category": "loops",
+      "title": "Retro 1970s Lava Lamp",
+      "title_zh": "70 年代复古熔岩灯",
+      "prompt": "A retro 1970s lava lamp on a wooden side table in a dark room. Orange\nwax blobs slowly rise, stretch, split and sink through purple liquid.\nThe lamp glows and casts warm light on the wall. Seamless loop.",
+      "tags": [
+        "lava-lamp",
+        "retro",
+        "ambient",
+        "loop"
+      ],
+      "source": {
+        "platform": "Oxen.ai Blog",
+        "url": "https://ghost.oxen.ai/gpt-image-26/",
+        "author": "Oxen.ai",
+        "profile_url": "https://ghost.oxen.ai"
+      }
+    },
+    {
+      "id": "pixel-headphone-cat-rainy-cafe",
+      "category": "pixel-ui",
+      "title": "Pixel Cat Typing in a Rainy Café",
+      "title_zh": "雨天咖啡馆里敲键盘的像素橘猫",
+      "prompt": "請幫我生成一張復古像素風格（Pixel Art）的動態 GIF：畫面中央是一隻戴著耳機的橘貓，坐在雨天的咖啡館窗邊，雙手在筆電上規律敲鍵盤，旁邊有一杯熱咖啡冒著縷縷輕煙，背景窗戶有緩緩流下的雨滴，請確保動畫能流暢循環播放（Seamless loop）。",
+      "tags": [
+        "pixel-art",
+        "cat",
+        "lofi",
+        "rain",
+        "cafe"
+      ],
+      "source": {
+        "platform": "OP響樂生活 myfone blog",
+        "url": "https://myfone.blog/tech-news/news6-chatgpt-gif-2611010/",
+        "author": "OP響樂生活",
+        "profile_url": "https://myfone.blog"
+      }
+    },
+    {
+      "id": "hebrew-neon-bakery-sign",
+      "category": "flash",
+      "title": "Flickering Hebrew Neon Bakery Sign",
+      "title_zh": "面包店希伯来文霓虹招牌闪烁",
+      "prompt": "A seamless looping animated GIF of a glowing neon sign on a dark brick wall of a small bakery at night, photorealistic. The camera stays fixed. Only the neon moves: it flickers twice and then glows steady, and a soft pink and blue light pulses on the bricks. The last frame returns exactly to the first frame. The neon reads in big Hebrew letters, exactly: \"יוצא מהתנור\". Every Hebrew letter must be correct and read right to left. The text stays in the same position in every frame. No other text anywhere.",
+      "tags": [
+        "neon",
+        "sign",
+        "text-in-gif",
+        "hebrew",
+        "night"
+      ],
+      "source": {
+        "platform": "Cadabra AI Blog",
+        "url": "https://www.livinginmovie.com/en/blog/how-to-make-gif-in-chatgpt",
+        "author": "Cadabra AI",
+        "profile_url": "https://www.livinginmovie.com"
+      }
+    },
+    {
+      "id": "espresso-steam-cinemagraph",
+      "category": "food",
+      "title": "Espresso Steam Cinemagraph",
+      "title_zh": "意式浓缩热气微动图",
+      "prompt": "A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble cafe table in warm morning light, photorealistic. The camera stays fixed and the cup and the table never move. Only the steam rises and curls slowly above the cup, and the last frame returns exactly to the first frame. No text anywhere.",
+      "tags": [
+        "coffee",
+        "cinemagraph",
+        "steam",
+        "product"
+      ],
+      "source": {
+        "platform": "Cadabra AI Blog",
+        "url": "https://www.livinginmovie.com/en/blog/how-to-make-gif-in-chatgpt",
+        "author": "Cadabra AI",
+        "profile_url": "https://www.livinginmovie.com"
+      }
+    },
+    {
+      "id": "street-tabby-cat-waving-hello",
+      "category": "stickers",
+      "title": "Street Tabby Cat Waving Hello",
+      "title_zh": "雨夜街头橘猫双爪打招呼",
+      "prompt": "A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Both front paws waving hello at the camera, cheerful.",
+      "tags": [
+        "cat",
+        "greeting",
+        "night-street",
+        "realistic"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/mileson/awesome-gpt-images-2.6-gif",
+        "author": "mileson (SkillU)",
+        "profile_url": "https://github.com/mileson"
+      }
+    },
+    {
+      "id": "street-tabby-cat-yarn-play",
+      "category": "stickers",
+      "title": "Street Tabby Cat Batting Yarn",
+      "title_zh": "雨夜街头橘猫拍毛线球",
+      "prompt": "A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Batting a ball of red yarn back and forth with its front paws.",
+      "tags": [
+        "cat",
+        "yarn",
+        "night-street",
+        "realistic"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/mileson/awesome-gpt-images-2.6-gif",
+        "author": "mileson (SkillU)",
+        "profile_url": "https://github.com/mileson"
+      }
+    },
+    {
+      "id": "street-tabby-cat-sleeping",
+      "category": "loops",
+      "title": "Street Tabby Cat Asleep in the Rain",
+      "title_zh": "雨夜街头蜷睡的橘猫",
+      "prompt": "A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Curled up asleep on the wet street, breathing softly, tail wrapped around its body.",
+      "tags": [
+        "cat",
+        "sleeping",
+        "breathing",
+        "night-street"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/mileson/awesome-gpt-images-2.6-gif",
+        "author": "mileson (SkillU)",
+        "profile_url": "https://github.com/mileson"
+      }
+    },
+    {
+      "id": "overalls-cat-spec-changed-again",
+      "category": "stickers",
+      "title": "Coffee Cat: \"Requirements Changed Again\"",
+      "title_zh": "背带裤橘猫「需求又改了」",
+      "prompt": "Chibi-style animated chat sticker, square 1:1, pure white background. Original character: a round chubby orange tabby cat wearing tiny blue denim overalls, holding a small coffee cup with red hearts. The cat shakes its head in exaggerated refusal, coffee sloshing out of the cup, then grins and gives a thumbs up. Bold rounded Chinese text at the top with white outline: '需求又改了'. Exaggerated comedic expression, clean flat vector sticker style, consistent character design across all frames, no background clutter. One core joke only, seamless loop.",
+      "tags": [
+        "sticker",
+        "cat",
+        "office",
+        "chinese-text",
+        "wechat"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/wolfqing1/status/2118294955236208942",
+        "author": "wolfqing 庆哥",
+        "handle": "wolfqing1",
+        "profile_url": "https://x.com/wolfqing1"
+      }
+    },
+    {
+      "id": "hachiware-cat-teaser-toy",
+      "category": "stickers",
+      "title": "Tuxedo Cat Playing with a Teaser",
+      "title_zh": "黑白八字猫玩逗猫棒",
+      "prompt": "次の内容で GIF を作成して: かわいいシンプルなアニメの白黒のノルゥェージャンのハチワレ猫が、ねこじゃらしで遊んでいる様子。",
+      "tags": [
+        "cat",
+        "anime",
+        "cute",
+        "japanese"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/Arctanote/status/2119234479726473289",
+        "author": "Arctanote公式",
+        "handle": "Arctanote",
+        "profile_url": "https://x.com/Arctanote"
+      }
+    },
+    {
+      "id": "office-worker-100-unread-emails",
+      "category": "stickers",
+      "title": "100 Unread Emails, Laptop Closed",
+      "title_zh": "打开电脑见 100 封未读又合上",
+      "prompt": "Create a funny animated GIF of a cartoon office worker opening their laptop, seeing 100 unread emails, and slowly closing it again. Exaggerated facial expressions. Seamless loop.",
+      "tags": [
+        "reaction",
+        "office",
+        "email",
+        "meme"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/chatgptricks/status/2118995179726340146",
+        "author": "AI / Tech",
+        "handle": "chatgptricks",
+        "profile_url": "https://x.com/chatgptricks"
+      }
+    },
+    {
+      "id": "noise-cancelling-street-to-studio",
+      "category": "product",
+      "title": "Noise-Cancelling: Street Turns to White Studio",
+      "title_zh": "降噪耳机：喧嚣街头瞬间变白棚",
+      "prompt": "生成一个竖版Gif图，使用创意手法体现一个降噪耳机的降噪效果，主体是一个现实风格，苹果摄影风格的一个喧嚣的街头，特写集中在一个欧洲人的面部，侧脸。人物带上耳机之后，瞬间街道内容直接变成纯白色的摄影棚",
+      "tags": [
+        "product",
+        "headphones",
+        "ad",
+        "transformation"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/TanShilong/status/2119452466161008908",
+        "author": "MarioTan",
+        "handle": "TanShilong",
+        "profile_url": "https://x.com/TanShilong"
+      }
+    },
+    {
+      "id": "orange-robot-tiny-wave",
+      "category": "avatars",
+      "title": "Small Orange Robot Waving",
+      "title_zh": "橙色小机器人挥手",
+      "prompt": "A friendly small orange robot waves one hand hello. Clean white background, fixed camera, simple rounded 3D illustration. A seamless loop.",
+      "tags": [
+        "robot",
+        "wave",
+        "3d",
+        "mascot"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/morphedai/status/2122359048293257288",
+        "author": "Morphed",
+        "handle": "morphedai",
+        "profile_url": "https://x.com/morphedai"
+      }
+    },
+    {
+      "id": "coffee-cup-steam-night-window",
+      "category": "food",
+      "title": "Coffee Steam by a Night Window",
+      "title_zh": "夜晚窗边咖啡杯冒热气",
+      "prompt": "湯気がゆらゆら立つコーヒーカップの、ループするGIFを作って。\nもっとゆっくりにして、背景を夜の窓辺にして。",
+      "tags": [
+        "coffee",
+        "steam",
+        "night",
+        "cozy"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/CoharuCrew/status/2120758651078005094",
+        "author": "coharu | こはるの実験室",
+        "handle": "CoharuCrew",
+        "profile_url": "https://x.com/CoharuCrew"
+      }
+    },
+    {
+      "id": "golden-leaf-sunset-water",
+      "category": "loops",
+      "title": "Golden Leaf to Umbrella Boat at Sunset",
+      "title_zh": "夕阳水面：金叶到黑伞小船",
+      "prompt": "A single golden leaf floats gently on calm water, creating soft ripples, with a serene sunset in the background casting warm golden hues across the sky and water, evoking a tranquil and peaceful mood in a minimalist composition.\nA surreal scene featuring a small black boat with a billowing gold cloth inside, topped by an open black umbrella, floating on calm golden water with gentle ripples. A single golden leaf drifts nearby, and a large sun sets on the horizon, casting a warm, tranquil glow across the minimalist composition and creating a serene, dreamlike mood.",
+      "tags": [
+        "nature",
+        "water",
+        "sunset",
+        "calm"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/churvikv/status/2122636815819559091",
+        "author": "Viki",
+        "handle": "churvikv",
+        "profile_url": "https://x.com/churvikv"
+      }
     }
   ]
 }

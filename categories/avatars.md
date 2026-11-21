@@ -1,8 +1,24 @@
-# Animated Avatars · 2 prompts
+# Animated Avatars · 3 prompts
 
 [← README](../README.md)
 
-### 1. Astronaut cat blinking
+### 1. Small Orange Robot Waving
+
+<img src="../gifs/orange-robot-tiny-wave.gif" alt="Small Orange Robot Waving" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [@morphedai on X](https://x.com/morphedai/status/2122359048293257288)
+
+**Prompt**
+
+```text
+A friendly small orange robot waves one hand hello. Clean white background, fixed camera, simple rounded 3D illustration. A seamless loop.
+```
+
+`robot` `wave` `3d` `mascot`
+
+### 2. Astronaut cat blinking
 
 <img src="../gifs/astronaut-cat-blink.gif" alt="Astronaut cat blinking" width="360">
 
@@ -16,7 +32,7 @@ Circular profile avatar of a grey cat inside a round astronaut helmet, blinking 
 
 `avatar` `cat` `space`
 
-### 2. Fox with headphones nodding
+### 3. Fox with headphones nodding
 
 <img src="../gifs/fox-headphones-nod.gif" alt="Fox with headphones nodding" width="360">
 

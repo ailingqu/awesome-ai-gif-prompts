@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 596+ Cases
+# Awesome AI GIF Prompts · 611+ Cases
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-596-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--20-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-611-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--21-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Our own examples were generated from the exact prompt shown, with no editing; community picks are marked with their source and credited to their creators.
 
-> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-20**. ⭐ Star or 👀 watch the repo to get new cases.
+> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-21**. ⭐ Star or 👀 watch the repo to get new cases.
 >
 > 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
@@ -25,15 +25,15 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 ## Contents
 
 - [How these GIFs are made](#how-these-gifs-are-made)
-- [Stickers & Reactions](#stickers-reactions) · 221 prompts
-- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 92 prompts
-- [Ambient Loops](#ambient-loops) · 149 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 98 prompts
+- [Stickers & Reactions](#stickers-reactions) · 226 prompts
+- [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 93 prompts
+- [Ambient Loops](#ambient-loops) · 152 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 100 prompts
 - [Science & Explainers](#science-explainers) · 17 prompts
 - [Holidays & Greetings](#holidays-greetings) · 3 prompts
-- [Product Showcase](#product-showcase) · 10 prompts
-- [Food & Drinks](#food-drinks) · 4 prompts
-- [Animated Avatars](#animated-avatars) · 2 prompts
+- [Product Showcase](#product-showcase) · 11 prompts
+- [Food & Drinks](#food-drinks) · 6 prompts
+- [Animated Avatars](#animated-avatars) · 3 prompts
 - [Generate them yourself](#generate-them-yourself)
 
 ## How these GIFs are made
@@ -62,9 +62,89 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 ## Stickers & Reactions
 
-The 12 newest of 221 prompts in this category. [See all 221 →](categories/stickers.md)
+The 12 newest of 226 prompts in this category. [See all 226 →](categories/stickers.md)
 
-### 1. Chibi Kung Fu Girl Routine
+### 1. 100 Unread Emails, Laptop Closed
+
+<img src="gifs/office-worker-100-unread-emails.gif" alt="100 Unread Emails, Laptop Closed" width="360">
+
+<sub>9 frames · 438×390 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [@chatgptricks on X](https://x.com/chatgptricks/status/2118995179726340146)
+
+**Prompt**
+
+```text
+Create a funny animated GIF of a cartoon office worker opening their laptop, seeing 100 unread emails, and slowly closing it again. Exaggerated facial expressions. Seamless loop.
+```
+
+`reaction` `office` `email` `meme`
+
+### 2. Tuxedo Cat Playing with a Teaser
+
+<img src="gifs/hachiware-cat-teaser-toy.gif" alt="Tuxedo Cat Playing with a Teaser" width="360">
+
+<sub>9 frames · 478×356 · 1.3s · GPT Image 2.6</sub>
+
+📌 **Source:** [@Arctanote on X](https://x.com/Arctanote/status/2119234479726473289)
+
+**Prompt**
+
+```text
+次の内容で GIF を作成して: かわいいシンプルなアニメの白黒のノルゥェージャンのハチワレ猫が、ねこじゃらしで遊んでいる様子。
+```
+
+`cat` `anime` `cute` `japanese`
+
+### 3. Coffee Cat: "Requirements Changed Again"
+
+<img src="gifs/overalls-cat-spec-changed-again.gif" alt="Coffee Cat: "Requirements Changed Again"" width="360">
+
+<sub>96 frames · 480×480 · 8.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [@wolfqing1 on X](https://x.com/wolfqing1/status/2118294955236208942)
+
+**Prompt**
+
+```text
+Chibi-style animated chat sticker, square 1:1, pure white background. Original character: a round chubby orange tabby cat wearing tiny blue denim overalls, holding a small coffee cup with red hearts. The cat shakes its head in exaggerated refusal, coffee sloshing out of the cup, then grins and gives a thumbs up. Bold rounded Chinese text at the top with white outline: '需求又改了'. Exaggerated comedic expression, clean flat vector sticker style, consistent character design across all frames, no background clutter. One core joke only, seamless loop.
+```
+
+`sticker` `cat` `office` `chinese-text` `wechat`
+
+### 4. Street Tabby Cat Batting Yarn
+
+<img src="gifs/street-tabby-cat-yarn-play.gif" alt="Street Tabby Cat Batting Yarn" width="360">
+
+<sub>9 frames · 360×360 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
+
+**Prompt**
+
+```text
+A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Batting a ball of red yarn back and forth with its front paws.
+```
+
+`cat` `yarn` `night-street` `realistic`
+
+### 5. Street Tabby Cat Waving Hello
+
+<img src="gifs/street-tabby-cat-waving-hello.gif" alt="Street Tabby Cat Waving Hello" width="360">
+
+<sub>9 frames · 360×360 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
+
+**Prompt**
+
+```text
+A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Both front paws waving hello at the camera, cheerful.
+```
+
+`cat` `greeting` `night-street` `realistic`
+
+### 6. Chibi Kung Fu Girl Routine
 
 <img src="gifs/chibi-kungfu-girl.gif" alt="Chibi Kung Fu Girl Routine" width="360">
 
@@ -80,7 +160,7 @@ The 12 newest of 221 prompts in this category. [See all 221 →](categories/stic
 
 `chibi` `kung-fu` `martial-arts` `short-prompt`
 
-### 2. Courier Cat "Got It" Sticker
+### 7. Courier Cat "Got It" Sticker
 
 <img src="gifs/courier-cat-got-it-sticker.gif" alt="Courier Cat "Got It" Sticker" width="360">
 
@@ -96,7 +176,7 @@ The 12 newest of 221 prompts in this category. [See all 221 →](categories/stic
 
 `cat` `courier` `caption` `sticker`
 
-### 3. Spinning Cat
+### 8. Spinning Cat
 
 <img src="gifs/cat-spinning.gif" alt="Spinning Cat" width="360">
 
@@ -112,7 +192,7 @@ create a gif of a cat spinning
 
 `cat` `spin` `meme` `short-prompt`
 
-### 4. Tabby Cat Catching Snowflakes
+### 9. Tabby Cat Catching Snowflakes
 
 <img src="gifs/tabby-cat-catching-snowflakes.gif" alt="Tabby Cat Catching Snowflakes" width="360">
 
@@ -128,7 +208,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `snow` `night-street` `photoreal`
 
-### 5. Tabby Cat Night Street Dance
+### 10. Tabby Cat Night Street Dance
 
 <img src="gifs/boxing-tabby-cat-dance.gif" alt="Tabby Cat Night Street Dance" width="360">
 
@@ -144,7 +224,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `dance` `night-street` `photoreal`
 
-### 6. Boxing Tabby Cat Punch
+### 11. Boxing Tabby Cat Punch
 
 <img src="gifs/boxing-tabby-cat-punch.gif" alt="Boxing Tabby Cat Punch" width="360">
 
@@ -160,7 +240,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `boxing` `night-street` `photoreal`
 
-### 7. Chibi Stock Rally Cheer
+### 12. Chibi Stock Rally Cheer
 
 <img src="gifs/chibi-stock-rally-cheer.gif" alt="Chibi Stock Rally Cheer" width="360">
 
@@ -176,93 +256,29 @@ Create a single animation sprite sheet for a seamless looping GIF. A super-cute 
 
 `chibi` `stock-market` `celebration` `office`
 
-### 8. Chibi Stock Crash Tears
-
-<img src="gifs/chibi-stock-crash-tears.gif" alt="Chibi Stock Crash Tears" width="360">
-
-<sub>16 frames · 480×480 · 1.3s · GPT Image 2.6</sub>
-
-📌 **Source:** [OpenArt on OpenAI](https://openai.com/index/introducing-images-2-6/)
-
-**Prompt**
-
-```text
-Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart. Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.
-```
-
-`chibi` `stock-market` `crying` `office`
-
-### 9. Sunglasses Cat Dance Meme
-
-<img src="gifs/sunglasses-cat-dance-meme.gif" alt="Sunglasses Cat Dance Meme" width="360">
-
-<sub>9 frames · 426×398 · 1.2s · GPT Image 2.6</sub>
-
-📌 **Source:** [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108)
-
-**Prompt**
-
-```text
-次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF
-```
-
-`cat` `sunglasses` `dance` `meme`
-
-### 10. Busy Bee Daily Check-In
-
-<img src="gifs/busy-bee-daily-checkin.gif" alt="Busy Bee Daily Check-In" width="360">
-
-<sub>9 frames · 412×408 · 2.0s · GPT Image 2.6</sub>
-
-📌 **Source:** [@MrGafish on X](https://x.com/MrGafish/status/2118217749680025722)
-
-**Prompt**
-
-```text
-生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
-```
-
-`bee` `check-in` `social` `cute`
-
-### 11. Top-Hat Frog "Ego Be Gone"
-
-<img src="gifs/top-hat-frog-ego-be-gone.gif" alt="Top-Hat Frog "Ego Be Gone"" width="360">
-
-<sub>16 frames · 480×608 · 1.8s · GPT Image 2.6</sub>
-
-📌 **Source:** [@princess414141 on X](https://x.com/princess414141/status/2118144125354877152)
-
-**Prompt**
-
-```text
-dancing frog with a top hat on, with ego be gone! written at the top
-```
-
-`frog` `dance` `meme` `caption`
-
-### 12. Cozy Bear Sipping Coffee
-
-<img src="gifs/cozy-bear-sipping-coffee.gif" alt="Cozy Bear Sipping Coffee" width="360">
-
-<sub>12 frames · 358×356 · 2.7s · GPT Image 2.6</sub>
-
-📌 **Source:** [Makari｜AIイラスト on note](https://note.com/makari_5108010/n/nbfdb5c15e70b)
-
-**Prompt**
-
-```text
-ほっこりかわいいくまが、コーヒーを飲んでいるGIFを作ってください。
-```
-
-`bear` `coffee` `cute` `plush` `cozy`
-
-**[See all 221 prompts in this category →](categories/stickers.md)**
+**[See all 226 prompts in this category →](categories/stickers.md)**
 
 ## Flash Cuts & Brand Reels
 
-The 12 newest of 92 prompts in this category. [See all 92 →](categories/flash.md)
+The 12 newest of 93 prompts in this category. [See all 93 →](categories/flash.md)
 
-### 1. Heisei Era SNS GIF
+### 1. Flickering Hebrew Neon Bakery Sign
+
+<img src="gifs/hebrew-neon-bakery-sign.gif" alt="Flickering Hebrew Neon Bakery Sign" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [Cadabra AI on Cadabra AI Blog](https://www.livinginmovie.com/en/blog/how-to-make-gif-in-chatgpt)
+
+**Prompt**
+
+```text
+A seamless looping animated GIF of a glowing neon sign on a dark brick wall of a small bakery at night, photorealistic. The camera stays fixed. Only the neon moves: it flickers twice and then glows steady, and a soft pink and blue light pulses on the bricks. The last frame returns exactly to the first frame. The neon reads in big Hebrew letters, exactly: "יוצא מהתנור". Every Hebrew letter must be correct and read right to left. The text stays in the same position in every frame. No other text anywhere.
+```
+
+`neon` `sign` `text-in-gif` `hebrew` `night`
+
+### 2. Heisei Era SNS GIF
 
 <img src="gifs/heisei-era-sns-gif.gif" alt="Heisei Era SNS GIF" width="360">
 
@@ -278,7 +294,7 @@ The 12 newest of 92 prompts in this category. [See all 92 →](categories/flash.
 
 `heisei` `retro` `nostalgia` `social`
 
-### 2. Orange bear mascot with scarf waves
+### 3. Orange bear mascot with scarf waves
 
 <img src="gifs/orange-bear-scarf-mascot.gif" alt="Orange bear mascot with scarf waves" width="360">
 
@@ -294,7 +310,7 @@ The 12 newest of 92 prompts in this category. [See all 92 →](categories/flash.
 
 `mascot` `bear` `brand`
 
-### 3. Round robot mascot welcome wave
+### 4. Round robot mascot welcome wave
 
 <img src="gifs/robot-mascot-welcome-wave.gif" alt="Round robot mascot welcome wave" width="360">
 
@@ -310,7 +326,7 @@ The 12 newest of 92 prompts in this category. [See all 92 →](categories/flash.
 
 `mascot` `brand` `3d`
 
-### 4. "ON AIR" neon sign with level meter
+### 5. "ON AIR" neon sign with level meter
 
 <img src="gifs/on-air-neon-meter-pulse.gif" alt=""ON AIR" neon sign with level meter" width="360">
 
@@ -326,7 +342,7 @@ Locked tripod close-up shot through a dark midnight recording studio glass booth
 
 `neon` `studio` `text`
 
-### 5. EMBER logo with flickering flame
+### 6. EMBER logo with flickering flame
 
 <img src="gifs/ember-logo-flame-flicker.gif" alt="EMBER logo with flickering flame" width="360">
 
@@ -342,7 +358,7 @@ Minimalist flat vector brand logo lockup on a solid charcoal-black square backgr
 
 `logo` `brand` `flat`
 
-### 6. 360 kickflip on a skateboard
+### 7. 360 kickflip on a skateboard
 
 <img src="gifs/skateboard-kickflip-360.gif" alt="360 kickflip on a skateboard" width="360">
 
@@ -358,7 +374,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `skateboard` `sport` `trick`
 
-### 7. Idiom riddle: four ceramic props bounce in turn
+### 8. Idiom riddle: four ceramic props bounce in turn
 
 <img src="gifs/idiom-riddle-ceramic-props.gif" alt="Idiom riddle: four ceramic props bounce in turn" width="360">
 
@@ -483,7 +499,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `riddle` `chinese idiom` `3d`
 
-### 8. Psychedelic dancing cat
+### 9. Psychedelic dancing cat
 
 <img src="gifs/psychedelic-cat-dance.gif" alt="Psychedelic dancing cat" width="360">
 
@@ -499,7 +515,7 @@ psychedelic gif of cat dancing
 
 `cat` `psychedelic` `dance`
 
-### 9. Roast dinner reveal
+### 10. Roast dinner reveal
 
 <img src="gifs/turkey-dinner-steam.gif" alt="Roast dinner reveal" width="360">
 
@@ -513,7 +529,7 @@ A silver dome lid lifts off a golden roast chicken on a platter, a burst of stea
 
 `dinner` `holiday` `food`
 
-### 10. Popcorn popping
+### 11. Popcorn popping
 
 <img src="gifs/popcorn-bowl-pop.gif" alt="Popcorn popping" width="360">
 
@@ -527,7 +543,7 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 `popcorn` `snack` `movie`
 
-### 11. Pancake flip
+### 12. Pancake flip
 
 <img src="gifs/pancake-pan-flip.gif" alt="Pancake flip" width="360">
 
@@ -541,27 +557,64 @@ A golden pancake is tossed up from a cast iron pan, flips once in the air and la
 
 `pancake` `food` `kitchen`
 
-### 12. Travel journal stickers
+**[See all 93 prompts in this category →](categories/flash.md)**
 
-<img src="gifs/travel-journal-stickers.gif" alt="Travel journal stickers" width="360">
+## Ambient Loops
 
-<sub>9 frames · 439×387 · 2.0s · gpt-image-2.6 · generated 2026-11-17</sub>
+The 12 newest of 152 prompts in this category. [See all 152 →](categories/loops.md)
+
+### 1. Golden Leaf to Umbrella Boat at Sunset
+
+<img src="gifs/golden-leaf-sunset-water.gif" alt="Golden Leaf to Umbrella Boat at Sunset" width="360">
+
+<sub>9 frames · 480×854 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [@churvikv on X](https://x.com/churvikv/status/2122636815819559091)
 
 **Prompt**
 
 ```text
-An open travel journal on an ivory desk; little stickers of a plane, a ticket stub, a palm tree and a stamp pop onto the page one after another with a soft bounce. Cozy scrapbook style, overhead camera.
+A single golden leaf floats gently on calm water, creating soft ripples, with a serene sunset in the background casting warm golden hues across the sky and water, evoking a tranquil and peaceful mood in a minimalist composition.
+A surreal scene featuring a small black boat with a billowing gold cloth inside, topped by an open black umbrella, floating on calm golden water with gentle ripples. A single golden leaf drifts nearby, and a large sun sets on the horizon, casting a warm, tranquil glow across the minimalist composition and creating a serene, dreamlike mood.
 ```
 
-`scrapbook` `travel` `journal`
+`nature` `water` `sunset` `calm`
 
-**[See all 92 prompts in this category →](categories/flash.md)**
+### 2. Street Tabby Cat Asleep in the Rain
 
-## Ambient Loops
+<img src="gifs/street-tabby-cat-sleeping.gif" alt="Street Tabby Cat Asleep in the Rain" width="360">
 
-The 12 newest of 149 prompts in this category. [See all 149 →](categories/loops.md)
+<sub>9 frames · 360×360 · 1.8s · GPT Image 2.6</sub>
 
-### 1. Ballerina Leap and Landing
+📌 **Source:** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
+
+**Prompt**
+
+```text
+A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Curled up asleep on the wet street, breathing softly, tail wrapped around its body.
+```
+
+`cat` `sleeping` `breathing` `night-street`
+
+### 3. Retro 1970s Lava Lamp
+
+<img src="gifs/retro-lava-lamp-glow.gif" alt="Retro 1970s Lava Lamp" width="360">
+
+<sub>16 frames · 480×480 · 2.4s · GPT Image 2.6</sub>
+
+📌 **Source:** [Oxen.ai on Oxen.ai Blog](https://ghost.oxen.ai/gpt-image-26/)
+
+**Prompt**
+
+```text
+A retro 1970s lava lamp on a wooden side table in a dark room. Orange
+wax blobs slowly rise, stretch, split and sink through purple liquid.
+The lamp glows and casts warm light on the wall. Seamless loop.
+```
+
+`lava-lamp` `retro` `ambient` `loop`
+
+### 4. Ballerina Leap and Landing
 
 <img src="gifs/ballerina-leap-landing.gif" alt="Ballerina Leap and Landing" width="360">
 
@@ -577,7 +630,7 @@ The 12 newest of 149 prompts in this category. [See all 149 →](categories/loop
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 2. Bubblegum Pop Studio Loop
+### 5. Bubblegum Pop Studio Loop
 
 <img src="gifs/bubblegum-pop-loop.gif" alt="Bubblegum Pop Studio Loop" width="360">
 
@@ -593,7 +646,7 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 3. Mount Fuji Gouache Travel Poster
+### 6. Mount Fuji Gouache Travel Poster
 
 <img src="gifs/mount-fuji-gouache-travel-poster.gif" alt="Mount Fuji Gouache Travel Poster" width="360">
 
@@ -609,7 +662,7 @@ A living mid-century gouache travel-poster painting of Mount Fuji behind a five-
 
 `gouache` `travel-poster` `japan` `cherry-blossom`
 
-### 4. Colosseum Gouache Travel Poster
+### 7. Colosseum Gouache Travel Poster
 
 <img src="gifs/colosseum-gouache-travel-poster.gif" alt="Colosseum Gouache Travel Poster" width="360">
 
@@ -625,7 +678,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `gouache` `travel-poster` `rome` `landmark`
 
-### 5. White House 360 Drone Orbit
+### 8. White House 360 Drone Orbit
 
 <img src="gifs/white-house-drone-orbit.gif" alt="White House 360 Drone Orbit" width="360">
 
@@ -642,7 +695,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `drone` `orbit` `architecture` `landmark`
 
-### 6. Golden Gate Gouache Travel Poster
+### 9. Golden Gate Gouache Travel Poster
 
 <img src="gifs/golden-gate-gouache-travel-poster.gif" alt="Golden Gate Gouache Travel Poster" width="360">
 
@@ -658,7 +711,7 @@ A living mid-century gouache travel-poster painting of the Golden Gate Bridge se
 
 `gouache` `travel-poster` `bridge` `waves`
 
-### 7. Lantern Monkey in a Snowy Forest
+### 10. Lantern Monkey in a Snowy Forest
 
 <img src="gifs/lantern-monkey-snowy-forest.gif" alt="Lantern Monkey in a Snowy Forest" width="360">
 
@@ -674,7 +727,7 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 `monkey` `lantern` `snow` `seamless`
 
-### 8. Robot Dancing Afrobeats in Lagos
+### 11. Robot Dancing Afrobeats in Lagos
 
 <img src="gifs/robot-afrobeats-lagos-street.gif" alt="Robot Dancing Afrobeats in Lagos" width="360">
 
@@ -690,7 +743,7 @@ Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. M
 
 `robot` `dance` `afrobeats` `street`
 
-### 9. NYC Snow Globe
+### 12. NYC Snow Globe
 
 <img src="gifs/nyc-snow-globe.gif" alt="NYC Snow Globe" width="360">
 
@@ -706,61 +759,47 @@ generate an animated gif of a beautiful NYC snow globe
 
 `snow-globe` `city` `winter` `snow`
 
-### 10. Paper Boat Bobbing on Water
-
-<img src="gifs/paper-boat-bobbing.gif" alt="Paper Boat Bobbing on Water" width="360">
-
-<sub>9 frames · 412×402 · 1.3s · GPT Image 2.6</sub>
-
-📌 **Source:** [@thinkszyg on X](https://x.com/thinkszyg/status/2118166234495947044)
-
-**Prompt**
-
-```text
-Make a looping GIF of a paper boat bobbing on the water.
-```
-
-`paper-boat` `water` `seamless` `calm`
-
-### 11. Robot Brewing Coffee
-
-<img src="gifs/robot-brewing-coffee.gif" alt="Robot Brewing Coffee" width="360">
-
-<sub>16 frames · 480×480 · 2.4s · GPT Image 2.6</sub>
-
-📌 **Source:** [@sousoccer6 on X](https://x.com/sousoccer6/status/2118210705585537226)
-
-**Prompt**
-
-```text
-コーヒーを淹れるロボット
-```
-
-`robot` `coffee` `brewing` `short-prompt`
-
-### 12. Grandpa Chopping Wood in Winter
-
-<img src="gifs/grandpa-chopping-wood-winter.gif" alt="Grandpa Chopping Wood in Winter" width="360">
-
-<sub>16 frames · 288×288 · 1.9s · GPT Image 2.6</sub>
-
-📌 **Source:** [@koe_ai414 on X](https://x.com/koe_ai414/status/2118153765094351279)
-
-**Prompt**
-
-```text
-冬の寒い中、家の庭で薪割りをするおじいさんのGIF
-```
-
-`winter` `wood-chopping` `yard` `everyday`
-
-**[See all 149 prompts in this category →](categories/loops.md)**
+**[See all 152 prompts in this category →](categories/loops.md)**
 
 ## Pixel Art & UI Motion
 
-The 12 newest of 98 prompts in this category. [See all 98 →](categories/pixel-ui.md)
+The 12 newest of 100 prompts in this category. [See all 100 →](categories/pixel-ui.md)
 
-### 1. Pixel Hero Sword Slash
+### 1. Pixel Cat Typing in a Rainy Café
+
+<img src="gifs/pixel-headphone-cat-rainy-cafe.gif" alt="Pixel Cat Typing in a Rainy Café" width="360">
+
+<sub>12 frames · 358×358 · 2.2s · GPT Image 2.6</sub>
+
+📌 **Source:** [OP響樂生活 on OP響樂生活 myfone blog](https://myfone.blog/tech-news/news6-chatgpt-gif-2611010/)
+
+**Prompt**
+
+```text
+請幫我生成一張復古像素風格（Pixel Art）的動態 GIF：畫面中央是一隻戴著耳機的橘貓，坐在雨天的咖啡館窗邊，雙手在筆電上規律敲鍵盤，旁邊有一杯熱咖啡冒著縷縷輕煙，背景窗戶有緩緩流下的雨滴，請確保動畫能流暢循環播放（Seamless loop）。
+```
+
+`pixel-art` `cat` `lofi` `rain` `cafe`
+
+### 2. 8-bit Ox Walk Cycle Sprite
+
+<img src="gifs/pixel-ox-walk-cycle.gif" alt="8-bit Ox Walk Cycle Sprite" width="360">
+
+<sub>8 frames · 480×480 · 0.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [Oxen.ai on Oxen.ai Blog](https://ghost.oxen.ai/gpt-image-26/)
+
+**Prompt**
+
+```text
+An 8-bit pixel art sprite of a stocky brown ox with a tiny yoke,
+walking in place from left to right. Classic side-scrolling game walk
+cycle, flat sky blue background, crisp pixels, no blur.
+```
+
+`pixel-art` `sprite` `walk-cycle` `game`
+
+### 3. Pixel Hero Sword Slash
 
 <img src="gifs/pixel-hero-sword-slash.gif" alt="Pixel Hero Sword Slash" width="360">
 
@@ -777,7 +816,7 @@ GIFを作成。ドット絵の勇者。
 
 `pixel-art` `hero` `sword` `fx`
 
-### 2. Green CTA button with light sweep
+### 4. Green CTA button with light sweep
 
 <img src="gifs/green-quote-button-shine.gif" alt="Green CTA button with light sweep" width="360">
 
@@ -793,7 +832,7 @@ GIFを作成。ドット絵の勇者。
 
 `button` `ui` `japanese`
 
-### 3. Lightbulb icon glows on
+### 5. Lightbulb icon glows on
 
 <img src="gifs/lightbulb-icon-glow.gif" alt="Lightbulb icon glows on" width="360">
 
@@ -809,7 +848,7 @@ GIFを作成。ドット絵の勇者。
 
 `icon` `flat` `education`
 
-### 4. Pixel-art lightning strike
+### 6. Pixel-art lightning strike
 
 <img src="gifs/pixel-lightning-strike.gif" alt="Pixel-art lightning strike" width="360">
 
@@ -825,7 +864,7 @@ Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, re
 
 `pixel-art` `game-fx` `lightning`
 
-### 5. Pixel-art fire pillar
+### 7. Pixel-art fire pillar
 
 <img src="gifs/pixel-fire-pillar-burst.gif" alt="Pixel-art fire pillar" width="360">
 
@@ -841,7 +880,7 @@ Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 
 
 `pixel-art` `game-fx` `fire-pillar`
 
-### 6. Pixel-art volcano eruption
+### 8. Pixel-art volcano eruption
 
 <img src="gifs/pixel-volcano-eruption.gif" alt="Pixel-art volcano eruption" width="360">
 
@@ -857,7 +896,7 @@ Make an animated GIF of a pixel-art volcano eruption seen from far away, for the
 
 `pixel-art` `game-fx` `eruption`
 
-### 7. Pixel-art energy beam
+### 9. Pixel-art energy beam
 
 <img src="gifs/pixel-energy-beam-blast.gif" alt="Pixel-art energy beam" width="360">
 
@@ -873,7 +912,7 @@ Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wi
 
 `pixel-art` `game-fx` `beam`
 
-### 8. Pixel-art explosion with mushroom cloud
+### 10. Pixel-art explosion with mushroom cloud
 
 <img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="Pixel-art explosion with mushroom cloud" width="360">
 
@@ -889,7 +928,7 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `pixel-art` `game-fx` `explosion`
 
-### 9. Three orange dots bounce loader
+### 11. Three orange dots bounce loader
 
 <img src="gifs/orange-dots-bounce-loader.gif" alt="Three orange dots bounce loader" width="360">
 
@@ -905,7 +944,7 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `loader` `ui` `flat`
 
-### 10. Compass app icon needle swing
+### 12. Compass app icon needle swing
 
 <img src="gifs/compass-app-icon-settle.gif" alt="Compass app icon needle swing" width="360">
 
@@ -921,39 +960,7 @@ Minimalist flat-vector rounded-square app icon on a completely transparent backg
 
 `icon` `app` `transparent`
 
-### 11. Paper airplane empty-state loader
-
-<img src="gifs/paper-plane-empty-state.gif" alt="Paper airplane empty-state loader" width="360">
-
-<sub>8 frames · 480×480 · 1.2s · GPT Image 2.6</sub>
-
-📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
-
-**Prompt**
-
-```text
-Clean flat vector empty-state loading illustration, locked front-on view. Inside a soft powder-blue circle badge on a crisp off-white square background, a folded coral-orange paper airplane glides in a gentle up-and-down bobbing arc above two tiny stationary white clouds, returning to its exact starting height and angle on the final frame for a clean loop. Flat colors, no gradients, no text.
-```
-
-`loader` `ui` `flat`
-
-### 12. Three-pill wave loader
-
-<img src="gifs/three-pill-wave-loader.gif" alt="Three-pill wave loader" width="360">
-
-<sub>11 frames · 480×480 · 1.0s · GPT Image 2.6</sub>
-
-📌 **Source:** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
-
-**Prompt**
-
-```text
-Minimalist flat-vector UI loading indicator on a completely transparent background, locked front-on view. Three rounded cobalt-blue pill dots sit in a horizontal row; the left dot hops up, then the center dot, then the right dot in a crisp wave, and all three settle level in their exact starting alignment on the final frame for a clean loop. Sharp vector edges, solid flat blue, no text.
-```
-
-`loader` `ui` `transparent`
-
-**[See all 98 prompts in this category →](categories/pixel-ui.md)**
+**[See all 100 prompts in this category →](categories/pixel-ui.md)**
 
 ## Science & Explainers
 
@@ -1197,7 +1204,23 @@ A tiny gingerbread figure with white icing buttons stands in the doorway of a ca
 
 ## Product Showcase
 
-### 1. Sword in Stone 360 Turntable
+### 1. Noise-Cancelling: Street Turns to White Studio
+
+<img src="gifs/noise-cancelling-street-to-studio.gif" alt="Noise-Cancelling: Street Turns to White Studio" width="360">
+
+<sub>9 frames · 358×478 · 2.0s · GPT Image 2.6</sub>
+
+📌 **Source:** [@TanShilong on X](https://x.com/TanShilong/status/2119452466161008908)
+
+**Prompt**
+
+```text
+生成一个竖版Gif图，使用创意手法体现一个降噪耳机的降噪效果，主体是一个现实风格，苹果摄影风格的一个喧嚣的街头，特写集中在一个欧洲人的面部，侧脸。人物带上耳机之后，瞬间街道内容直接变成纯白色的摄影棚
+```
+
+`product` `headphones` `ad` `transformation`
+
+### 2. Sword in Stone 360 Turntable
 
 <img src="gifs/sword-in-stone-360-turntable.gif" alt="Sword in Stone 360 Turntable" width="360">
 
@@ -1213,7 +1236,7 @@ create a gif of a "3d legendary sword in a stone game asset" spinning full 360 d
 
 `3d` `game-asset` `turntable` `sword`
 
-### 2. Futuristic Motorbike 360 Turntable
+### 3. Futuristic Motorbike 360 Turntable
 
 <img src="gifs/futuristic-motorbike-360-turntable.gif" alt="Futuristic Motorbike 360 Turntable" width="360">
 
@@ -1229,7 +1252,7 @@ create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 deg
 
 `3d` `game-asset` `turntable` `motorbike`
 
-### 3. 3D Dwarf Model 360 Turntable
+### 4. 3D Dwarf Model 360 Turntable
 
 <img src="gifs/dwarf-axe-360-turntable.gif" alt="3D Dwarf Model 360 Turntable" width="360">
 
@@ -1245,7 +1268,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `3d` `game-asset` `turntable` `dwarf`
 
-### 4. Bathroom remodel banner with rising steam
+### 5. Bathroom remodel banner with rising steam
 
 <img src="gifs/bath-remodel-steam-banner.gif" alt="Bathroom remodel banner with rising steam" width="360">
 
@@ -1261,7 +1284,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `banner` `ad` `japanese`
 
-### 5. Earbuds case lid opens and closes
+### 6. Earbuds case lid opens and closes
 
 <img src="gifs/earbuds-case-lid-open-close.gif" alt="Earbuds case lid opens and closes" width="360">
 
@@ -1277,7 +1300,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `product` `tech` `ecommerce`
 
-### 6. Earbuds case with pulsing LED
+### 7. Earbuds case with pulsing LED
 
 <img src="gifs/earbuds-case-led-pulse.gif" alt="Earbuds case with pulsing LED" width="360">
 
@@ -1293,7 +1316,7 @@ Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-
 
 `product` `tech` `macro`
 
-### 7. Coffee bag hero shot with espresso steam
+### 8. Coffee bag hero shot with espresso steam
 
 <img src="gifs/coffee-bag-espresso-steam.gif" alt="Coffee bag hero shot with espresso steam" width="360">
 
@@ -1309,7 +1332,7 @@ Locked tripod commercial product shot in soft morning studio light. A matte terr
 
 `product` `coffee` `steam`
 
-### 8. Water bottle rocking (product loop)
+### 9. Water bottle rocking (product loop)
 
 <img src="gifs/water-bottle-rock-product.gif" alt="Water bottle rocking (product loop)" width="360">
 
@@ -1325,7 +1348,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 9. Smartwatch screen wake-up
+### 10. Smartwatch screen wake-up
 
 <img src="gifs/smartwatch-face-glow.gif" alt="Smartwatch screen wake-up" width="360">
 
@@ -1339,7 +1362,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 10. Sneaker on a turntable
+### 11. Sneaker on a turntable
 
 <img src="gifs/sneaker-turntable-spin.gif" alt="Sneaker on a turntable" width="360">
 
@@ -1355,7 +1378,40 @@ A clean white running sneaker with a mint green sole slowly rotates on a round w
 
 ## Food & Drinks
 
-### 1. Hand-drawn coffee cup with rising steam
+### 1. Coffee Steam by a Night Window
+
+<img src="gifs/coffee-cup-steam-night-window.gif" alt="Coffee Steam by a Night Window" width="360">
+
+<sub>18 frames · 438×390 · 4.1s · GPT Image 2.6</sub>
+
+📌 **Source:** [@CoharuCrew on X](https://x.com/CoharuCrew/status/2120758651078005094)
+
+**Prompt**
+
+```text
+湯気がゆらゆら立つコーヒーカップの、ループするGIFを作って。
+もっとゆっくりにして、背景を夜の窓辺にして。
+```
+
+`coffee` `steam` `night` `cozy`
+
+### 2. Espresso Steam Cinemagraph
+
+<img src="gifs/espresso-steam-cinemagraph.gif" alt="Espresso Steam Cinemagraph" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [Cadabra AI on Cadabra AI Blog](https://www.livinginmovie.com/en/blog/how-to-make-gif-in-chatgpt)
+
+**Prompt**
+
+```text
+A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble cafe table in warm morning light, photorealistic. The camera stays fixed and the cup and the table never move. Only the steam rises and curls slowly above the cup, and the last frame returns exactly to the first frame. No text anywhere.
+```
+
+`coffee` `cinemagraph` `steam` `product`
+
+### 3. Hand-drawn coffee cup with rising steam
 
 <img src="gifs/handdrawn-coffee-steam.gif" alt="Hand-drawn coffee cup with rising steam" width="360">
 
@@ -1371,7 +1427,7 @@ A clean white running sneaker with a mint green sole slowly rotates on a round w
 
 `coffee` `hand-drawn` `cozy`
 
-### 2. Latte art with rising steam in a sunny cafe
+### 4. Latte art with rising steam in a sunny cafe
 
 <img src="gifs/latte-art-steam-cafe.gif" alt="Latte art with rising steam in a sunny cafe" width="360">
 
@@ -1387,7 +1443,7 @@ A clean white running sneaker with a mint green sole slowly rotates on a round w
 
 `coffee` `cafe` `steam`
 
-### 3. Pizza slice cheese pull
+### 5. Pizza slice cheese pull
 
 <img src="gifs/pizza-cheese-pull.gif" alt="Pizza slice cheese pull" width="360">
 
@@ -1401,7 +1457,7 @@ A hand lifts one slice of pepperoni pizza away from the whole pie, long strings 
 
 `pizza` `cheese` `food`
 
-### 4. Milk tea pearls pour
+### 6. Milk tea pearls pour
 
 <img src="gifs/boba-pearls-pour.gif" alt="Milk tea pearls pour" width="360">
 
@@ -1417,7 +1473,23 @@ A clear cup of milk tea sits on a counter as a spoonful of dark tapioca pearls d
 
 ## Animated Avatars
 
-### 1. Astronaut cat blinking
+### 1. Small Orange Robot Waving
+
+<img src="gifs/orange-robot-tiny-wave.gif" alt="Small Orange Robot Waving" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [@morphedai on X](https://x.com/morphedai/status/2122359048293257288)
+
+**Prompt**
+
+```text
+A friendly small orange robot waves one hand hello. Clean white background, fixed camera, simple rounded 3D illustration. A seamless loop.
+```
+
+`robot` `wave` `3d` `mascot`
+
+### 2. Astronaut cat blinking
 
 <img src="gifs/astronaut-cat-blink.gif" alt="Astronaut cat blinking" width="360">
 
@@ -1431,7 +1503,7 @@ Circular profile avatar of a grey cat inside a round astronaut helmet, blinking 
 
 `avatar` `cat` `space`
 
-### 2. Fox with headphones nodding
+### 3. Fox with headphones nodding
 
 <img src="gifs/fox-headphones-nod.gif" alt="Fox with headphones nodding" width="360">
 

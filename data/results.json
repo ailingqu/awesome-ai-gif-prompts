@@ -6432,5 +6432,155 @@
     "generatedAt": "2026-11-20",
     "via": "source",
     "bytes": 774643
+  },
+  "pixel-ox-walk-cycle": {
+    "width": 480,
+    "height": 480,
+    "frames": 8,
+    "durationMs": 830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 655569
+  },
+  "retro-lava-lamp-glow": {
+    "width": 480,
+    "height": 480,
+    "frames": 16,
+    "durationMs": 2410,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 1354508
+  },
+  "pixel-headphone-cat-rainy-cafe": {
+    "width": 358,
+    "height": 358,
+    "frames": 12,
+    "durationMs": 2160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 797975
+  },
+  "hebrew-neon-bakery-sign": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 702813
+  },
+  "espresso-steam-cinemagraph": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 1296256
+  },
+  "street-tabby-cat-waving-hello": {
+    "width": 360,
+    "height": 360,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 730397
+  },
+  "street-tabby-cat-yarn-play": {
+    "width": 360,
+    "height": 360,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 759578
+  },
+  "street-tabby-cat-sleeping": {
+    "width": 360,
+    "height": 360,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 697666
+  },
+  "overalls-cat-spec-changed-again": {
+    "width": 480,
+    "height": 480,
+    "frames": 96,
+    "durationMs": 8000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 4131835
+  },
+  "hachiware-cat-teaser-toy": {
+    "width": 478,
+    "height": 356,
+    "frames": 9,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 755658
+  },
+  "office-worker-100-unread-emails": {
+    "width": 438,
+    "height": 390,
+    "frames": 9,
+    "durationMs": 2160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 825395
+  },
+  "noise-cancelling-street-to-studio": {
+    "width": 358,
+    "height": 478,
+    "frames": 9,
+    "durationMs": 2000,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 646656
+  },
+  "orange-robot-tiny-wave": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 530009
+  },
+  "coffee-cup-steam-night-window": {
+    "width": 438,
+    "height": 390,
+    "frames": 18,
+    "durationMs": 4080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 654627
+  },
+  "golden-leaf-sunset-water": {
+    "width": 480,
+    "height": 854,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-21",
+    "via": "source",
+    "bytes": 1368251
   }
 }
