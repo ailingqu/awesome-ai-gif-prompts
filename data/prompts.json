@@ -8238,6 +8238,322 @@
         "handle": "churvikv",
         "profile_url": "https://x.com/churvikv"
       }
+    },
+    {
+      "id": "teal-owl-wing-wave",
+      "category": "avatars",
+      "title": "Teal Owl Wing Wave",
+      "title_zh": "青色猫头鹰挥翅",
+      "prompt": "A seamless looping animation of one adorable rounded teal owl with amber eyes, cream belly and tiny brass spectacles. Front view, fixed camera and scale, dark navy background. The owl blinks once and gently waves its right wing, returning to its starting pose. No text.",
+      "tags": [
+        "owl",
+        "mascot",
+        "wave"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/az9713/gpt-image-2.6-demo/blob/HEAD/image_26_experiment/requests/21-gif-flare-owl.json",
+        "author": "az9713",
+        "handle": "az9713",
+        "profile_url": "https://github.com/az9713"
+      }
+    },
+    {
+      "id": "night-lab-mug-steam",
+      "category": "product",
+      "title": "NIGHT LAB Mug Steam Loop",
+      "title_zh": "NIGHT LAB 马克杯热气循环",
+      "prompt": "Seamless looping product animation. One ivory ceramic mug with a simple teal owl emblem and the exact words NIGHT LAB sits on a walnut desk. Delicate steam curls upward in a small continuous motion. The mug and camera stay absolutely still. Dark navy backdrop, warm amber light. No additional text.",
+      "tags": [
+        "mug",
+        "steam",
+        "product"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/az9713/gpt-image-2.6-demo/blob/HEAD/image_26_experiment/requests/22-gif-sunburst-product.json",
+        "author": "az9713",
+        "handle": "az9713",
+        "profile_url": "https://github.com/az9713"
+      }
+    },
+    {
+      "id": "purple-spark-cyan-orbit",
+      "category": "loops",
+      "title": "Purple Spark Tracing a Cyan Circle",
+      "title_zh": "紫色灵感火花画出青色圆环",
+      "prompt": "Create a seamless animated GIF of a purple rounded creative spark that gently pulses and traces a cyan circle on a cream background. Fixed camera, one clean object, smooth visible continuous motion. No text.",
+      "tags": [
+        "abstract",
+        "spark",
+        "minimal"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/vegekyd-sys/ai-image-editor/blob/HEAD/evidence/gpt-image26-upgrade/26-flare-gif/receipt.json",
+        "author": "vegekyd-sys",
+        "handle": "vegekyd-sys",
+        "profile_url": "https://github.com/vegekyd-sys"
+      }
+    },
+    {
+      "id": "light-bulb-halo-pulse",
+      "category": "explainers",
+      "title": "Light Bulb Halo Pulse",
+      "title_zh": "灯泡光晕明暗呼吸",
+      "prompt": "A single centered minimalist light bulb, its soft golden halo gently pulsing brighter then dimmer, fixed camera, smooth even motion, every detail of the bulb stays identical across frames, ending exactly back at the starting pose for a seamless loop, clean flat pale background, no text, no logo",
+      "tags": [
+        "explainer",
+        "light-bulb",
+        "minimal"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/liangdabiao/whiteboard-teacher-video-motion/blob/HEAD/examples/sample/assets.json",
+        "author": "liangdabiao",
+        "handle": "liangdabiao",
+        "profile_url": "https://github.com/liangdabiao"
+      }
+    },
+    {
+      "id": "obsidian-sword-flame-cursor",
+      "category": "pixel-ui",
+      "title": "Obsidian Flame Sword Cursor",
+      "title_zh": "黑曜石火焰剑光标",
+      "prompt": "An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sword mouse pointer. Exactly 8 frames in a 4-column by 2-row uniform grid, read left to right then top to bottom. Canvas 2048 by 1024, each cell exactly 512 by 512. Transparent background, no gutters, no borders, no text, no labels. In every cell the same small ornate obsidian sword points diagonally toward the upper-left. Its sharp tip is fixed at cell coordinate (100,100), blade geometry and position identical in every frame. Bright amber and electric-blue flame curls around the blade, progressing smoothly through eight phases and returning to the initial shape at the loop boundary. The blade stays still; only flames, a few sparks and reflected light move. Keep all effects within the middle 360 by 360 pixels of each cell. Crisp illustrated game-UI asset, luminous edges, convincing metallic highlights, strong silhouette, no character, no duplicate swords within a cell. Do not draw checkerboards; use actual transparency.",
+      "tags": [
+        "cursor",
+        "game-ui",
+        "sprite-sheet"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/wuyoscar/GPT-Image2-Skill/blob/HEAD/skills/gpt-image/references/gallery-gaming.md",
+        "author": "wuyoscar (after a workflow by @hAru_mAki_ch)",
+        "profile_url": "https://github.com/wuyoscar"
+      }
+    },
+    {
+      "id": "clay-cat-barista-sip",
+      "category": "food",
+      "title": "Clay Cat Barista Coffee Sip",
+      "title_zh": "黏土猫咪咖啡师喝一口",
+      "prompt": "\"A cute chubby clay cat barista wearing a tiny green apron\" --motion \"lifts a coffee cup, takes a sip, closes eyes happily, then returns exactly to the starting pose\"",
+      "tags": [
+        "cat",
+        "coffee",
+        "clay",
+        "sprite-sheet"
+      ],
+      "source": {
+        "platform": "GitHub",
+        "url": "https://github.com/jkf87/gif-maker-skill/blob/HEAD/README.md",
+        "author": "코난쌤",
+        "handle": "jkf87",
+        "profile_url": "https://github.com/jkf87"
+      }
+    },
+    {
+      "id": "paper-fox-teal-scarf-wave",
+      "category": "stickers",
+      "title": "Paper-cut Fox Wave",
+      "title_zh": "围青色围巾的剪纸狐狸招手",
+      "prompt": "A cheerful paper-cut fox with a teal scarf sits on a grassy hill, waves one paw, blinks, then lowers the paw back to its starting pose. Flat pastel sky, soft paper shadows, gentle motion, perfect loop.",
+      "tags": [
+        "fox",
+        "paper-cut",
+        "wave"
+      ],
+      "source": {
+        "platform": "OmniaKey Blog",
+        "url": "https://omniakey.com/blog/gpt-image-2-6-review",
+        "author": "OmniaKey",
+        "profile_url": "https://omniakey.com"
+      }
+    },
+    {
+      "id": "raincoat-girl-baby-elephant",
+      "category": "loops",
+      "title": "Riverbank Walk with a Baby Elephant",
+      "title_zh": "黄雨衣女孩和小象河边散步",
+      "prompt": "3D animated family-film style. A small girl with curly hair and a yellow raincoat walks beside a friendly baby elephant along a jungle riverbank. The elephant sprays water from its trunk and the girl laughs. Looping side view. (9 frames, 150 ms per frame.)",
+      "tags": [
+        "3d",
+        "animatic",
+        "elephant"
+      ],
+      "source": {
+        "platform": "Frameloop Research",
+        "url": "https://frameloop.ai/research/gpt-image-2-6-vs-2-5-comprehensive-benchmark",
+        "author": "Karunakar Gautam",
+        "profile_url": "https://frameloop.ai"
+      }
+    },
+    {
+      "id": "terracotta-cactus-mascot-wave",
+      "category": "avatars",
+      "title": "Potted Cactus Mascot Wave",
+      "title_zh": "陶盆仙人掌吉祥物招手",
+      "prompt": "Create a single animation sprite sheet for a seamless looping GIF. A cheerful cartoon cactus mascot in a small terracotta pot. The sequence: the cactus leans slightly left, raises one arm and waves, smiles and blinks, then leans back to center. Fixed front camera, same character, same pot, plain pastel peach background. Clear incremental arm and body motion; the last frame transitions smoothly back to the first. Flat vector sticker style, thick outline. No captions, no words, no logos, no borders, no gutters.",
+      "tags": [
+        "cactus",
+        "mascot",
+        "wave"
+      ],
+      "source": {
+        "platform": "Veevid Blog",
+        "url": "https://veevid.ai/blog/gpt-image-2-6-gif",
+        "author": "Veevid Team",
+        "profile_url": "https://veevid.ai"
+      }
+    },
+    {
+      "id": "fox-brand-mascot-hello",
+      "category": "avatars",
+      "title": "Orange Fox Mascot Hello",
+      "title_zh": "橙色狐狸品牌吉祥物打招呼",
+      "prompt": "A cute orange fox brand mascot waving hello and blinking, flat vector sticker style, thick outline, pastel background, seamless loop",
+      "tags": [
+        "fox",
+        "mascot",
+        "wave"
+      ],
+      "source": {
+        "platform": "Veevid Blog",
+        "url": "https://veevid.ai/blog/gpt-image-2-6-gif",
+        "author": "Veevid Team",
+        "profile_url": "https://veevid.ai"
+      }
+    },
+    {
+      "id": "heart-latte-window-steam",
+      "category": "food",
+      "title": "Heart Latte by the Window",
+      "title_zh": "窗边爱心拉花热气",
+      "prompt": "A steaming ceramic coffee cup with heart latte art on a wooden cafe table, soft steam curling upward, warm morning window light, seamless loop",
+      "tags": [
+        "coffee",
+        "steam",
+        "cafe"
+      ],
+      "source": {
+        "platform": "Veevid Blog",
+        "url": "https://veevid.ai/blog/gpt-image-2-6-gif",
+        "author": "Veevid Team",
+        "profile_url": "https://veevid.ai"
+      }
+    },
+    {
+      "id": "frosted-perfume-light-band",
+      "category": "product",
+      "title": "Frosted Perfume Light Sweep",
+      "title_zh": "磨砂香水瓶光带扫过",
+      "prompt": "A frosted glass perfume bottle on a round stone pedestal. The sequence: a soft band of light sweeps slowly across the glass from left to right while tiny dust particles drift upward. Fixed camera, same bottle, same pedestal, warm beige studio background. The last frame transitions smoothly back to the first for a seamless loop. Clean product photography style. No captions, no words, no logos, no borders.",
+      "tags": [
+        "perfume",
+        "light-sweep",
+        "product"
+      ],
+      "source": {
+        "platform": "Veevid Blog",
+        "url": "https://veevid.ai/blog/gpt-image-2-6-gif",
+        "author": "Veevid Team",
+        "profile_url": "https://veevid.ai"
+      }
+    },
+    {
+      "id": "lantern-cat-mascot-hello",
+      "category": "avatars",
+      "title": "Orange Cat Mascot with a Lantern",
+      "title_zh": "提灯橘猫吉祥物打招呼",
+      "prompt": "A cheerful round orange cat mascot with a tiny lantern, waving hello and blinking, soft flat illustration style, clean pastel background, gentle seamless loop.",
+      "tags": [
+        "cat",
+        "mascot",
+        "lantern"
+      ],
+      "source": {
+        "platform": "Lightlyn Images",
+        "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+        "author": "Linger",
+        "profile_url": "https://image.lightlyn.com"
+      }
+    },
+    {
+      "id": "clay-cat-sunglasses-ramen",
+      "category": "food",
+      "title": "Clay Cat at a Neon Ramen Stall",
+      "title_zh": "霓虹拉面摊前的墨镜黏土猫",
+      "prompt": "生成一只戴着墨镜的橘猫，坐在霓虹闪烁的街头拉面摊前，用爪子挑起一筷子冒着热气的拉面。镜片上倒映着流动的彩色灯光，整体采用黏土定格动画风格，生成循环播放的 GIF",
+      "tags": [
+        "cat",
+        "ramen",
+        "claymation"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/hiwise_aigc/status/2123826646365188489",
+        "author": "启明破晓",
+        "handle": "hiwise_aigc",
+        "profile_url": "https://x.com/hiwise_aigc"
+      }
+    },
+    {
+      "id": "fingerprint-zebra-tunnel",
+      "category": "loops",
+      "title": "Zebra in a Fingerprint Tunnel",
+      "title_zh": "指纹隧道里的斑马",
+      "prompt": "High-contrast black-and-white conceptual artwork, tall 9:16 vertical composition, mixed-media graphic style. Full bleed edge to edge, no frame, no border, no lettering.\nBACKGROUND: a rich matte black surface with a fine pebbled leather grain and subtle diagonal texture, deepening to pure black at the corners and edges.\nFINGERPRINT: one enormous white fingerprint fills the frame as the dominant graphic element, its outline a wide oval, slightly tapering toward the top. It is drawn not as solid lines but as hundreds of broken dashed strokes and short parallel bars with softly rounded ends, hand-painted with slight thickness variation, some strokes irregular and chipped. The ridges sweep in long concentric arches and whorls, curving up over the crown and down both sides, with a dense tight cluster of concentric rings in the centre.\nTUNNEL: dead centre, the fingerprint ridges part to form a glowing opening — a soft luminous white corridor receding into the distance, its walls a smooth radiant gradient of blurred white and pale grey, brightest at the far end, dissolving into a bright misty haze that halos the centre of the print.\nZEBRA: inside that opening walks a single zebra, seen from directly behind, moving away from the viewer toward the light. Its body is compact and symmetrical, coat a crisp pattern of black and white vertical stripes, a dark mane standing up in a short brush between two rounded ears, a long thin tail hanging straight down the middle of its back, hindquarters rounded and hind hooves faintly visible in the haze. Its silhouette is sharp and dark against the glowing tunnel, its stripes echoing the ridges of the fingerprint around it.\nLIGHT: soft white backlight pouring out from the tunnel mouth onto the zebra, rim-lighting its ears and flanks, a gentle glow bleeding into the surrounding ridges.\nPALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, minimalist, surreal.",
+      "tags": [
+        "zebra",
+        "surreal",
+        "monochrome"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/churvikv/status/2123819465796206817",
+        "author": "Viki",
+        "handle": "churvikv",
+        "profile_url": "https://x.com/churvikv"
+      }
+    },
+    {
+      "id": "silver-balloon-thank-you",
+      "category": "flash",
+      "title": "Silver Balloon Thank You",
+      "title_zh": "银色气球字感谢观看",
+      "prompt": "ピンク、水色、薄紫色、パステルカラーのグラデーションを背景にシャボン玉がフワフワと下から上へ浮かび上がる空間で「Thank you\n for watching」と銀色のバルーン文字が飛び出してきます",
+      "tags": [
+        "thank-you",
+        "balloon",
+        "bubbles"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/hanagekkou/status/2123891691757416496",
+        "author": "華月光",
+        "handle": "hanagekkou",
+        "profile_url": "https://x.com/hanagekkou"
+      }
+    },
+    {
+      "id": "robot-otsukaresama-wave",
+      "category": "stickers",
+      "title": "Little Robot Says Good Work",
+      "title_zh": "小机器人挥手说辛苦了",
+      "prompt": "GIFを作って。\n仕事のSNS投稿で使えるように、小さなロボットのキャラクターが、笑顔で手を振りながら「お疲れさま」と伝える動き。\n白い背景で、かわいいフラットなイラスト。文字は入れないで。",
+      "tags": [
+        "robot",
+        "wave",
+        "work"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/asahi_ai_x/status/2118663182688383267",
+        "author": "あさひ｜教頭先生のAI活用術",
+        "handle": "asahi_ai_x",
+        "profile_url": "https://x.com/asahi_ai_x"
+      }
     }
   ]
 }

@@ -6582,5 +6582,158 @@
     "generatedAt": "2026-11-21",
     "via": "source",
     "bytes": 1368251
+  },
+  "teal-owl-wing-wave": {
+    "width": 480,
+    "height": 480,
+    "frames": 6,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6 Flare",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "night-lab-mug-steam": {
+    "width": 480,
+    "height": 480,
+    "frames": 6,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6 Sunburst",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "purple-spark-cyan-orbit": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1410,
+    "model": "GPT Image 2.6 Flare",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "light-bulb-halo-pulse": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6 Flare",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "obsidian-sword-flame-cursor": {
+    "width": 480,
+    "height": 480,
+    "frames": 14,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6 Flare (sprite sheet to GIF)",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "clay-cat-barista-sip": {
+    "width": 480,
+    "height": 480,
+    "frames": 6,
+    "durationMs": 1080,
+    "model": "Codex image generation (sprite sheet to GIF)",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "paper-fox-teal-scarf-wave": {
+    "width": 433,
+    "height": 396,
+    "frames": 9,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6 Sunburst",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "raincoat-girl-baby-elephant": {
+    "width": 480,
+    "height": 270,
+    "frames": 9,
+    "durationMs": 1330,
+    "model": "GPT Image 2.6 Sunburst",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "terracotta-cactus-mascot-wave": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6 Flare",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "fox-brand-mascot-hello": {
+    "width": 480,
+    "height": 480,
+    "frames": 17,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "heart-latte-window-steam": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "frosted-perfume-light-band": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6 Flare",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "lantern-cat-mascot-hello": {
+    "width": 480,
+    "height": 480,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6 Flare",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "clay-cat-sunglasses-ramen": {
+    "width": 480,
+    "height": 270,
+    "frames": 30,
+    "durationMs": 3000,
+    "model": "Gemini Omni 1.2 Flash",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "fingerprint-zebra-tunnel": {
+    "width": 480,
+    "height": 854,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6 Sunburst",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "silver-balloon-thank-you": {
+    "width": 480,
+    "height": 270,
+    "frames": 30,
+    "durationMs": 3000,
+    "model": "Gemini",
+    "generatedAt": "2026-11-22",
+    "via": "source"
+  },
+  "robot-otsukaresama-wave": {
+    "width": 480,
+    "height": 502,
+    "frames": 9,
+    "durationMs": 1160,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-22",
+    "via": "source"
   }
 }

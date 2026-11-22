@@ -1,8 +1,24 @@
-# Science & Explainers · 17 prompts
+# Science & Explainers · 18 prompts
 
 [← README](../README.md)
 
-### 1. Luminol Chemiluminescence Vortex
+### 1. Light Bulb Halo Pulse
+
+<img src="../gifs/light-bulb-halo-pulse.gif" alt="Light Bulb Halo Pulse" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6 Flare</sub>
+
+📌 **Source:** [@liangdabiao on GitHub](https://github.com/liangdabiao/whiteboard-teacher-video-motion/blob/HEAD/examples/sample/assets.json)
+
+**Prompt**
+
+```text
+A single centered minimalist light bulb, its soft golden halo gently pulsing brighter then dimmer, fixed camera, smooth even motion, every detail of the bulb stays identical across frames, ending exactly back at the starting pose for a seamless loop, clean flat pale background, no text, no logo
+```
+
+`explainer` `light-bulb` `minimal`
+
+### 2. Luminol Chemiluminescence Vortex
 
 <img src="../gifs/luminol-beaker-vortex.gif" alt="Luminol Chemiluminescence Vortex" width="360">
 
@@ -22,7 +38,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chemistry` `luminol` `experiment` `science`
 
-### 2. Osaka Castle Construction Process
+### 3. Osaka Castle Construction Process
 
 <img src="../gifs/osaka-castle-construction.gif" alt="Osaka Castle Construction Process" width="360">
 
@@ -38,7 +54,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `castle` `construction` `history` `process`
 
-### 3. Water Cycle Classroom Diagram
+### 4. Water Cycle Classroom Diagram
 
 <img src="../gifs/water-cycle-classroom-diagram.gif" alt="Water Cycle Classroom Diagram" width="360">
 
@@ -56,7 +72,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `water-cycle` `education` `flat-design` `diagram` `chinese-labels`
 
-### 4. Paper invoice to spreadsheet via AI, 4 panels
+### 5. Paper invoice to spreadsheet via AI, 4 panels
 
 <img src="../gifs/invoice-ai-scan-flow.gif" alt="Paper invoice to spreadsheet via AI, 4 panels" width="360">
 
@@ -72,7 +88,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `workflow` `business` `japanese`
 
-### 5. Seed sprouting in a soil cutaway
+### 6. Seed sprouting in a soil cutaway
 
 <img src="../gifs/seed-sprout-soil-cutaway.gif" alt="Seed sprouting in a soil cutaway" width="360">
 
@@ -88,7 +104,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `science` `plant` `education`
 
-### 6. Annual revenue bar chart growing
+### 7. Annual revenue bar chart growing
 
 <img src="../gifs/revenue-bar-chart-grow.gif" alt="Annual revenue bar chart growing" width="360">
 
@@ -104,7 +120,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chart` `business` `data`
 
-### 7. Sicilian Defense chess opening
+### 8. Sicilian Defense chess opening
 
 <img src="../gifs/sicilian-defense-chess.gif" alt="Sicilian Defense chess opening" width="360">
 
@@ -120,7 +136,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 8. Speaker sound waves
+### 9. Speaker sound waves
 
 <img src="../gifs/sound-wave-speaker.gif" alt="Speaker sound waves" width="360">
 
@@ -134,7 +150,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 9. Photosynthesis in a leaf
+### 10. Photosynthesis in a leaf
 
 <img src="../gifs/photosynthesis-leaf-flow.gif" alt="Photosynthesis in a leaf" width="360">
 
@@ -148,7 +164,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 10. Seesaw lever balance
+### 11. Seesaw lever balance
 
 <img src="../gifs/seesaw-lever-balance.gif" alt="Seesaw lever balance" width="360">
 
@@ -162,7 +178,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 11. Prism splits light
+### 12. Prism splits light
 
 <img src="../gifs/prism-rainbow-split.gif" alt="Prism splits light" width="360">
 
@@ -176,7 +192,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 12. Planets orbit the sun
+### 13. Planets orbit the sun
 
 <img src="../gifs/solar-system-orbit.gif" alt="Planets orbit the sun" width="360">
 
@@ -190,7 +206,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 13. Beating heart diagram
+### 14. Beating heart diagram
 
 <img src="../gifs/heart-pump-diagram.gif" alt="Beating heart diagram" width="360">
 
@@ -204,7 +220,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 14. Bean sprouting underground
+### 15. Bean sprouting underground
 
 <img src="../gifs/bean-roots-cutaway.gif" alt="Bean sprouting underground" width="360">
 
@@ -218,7 +234,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 15. Moon phases
+### 16. Moon phases
 
 <img src="../gifs/moon-phases-cycle.gif" alt="Moon phases" width="360">
 
@@ -232,7 +248,7 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 16. Water cycle
+### 17. Water cycle
 
 <img src="../gifs/water-cycle-loop.gif" alt="Water cycle" width="360">
 
@@ -246,7 +262,7 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 17. Pendulum swing
+### 18. Pendulum swing
 
 <img src="../gifs/pendulum-swing-trace.gif" alt="Pendulum swing" width="360">
 

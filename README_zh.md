@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 611+ 个案例
+# Awesome AI GIF Prompts · 628+ 个案例
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-611-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--21-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-628-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--22-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。自有示例都是用所列提示词原样生成的，未做任何后期修改；社区精选标注了来源并署名作者。
 
-> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-21**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
+> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-22**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
 >
 > 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
@@ -25,15 +25,15 @@
 ## 目录
 
 - [这些 GIF 是怎么生成的](#这些-gif-是怎么生成的)
-- [表情包与贴纸](#表情包与贴纸) · 226 条提示词
-- [快闪与品牌动效](#快闪与品牌动效) · 93 条提示词
-- [氛围循环动画](#氛围循环动画) · 152 条提示词
-- [像素风与界面动效](#像素风与界面动效) · 100 条提示词
-- [科普讲解动图](#科普讲解动图) · 17 条提示词
+- [表情包与贴纸](#表情包与贴纸) · 228 条提示词
+- [快闪与品牌动效](#快闪与品牌动效) · 94 条提示词
+- [氛围循环动画](#氛围循环动画) · 155 条提示词
+- [像素风与界面动效](#像素风与界面动效) · 101 条提示词
+- [科普讲解动图](#科普讲解动图) · 18 条提示词
 - [节日与祝福](#节日与祝福) · 3 条提示词
-- [电商与产品展示](#电商与产品展示) · 11 条提示词
-- [美食饮品](#美食饮品) · 6 条提示词
-- [动态头像](#动态头像) · 3 条提示词
+- [电商与产品展示](#电商与产品展示) · 13 条提示词
+- [美食饮品](#美食饮品) · 9 条提示词
+- [动态头像](#动态头像) · 7 条提示词
 - [自己动手生成](#自己动手生成)
 
 ## 这些 GIF 是怎么生成的
@@ -62,9 +62,43 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 ## 表情包与贴纸
 
-这里展示本分类最新的 12 条（共 226 条）。[查看全部 226 条 →](categories/stickers_zh.md)
+这里展示本分类最新的 12 条（共 228 条）。[查看全部 228 条 →](categories/stickers_zh.md)
 
-### 1. 打开电脑见 100 封未读又合上
+### 1. 小机器人挥手说辛苦了
+
+<img src="gifs/robot-otsukaresama-wave.gif" alt="小机器人挥手说辛苦了" width="360">
+
+<sub>9 帧 · 480×502 · 1.2s · GPT Image 2.6</sub>
+
+📌 **来源：** [@asahi_ai_x on X](https://x.com/asahi_ai_x/status/2118663182688383267)
+
+**提示词**
+
+```text
+GIFを作って。
+仕事のSNS投稿で使えるように、小さなロボットのキャラクターが、笑顔で手を振りながら「お疲れさま」と伝える動き。
+白い背景で、かわいいフラットなイラスト。文字は入れないで。
+```
+
+`robot` `wave` `work`
+
+### 2. 围青色围巾的剪纸狐狸招手
+
+<img src="gifs/paper-fox-teal-scarf-wave.gif" alt="围青色围巾的剪纸狐狸招手" width="360">
+
+<sub>9 帧 · 433×396 · 1.6s · GPT Image 2.6 Sunburst</sub>
+
+📌 **来源：** [OmniaKey on OmniaKey Blog](https://omniakey.com/blog/gpt-image-2-6-review)
+
+**提示词**
+
+```text
+A cheerful paper-cut fox with a teal scarf sits on a grassy hill, waves one paw, blinks, then lowers the paw back to its starting pose. Flat pastel sky, soft paper shadows, gentle motion, perfect loop.
+```
+
+`fox` `paper-cut` `wave`
+
+### 3. 打开电脑见 100 封未读又合上
 
 <img src="gifs/office-worker-100-unread-emails.gif" alt="打开电脑见 100 封未读又合上" width="360">
 
@@ -80,7 +114,7 @@ Create a funny animated GIF of a cartoon office worker opening their laptop, see
 
 `reaction` `office` `email` `meme`
 
-### 2. 黑白八字猫玩逗猫棒
+### 4. 黑白八字猫玩逗猫棒
 
 <img src="gifs/hachiware-cat-teaser-toy.gif" alt="黑白八字猫玩逗猫棒" width="360">
 
@@ -96,7 +130,7 @@ Create a funny animated GIF of a cartoon office worker opening their laptop, see
 
 `cat` `anime` `cute` `japanese`
 
-### 3. 背带裤橘猫「需求又改了」
+### 5. 背带裤橘猫「需求又改了」
 
 <img src="gifs/overalls-cat-spec-changed-again.gif" alt="背带裤橘猫「需求又改了」" width="360">
 
@@ -112,7 +146,7 @@ Chibi-style animated chat sticker, square 1:1, pure white background. Original c
 
 `sticker` `cat` `office` `chinese-text` `wechat`
 
-### 4. 雨夜街头橘猫拍毛线球
+### 6. 雨夜街头橘猫拍毛线球
 
 <img src="gifs/street-tabby-cat-yarn-play.gif" alt="雨夜街头橘猫拍毛线球" width="360">
 
@@ -128,7 +162,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `yarn` `night-street` `realistic`
 
-### 5. 雨夜街头橘猫双爪打招呼
+### 7. 雨夜街头橘猫双爪打招呼
 
 <img src="gifs/street-tabby-cat-waving-hello.gif" alt="雨夜街头橘猫双爪打招呼" width="360">
 
@@ -144,7 +178,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `greeting` `night-street` `realistic`
 
-### 6. Q版功夫少女演武
+### 8. Q版功夫少女演武
 
 <img src="gifs/chibi-kungfu-girl.gif" alt="Q版功夫少女演武" width="360">
 
@@ -160,7 +194,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `chibi` `kung-fu` `martial-arts` `short-prompt`
 
-### 7. 橘猫快递员「收到」表情
+### 9. 橘猫快递员「收到」表情
 
 <img src="gifs/courier-cat-got-it-sticker.gif" alt="橘猫快递员「收到」表情" width="360">
 
@@ -176,7 +210,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `courier` `caption` `sticker`
 
-### 8. 旋转的猫
+### 10. 旋转的猫
 
 <img src="gifs/cat-spinning.gif" alt="旋转的猫" width="360">
 
@@ -192,7 +226,7 @@ create a gif of a cat spinning
 
 `cat` `spin` `meme` `short-prompt`
 
-### 9. 橘猫扑雪花
+### 11. 橘猫扑雪花
 
 <img src="gifs/tabby-cat-catching-snowflakes.gif" alt="橘猫扑雪花" width="360">
 
@@ -208,7 +242,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `snow` `night-street` `photoreal`
 
-### 10. 街头橘猫跳舞
+### 12. 街头橘猫跳舞
 
 <img src="gifs/boxing-tabby-cat-dance.gif" alt="街头橘猫跳舞" width="360">
 
@@ -224,45 +258,30 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `dance` `night-street` `photoreal`
 
-### 11. 街头拳击橘猫出拳
-
-<img src="gifs/boxing-tabby-cat-punch.gif" alt="街头拳击橘猫出拳" width="360">
-
-<sub>9 帧 · 360×360 · 1.8s · GPT Image 2.6</sub>
-
-📌 **来源：** [mileson on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
-
-**提示词**
-
-```text
-A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Front paws alternating punching toward the camera, body swaying side to side, then leaning close to the camera.
-```
-
-`cat` `boxing` `night-street` `photoreal`
-
-### 12. 股市大涨Q版打工人撒钱
-
-<img src="gifs/chibi-stock-rally-cheer.gif" alt="股市大涨Q版打工人撒钱" width="360">
-
-<sub>12 帧 · 480×480 · 1.2s · GPT Image 2.6</sub>
-
-📌 **来源：** [OpenArt on OpenAI](https://openai.com/index/introducing-images-2-6/)
-
-**提示词**
-
-```text
-Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing. Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.
-```
-
-`chibi` `stock-market` `celebration` `office`
-
-**[查看本分类全部 226 条 →](categories/stickers_zh.md)**
+**[查看本分类全部 228 条 →](categories/stickers_zh.md)**
 
 ## 快闪与品牌动效
 
-这里展示本分类最新的 12 条（共 93 条）。[查看全部 93 条 →](categories/flash_zh.md)
+这里展示本分类最新的 12 条（共 94 条）。[查看全部 94 条 →](categories/flash_zh.md)
 
-### 1. 面包店希伯来文霓虹招牌闪烁
+### 1. 银色气球字感谢观看
+
+<img src="gifs/silver-balloon-thank-you.gif" alt="银色气球字感谢观看" width="360">
+
+<sub>30 帧 · 480×270 · 3.0s · Gemini</sub>
+
+📌 **来源：** [@hanagekkou on X](https://x.com/hanagekkou/status/2123891691757416496)
+
+**提示词**
+
+```text
+ピンク、水色、薄紫色、パステルカラーのグラデーションを背景にシャボン玉がフワフワと下から上へ浮かび上がる空間で「Thank you
+ for watching」と銀色のバルーン文字が飛び出してきます
+```
+
+`thank-you` `balloon` `bubbles`
+
+### 2. 面包店希伯来文霓虹招牌闪烁
 
 <img src="gifs/hebrew-neon-bakery-sign.gif" alt="面包店希伯来文霓虹招牌闪烁" width="360">
 
@@ -278,7 +297,7 @@ A seamless looping animated GIF of a glowing neon sign on a dark brick wall of a
 
 `neon` `sign` `text-in-gif` `hebrew` `night`
 
-### 2. 平成时代象征社交动图
+### 3. 平成时代象征社交动图
 
 <img src="gifs/heisei-era-sns-gif.gif" alt="平成时代象征社交动图" width="360">
 
@@ -294,7 +313,7 @@ A seamless looping animated GIF of a glowing neon sign on a dark brick wall of a
 
 `heisei` `retro` `nostalgia` `social`
 
-### 3. 戴围巾的橘色小熊吉祥物挥手
+### 4. 戴围巾的橘色小熊吉祥物挥手
 
 <img src="gifs/orange-bear-scarf-mascot.gif" alt="戴围巾的橘色小熊吉祥物挥手" width="360">
 
@@ -310,7 +329,7 @@ A seamless looping animated GIF of a glowing neon sign on a dark brick wall of a
 
 `mascot` `bear` `brand`
 
-### 4. 圆润机器人吉祥物欢迎挥手
+### 5. 圆润机器人吉祥物欢迎挥手
 
 <img src="gifs/robot-mascot-welcome-wave.gif" alt="圆润机器人吉祥物欢迎挥手" width="360">
 
@@ -326,7 +345,7 @@ A seamless looping animated GIF of a glowing neon sign on a dark brick wall of a
 
 `mascot` `brand` `3d`
 
-### 5. “ON AIR”霓虹灯与音量表闪动
+### 6. “ON AIR”霓虹灯与音量表闪动
 
 <img src="gifs/on-air-neon-meter-pulse.gif" alt="“ON AIR”霓虹灯与音量表闪动" width="360">
 
@@ -342,7 +361,7 @@ Locked tripod close-up shot through a dark midnight recording studio glass booth
 
 `neon` `studio` `text`
 
-### 6. EMBER 标志火焰跳动
+### 7. EMBER 标志火焰跳动
 
 <img src="gifs/ember-logo-flame-flicker.gif" alt="EMBER 标志火焰跳动" width="360">
 
@@ -358,7 +377,7 @@ Minimalist flat vector brand logo lockup on a solid charcoal-black square backgr
 
 `logo` `brand` `flat`
 
-### 7. 滑板 360 尖翻
+### 8. 滑板 360 尖翻
 
 <img src="gifs/skateboard-kickflip-360.gif" alt="滑板 360 尖翻" width="360">
 
@@ -374,7 +393,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `skateboard` `sport` `trick`
 
-### 8. 成语物件猜谜：四个陶瓷摆件轮流弹跳
+### 9. 成语物件猜谜：四个陶瓷摆件轮流弹跳
 
 <img src="gifs/idiom-riddle-ceramic-props.gif" alt="成语物件猜谜：四个陶瓷摆件轮流弹跳" width="360">
 
@@ -499,7 +518,7 @@ Create a GIF of a 360 kickflip on a skateboard
 
 `riddle` `chinese idiom` `3d`
 
-### 9. 迷幻风跳舞猫
+### 10. 迷幻风跳舞猫
 
 <img src="gifs/psychedelic-cat-dance.gif" alt="迷幻风跳舞猫" width="360">
 
@@ -515,7 +534,7 @@ psychedelic gif of cat dancing
 
 `cat` `psychedelic` `dance`
 
-### 10. 烤鸡晚餐揭盖
+### 11. 烤鸡晚餐揭盖
 
 <img src="gifs/turkey-dinner-steam.gif" alt="烤鸡晚餐揭盖" width="360">
 
@@ -529,7 +548,7 @@ A silver dome lid lifts off a golden roast chicken on a platter, a burst of stea
 
 `dinner` `holiday` `food`
 
-### 11. 爆米花蹦出来
+### 12. 爆米花蹦出来
 
 <img src="gifs/popcorn-bowl-pop.gif" alt="爆米花蹦出来" width="360">
 
@@ -543,27 +562,67 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 `popcorn` `snack` `movie`
 
-### 12. 平底锅翻煎饼
+**[查看本分类全部 94 条 →](categories/flash_zh.md)**
 
-<img src="gifs/pancake-pan-flip.gif" alt="平底锅翻煎饼" width="360">
+## 氛围循环动画
 
-<sub>9 帧 · 439×388 · 1.3s · gpt-image-2.6 · 生成于 2026-11-17</sub>
+这里展示本分类最新的 12 条（共 155 条）。[查看全部 155 条 →](categories/loops_zh.md)
+
+### 1. 指纹隧道里的斑马
+
+<img src="gifs/fingerprint-zebra-tunnel.gif" alt="指纹隧道里的斑马" width="360">
+
+<sub>9 帧 · 480×854 · 1.8s · GPT Image 2.6 Sunburst</sub>
+
+📌 **来源：** [@churvikv on X](https://x.com/churvikv/status/2123819465796206817)
 
 **提示词**
 
 ```text
-A golden pancake is tossed up from a cast iron pan, flips once in the air and lands back with a little puff of steam. Bright food ad style, warm kitchen background, fixed camera.
+High-contrast black-and-white conceptual artwork, tall 9:16 vertical composition, mixed-media graphic style. Full bleed edge to edge, no frame, no border, no lettering.
+BACKGROUND: a rich matte black surface with a fine pebbled leather grain and subtle diagonal texture, deepening to pure black at the corners and edges.
+FINGERPRINT: one enormous white fingerprint fills the frame as the dominant graphic element, its outline a wide oval, slightly tapering toward the top. It is drawn not as solid lines but as hundreds of broken dashed strokes and short parallel bars with softly rounded ends, hand-painted with slight thickness variation, some strokes irregular and chipped. The ridges sweep in long concentric arches and whorls, curving up over the crown and down both sides, with a dense tight cluster of concentric rings in the centre.
+TUNNEL: dead centre, the fingerprint ridges part to form a glowing opening — a soft luminous white corridor receding into the distance, its walls a smooth radiant gradient of blurred white and pale grey, brightest at the far end, dissolving into a bright misty haze that halos the centre of the print.
+ZEBRA: inside that opening walks a single zebra, seen from directly behind, moving away from the viewer toward the light. Its body is compact and symmetrical, coat a crisp pattern of black and white vertical stripes, a dark mane standing up in a short brush between two rounded ears, a long thin tail hanging straight down the middle of its back, hindquarters rounded and hind hooves faintly visible in the haze. Its silhouette is sharp and dark against the glowing tunnel, its stripes echoing the ridges of the fingerprint around it.
+LIGHT: soft white backlight pouring out from the tunnel mouth onto the zebra, rim-lighting its ears and flanks, a gentle glow bleeding into the surrounding ridges.
+PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, minimalist, surreal.
 ```
 
-`pancake` `food` `kitchen`
+`zebra` `surreal` `monochrome`
 
-**[查看本分类全部 93 条 →](categories/flash_zh.md)**
+### 2. 黄雨衣女孩和小象河边散步
 
-## 氛围循环动画
+<img src="gifs/raincoat-girl-baby-elephant.gif" alt="黄雨衣女孩和小象河边散步" width="360">
 
-这里展示本分类最新的 12 条（共 152 条）。[查看全部 152 条 →](categories/loops_zh.md)
+<sub>9 帧 · 480×270 · 1.3s · GPT Image 2.6 Sunburst</sub>
 
-### 1. 夕阳水面：金叶到黑伞小船
+📌 **来源：** [Karunakar Gautam on Frameloop Research](https://frameloop.ai/research/gpt-image-2-6-vs-2-5-comprehensive-benchmark)
+
+**提示词**
+
+```text
+3D animated family-film style. A small girl with curly hair and a yellow raincoat walks beside a friendly baby elephant along a jungle riverbank. The elephant sprays water from its trunk and the girl laughs. Looping side view. (9 frames, 150 ms per frame.)
+```
+
+`3d` `animatic` `elephant`
+
+### 3. 紫色灵感火花画出青色圆环
+
+<img src="gifs/purple-spark-cyan-orbit.gif" alt="紫色灵感火花画出青色圆环" width="360">
+
+<sub>9 帧 · 480×480 · 1.4s · GPT Image 2.6 Flare</sub>
+
+📌 **来源：** [@vegekyd-sys on GitHub](https://github.com/vegekyd-sys/ai-image-editor/blob/HEAD/evidence/gpt-image26-upgrade/26-flare-gif/receipt.json)
+
+**提示词**
+
+```text
+Create a seamless animated GIF of a purple rounded creative spark that gently pulses and traces a cyan circle on a cream background. Fixed camera, one clean object, smooth visible continuous motion. No text.
+```
+
+`abstract` `spark` `minimal`
+
+### 4. 夕阳水面：金叶到黑伞小船
 
 <img src="gifs/golden-leaf-sunset-water.gif" alt="夕阳水面：金叶到黑伞小船" width="360">
 
@@ -580,7 +639,7 @@ A surreal scene featuring a small black boat with a billowing gold cloth inside,
 
 `nature` `water` `sunset` `calm`
 
-### 2. 雨夜街头蜷睡的橘猫
+### 5. 雨夜街头蜷睡的橘猫
 
 <img src="gifs/street-tabby-cat-sleeping.gif" alt="雨夜街头蜷睡的橘猫" width="360">
 
@@ -596,7 +655,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `sleeping` `breathing` `night-street`
 
-### 3. 70 年代复古熔岩灯
+### 6. 70 年代复古熔岩灯
 
 <img src="gifs/retro-lava-lamp-glow.gif" alt="70 年代复古熔岩灯" width="360">
 
@@ -614,7 +673,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `lava-lamp` `retro` `ambient` `loop`
 
-### 4. 芭蕾舞者跳跃落地
+### 7. 芭蕾舞者跳跃落地
 
 <img src="gifs/ballerina-leap-landing.gif" alt="芭蕾舞者跳跃落地" width="360">
 
@@ -630,7 +689,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 5. 泡泡糖吹破循环
+### 8. 泡泡糖吹破循环
 
 <img src="gifs/bubblegum-pop-loop.gif" alt="泡泡糖吹破循环" width="360">
 
@@ -646,7 +705,7 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 6. 富士山水粉旅行海报
+### 9. 富士山水粉旅行海报
 
 <img src="gifs/mount-fuji-gouache-travel-poster.gif" alt="富士山水粉旅行海报" width="360">
 
@@ -662,7 +721,7 @@ A living mid-century gouache travel-poster painting of Mount Fuji behind a five-
 
 `gouache` `travel-poster` `japan` `cherry-blossom`
 
-### 7. 罗马斗兽场水粉旅行海报
+### 10. 罗马斗兽场水粉旅行海报
 
 <img src="gifs/colosseum-gouache-travel-poster.gif" alt="罗马斗兽场水粉旅行海报" width="360">
 
@@ -678,7 +737,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `gouache` `travel-poster` `rome` `landmark`
 
-### 8. 白宫外观360度环绕航拍
+### 11. 白宫外观360度环绕航拍
 
 <img src="gifs/white-house-drone-orbit.gif" alt="白宫外观360度环绕航拍" width="360">
 
@@ -695,7 +754,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `drone` `orbit` `architecture` `landmark`
 
-### 9. 金门大桥水粉旅行海报
+### 12. 金门大桥水粉旅行海报
 
 <img src="gifs/golden-gate-gouache-travel-poster.gif" alt="金门大桥水粉旅行海报" width="360">
 
@@ -711,61 +770,29 @@ A living mid-century gouache travel-poster painting of the Golden Gate Bridge se
 
 `gouache` `travel-poster` `bridge` `waves`
 
-### 10. 雪林提灯小猴
-
-<img src="gifs/lantern-monkey-snowy-forest.gif" alt="雪林提灯小猴" width="360">
-
-<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6</sub>
-
-📌 **来源：** [OpenAI Developers on OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
-
-**提示词**
-
-```text
-A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
-```
-
-`monkey` `lantern` `snow` `seamless`
-
-### 11. 拉各斯街头机器人跳舞
-
-<img src="gifs/robot-afrobeats-lagos-street.gif" alt="拉各斯街头机器人跳舞" width="360">
-
-<sub>9 帧 · 414×414 · 1.1s · GPT Image 2.6</sub>
-
-📌 **来源：** [@o_adeeko on X](https://x.com/o_adeeko/status/2118203950306410729)
-
-**提示词**
-
-```text
-Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. Make the movement loop smoothly.
-```
-
-`robot` `dance` `afrobeats` `street`
-
-### 12. 纽约雪景水晶球
-
-<img src="gifs/nyc-snow-globe.gif" alt="纽约雪景水晶球" width="360">
-
-<sub>9 帧 · 414×414 · 1.3s · GPT Image 2.6</sub>
-
-📌 **来源：** [@dreamwieber on X](https://x.com/dreamwieber/status/2118190877567037732)
-
-**提示词**
-
-```text
-generate an animated gif of a beautiful NYC snow globe
-```
-
-`snow-globe` `city` `winter` `snow`
-
-**[查看本分类全部 152 条 →](categories/loops_zh.md)**
+**[查看本分类全部 155 条 →](categories/loops_zh.md)**
 
 ## 像素风与界面动效
 
-这里展示本分类最新的 12 条（共 100 条）。[查看全部 100 条 →](categories/pixel-ui_zh.md)
+这里展示本分类最新的 12 条（共 101 条）。[查看全部 101 条 →](categories/pixel-ui_zh.md)
 
-### 1. 雨天咖啡馆里敲键盘的像素橘猫
+### 1. 黑曜石火焰剑光标
+
+<img src="gifs/obsidian-sword-flame-cursor.gif" alt="黑曜石火焰剑光标" width="360">
+
+<sub>14 帧 · 480×480 · 1.3s · GPT Image 2.6 Flare (sprite sheet to GIF)</sub>
+
+📌 **来源：** [wuyoscar (after a workflow by @hAru_mAki_ch) on GitHub](https://github.com/wuyoscar/GPT-Image2-Skill/blob/HEAD/skills/gpt-image/references/gallery-gaming.md)
+
+**提示词**
+
+```text
+An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sword mouse pointer. Exactly 8 frames in a 4-column by 2-row uniform grid, read left to right then top to bottom. Canvas 2048 by 1024, each cell exactly 512 by 512. Transparent background, no gutters, no borders, no text, no labels. In every cell the same small ornate obsidian sword points diagonally toward the upper-left. Its sharp tip is fixed at cell coordinate (100,100), blade geometry and position identical in every frame. Bright amber and electric-blue flame curls around the blade, progressing smoothly through eight phases and returning to the initial shape at the loop boundary. The blade stays still; only flames, a few sparks and reflected light move. Keep all effects within the middle 360 by 360 pixels of each cell. Crisp illustrated game-UI asset, luminous edges, convincing metallic highlights, strong silhouette, no character, no duplicate swords within a cell. Do not draw checkerboards; use actual transparency.
+```
+
+`cursor` `game-ui` `sprite-sheet`
+
+### 2. 雨天咖啡馆里敲键盘的像素橘猫
 
 <img src="gifs/pixel-headphone-cat-rainy-cafe.gif" alt="雨天咖啡馆里敲键盘的像素橘猫" width="360">
 
@@ -781,7 +808,7 @@ generate an animated gif of a beautiful NYC snow globe
 
 `pixel-art` `cat` `lofi` `rain` `cafe`
 
-### 2. 8 位像素小牛行走循环
+### 3. 8 位像素小牛行走循环
 
 <img src="gifs/pixel-ox-walk-cycle.gif" alt="8 位像素小牛行走循环" width="360">
 
@@ -799,7 +826,7 @@ cycle, flat sky blue background, crisp pixels, no blur.
 
 `pixel-art` `sprite` `walk-cycle` `game`
 
-### 3. 像素勇者挥剑特效
+### 4. 像素勇者挥剑特效
 
 <img src="gifs/pixel-hero-sword-slash.gif" alt="像素勇者挥剑特效" width="360">
 
@@ -816,7 +843,7 @@ GIFを作成。ドット絵の勇者。
 
 `pixel-art` `hero` `sword` `fx`
 
-### 4. 绿色询价按钮流光
+### 5. 绿色询价按钮流光
 
 <img src="gifs/green-quote-button-shine.gif" alt="绿色询价按钮流光" width="360">
 
@@ -832,7 +859,7 @@ GIFを作成。ドット絵の勇者。
 
 `button` `ui` `japanese`
 
-### 5. 灯泡图标慢慢亮起
+### 6. 灯泡图标慢慢亮起
 
 <img src="gifs/lightbulb-icon-glow.gif" alt="灯泡图标慢慢亮起" width="360">
 
@@ -848,7 +875,7 @@ GIFを作成。ドット絵の勇者。
 
 `icon` `flat` `education`
 
-### 6. 像素闪电劈落特效
+### 7. 像素闪电劈落特效
 
 <img src="gifs/pixel-lightning-strike.gif" alt="像素闪电劈落特效" width="360">
 
@@ -864,7 +891,7 @@ Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, re
 
 `pixel-art` `game-fx` `lightning`
 
-### 7. 像素火柱喷发特效
+### 8. 像素火柱喷发特效
 
 <img src="gifs/pixel-fire-pillar-burst.gif" alt="像素火柱喷发特效" width="360">
 
@@ -880,7 +907,7 @@ Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 
 
 `pixel-art` `game-fx` `fire-pillar`
 
-### 8. 像素火山喷发特效
+### 9. 像素火山喷发特效
 
 <img src="gifs/pixel-volcano-eruption.gif" alt="像素火山喷发特效" width="360">
 
@@ -896,7 +923,7 @@ Make an animated GIF of a pixel-art volcano eruption seen from far away, for the
 
 `pixel-art` `game-fx` `eruption`
 
-### 9. 像素能量光束特效
+### 10. 像素能量光束特效
 
 <img src="gifs/pixel-energy-beam-blast.gif" alt="像素能量光束特效" width="360">
 
@@ -912,7 +939,7 @@ Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wi
 
 `pixel-art` `game-fx` `beam`
 
-### 10. 像素爆炸与蘑菇云特效
+### 11. 像素爆炸与蘑菇云特效
 
 <img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="像素爆炸与蘑菇云特效" width="360">
 
@@ -928,7 +955,7 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `pixel-art` `game-fx` `explosion`
 
-### 11. 三颗橘色圆点跳动加载
+### 12. 三颗橘色圆点跳动加载
 
 <img src="gifs/orange-dots-bounce-loader.gif" alt="三颗橘色圆点跳动加载" width="360">
 
@@ -944,29 +971,29 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `loader` `ui` `flat`
 
-### 12. 指南针 App 图标指针摆动
+**[查看本分类全部 101 条 →](categories/pixel-ui_zh.md)**
 
-<img src="gifs/compass-app-icon-settle.gif" alt="指南针 App 图标指针摆动" width="360">
+## 科普讲解动图
 
-<sub>14 帧 · 480×480 · 1.2s · GPT Image 2.6</sub>
+这里展示本分类最新的 12 条（共 18 条）。[查看全部 18 条 →](categories/explainers_zh.md)
 
-📌 **来源：** [Fuxuan Guo on ChatCut Blog](https://chatcut.io/blog/chatgpt-gif)
+### 1. 灯泡光晕明暗呼吸
+
+<img src="gifs/light-bulb-halo-pulse.gif" alt="灯泡光晕明暗呼吸" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6 Flare</sub>
+
+📌 **来源：** [@liangdabiao on GitHub](https://github.com/liangdabiao/whiteboard-teacher-video-motion/blob/HEAD/examples/sample/assets.json)
 
 **提示词**
 
 ```text
-Minimalist flat-vector rounded-square app icon on a completely transparent background, locked front-on view. A solid deep-teal rounded square dial with four tiny white tick marks holds a two-tone coral-and-white diamond compass needle pointing straight up. The compass needle swings 20 degrees clockwise, rebounds slightly left, and settles pointing straight up again in its exact starting alignment on the final frame for a clean loop. Flat crisp vector shapes, no gradients, no text.
+A single centered minimalist light bulb, its soft golden halo gently pulsing brighter then dimmer, fixed camera, smooth even motion, every detail of the bulb stays identical across frames, ending exactly back at the starting pose for a seamless loop, clean flat pale background, no text, no logo
 ```
 
-`icon` `app` `transparent`
+`explainer` `light-bulb` `minimal`
 
-**[查看本分类全部 100 条 →](categories/pixel-ui_zh.md)**
-
-## 科普讲解动图
-
-这里展示本分类最新的 12 条（共 17 条）。[查看全部 17 条 →](categories/explainers_zh.md)
-
-### 1. 烧杯漩涡鲁米诺化学发光
+### 2. 烧杯漩涡鲁米诺化学发光
 
 <img src="gifs/luminol-beaker-vortex.gif" alt="烧杯漩涡鲁米诺化学发光" width="360">
 
@@ -986,7 +1013,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chemistry` `luminol` `experiment` `science`
 
-### 2. 大阪城建造过程
+### 3. 大阪城建造过程
 
 <img src="gifs/osaka-castle-construction.gif" alt="大阪城建造过程" width="360">
 
@@ -1002,7 +1029,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `castle` `construction` `history` `process`
 
-### 3. 水循环科普示意动图
+### 4. 水循环科普示意动图
 
 <img src="gifs/water-cycle-classroom-diagram.gif" alt="水循环科普示意动图" width="360">
 
@@ -1020,7 +1047,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `water-cycle` `education` `flat-design` `diagram` `chinese-labels`
 
-### 4. 纸质发票经 AI 识别入表（四格流程）
+### 5. 纸质发票经 AI 识别入表（四格流程）
 
 <img src="gifs/invoice-ai-scan-flow.gif" alt="纸质发票经 AI 识别入表（四格流程）" width="360">
 
@@ -1036,7 +1063,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `workflow` `business` `japanese`
 
-### 5. 土壤剖面里种子发芽
+### 6. 土壤剖面里种子发芽
 
 <img src="gifs/seed-sprout-soil-cutaway.gif" alt="土壤剖面里种子发芽" width="360">
 
@@ -1052,7 +1079,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `science` `plant` `education`
 
-### 6. 年度营收柱状图逐年增长
+### 7. 年度营收柱状图逐年增长
 
 <img src="gifs/revenue-bar-chart-grow.gif" alt="年度营收柱状图逐年增长" width="360">
 
@@ -1068,7 +1095,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chart` `business` `data`
 
-### 7. 西西里防御开局动画
+### 8. 西西里防御开局动画
 
 <img src="gifs/sicilian-defense-chess.gif" alt="西西里防御开局动画" width="360">
 
@@ -1084,7 +1111,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 8. 扬声器声波传播
+### 9. 扬声器声波传播
 
 <img src="gifs/sound-wave-speaker.gif" alt="扬声器声波传播" width="360">
 
@@ -1098,7 +1125,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 9. 叶片光合作用示意
+### 10. 叶片光合作用示意
 
 <img src="gifs/photosynthesis-leaf-flow.gif" alt="叶片光合作用示意" width="360">
 
@@ -1112,7 +1139,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 10. 跷跷板杠杆平衡
+### 11. 跷跷板杠杆平衡
 
 <img src="gifs/seesaw-lever-balance.gif" alt="跷跷板杠杆平衡" width="360">
 
@@ -1126,7 +1153,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 11. 三棱镜分光
+### 12. 三棱镜分光
 
 <img src="gifs/prism-rainbow-split.gif" alt="三棱镜分光" width="360">
 
@@ -1140,21 +1167,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 12. 行星绕日运行
-
-<img src="gifs/solar-system-orbit.gif" alt="行星绕日运行" width="360">
-
-<sub>9 帧 · 439×390 · 1.4s · gpt-image-2.6 · 生成于 2026-11-17</sub>
-
-**提示词**
-
-```text
-A flat top-down diagram of a glowing sun with four colorful planets moving along thin circular orbits at different speeds. Dark navy background, simple clean shapes, no text.
-```
-
-`solar-system` `astronomy` `diagram`
-
-**[查看本分类全部 17 条 →](categories/explainers_zh.md)**
+**[查看本分类全部 18 条 →](categories/explainers_zh.md)**
 
 ## 节日与祝福
 
@@ -1204,7 +1217,41 @@ A tiny gingerbread figure with white icing buttons stands in the doorway of a ca
 
 ## 电商与产品展示
 
-### 1. 降噪耳机：喧嚣街头瞬间变白棚
+这里展示本分类最新的 12 条（共 13 条）。[查看全部 13 条 →](categories/product_zh.md)
+
+### 1. 磨砂香水瓶光带扫过
+
+<img src="gifs/frosted-perfume-light-band.gif" alt="磨砂香水瓶光带扫过" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6 Flare</sub>
+
+📌 **来源：** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**提示词**
+
+```text
+A frosted glass perfume bottle on a round stone pedestal. The sequence: a soft band of light sweeps slowly across the glass from left to right while tiny dust particles drift upward. Fixed camera, same bottle, same pedestal, warm beige studio background. The last frame transitions smoothly back to the first for a seamless loop. Clean product photography style. No captions, no words, no logos, no borders.
+```
+
+`perfume` `light-sweep` `product`
+
+### 2. NIGHT LAB 马克杯热气循环
+
+<img src="gifs/night-lab-mug-steam.gif" alt="NIGHT LAB 马克杯热气循环" width="360">
+
+<sub>6 帧 · 480×480 · 1.2s · GPT Image 2.6 Sunburst</sub>
+
+📌 **来源：** [@az9713 on GitHub](https://github.com/az9713/gpt-image-2.6-demo/blob/HEAD/image_26_experiment/requests/22-gif-sunburst-product.json)
+
+**提示词**
+
+```text
+Seamless looping product animation. One ivory ceramic mug with a simple teal owl emblem and the exact words NIGHT LAB sits on a walnut desk. Delicate steam curls upward in a small continuous motion. The mug and camera stay absolutely still. Dark navy backdrop, warm amber light. No additional text.
+```
+
+`mug` `steam` `product`
+
+### 3. 降噪耳机：喧嚣街头瞬间变白棚
 
 <img src="gifs/noise-cancelling-street-to-studio.gif" alt="降噪耳机：喧嚣街头瞬间变白棚" width="360">
 
@@ -1220,7 +1267,7 @@ A tiny gingerbread figure with white icing buttons stands in the doorway of a ca
 
 `product` `headphones` `ad` `transformation`
 
-### 2. 石中剑360度旋转
+### 4. 石中剑360度旋转
 
 <img src="gifs/sword-in-stone-360-turntable.gif" alt="石中剑360度旋转" width="360">
 
@@ -1236,7 +1283,7 @@ create a gif of a "3d legendary sword in a stone game asset" spinning full 360 d
 
 `3d` `game-asset` `turntable` `sword`
 
-### 3. 未来摩托车360度展示
+### 5. 未来摩托车360度展示
 
 <img src="gifs/futuristic-motorbike-360-turntable.gif" alt="未来摩托车360度展示" width="360">
 
@@ -1252,7 +1299,7 @@ create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 deg
 
 `3d` `game-asset` `turntable` `motorbike`
 
-### 4. 3D矮人模型360度旋转
+### 6. 3D矮人模型360度旋转
 
 <img src="gifs/dwarf-axe-360-turntable.gif" alt="3D矮人模型360度旋转" width="360">
 
@@ -1268,7 +1315,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `3d` `game-asset` `turntable` `dwarf`
 
-### 5. 浴室翻新广告横幅热气升腾
+### 7. 浴室翻新广告横幅热气升腾
 
 <img src="gifs/bath-remodel-steam-banner.gif" alt="浴室翻新广告横幅热气升腾" width="360">
 
@@ -1284,7 +1331,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `banner` `ad` `japanese`
 
-### 6. 耳机充电盒开合展示
+### 8. 耳机充电盒开合展示
 
 <img src="gifs/earbuds-case-lid-open-close.gif" alt="耳机充电盒开合展示" width="360">
 
@@ -1300,7 +1347,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `product` `tech` `ecommerce`
 
-### 7. 耳机充电盒指示灯呼吸
+### 9. 耳机充电盒指示灯呼吸
 
 <img src="gifs/earbuds-case-led-pulse.gif" alt="耳机充电盒指示灯呼吸" width="360">
 
@@ -1316,7 +1363,7 @@ Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-
 
 `product` `tech` `macro`
 
-### 8. 咖啡豆袋主图＋浓缩咖啡热气
+### 10. 咖啡豆袋主图＋浓缩咖啡热气
 
 <img src="gifs/coffee-bag-espresso-steam.gif" alt="咖啡豆袋主图＋浓缩咖啡热气" width="360">
 
@@ -1332,7 +1379,7 @@ Locked tripod commercial product shot in soft morning studio light. A matte terr
 
 `product` `coffee` `steam`
 
-### 9. 左右摇摆的水杯产品动图
+### 11. 左右摇摆的水杯产品动图
 
 <img src="gifs/water-bottle-rock-product.gif" alt="左右摇摆的水杯产品动图" width="360">
 
@@ -1348,7 +1395,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 10. 智能手表亮屏
+### 12. 智能手表亮屏
 
 <img src="gifs/smartwatch-face-glow.gif" alt="智能手表亮屏" width="360">
 
@@ -1362,23 +1409,59 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 11. 转台上旋转的运动鞋
+**[查看本分类全部 13 条 →](categories/product_zh.md)**
 
-<img src="gifs/sneaker-turntable-spin.gif" alt="转台上旋转的运动鞋" width="360">
+## 美食饮品
 
-<sub>16 帧 · 380×250 · 1.9s · gpt-image-2.6 · 生成于 2026-11-18</sub>
+### 1. 霓虹拉面摊前的墨镜黏土猫
+
+<img src="gifs/clay-cat-sunglasses-ramen.gif" alt="霓虹拉面摊前的墨镜黏土猫" width="360">
+
+<sub>30 帧 · 480×270 · 3.0s · Gemini Omni 1.2 Flash</sub>
+
+📌 **来源：** [@hiwise_aigc on X](https://x.com/hiwise_aigc/status/2123826646365188489)
 
 **提示词**
 
 ```text
-A clean white running sneaker with a mint green sole slowly rotates on a round white turntable, a soft highlight sliding across the toe. Studio product shot, pale grey seamless background, no text.
+生成一只戴着墨镜的橘猫，坐在霓虹闪烁的街头拉面摊前，用爪子挑起一筷子冒着热气的拉面。镜片上倒映着流动的彩色灯光，整体采用黏土定格动画风格，生成循环播放的 GIF
 ```
 
-`sneaker` `turntable` `ecommerce`
+`cat` `ramen` `claymation`
 
-## 美食饮品
+### 2. 窗边爱心拉花热气
 
-### 1. 夜晚窗边咖啡杯冒热气
+<img src="gifs/heart-latte-window-steam.gif" alt="窗边爱心拉花热气" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **来源：** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**提示词**
+
+```text
+A steaming ceramic coffee cup with heart latte art on a wooden cafe table, soft steam curling upward, warm morning window light, seamless loop
+```
+
+`coffee` `steam` `cafe`
+
+### 3. 黏土猫咪咖啡师喝一口
+
+<img src="gifs/clay-cat-barista-sip.gif" alt="黏土猫咪咖啡师喝一口" width="360">
+
+<sub>6 帧 · 480×480 · 1.1s · Codex image generation (sprite sheet to GIF)</sub>
+
+📌 **来源：** [@jkf87 on GitHub](https://github.com/jkf87/gif-maker-skill/blob/HEAD/README.md)
+
+**提示词**
+
+```text
+"A cute chubby clay cat barista wearing a tiny green apron" --motion "lifts a coffee cup, takes a sip, closes eyes happily, then returns exactly to the starting pose"
+```
+
+`cat` `coffee` `clay` `sprite-sheet`
+
+### 4. 夜晚窗边咖啡杯冒热气
 
 <img src="gifs/coffee-cup-steam-night-window.gif" alt="夜晚窗边咖啡杯冒热气" width="360">
 
@@ -1395,7 +1478,7 @@ A clean white running sneaker with a mint green sole slowly rotates on a round w
 
 `coffee` `steam` `night` `cozy`
 
-### 2. 意式浓缩热气微动图
+### 5. 意式浓缩热气微动图
 
 <img src="gifs/espresso-steam-cinemagraph.gif" alt="意式浓缩热气微动图" width="360">
 
@@ -1411,7 +1494,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `cinemagraph` `steam` `product`
 
-### 3. 手绘风热咖啡冒热气
+### 6. 手绘风热咖啡冒热气
 
 <img src="gifs/handdrawn-coffee-steam.gif" alt="手绘风热咖啡冒热气" width="360">
 
@@ -1427,7 +1510,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `hand-drawn` `cozy`
 
-### 4. 阳光咖啡馆里冒热气的拉花拿铁
+### 7. 阳光咖啡馆里冒热气的拉花拿铁
 
 <img src="gifs/latte-art-steam-cafe.gif" alt="阳光咖啡馆里冒热气的拉花拿铁" width="360">
 
@@ -1443,7 +1526,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `cafe` `steam`
 
-### 5. 披萨拉丝
+### 8. 披萨拉丝
 
 <img src="gifs/pizza-cheese-pull.gif" alt="披萨拉丝" width="360">
 
@@ -1457,7 +1540,7 @@ A hand lifts one slice of pepperoni pizza away from the whole pie, long strings 
 
 `pizza` `cheese` `food`
 
-### 6. 奶茶加珍珠
+### 9. 奶茶加珍珠
 
 <img src="gifs/boba-pearls-pour.gif" alt="奶茶加珍珠" width="360">
 
@@ -1473,7 +1556,71 @@ A clear cup of milk tea sits on a counter as a spoonful of dark tapioca pearls d
 
 ## 动态头像
 
-### 1. 橙色小机器人挥手
+### 1. 提灯橘猫吉祥物打招呼
+
+<img src="gifs/lantern-cat-mascot-hello.gif" alt="提灯橘猫吉祥物打招呼" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6 Flare</sub>
+
+📌 **来源：** [Linger on Lightlyn Images](https://image.lightlyn.com/gpt-image-2-6?lang=en)
+
+**提示词**
+
+```text
+A cheerful round orange cat mascot with a tiny lantern, waving hello and blinking, soft flat illustration style, clean pastel background, gentle seamless loop.
+```
+
+`cat` `mascot` `lantern`
+
+### 2. 橙色狐狸品牌吉祥物打招呼
+
+<img src="gifs/fox-brand-mascot-hello.gif" alt="橙色狐狸品牌吉祥物打招呼" width="360">
+
+<sub>17 帧 · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **来源：** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**提示词**
+
+```text
+A cute orange fox brand mascot waving hello and blinking, flat vector sticker style, thick outline, pastel background, seamless loop
+```
+
+`fox` `mascot` `wave`
+
+### 3. 陶盆仙人掌吉祥物招手
+
+<img src="gifs/terracotta-cactus-mascot-wave.gif" alt="陶盆仙人掌吉祥物招手" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6 Flare</sub>
+
+📌 **来源：** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**提示词**
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A cheerful cartoon cactus mascot in a small terracotta pot. The sequence: the cactus leans slightly left, raises one arm and waves, smiles and blinks, then leans back to center. Fixed front camera, same character, same pot, plain pastel peach background. Clear incremental arm and body motion; the last frame transitions smoothly back to the first. Flat vector sticker style, thick outline. No captions, no words, no logos, no borders, no gutters.
+```
+
+`cactus` `mascot` `wave`
+
+### 4. 青色猫头鹰挥翅
+
+<img src="gifs/teal-owl-wing-wave.gif" alt="青色猫头鹰挥翅" width="360">
+
+<sub>6 帧 · 480×480 · 1.2s · GPT Image 2.6 Flare</sub>
+
+📌 **来源：** [@az9713 on GitHub](https://github.com/az9713/gpt-image-2.6-demo/blob/HEAD/image_26_experiment/requests/21-gif-flare-owl.json)
+
+**提示词**
+
+```text
+A seamless looping animation of one adorable rounded teal owl with amber eyes, cream belly and tiny brass spectacles. Front view, fixed camera and scale, dark navy background. The owl blinks once and gently waves its right wing, returning to its starting pose. No text.
+```
+
+`owl` `mascot` `wave`
+
+### 5. 橙色小机器人挥手
 
 <img src="gifs/orange-robot-tiny-wave.gif" alt="橙色小机器人挥手" width="360">
 
@@ -1489,7 +1636,7 @@ A friendly small orange robot waves one hand hello. Clean white background, fixe
 
 `robot` `wave` `3d` `mascot`
 
-### 2. 宇航员猫咪眨眼头像
+### 6. 宇航员猫咪眨眼头像
 
 <img src="gifs/astronaut-cat-blink.gif" alt="宇航员猫咪眨眼头像" width="360">
 
@@ -1503,7 +1650,7 @@ Circular profile avatar of a grey cat inside a round astronaut helmet, blinking 
 
 `avatar` `cat` `space`
 
-### 3. 戴耳机点头的狐狸头像
+### 7. 戴耳机点头的狐狸头像
 
 <img src="gifs/fox-headphones-nod.gif" alt="戴耳机点头的狐狸头像" width="360">
 

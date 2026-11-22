@@ -1,8 +1,56 @@
-# Food & Drinks · 6 prompts
+# Food & Drinks · 9 prompts
 
 [← README](../README.md)
 
-### 1. Coffee Steam by a Night Window
+### 1. Clay Cat at a Neon Ramen Stall
+
+<img src="../gifs/clay-cat-sunglasses-ramen.gif" alt="Clay Cat at a Neon Ramen Stall" width="360">
+
+<sub>30 frames · 480×270 · 3.0s · Gemini Omni 1.2 Flash</sub>
+
+📌 **Source:** [@hiwise_aigc on X](https://x.com/hiwise_aigc/status/2123826646365188489)
+
+**Prompt**
+
+```text
+生成一只戴着墨镜的橘猫，坐在霓虹闪烁的街头拉面摊前，用爪子挑起一筷子冒着热气的拉面。镜片上倒映着流动的彩色灯光，整体采用黏土定格动画风格，生成循环播放的 GIF
+```
+
+`cat` `ramen` `claymation`
+
+### 2. Heart Latte by the Window
+
+<img src="../gifs/heart-latte-window-steam.gif" alt="Heart Latte by the Window" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **Source:** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**Prompt**
+
+```text
+A steaming ceramic coffee cup with heart latte art on a wooden cafe table, soft steam curling upward, warm morning window light, seamless loop
+```
+
+`coffee` `steam` `cafe`
+
+### 3. Clay Cat Barista Coffee Sip
+
+<img src="../gifs/clay-cat-barista-sip.gif" alt="Clay Cat Barista Coffee Sip" width="360">
+
+<sub>6 frames · 480×480 · 1.1s · Codex image generation (sprite sheet to GIF)</sub>
+
+📌 **Source:** [@jkf87 on GitHub](https://github.com/jkf87/gif-maker-skill/blob/HEAD/README.md)
+
+**Prompt**
+
+```text
+"A cute chubby clay cat barista wearing a tiny green apron" --motion "lifts a coffee cup, takes a sip, closes eyes happily, then returns exactly to the starting pose"
+```
+
+`cat` `coffee` `clay` `sprite-sheet`
+
+### 4. Coffee Steam by a Night Window
 
 <img src="../gifs/coffee-cup-steam-night-window.gif" alt="Coffee Steam by a Night Window" width="360">
 
@@ -19,7 +67,7 @@
 
 `coffee` `steam` `night` `cozy`
 
-### 2. Espresso Steam Cinemagraph
+### 5. Espresso Steam Cinemagraph
 
 <img src="../gifs/espresso-steam-cinemagraph.gif" alt="Espresso Steam Cinemagraph" width="360">
 
@@ -35,7 +83,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `cinemagraph` `steam` `product`
 
-### 3. Hand-drawn coffee cup with rising steam
+### 6. Hand-drawn coffee cup with rising steam
 
 <img src="../gifs/handdrawn-coffee-steam.gif" alt="Hand-drawn coffee cup with rising steam" width="360">
 
@@ -51,7 +99,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `hand-drawn` `cozy`
 
-### 4. Latte art with rising steam in a sunny cafe
+### 7. Latte art with rising steam in a sunny cafe
 
 <img src="../gifs/latte-art-steam-cafe.gif" alt="Latte art with rising steam in a sunny cafe" width="360">
 
@@ -67,7 +115,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `cafe` `steam`
 
-### 5. Pizza slice cheese pull
+### 8. Pizza slice cheese pull
 
 <img src="../gifs/pizza-cheese-pull.gif" alt="Pizza slice cheese pull" width="360">
 
@@ -81,7 +129,7 @@ A hand lifts one slice of pepperoni pizza away from the whole pie, long strings 
 
 `pizza` `cheese` `food`
 
-### 6. Milk tea pearls pour
+### 9. Milk tea pearls pour
 
 <img src="../gifs/boba-pearls-pour.gif" alt="Milk tea pearls pour" width="360">
 

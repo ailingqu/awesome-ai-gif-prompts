@@ -1,8 +1,40 @@
-# 电商与产品展示 · 11 条提示词
+# 电商与产品展示 · 13 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 降噪耳机：喧嚣街头瞬间变白棚
+### 1. 磨砂香水瓶光带扫过
+
+<img src="../gifs/frosted-perfume-light-band.gif" alt="磨砂香水瓶光带扫过" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6 Flare</sub>
+
+📌 **来源：** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**提示词**
+
+```text
+A frosted glass perfume bottle on a round stone pedestal. The sequence: a soft band of light sweeps slowly across the glass from left to right while tiny dust particles drift upward. Fixed camera, same bottle, same pedestal, warm beige studio background. The last frame transitions smoothly back to the first for a seamless loop. Clean product photography style. No captions, no words, no logos, no borders.
+```
+
+`perfume` `light-sweep` `product`
+
+### 2. NIGHT LAB 马克杯热气循环
+
+<img src="../gifs/night-lab-mug-steam.gif" alt="NIGHT LAB 马克杯热气循环" width="360">
+
+<sub>6 帧 · 480×480 · 1.2s · GPT Image 2.6 Sunburst</sub>
+
+📌 **来源：** [@az9713 on GitHub](https://github.com/az9713/gpt-image-2.6-demo/blob/HEAD/image_26_experiment/requests/22-gif-sunburst-product.json)
+
+**提示词**
+
+```text
+Seamless looping product animation. One ivory ceramic mug with a simple teal owl emblem and the exact words NIGHT LAB sits on a walnut desk. Delicate steam curls upward in a small continuous motion. The mug and camera stay absolutely still. Dark navy backdrop, warm amber light. No additional text.
+```
+
+`mug` `steam` `product`
+
+### 3. 降噪耳机：喧嚣街头瞬间变白棚
 
 <img src="../gifs/noise-cancelling-street-to-studio.gif" alt="降噪耳机：喧嚣街头瞬间变白棚" width="360">
 
@@ -18,7 +50,7 @@
 
 `product` `headphones` `ad` `transformation`
 
-### 2. 石中剑360度旋转
+### 4. 石中剑360度旋转
 
 <img src="../gifs/sword-in-stone-360-turntable.gif" alt="石中剑360度旋转" width="360">
 
@@ -34,7 +66,7 @@ create a gif of a "3d legendary sword in a stone game asset" spinning full 360 d
 
 `3d` `game-asset` `turntable` `sword`
 
-### 3. 未来摩托车360度展示
+### 5. 未来摩托车360度展示
 
 <img src="../gifs/futuristic-motorbike-360-turntable.gif" alt="未来摩托车360度展示" width="360">
 
@@ -50,7 +82,7 @@ create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 deg
 
 `3d` `game-asset` `turntable` `motorbike`
 
-### 4. 3D矮人模型360度旋转
+### 6. 3D矮人模型360度旋转
 
 <img src="../gifs/dwarf-axe-360-turntable.gif" alt="3D矮人模型360度旋转" width="360">
 
@@ -66,7 +98,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `3d` `game-asset` `turntable` `dwarf`
 
-### 5. 浴室翻新广告横幅热气升腾
+### 7. 浴室翻新广告横幅热气升腾
 
 <img src="../gifs/bath-remodel-steam-banner.gif" alt="浴室翻新广告横幅热气升腾" width="360">
 
@@ -82,7 +114,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `banner` `ad` `japanese`
 
-### 6. 耳机充电盒开合展示
+### 8. 耳机充电盒开合展示
 
 <img src="../gifs/earbuds-case-lid-open-close.gif" alt="耳机充电盒开合展示" width="360">
 
@@ -98,7 +130,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `product` `tech` `ecommerce`
 
-### 7. 耳机充电盒指示灯呼吸
+### 9. 耳机充电盒指示灯呼吸
 
 <img src="../gifs/earbuds-case-led-pulse.gif" alt="耳机充电盒指示灯呼吸" width="360">
 
@@ -114,7 +146,7 @@ Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-
 
 `product` `tech` `macro`
 
-### 8. 咖啡豆袋主图＋浓缩咖啡热气
+### 10. 咖啡豆袋主图＋浓缩咖啡热气
 
 <img src="../gifs/coffee-bag-espresso-steam.gif" alt="咖啡豆袋主图＋浓缩咖啡热气" width="360">
 
@@ -130,7 +162,7 @@ Locked tripod commercial product shot in soft morning studio light. A matte terr
 
 `product` `coffee` `steam`
 
-### 9. 左右摇摆的水杯产品动图
+### 11. 左右摇摆的水杯产品动图
 
 <img src="../gifs/water-bottle-rock-product.gif" alt="左右摇摆的水杯产品动图" width="360">
 
@@ -146,7 +178,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 10. 智能手表亮屏
+### 12. 智能手表亮屏
 
 <img src="../gifs/smartwatch-face-glow.gif" alt="智能手表亮屏" width="360">
 
@@ -160,7 +192,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 11. 转台上旋转的运动鞋
+### 13. 转台上旋转的运动鞋
 
 <img src="../gifs/sneaker-turntable-spin.gif" alt="转台上旋转的运动鞋" width="360">
 

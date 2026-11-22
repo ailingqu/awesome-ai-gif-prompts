@@ -1,8 +1,56 @@
-# 美食饮品 · 6 条提示词
+# 美食饮品 · 9 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 夜晚窗边咖啡杯冒热气
+### 1. 霓虹拉面摊前的墨镜黏土猫
+
+<img src="../gifs/clay-cat-sunglasses-ramen.gif" alt="霓虹拉面摊前的墨镜黏土猫" width="360">
+
+<sub>30 帧 · 480×270 · 3.0s · Gemini Omni 1.2 Flash</sub>
+
+📌 **来源：** [@hiwise_aigc on X](https://x.com/hiwise_aigc/status/2123826646365188489)
+
+**提示词**
+
+```text
+生成一只戴着墨镜的橘猫，坐在霓虹闪烁的街头拉面摊前，用爪子挑起一筷子冒着热气的拉面。镜片上倒映着流动的彩色灯光，整体采用黏土定格动画风格，生成循环播放的 GIF
+```
+
+`cat` `ramen` `claymation`
+
+### 2. 窗边爱心拉花热气
+
+<img src="../gifs/heart-latte-window-steam.gif" alt="窗边爱心拉花热气" width="360">
+
+<sub>9 帧 · 480×480 · 1.8s · GPT Image 2.6</sub>
+
+📌 **来源：** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**提示词**
+
+```text
+A steaming ceramic coffee cup with heart latte art on a wooden cafe table, soft steam curling upward, warm morning window light, seamless loop
+```
+
+`coffee` `steam` `cafe`
+
+### 3. 黏土猫咪咖啡师喝一口
+
+<img src="../gifs/clay-cat-barista-sip.gif" alt="黏土猫咪咖啡师喝一口" width="360">
+
+<sub>6 帧 · 480×480 · 1.1s · Codex image generation (sprite sheet to GIF)</sub>
+
+📌 **来源：** [@jkf87 on GitHub](https://github.com/jkf87/gif-maker-skill/blob/HEAD/README.md)
+
+**提示词**
+
+```text
+"A cute chubby clay cat barista wearing a tiny green apron" --motion "lifts a coffee cup, takes a sip, closes eyes happily, then returns exactly to the starting pose"
+```
+
+`cat` `coffee` `clay` `sprite-sheet`
+
+### 4. 夜晚窗边咖啡杯冒热气
 
 <img src="../gifs/coffee-cup-steam-night-window.gif" alt="夜晚窗边咖啡杯冒热气" width="360">
 
@@ -19,7 +67,7 @@
 
 `coffee` `steam` `night` `cozy`
 
-### 2. 意式浓缩热气微动图
+### 5. 意式浓缩热气微动图
 
 <img src="../gifs/espresso-steam-cinemagraph.gif" alt="意式浓缩热气微动图" width="360">
 
@@ -35,7 +83,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `cinemagraph` `steam` `product`
 
-### 3. 手绘风热咖啡冒热气
+### 6. 手绘风热咖啡冒热气
 
 <img src="../gifs/handdrawn-coffee-steam.gif" alt="手绘风热咖啡冒热气" width="360">
 
@@ -51,7 +99,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `hand-drawn` `cozy`
 
-### 4. 阳光咖啡馆里冒热气的拉花拿铁
+### 7. 阳光咖啡馆里冒热气的拉花拿铁
 
 <img src="../gifs/latte-art-steam-cafe.gif" alt="阳光咖啡馆里冒热气的拉花拿铁" width="360">
 
@@ -67,7 +115,7 @@ A seamless looping animated GIF, a cinemagraph of one espresso cup on a marble c
 
 `coffee` `cafe` `steam`
 
-### 5. 披萨拉丝
+### 8. 披萨拉丝
 
 <img src="../gifs/pizza-cheese-pull.gif" alt="披萨拉丝" width="360">
 
@@ -81,7 +129,7 @@ A hand lifts one slice of pepperoni pizza away from the whole pie, long strings 
 
 `pizza` `cheese` `food`
 
-### 6. 奶茶加珍珠
+### 9. 奶茶加珍珠
 
 <img src="../gifs/boba-pearls-pour.gif" alt="奶茶加珍珠" width="360">
 

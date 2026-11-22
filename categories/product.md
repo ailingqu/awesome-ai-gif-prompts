@@ -1,8 +1,40 @@
-# Product Showcase · 11 prompts
+# Product Showcase · 13 prompts
 
 [← README](../README.md)
 
-### 1. Noise-Cancelling: Street Turns to White Studio
+### 1. Frosted Perfume Light Sweep
+
+<img src="../gifs/frosted-perfume-light-band.gif" alt="Frosted Perfume Light Sweep" width="360">
+
+<sub>9 frames · 480×480 · 1.8s · GPT Image 2.6 Flare</sub>
+
+📌 **Source:** [Veevid Team on Veevid Blog](https://veevid.ai/blog/gpt-image-2-6-gif)
+
+**Prompt**
+
+```text
+A frosted glass perfume bottle on a round stone pedestal. The sequence: a soft band of light sweeps slowly across the glass from left to right while tiny dust particles drift upward. Fixed camera, same bottle, same pedestal, warm beige studio background. The last frame transitions smoothly back to the first for a seamless loop. Clean product photography style. No captions, no words, no logos, no borders.
+```
+
+`perfume` `light-sweep` `product`
+
+### 2. NIGHT LAB Mug Steam Loop
+
+<img src="../gifs/night-lab-mug-steam.gif" alt="NIGHT LAB Mug Steam Loop" width="360">
+
+<sub>6 frames · 480×480 · 1.2s · GPT Image 2.6 Sunburst</sub>
+
+📌 **Source:** [@az9713 on GitHub](https://github.com/az9713/gpt-image-2.6-demo/blob/HEAD/image_26_experiment/requests/22-gif-sunburst-product.json)
+
+**Prompt**
+
+```text
+Seamless looping product animation. One ivory ceramic mug with a simple teal owl emblem and the exact words NIGHT LAB sits on a walnut desk. Delicate steam curls upward in a small continuous motion. The mug and camera stay absolutely still. Dark navy backdrop, warm amber light. No additional text.
+```
+
+`mug` `steam` `product`
+
+### 3. Noise-Cancelling: Street Turns to White Studio
 
 <img src="../gifs/noise-cancelling-street-to-studio.gif" alt="Noise-Cancelling: Street Turns to White Studio" width="360">
 
@@ -18,7 +50,7 @@
 
 `product` `headphones` `ad` `transformation`
 
-### 2. Sword in Stone 360 Turntable
+### 4. Sword in Stone 360 Turntable
 
 <img src="../gifs/sword-in-stone-360-turntable.gif" alt="Sword in Stone 360 Turntable" width="360">
 
@@ -34,7 +66,7 @@ create a gif of a "3d legendary sword in a stone game asset" spinning full 360 d
 
 `3d` `game-asset` `turntable` `sword`
 
-### 3. Futuristic Motorbike 360 Turntable
+### 5. Futuristic Motorbike 360 Turntable
 
 <img src="../gifs/futuristic-motorbike-360-turntable.gif" alt="Futuristic Motorbike 360 Turntable" width="360">
 
@@ -50,7 +82,7 @@ create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 deg
 
 `3d` `game-asset` `turntable` `motorbike`
 
-### 4. 3D Dwarf Model 360 Turntable
+### 6. 3D Dwarf Model 360 Turntable
 
 <img src="../gifs/dwarf-axe-360-turntable.gif" alt="3D Dwarf Model 360 Turntable" width="360">
 
@@ -66,7 +98,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `3d` `game-asset` `turntable` `dwarf`
 
-### 5. Bathroom remodel banner with rising steam
+### 7. Bathroom remodel banner with rising steam
 
 <img src="../gifs/bath-remodel-steam-banner.gif" alt="Bathroom remodel banner with rising steam" width="360">
 
@@ -82,7 +114,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `banner` `ad` `japanese`
 
-### 6. Earbuds case lid opens and closes
+### 8. Earbuds case lid opens and closes
 
 <img src="../gifs/earbuds-case-lid-open-close.gif" alt="Earbuds case lid opens and closes" width="360">
 
@@ -98,7 +130,7 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 `product` `tech` `ecommerce`
 
-### 7. Earbuds case with pulsing LED
+### 9. Earbuds case with pulsing LED
 
 <img src="../gifs/earbuds-case-led-pulse.gif" alt="Earbuds case with pulsing LED" width="360">
 
@@ -114,7 +146,7 @@ Locked macro studio product shot on a dark brushed-aluminum desk. A matte smoke-
 
 `product` `tech` `macro`
 
-### 8. Coffee bag hero shot with espresso steam
+### 10. Coffee bag hero shot with espresso steam
 
 <img src="../gifs/coffee-bag-espresso-steam.gif" alt="Coffee bag hero shot with espresso steam" width="360">
 
@@ -130,7 +162,7 @@ Locked tripod commercial product shot in soft morning studio light. A matte terr
 
 `product` `coffee` `steam`
 
-### 9. Water bottle rocking (product loop)
+### 11. Water bottle rocking (product loop)
 
 <img src="../gifs/water-bottle-rock-product.gif" alt="Water bottle rocking (product loop)" width="360">
 
@@ -146,7 +178,7 @@ Generate an actual animated GIF file, not a still picture, sprite sheet, video, 
 
 `product` `bottle` `api`
 
-### 10. Smartwatch screen wake-up
+### 12. Smartwatch screen wake-up
 
 <img src="../gifs/smartwatch-face-glow.gif" alt="Smartwatch screen wake-up" width="360">
 
@@ -160,7 +192,7 @@ A round matte black smartwatch with a sage green strap lies on a light stone sur
 
 `smartwatch` `wearable` `product shot`
 
-### 11. Sneaker on a turntable
+### 13. Sneaker on a turntable
 
 <img src="../gifs/sneaker-turntable-spin.gif" alt="Sneaker on a turntable" width="360">
 
