@@ -6590,7 +6590,8 @@
     "durationMs": 1160,
     "model": "GPT Image 2.6 Flare",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 393026
   },
   "night-lab-mug-steam": {
     "width": 480,
@@ -6599,7 +6600,8 @@
     "durationMs": 1160,
     "model": "GPT Image 2.6 Sunburst",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 390898
   },
   "purple-spark-cyan-orbit": {
     "width": 480,
@@ -6608,7 +6610,8 @@
     "durationMs": 1410,
     "model": "GPT Image 2.6 Flare",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 337053
   },
   "light-bulb-halo-pulse": {
     "width": 480,
@@ -6617,7 +6620,8 @@
     "durationMs": 1830,
     "model": "GPT Image 2.6 Flare",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 686016
   },
   "obsidian-sword-flame-cursor": {
     "width": 480,
@@ -6626,7 +6630,8 @@
     "durationMs": 1250,
     "model": "GPT Image 2.6 Flare (sprite sheet to GIF)",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 410775
   },
   "clay-cat-barista-sip": {
     "width": 480,
@@ -6635,7 +6640,8 @@
     "durationMs": 1080,
     "model": "Codex image generation (sprite sheet to GIF)",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 726234
   },
   "paper-fox-teal-scarf-wave": {
     "width": 433,
@@ -6644,7 +6650,8 @@
     "durationMs": 1580,
     "model": "GPT Image 2.6 Sunburst",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 835203
   },
   "raincoat-girl-baby-elephant": {
     "width": 480,
@@ -6653,7 +6660,8 @@
     "durationMs": 1330,
     "model": "GPT Image 2.6 Sunburst",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 908539
   },
   "terracotta-cactus-mascot-wave": {
     "width": 480,
@@ -6662,7 +6670,8 @@
     "durationMs": 1830,
     "model": "GPT Image 2.6 Flare",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 609368
   },
   "fox-brand-mascot-hello": {
     "width": 480,
@@ -6671,7 +6680,8 @@
     "durationMs": 1830,
     "model": "GPT Image 2.6",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 573953
   },
   "heart-latte-window-steam": {
     "width": 480,
@@ -6680,7 +6690,8 @@
     "durationMs": 1830,
     "model": "GPT Image 2.6",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 1215112
   },
   "frosted-perfume-light-band": {
     "width": 480,
@@ -6689,7 +6700,8 @@
     "durationMs": 1830,
     "model": "GPT Image 2.6 Flare",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 1118403
   },
   "lantern-cat-mascot-hello": {
     "width": 480,
@@ -6698,7 +6710,8 @@
     "durationMs": 1830,
     "model": "GPT Image 2.6 Flare",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 856343
   },
   "clay-cat-sunglasses-ramen": {
     "width": 480,
@@ -6707,7 +6720,8 @@
     "durationMs": 3000,
     "model": "Gemini Omni 1.2 Flash",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 876714
   },
   "fingerprint-zebra-tunnel": {
     "width": 480,
@@ -6716,7 +6730,8 @@
     "durationMs": 1830,
     "model": "GPT Image 2.6 Sunburst",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 2500880
   },
   "silver-balloon-thank-you": {
     "width": 480,
@@ -6725,7 +6740,8 @@
     "durationMs": 3000,
     "model": "Gemini",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 1349524
   },
   "robot-otsukaresama-wave": {
     "width": 480,
@@ -6734,6 +6750,57 @@
     "durationMs": 1160,
     "model": "GPT Image 2.6",
     "generatedAt": "2026-11-22",
-    "via": "source"
+    "via": "source",
+    "bytes": 483213
+  },
+  "silverback-gorilla-hip-dance": {
+    "width": 480,
+    "height": 480,
+    "frames": 6,
+    "durationMs": 1080,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-23",
+    "via": "source",
+    "bytes": 998953
+  },
+  "bowl-cut-dog-toilet-scroll": {
+    "width": 480,
+    "height": 480,
+    "frames": 7,
+    "durationMs": 1750,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-23",
+    "via": "source",
+    "bytes": 698881
+  },
+  "office-pigeon-stock-crash-cry": {
+    "width": 480,
+    "height": 480,
+    "frames": 15,
+    "durationMs": 3660,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-23",
+    "via": "source",
+    "bytes": 931185
+  },
+  "golden-cloud-dove-light-rays": {
+    "width": 288,
+    "height": 288,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-23",
+    "via": "source",
+    "bytes": 513384
+  },
+  "openai-demo-cat-dancing": {
+    "width": 412,
+    "height": 412,
+    "frames": 9,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6",
+    "generatedAt": "2026-11-23",
+    "via": "source",
+    "bytes": 749543
   }
 }
