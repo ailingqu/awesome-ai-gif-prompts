@@ -6802,5 +6802,15 @@
     "generatedAt": "2026-11-23",
     "via": "source",
     "bytes": 749543
+  },
+  "pixel-japanese-fantasy-city": {
+    "width": 480,
+    "height": 270,
+    "frames": 80,
+    "durationMs": 8000,
+    "model": "GPT-6.2 Astra (ChatGPT)",
+    "generatedAt": "2026-11-25",
+    "via": "source",
+    "bytes": 1709762
   }
 }

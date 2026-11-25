@@ -8653,6 +8653,27 @@
         "handle": "fatma_zaidi1",
         "profile_url": "https://x.com/fatma_zaidi1"
       }
+    },
+    {
+      "id": "pixel-japanese-fantasy-city",
+      "category": "pixel-ui",
+      "title": "Pixel Japanese Fantasy City",
+      "title_zh": "像素风日式奇幻城市",
+      "prompt": "生成一个日式奇幻城市动画 GIF，像素艺术，超精细，超高质量，画面惊艳，整体协调统一且完美",
+      "tags": [
+        "pixel-art",
+        "city",
+        "japanese",
+        "fantasy",
+        "minimal-prompt"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/leo114119/status/2123062551923798110",
+        "author": "Leo · Building w/ AI",
+        "handle": "leo114119",
+        "profile_url": "https://x.com/leo114119"
+      }
     }
   ]
 }

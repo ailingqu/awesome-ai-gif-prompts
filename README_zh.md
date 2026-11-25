@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 633+ 个案例
+# Awesome AI GIF Prompts · 634+ 个案例
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-633-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--23-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-634-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--25-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。自有示例都是用所列提示词原样生成的，未做任何后期修改；社区精选标注了来源并署名作者。
 
-> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-23**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
+> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-25**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
 >
 > 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
@@ -28,7 +28,7 @@
 - [表情包与贴纸](#表情包与贴纸) · 232 条提示词
 - [快闪与品牌动效](#快闪与品牌动效) · 94 条提示词
 - [氛围循环动画](#氛围循环动画) · 156 条提示词
-- [像素风与界面动效](#像素风与界面动效) · 101 条提示词
+- [像素风与界面动效](#像素风与界面动效) · 102 条提示词
 - [科普讲解动图](#科普讲解动图) · 18 条提示词
 - [节日与祝福](#节日与祝福) · 3 条提示词
 - [电商与产品展示](#电商与产品展示) · 13 条提示词
@@ -800,9 +800,25 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 ## 像素风与界面动效
 
-这里展示本分类最新的 12 条（共 101 条）。[查看全部 101 条 →](categories/pixel-ui_zh.md)
+这里展示本分类最新的 12 条（共 102 条）。[查看全部 102 条 →](categories/pixel-ui_zh.md)
 
-### 1. 黑曜石火焰剑光标
+### 1. 像素风日式奇幻城市
+
+<img src="gifs/pixel-japanese-fantasy-city.gif" alt="像素风日式奇幻城市" width="360">
+
+<sub>80 帧 · 480×270 · 8.0s · GPT-6.2 Astra (ChatGPT)</sub>
+
+📌 **来源：** [@leo114119 on X](https://x.com/leo114119/status/2123062551923798110)
+
+**提示词**
+
+```text
+生成一个日式奇幻城市动画 GIF，像素艺术，超精细，超高质量，画面惊艳，整体协调统一且完美
+```
+
+`pixel-art` `city` `japanese` `fantasy` `minimal-prompt`
+
+### 2. 黑曜石火焰剑光标
 
 <img src="gifs/obsidian-sword-flame-cursor.gif" alt="黑曜石火焰剑光标" width="360">
 
@@ -818,7 +834,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `cursor` `game-ui` `sprite-sheet`
 
-### 2. 雨天咖啡馆里敲键盘的像素橘猫
+### 3. 雨天咖啡馆里敲键盘的像素橘猫
 
 <img src="gifs/pixel-headphone-cat-rainy-cafe.gif" alt="雨天咖啡馆里敲键盘的像素橘猫" width="360">
 
@@ -834,7 +850,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `pixel-art` `cat` `lofi` `rain` `cafe`
 
-### 3. 8 位像素小牛行走循环
+### 4. 8 位像素小牛行走循环
 
 <img src="gifs/pixel-ox-walk-cycle.gif" alt="8 位像素小牛行走循环" width="360">
 
@@ -852,7 +868,7 @@ cycle, flat sky blue background, crisp pixels, no blur.
 
 `pixel-art` `sprite` `walk-cycle` `game`
 
-### 4. 像素勇者挥剑特效
+### 5. 像素勇者挥剑特效
 
 <img src="gifs/pixel-hero-sword-slash.gif" alt="像素勇者挥剑特效" width="360">
 
@@ -869,7 +885,7 @@ GIFを作成。ドット絵の勇者。
 
 `pixel-art` `hero` `sword` `fx`
 
-### 5. 绿色询价按钮流光
+### 6. 绿色询价按钮流光
 
 <img src="gifs/green-quote-button-shine.gif" alt="绿色询价按钮流光" width="360">
 
@@ -885,7 +901,7 @@ GIFを作成。ドット絵の勇者。
 
 `button` `ui` `japanese`
 
-### 6. 灯泡图标慢慢亮起
+### 7. 灯泡图标慢慢亮起
 
 <img src="gifs/lightbulb-icon-glow.gif" alt="灯泡图标慢慢亮起" width="360">
 
@@ -901,7 +917,7 @@ GIFを作成。ドット絵の勇者。
 
 `icon` `flat` `education`
 
-### 7. 像素闪电劈落特效
+### 8. 像素闪电劈落特效
 
 <img src="gifs/pixel-lightning-strike.gif" alt="像素闪电劈落特效" width="360">
 
@@ -917,7 +933,7 @@ Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, re
 
 `pixel-art` `game-fx` `lightning`
 
-### 8. 像素火柱喷发特效
+### 9. 像素火柱喷发特效
 
 <img src="gifs/pixel-fire-pillar-burst.gif" alt="像素火柱喷发特效" width="360">
 
@@ -933,7 +949,7 @@ Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 
 
 `pixel-art` `game-fx` `fire-pillar`
 
-### 9. 像素火山喷发特效
+### 10. 像素火山喷发特效
 
 <img src="gifs/pixel-volcano-eruption.gif" alt="像素火山喷发特效" width="360">
 
@@ -949,7 +965,7 @@ Make an animated GIF of a pixel-art volcano eruption seen from far away, for the
 
 `pixel-art` `game-fx` `eruption`
 
-### 10. 像素能量光束特效
+### 11. 像素能量光束特效
 
 <img src="gifs/pixel-energy-beam-blast.gif" alt="像素能量光束特效" width="360">
 
@@ -965,7 +981,7 @@ Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wi
 
 `pixel-art` `game-fx` `beam`
 
-### 11. 像素爆炸与蘑菇云特效
+### 12. 像素爆炸与蘑菇云特效
 
 <img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="像素爆炸与蘑菇云特效" width="360">
 
@@ -981,23 +997,7 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `pixel-art` `game-fx` `explosion`
 
-### 12. 三颗橘色圆点跳动加载
-
-<img src="gifs/orange-dots-bounce-loader.gif" alt="三颗橘色圆点跳动加载" width="360">
-
-<sub>13 帧 · 416×404 · 1.1s · GPT Image 2.6</sub>
-
-📌 **来源：** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
-
-**提示词**
-
-```text
-請設計一張極簡風格的 GIF 載入動畫。畫面中央有三顆橘色小圓點，依序從左至右向上跳動，再回到原本位置，形成自然連續的節奏。背景透明，整體使用簡潔的扁平化設計，圓點大小與顏色保持一致。鏡頭固定，動畫無縫循環，不要加入文字或其他裝飾。
-```
-
-`loader` `ui` `flat`
-
-**[查看本分类全部 101 条 →](categories/pixel-ui_zh.md)**
+**[查看本分类全部 102 条 →](categories/pixel-ui_zh.md)**
 
 ## 科普讲解动图
 

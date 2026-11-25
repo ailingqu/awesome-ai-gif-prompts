@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 633+ Cases
+# Awesome AI GIF Prompts · 634+ Cases
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-633-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--23-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-634-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--25-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Our own examples were generated from the exact prompt shown, with no editing; community picks are marked with their source and credited to their creators.
 
-> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-23**. ⭐ Star or 👀 watch the repo to get new cases.
+> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-25**. ⭐ Star or 👀 watch the repo to get new cases.
 >
 > 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
@@ -28,7 +28,7 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 - [Stickers & Reactions](#stickers-reactions) · 232 prompts
 - [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 94 prompts
 - [Ambient Loops](#ambient-loops) · 156 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 101 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 102 prompts
 - [Science & Explainers](#science-explainers) · 18 prompts
 - [Holidays & Greetings](#holidays-greetings) · 3 prompts
 - [Product Showcase](#product-showcase) · 13 prompts
@@ -800,9 +800,25 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 ## Pixel Art & UI Motion
 
-The 12 newest of 101 prompts in this category. [See all 101 →](categories/pixel-ui.md)
+The 12 newest of 102 prompts in this category. [See all 102 →](categories/pixel-ui.md)
 
-### 1. Obsidian Flame Sword Cursor
+### 1. Pixel Japanese Fantasy City
+
+<img src="gifs/pixel-japanese-fantasy-city.gif" alt="Pixel Japanese Fantasy City" width="360">
+
+<sub>80 frames · 480×270 · 8.0s · GPT-6.2 Astra (ChatGPT)</sub>
+
+📌 **Source:** [@leo114119 on X](https://x.com/leo114119/status/2123062551923798110)
+
+**Prompt**
+
+```text
+生成一个日式奇幻城市动画 GIF，像素艺术，超精细，超高质量，画面惊艳，整体协调统一且完美
+```
+
+`pixel-art` `city` `japanese` `fantasy` `minimal-prompt`
+
+### 2. Obsidian Flame Sword Cursor
 
 <img src="gifs/obsidian-sword-flame-cursor.gif" alt="Obsidian Flame Sword Cursor" width="360">
 
@@ -818,7 +834,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `cursor` `game-ui` `sprite-sheet`
 
-### 2. Pixel Cat Typing in a Rainy Café
+### 3. Pixel Cat Typing in a Rainy Café
 
 <img src="gifs/pixel-headphone-cat-rainy-cafe.gif" alt="Pixel Cat Typing in a Rainy Café" width="360">
 
@@ -834,7 +850,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `pixel-art` `cat` `lofi` `rain` `cafe`
 
-### 3. 8-bit Ox Walk Cycle Sprite
+### 4. 8-bit Ox Walk Cycle Sprite
 
 <img src="gifs/pixel-ox-walk-cycle.gif" alt="8-bit Ox Walk Cycle Sprite" width="360">
 
@@ -852,7 +868,7 @@ cycle, flat sky blue background, crisp pixels, no blur.
 
 `pixel-art` `sprite` `walk-cycle` `game`
 
-### 4. Pixel Hero Sword Slash
+### 5. Pixel Hero Sword Slash
 
 <img src="gifs/pixel-hero-sword-slash.gif" alt="Pixel Hero Sword Slash" width="360">
 
@@ -869,7 +885,7 @@ GIFを作成。ドット絵の勇者。
 
 `pixel-art` `hero` `sword` `fx`
 
-### 5. Green CTA button with light sweep
+### 6. Green CTA button with light sweep
 
 <img src="gifs/green-quote-button-shine.gif" alt="Green CTA button with light sweep" width="360">
 
@@ -885,7 +901,7 @@ GIFを作成。ドット絵の勇者。
 
 `button` `ui` `japanese`
 
-### 6. Lightbulb icon glows on
+### 7. Lightbulb icon glows on
 
 <img src="gifs/lightbulb-icon-glow.gif" alt="Lightbulb icon glows on" width="360">
 
@@ -901,7 +917,7 @@ GIFを作成。ドット絵の勇者。
 
 `icon` `flat` `education`
 
-### 7. Pixel-art lightning strike
+### 8. Pixel-art lightning strike
 
 <img src="gifs/pixel-lightning-strike.gif" alt="Pixel-art lightning strike" width="360">
 
@@ -917,7 +933,7 @@ Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, re
 
 `pixel-art` `game-fx` `lightning`
 
-### 8. Pixel-art fire pillar
+### 9. Pixel-art fire pillar
 
 <img src="gifs/pixel-fire-pillar-burst.gif" alt="Pixel-art fire pillar" width="360">
 
@@ -933,7 +949,7 @@ Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 
 
 `pixel-art` `game-fx` `fire-pillar`
 
-### 9. Pixel-art volcano eruption
+### 10. Pixel-art volcano eruption
 
 <img src="gifs/pixel-volcano-eruption.gif" alt="Pixel-art volcano eruption" width="360">
 
@@ -949,7 +965,7 @@ Make an animated GIF of a pixel-art volcano eruption seen from far away, for the
 
 `pixel-art` `game-fx` `eruption`
 
-### 10. Pixel-art energy beam
+### 11. Pixel-art energy beam
 
 <img src="gifs/pixel-energy-beam-blast.gif" alt="Pixel-art energy beam" width="360">
 
@@ -965,7 +981,7 @@ Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wi
 
 `pixel-art` `game-fx` `beam`
 
-### 11. Pixel-art explosion with mushroom cloud
+### 12. Pixel-art explosion with mushroom cloud
 
 <img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="Pixel-art explosion with mushroom cloud" width="360">
 
@@ -981,23 +997,7 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 `pixel-art` `game-fx` `explosion`
 
-### 12. Three orange dots bounce loader
-
-<img src="gifs/orange-dots-bounce-loader.gif" alt="Three orange dots bounce loader" width="360">
-
-<sub>13 frames · 416×404 · 1.1s · GPT Image 2.6</sub>
-
-📌 **Source:** [蘇柔瑋 on 數位時代 BusinessNext](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
-
-**Prompt**
-
-```text
-請設計一張極簡風格的 GIF 載入動畫。畫面中央有三顆橘色小圓點，依序從左至右向上跳動，再回到原本位置，形成自然連續的節奏。背景透明，整體使用簡潔的扁平化設計，圓點大小與顏色保持一致。鏡頭固定，動畫無縫循環，不要加入文字或其他裝飾。
-```
-
-`loader` `ui` `flat`
-
-**[See all 101 prompts in this category →](categories/pixel-ui.md)**
+**[See all 102 prompts in this category →](categories/pixel-ui.md)**
 
 ## Science & Explainers
 
