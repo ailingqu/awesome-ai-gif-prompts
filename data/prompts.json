@@ -8674,6 +8674,111 @@
         "handle": "leo114119",
         "profile_url": "https://x.com/leo114119"
       }
+    },
+    {
+      "id": "white-cat-big-success-jump",
+      "category": "stickers",
+      "title": "White Cat \"Big Success\" Jump",
+      "title_zh": "白猫“大成功”蓄力大跳",
+      "prompt": "GIFを作って。白いふわふわの猫のキャラクターが「大成功！」を全身で喜ぶ動き。しゃがんで力をためる→大きくジャンプ（空中でつぶれと伸びを使った誇張した動き）→着地で少しつぶれる→両手を上げて笑顔。ジャンプの瞬間にカラフルな紙吹雪とキラキラが舞う。線ははっきり、色はあざやか、背景は白、文字なし。コマ数は多めで、最初と最後が同じポーズになるなめらかなループ。",
+      "tags": [
+        "cat",
+        "celebration",
+        "squash-and-stretch",
+        "confetti",
+        "japanese"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/asahi_ai_x/status/2125397083486347269",
+        "author": "あさひ｜教頭先生のAI活用術",
+        "handle": "asahi_ai_x",
+        "profile_url": "https://x.com/asahi_ai_x"
+      }
+    },
+    {
+      "id": "suit-cat-osakini-shitsurei",
+      "category": "stickers",
+      "title": "Suit Cat Leaving Work with Pop-in Caption",
+      "title_zh": "西装白猫下班告辞（文字弹出）",
+      "prompt": "GIFを作って。スーツを着た白い猫が、鞄を持って、会釈して手を振る。画面の下に「お先に失礼します」の日本語の文字が下から弾むように「ぽん」と現れる（文字は大きく太く、一度出たら崩さない）。猫の顔は最初から最後まで同じ顔。背景は白、文字は読みやすい濃い紺色。最後は最初と同じ立ち姿に戻るなめらかなループ。コマ数は多めで。",
+      "tags": [
+        "cat",
+        "office",
+        "caption",
+        "japanese-text",
+        "greeting"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/asahi_ai_x/status/2125397102457168019",
+        "author": "あさひ｜教頭先生のAI活用術",
+        "handle": "asahi_ai_x",
+        "profile_url": "https://x.com/asahi_ai_x"
+      }
+    },
+    {
+      "id": "flower-costume-cat-dance",
+      "category": "stickers",
+      "title": "Dancing Cat in a Flower Costume",
+      "title_zh": "穿花朵玩偶服跳舞的猫",
+      "prompt": "花の着ぐるみを着て踊る猫の、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。",
+      "tags": [
+        "cat",
+        "dance",
+        "costume",
+        "minimal-prompt",
+        "japanese"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/asei_ikarashi/status/2125545032564539531",
+        "author": "ASEI｜AI × クリエイティブ",
+        "handle": "asei_ikarashi",
+        "profile_url": "https://x.com/asei_ikarashi"
+      }
+    },
+    {
+      "id": "rainy-window-coffee-steam",
+      "category": "loops",
+      "title": "Rainy Window with Coffee Steam",
+      "title_zh": "雨天窗边的咖啡热气",
+      "prompt": "雨の窓辺で、雨粒とコーヒーの湯気だけが動く、落ち着いたイラストの、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。",
+      "tags": [
+        "rain",
+        "coffee",
+        "cozy",
+        "lofi",
+        "minimal-prompt"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/asei_ikarashi/status/2125545032564539531",
+        "author": "ASEI｜AI × クリエイティブ",
+        "handle": "asei_ikarashi",
+        "profile_url": "https://x.com/asei_ikarashi"
+      }
+    },
+    {
+      "id": "cat-typing-keyboard-fast",
+      "category": "stickers",
+      "title": "Cat Typing at Furious Speed",
+      "title_zh": "疯狂敲键盘的猫",
+      "prompt": "ものすごい速さでキーボードを打つ猫の、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。",
+      "tags": [
+        "cat",
+        "keyboard",
+        "work",
+        "meme",
+        "minimal-prompt"
+      ],
+      "source": {
+        "platform": "X",
+        "url": "https://x.com/asei_ikarashi/status/2125545032564539531",
+        "author": "ASEI｜AI × クリエイティブ",
+        "handle": "asei_ikarashi",
+        "profile_url": "https://x.com/asei_ikarashi"
+      }
     }
   ]
 }

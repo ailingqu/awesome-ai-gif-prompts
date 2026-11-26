@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 634+ Cases
+# Awesome AI GIF Prompts · 639+ Cases
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-634-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--25-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-639-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--26-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Our own examples were generated from the exact prompt shown, with no editing; community picks are marked with their source and credited to their creators.
 
-> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-25**. ⭐ Star or 👀 watch the repo to get new cases.
+> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-26**. ⭐ Star or 👀 watch the repo to get new cases.
 >
 > 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
@@ -25,9 +25,9 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 ## Contents
 
 - [How these GIFs are made](#how-these-gifs-are-made)
-- [Stickers & Reactions](#stickers-reactions) · 232 prompts
+- [Stickers & Reactions](#stickers-reactions) · 236 prompts
 - [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 94 prompts
-- [Ambient Loops](#ambient-loops) · 156 prompts
+- [Ambient Loops](#ambient-loops) · 157 prompts
 - [Pixel Art & UI Motion](#pixel-art-ui-motion) · 102 prompts
 - [Science & Explainers](#science-explainers) · 18 prompts
 - [Holidays & Greetings](#holidays-greetings) · 3 prompts
@@ -62,9 +62,73 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 ## Stickers & Reactions
 
-The 12 newest of 232 prompts in this category. [See all 232 →](categories/stickers.md)
+The 12 newest of 236 prompts in this category. [See all 236 →](categories/stickers.md)
 
-### 1. Cat Dancing (OpenAI Demo Prompt)
+### 1. Cat Typing at Furious Speed
+
+<img src="gifs/cat-typing-keyboard-fast.gif" alt="Cat Typing at Furious Speed" width="360">
+
+<sub>44 frames · 360×360 · 3.7s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [@asei_ikarashi on X](https://x.com/asei_ikarashi/status/2125545032564539531)
+
+**Prompt**
+
+```text
+ものすごい速さでキーボードを打つ猫の、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。
+```
+
+`cat` `keyboard` `work` `meme` `minimal-prompt`
+
+### 2. Dancing Cat in a Flower Costume
+
+<img src="gifs/flower-costume-cat-dance.gif" alt="Dancing Cat in a Flower Costume" width="360">
+
+<sub>65 frames · 360×360 · 5.4s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [@asei_ikarashi on X](https://x.com/asei_ikarashi/status/2125545032564539531)
+
+**Prompt**
+
+```text
+花の着ぐるみを着て踊る猫の、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。
+```
+
+`cat` `dance` `costume` `minimal-prompt` `japanese`
+
+### 3. Suit Cat Leaving Work with Pop-in Caption
+
+<img src="gifs/suit-cat-osakini-shitsurei.gif" alt="Suit Cat Leaving Work with Pop-in Caption" width="360">
+
+<sub>16 frames · 298×318 · 2.3s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [@asahi_ai_x on X](https://x.com/asahi_ai_x/status/2125397102457168019)
+
+**Prompt**
+
+```text
+GIFを作って。スーツを着た白い猫が、鞄を持って、会釈して手を振る。画面の下に「お先に失礼します」の日本語の文字が下から弾むように「ぽん」と現れる（文字は大きく太く、一度出たら崩さない）。猫の顔は最初から最後まで同じ顔。背景は白、文字は読みやすい濃い紺色。最後は最初と同じ立ち姿に戻るなめらかなループ。コマ数は多めで。
+```
+
+`cat` `office` `caption` `japanese-text` `greeting`
+
+### 4. White Cat "Big Success" Jump
+
+<img src="gifs/white-cat-big-success-jump.gif" alt="White Cat "Big Success" Jump" width="360">
+
+<sub>16 frames · 312×296 · 1.8s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [@asahi_ai_x on X](https://x.com/asahi_ai_x/status/2125397083486347269)
+
+**Prompt**
+
+```text
+GIFを作って。白いふわふわの猫のキャラクターが「大成功！」を全身で喜ぶ動き。しゃがんで力をためる→大きくジャンプ（空中でつぶれと伸びを使った誇張した動き）→着地で少しつぶれる→両手を上げて笑顔。ジャンプの瞬間にカラフルな紙吹雪とキラキラが舞う。線ははっきり、色はあざやか、背景は白、文字なし。コマ数は多めで、最初と最後が同じポーズになるなめらかなループ。
+```
+
+`cat` `celebration` `squash-and-stretch` `confetti` `japanese`
+
+### 5. Cat Dancing (OpenAI Demo Prompt)
 
 <img src="gifs/openai-demo-cat-dancing.gif" alt="Cat Dancing (OpenAI Demo Prompt)" width="360">
 
@@ -80,7 +144,7 @@ make a gif of a cat dancing
 
 `cat` `dance` `minimal-prompt`
 
-### 2. Office Pigeon Cries Over a Stock Crash
+### 6. Office Pigeon Cries Over a Stock Crash
 
 <img src="gifs/office-pigeon-stock-crash-cry.gif" alt="Office Pigeon Cries Over a Stock Crash" width="360">
 
@@ -122,7 +186,7 @@ No captions, no words, no numbers, no logos, no watermark, no speech bubbles, no
 
 `pigeon` `stocks` `crying` `sprite-sheet`
 
-### 3. Bowl-Cut Dog Scrolling on the Toilet
+### 7. Bowl-Cut Dog Scrolling on the Toilet
 
 <img src="gifs/bowl-cut-dog-toilet-scroll.gif" alt="Bowl-Cut Dog Scrolling on the Toilet" width="360">
 
@@ -138,7 +202,7 @@ Create a single animation sprite sheet for a seamless looping GIF. A photorealis
 
 `dog` `phone` `sprite-sheet` `funny`
 
-### 4. Silverback Gorilla Hip-Shake Dance
+### 8. Silverback Gorilla Hip-Shake Dance
 
 <img src="gifs/silverback-gorilla-hip-dance.gif" alt="Silverback Gorilla Hip-Shake Dance" width="360">
 
@@ -154,7 +218,7 @@ Create a single animation sprite sheet for a seamless looping GIF. A photorealis
 
 `gorilla` `dance` `sprite-sheet` `photoreal`
 
-### 5. Little Robot Says Good Work
+### 9. Little Robot Says Good Work
 
 <img src="gifs/robot-otsukaresama-wave.gif" alt="Little Robot Says Good Work" width="360">
 
@@ -172,7 +236,7 @@ GIFを作って。
 
 `robot` `wave` `work`
 
-### 6. Paper-cut Fox Wave
+### 10. Paper-cut Fox Wave
 
 <img src="gifs/paper-fox-teal-scarf-wave.gif" alt="Paper-cut Fox Wave" width="360">
 
@@ -188,7 +252,7 @@ A cheerful paper-cut fox with a teal scarf sits on a grassy hill, waves one paw,
 
 `fox` `paper-cut` `wave`
 
-### 7. 100 Unread Emails, Laptop Closed
+### 11. 100 Unread Emails, Laptop Closed
 
 <img src="gifs/office-worker-100-unread-emails.gif" alt="100 Unread Emails, Laptop Closed" width="360">
 
@@ -204,7 +268,7 @@ Create a funny animated GIF of a cartoon office worker opening their laptop, see
 
 `reaction` `office` `email` `meme`
 
-### 8. Tuxedo Cat Playing with a Teaser
+### 12. Tuxedo Cat Playing with a Teaser
 
 <img src="gifs/hachiware-cat-teaser-toy.gif" alt="Tuxedo Cat Playing with a Teaser" width="360">
 
@@ -220,71 +284,7 @@ Create a funny animated GIF of a cartoon office worker opening their laptop, see
 
 `cat` `anime` `cute` `japanese`
 
-### 9. Coffee Cat: "Requirements Changed Again"
-
-<img src="gifs/overalls-cat-spec-changed-again.gif" alt="Coffee Cat: "Requirements Changed Again"" width="360">
-
-<sub>96 frames · 480×480 · 8.0s · GPT Image 2.6</sub>
-
-📌 **Source:** [@wolfqing1 on X](https://x.com/wolfqing1/status/2118294955236208942)
-
-**Prompt**
-
-```text
-Chibi-style animated chat sticker, square 1:1, pure white background. Original character: a round chubby orange tabby cat wearing tiny blue denim overalls, holding a small coffee cup with red hearts. The cat shakes its head in exaggerated refusal, coffee sloshing out of the cup, then grins and gives a thumbs up. Bold rounded Chinese text at the top with white outline: '需求又改了'. Exaggerated comedic expression, clean flat vector sticker style, consistent character design across all frames, no background clutter. One core joke only, seamless loop.
-```
-
-`sticker` `cat` `office` `chinese-text` `wechat`
-
-### 10. Street Tabby Cat Batting Yarn
-
-<img src="gifs/street-tabby-cat-yarn-play.gif" alt="Street Tabby Cat Batting Yarn" width="360">
-
-<sub>9 frames · 360×360 · 1.8s · GPT Image 2.6</sub>
-
-📌 **Source:** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
-
-**Prompt**
-
-```text
-A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Batting a ball of red yarn back and forth with its front paws.
-```
-
-`cat` `yarn` `night-street` `realistic`
-
-### 11. Street Tabby Cat Waving Hello
-
-<img src="gifs/street-tabby-cat-waving-hello.gif" alt="Street Tabby Cat Waving Hello" width="360">
-
-<sub>9 frames · 360×360 · 1.8s · GPT Image 2.6</sub>
-
-📌 **Source:** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
-
-**Prompt**
-
-```text
-A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Both front paws waving hello at the camera, cheerful.
-```
-
-`cat` `greeting` `night-street` `realistic`
-
-### 12. Chibi Kung Fu Girl Routine
-
-<img src="gifs/chibi-kungfu-girl.gif" alt="Chibi Kung Fu Girl Routine" width="360">
-
-<sub>38 frames · 356×266 · 8.2s · GPT Image 2.6</sub>
-
-📌 **Source:** [@itnavi2022 on X](https://x.com/itnavi2022/status/2118516145942843865)
-
-**Prompt**
-
-```text
-ちびキャラのカンフー少女が演舞するGIFを作成して
-```
-
-`chibi` `kung-fu` `martial-arts` `short-prompt`
-
-**[See all 232 prompts in this category →](categories/stickers.md)**
+**[See all 236 prompts in this category →](categories/stickers.md)**
 
 ## Flash Cuts & Brand Reels
 
@@ -592,9 +592,25 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 ## Ambient Loops
 
-The 12 newest of 156 prompts in this category. [See all 156 →](categories/loops.md)
+The 12 newest of 157 prompts in this category. [See all 157 →](categories/loops.md)
 
-### 1. White Dove in Golden Cloud Light
+### 1. Rainy Window with Coffee Steam
+
+<img src="gifs/rainy-window-coffee-steam.gif" alt="Rainy Window with Coffee Steam" width="360">
+
+<sub>30 frames · 480×480 · 2.5s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [@asei_ikarashi on X](https://x.com/asei_ikarashi/status/2125545032564539531)
+
+**Prompt**
+
+```text
+雨の窓辺で、雨粒とコーヒーの湯気だけが動く、落ち着いたイラストの、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。
+```
+
+`rain` `coffee` `cozy` `lofi` `minimal-prompt`
+
+### 2. White Dove in Golden Cloud Light
 
 <img src="gifs/golden-cloud-dove-light-rays.gif" alt="White Dove in Golden Cloud Light" width="360">
 
@@ -610,7 +626,7 @@ A seamless looping GIF of a radiant white dove hovering gently in the center of 
 
 `dove` `clouds` `light-rays` `serene`
 
-### 2. Zebra in a Fingerprint Tunnel
+### 3. Zebra in a Fingerprint Tunnel
 
 <img src="gifs/fingerprint-zebra-tunnel.gif" alt="Zebra in a Fingerprint Tunnel" width="360">
 
@@ -632,7 +648,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `zebra` `surreal` `monochrome`
 
-### 3. Riverbank Walk with a Baby Elephant
+### 4. Riverbank Walk with a Baby Elephant
 
 <img src="gifs/raincoat-girl-baby-elephant.gif" alt="Riverbank Walk with a Baby Elephant" width="360">
 
@@ -648,7 +664,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `3d` `animatic` `elephant`
 
-### 4. Purple Spark Tracing a Cyan Circle
+### 5. Purple Spark Tracing a Cyan Circle
 
 <img src="gifs/purple-spark-cyan-orbit.gif" alt="Purple Spark Tracing a Cyan Circle" width="360">
 
@@ -664,7 +680,7 @@ Create a seamless animated GIF of a purple rounded creative spark that gently pu
 
 `abstract` `spark` `minimal`
 
-### 5. Golden Leaf to Umbrella Boat at Sunset
+### 6. Golden Leaf to Umbrella Boat at Sunset
 
 <img src="gifs/golden-leaf-sunset-water.gif" alt="Golden Leaf to Umbrella Boat at Sunset" width="360">
 
@@ -681,7 +697,7 @@ A surreal scene featuring a small black boat with a billowing gold cloth inside,
 
 `nature` `water` `sunset` `calm`
 
-### 6. Street Tabby Cat Asleep in the Rain
+### 7. Street Tabby Cat Asleep in the Rain
 
 <img src="gifs/street-tabby-cat-sleeping.gif" alt="Street Tabby Cat Asleep in the Rain" width="360">
 
@@ -697,7 +713,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `sleeping` `breathing` `night-street`
 
-### 7. Retro 1970s Lava Lamp
+### 8. Retro 1970s Lava Lamp
 
 <img src="gifs/retro-lava-lamp-glow.gif" alt="Retro 1970s Lava Lamp" width="360">
 
@@ -715,7 +731,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `lava-lamp` `retro` `ambient` `loop`
 
-### 8. Ballerina Leap and Landing
+### 9. Ballerina Leap and Landing
 
 <img src="gifs/ballerina-leap-landing.gif" alt="Ballerina Leap and Landing" width="360">
 
@@ -731,7 +747,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 9. Bubblegum Pop Studio Loop
+### 10. Bubblegum Pop Studio Loop
 
 <img src="gifs/bubblegum-pop-loop.gif" alt="Bubblegum Pop Studio Loop" width="360">
 
@@ -747,7 +763,7 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 10. Mount Fuji Gouache Travel Poster
+### 11. Mount Fuji Gouache Travel Poster
 
 <img src="gifs/mount-fuji-gouache-travel-poster.gif" alt="Mount Fuji Gouache Travel Poster" width="360">
 
@@ -763,7 +779,7 @@ A living mid-century gouache travel-poster painting of Mount Fuji behind a five-
 
 `gouache` `travel-poster` `japan` `cherry-blossom`
 
-### 11. Colosseum Gouache Travel Poster
+### 12. Colosseum Gouache Travel Poster
 
 <img src="gifs/colosseum-gouache-travel-poster.gif" alt="Colosseum Gouache Travel Poster" width="360">
 
@@ -779,24 +795,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `gouache` `travel-poster` `rome` `landmark`
 
-### 12. White House 360 Drone Orbit
-
-<img src="gifs/white-house-drone-orbit.gif" alt="White House 360 Drone Orbit" width="360">
-
-<sub>9 frames · 474×352 · 1.6s · GPT Image 2.6</sub>
-
-📌 **Source:** [@nima2qisi2 on X](https://x.com/nima2qisi2/status/2118295936606798006)
-
-**Prompt**
-
-```text
-【白宫外观】360°环绕
-帮我做一个真实白宫外观的360°环绕模仿无人机拍摄，要真实还原建筑环境的实际外观情况，做成gif
-```
-
-`drone` `orbit` `architecture` `landmark`
-
-**[See all 156 prompts in this category →](categories/loops.md)**
+**[See all 157 prompts in this category →](categories/loops.md)**
 
 ## Pixel Art & UI Motion
 

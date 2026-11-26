@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 634+ 个案例
+# Awesome AI GIF Prompts · 639+ 个案例
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-634-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--25-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-639-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--26-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。自有示例都是用所列提示词原样生成的，未做任何后期修改；社区精选标注了来源并署名作者。
 
-> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-25**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
+> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-26**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
 >
 > 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
@@ -25,9 +25,9 @@
 ## 目录
 
 - [这些 GIF 是怎么生成的](#这些-gif-是怎么生成的)
-- [表情包与贴纸](#表情包与贴纸) · 232 条提示词
+- [表情包与贴纸](#表情包与贴纸) · 236 条提示词
 - [快闪与品牌动效](#快闪与品牌动效) · 94 条提示词
-- [氛围循环动画](#氛围循环动画) · 156 条提示词
+- [氛围循环动画](#氛围循环动画) · 157 条提示词
 - [像素风与界面动效](#像素风与界面动效) · 102 条提示词
 - [科普讲解动图](#科普讲解动图) · 18 条提示词
 - [节日与祝福](#节日与祝福) · 3 条提示词
@@ -62,9 +62,73 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 ## 表情包与贴纸
 
-这里展示本分类最新的 12 条（共 232 条）。[查看全部 232 条 →](categories/stickers_zh.md)
+这里展示本分类最新的 12 条（共 236 条）。[查看全部 236 条 →](categories/stickers_zh.md)
 
-### 1. 跳舞的猫（官方示例提示词）
+### 1. 疯狂敲键盘的猫
+
+<img src="gifs/cat-typing-keyboard-fast.gif" alt="疯狂敲键盘的猫" width="360">
+
+<sub>44 帧 · 360×360 · 3.7s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [@asei_ikarashi on X](https://x.com/asei_ikarashi/status/2125545032564539531)
+
+**提示词**
+
+```text
+ものすごい速さでキーボードを打つ猫の、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。
+```
+
+`cat` `keyboard` `work` `meme` `minimal-prompt`
+
+### 2. 穿花朵玩偶服跳舞的猫
+
+<img src="gifs/flower-costume-cat-dance.gif" alt="穿花朵玩偶服跳舞的猫" width="360">
+
+<sub>65 帧 · 360×360 · 5.4s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [@asei_ikarashi on X](https://x.com/asei_ikarashi/status/2125545032564539531)
+
+**提示词**
+
+```text
+花の着ぐるみを着て踊る猫の、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。
+```
+
+`cat` `dance` `costume` `minimal-prompt` `japanese`
+
+### 3. 西装白猫下班告辞（文字弹出）
+
+<img src="gifs/suit-cat-osakini-shitsurei.gif" alt="西装白猫下班告辞（文字弹出）" width="360">
+
+<sub>16 帧 · 298×318 · 2.3s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [@asahi_ai_x on X](https://x.com/asahi_ai_x/status/2125397102457168019)
+
+**提示词**
+
+```text
+GIFを作って。スーツを着た白い猫が、鞄を持って、会釈して手を振る。画面の下に「お先に失礼します」の日本語の文字が下から弾むように「ぽん」と現れる（文字は大きく太く、一度出たら崩さない）。猫の顔は最初から最後まで同じ顔。背景は白、文字は読みやすい濃い紺色。最後は最初と同じ立ち姿に戻るなめらかなループ。コマ数は多めで。
+```
+
+`cat` `office` `caption` `japanese-text` `greeting`
+
+### 4. 白猫“大成功”蓄力大跳
+
+<img src="gifs/white-cat-big-success-jump.gif" alt="白猫“大成功”蓄力大跳" width="360">
+
+<sub>16 帧 · 312×296 · 1.8s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [@asahi_ai_x on X](https://x.com/asahi_ai_x/status/2125397083486347269)
+
+**提示词**
+
+```text
+GIFを作って。白いふわふわの猫のキャラクターが「大成功！」を全身で喜ぶ動き。しゃがんで力をためる→大きくジャンプ（空中でつぶれと伸びを使った誇張した動き）→着地で少しつぶれる→両手を上げて笑顔。ジャンプの瞬間にカラフルな紙吹雪とキラキラが舞う。線ははっきり、色はあざやか、背景は白、文字なし。コマ数は多めで、最初と最後が同じポーズになるなめらかなループ。
+```
+
+`cat` `celebration` `squash-and-stretch` `confetti` `japanese`
+
+### 5. 跳舞的猫（官方示例提示词）
 
 <img src="gifs/openai-demo-cat-dancing.gif" alt="跳舞的猫（官方示例提示词）" width="360">
 
@@ -80,7 +144,7 @@ make a gif of a cat dancing
 
 `cat` `dance` `minimal-prompt`
 
-### 2. 上班族鸽子看股票暴跌哭泣
+### 6. 上班族鸽子看股票暴跌哭泣
 
 <img src="gifs/office-pigeon-stock-crash-cry.gif" alt="上班族鸽子看股票暴跌哭泣" width="360">
 
@@ -122,7 +186,7 @@ No captions, no words, no numbers, no logos, no watermark, no speech bubbles, no
 
 `pigeon` `stocks` `crying` `sprite-sheet`
 
-### 3. 锅盖头狗狗蹲马桶刷手机
+### 7. 锅盖头狗狗蹲马桶刷手机
 
 <img src="gifs/bowl-cut-dog-toilet-scroll.gif" alt="锅盖头狗狗蹲马桶刷手机" width="360">
 
@@ -138,7 +202,7 @@ Create a single animation sprite sheet for a seamless looping GIF. A photorealis
 
 `dog` `phone` `sprite-sheet` `funny`
 
-### 4. 银背大猩猩背影扭胯舞
+### 8. 银背大猩猩背影扭胯舞
 
 <img src="gifs/silverback-gorilla-hip-dance.gif" alt="银背大猩猩背影扭胯舞" width="360">
 
@@ -154,7 +218,7 @@ Create a single animation sprite sheet for a seamless looping GIF. A photorealis
 
 `gorilla` `dance` `sprite-sheet` `photoreal`
 
-### 5. 小机器人挥手说辛苦了
+### 9. 小机器人挥手说辛苦了
 
 <img src="gifs/robot-otsukaresama-wave.gif" alt="小机器人挥手说辛苦了" width="360">
 
@@ -172,7 +236,7 @@ GIFを作って。
 
 `robot` `wave` `work`
 
-### 6. 围青色围巾的剪纸狐狸招手
+### 10. 围青色围巾的剪纸狐狸招手
 
 <img src="gifs/paper-fox-teal-scarf-wave.gif" alt="围青色围巾的剪纸狐狸招手" width="360">
 
@@ -188,7 +252,7 @@ A cheerful paper-cut fox with a teal scarf sits on a grassy hill, waves one paw,
 
 `fox` `paper-cut` `wave`
 
-### 7. 打开电脑见 100 封未读又合上
+### 11. 打开电脑见 100 封未读又合上
 
 <img src="gifs/office-worker-100-unread-emails.gif" alt="打开电脑见 100 封未读又合上" width="360">
 
@@ -204,7 +268,7 @@ Create a funny animated GIF of a cartoon office worker opening their laptop, see
 
 `reaction` `office` `email` `meme`
 
-### 8. 黑白八字猫玩逗猫棒
+### 12. 黑白八字猫玩逗猫棒
 
 <img src="gifs/hachiware-cat-teaser-toy.gif" alt="黑白八字猫玩逗猫棒" width="360">
 
@@ -220,71 +284,7 @@ Create a funny animated GIF of a cartoon office worker opening their laptop, see
 
 `cat` `anime` `cute` `japanese`
 
-### 9. 背带裤橘猫「需求又改了」
-
-<img src="gifs/overalls-cat-spec-changed-again.gif" alt="背带裤橘猫「需求又改了」" width="360">
-
-<sub>96 帧 · 480×480 · 8.0s · GPT Image 2.6</sub>
-
-📌 **来源：** [@wolfqing1 on X](https://x.com/wolfqing1/status/2118294955236208942)
-
-**提示词**
-
-```text
-Chibi-style animated chat sticker, square 1:1, pure white background. Original character: a round chubby orange tabby cat wearing tiny blue denim overalls, holding a small coffee cup with red hearts. The cat shakes its head in exaggerated refusal, coffee sloshing out of the cup, then grins and gives a thumbs up. Bold rounded Chinese text at the top with white outline: '需求又改了'. Exaggerated comedic expression, clean flat vector sticker style, consistent character design across all frames, no background clutter. One core joke only, seamless loop.
-```
-
-`sticker` `cat` `office` `chinese-text` `wechat`
-
-### 10. 雨夜街头橘猫拍毛线球
-
-<img src="gifs/street-tabby-cat-yarn-play.gif" alt="雨夜街头橘猫拍毛线球" width="360">
-
-<sub>9 帧 · 360×360 · 1.8s · GPT Image 2.6</sub>
-
-📌 **来源：** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
-
-**提示词**
-
-```text
-A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Batting a ball of red yarn back and forth with its front paws.
-```
-
-`cat` `yarn` `night-street` `realistic`
-
-### 11. 雨夜街头橘猫双爪打招呼
-
-<img src="gifs/street-tabby-cat-waving-hello.gif" alt="雨夜街头橘猫双爪打招呼" width="360">
-
-<sub>9 帧 · 360×360 · 1.8s · GPT Image 2.6</sub>
-
-📌 **来源：** [mileson (SkillU) on GitHub](https://github.com/mileson/awesome-gpt-images-2.6-gif)
-
-**提示词**
-
-```text
-A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and front paws, big dark round eyes, standing on its hind legs in the middle of a wet night street, dark asphalt reflecting yellow streetlights, buildings with warm yellow lights on the left, a white car parked on the right, realistic candid phone-video look, dark night tones, 9-frame looping animation. Both front paws waving hello at the camera, cheerful.
-```
-
-`cat` `greeting` `night-street` `realistic`
-
-### 12. Q版功夫少女演武
-
-<img src="gifs/chibi-kungfu-girl.gif" alt="Q版功夫少女演武" width="360">
-
-<sub>38 帧 · 356×266 · 8.2s · GPT Image 2.6</sub>
-
-📌 **来源：** [@itnavi2022 on X](https://x.com/itnavi2022/status/2118516145942843865)
-
-**提示词**
-
-```text
-ちびキャラのカンフー少女が演舞するGIFを作成して
-```
-
-`chibi` `kung-fu` `martial-arts` `short-prompt`
-
-**[查看本分类全部 232 条 →](categories/stickers_zh.md)**
+**[查看本分类全部 236 条 →](categories/stickers_zh.md)**
 
 ## 快闪与品牌动效
 
@@ -592,9 +592,25 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 ## 氛围循环动画
 
-这里展示本分类最新的 12 条（共 156 条）。[查看全部 156 条 →](categories/loops_zh.md)
+这里展示本分类最新的 12 条（共 157 条）。[查看全部 157 条 →](categories/loops_zh.md)
 
-### 1. 金色云隙中振翅的白鸽
+### 1. 雨天窗边的咖啡热气
+
+<img src="gifs/rainy-window-coffee-steam.gif" alt="雨天窗边的咖啡热气" width="360">
+
+<sub>30 帧 · 480×480 · 2.5s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [@asei_ikarashi on X](https://x.com/asei_ikarashi/status/2125545032564539531)
+
+**提示词**
+
+```text
+雨の窓辺で、雨粒とコーヒーの湯気だけが動く、落ち着いたイラストの、ループするGIFを作って。カメラは固定で、最後は最初のポーズに戻して。
+```
+
+`rain` `coffee` `cozy` `lofi` `minimal-prompt`
+
+### 2. 金色云隙中振翅的白鸽
 
 <img src="gifs/golden-cloud-dove-light-rays.gif" alt="金色云隙中振翅的白鸽" width="360">
 
@@ -610,7 +626,7 @@ A seamless looping GIF of a radiant white dove hovering gently in the center of 
 
 `dove` `clouds` `light-rays` `serene`
 
-### 2. 指纹隧道里的斑马
+### 3. 指纹隧道里的斑马
 
 <img src="gifs/fingerprint-zebra-tunnel.gif" alt="指纹隧道里的斑马" width="360">
 
@@ -632,7 +648,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `zebra` `surreal` `monochrome`
 
-### 3. 黄雨衣女孩和小象河边散步
+### 4. 黄雨衣女孩和小象河边散步
 
 <img src="gifs/raincoat-girl-baby-elephant.gif" alt="黄雨衣女孩和小象河边散步" width="360">
 
@@ -648,7 +664,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `3d` `animatic` `elephant`
 
-### 4. 紫色灵感火花画出青色圆环
+### 5. 紫色灵感火花画出青色圆环
 
 <img src="gifs/purple-spark-cyan-orbit.gif" alt="紫色灵感火花画出青色圆环" width="360">
 
@@ -664,7 +680,7 @@ Create a seamless animated GIF of a purple rounded creative spark that gently pu
 
 `abstract` `spark` `minimal`
 
-### 5. 夕阳水面：金叶到黑伞小船
+### 6. 夕阳水面：金叶到黑伞小船
 
 <img src="gifs/golden-leaf-sunset-water.gif" alt="夕阳水面：金叶到黑伞小船" width="360">
 
@@ -681,7 +697,7 @@ A surreal scene featuring a small black boat with a billowing gold cloth inside,
 
 `nature` `water` `sunset` `calm`
 
-### 6. 雨夜街头蜷睡的橘猫
+### 7. 雨夜街头蜷睡的橘猫
 
 <img src="gifs/street-tabby-cat-sleeping.gif" alt="雨夜街头蜷睡的橘猫" width="360">
 
@@ -697,7 +713,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `sleeping` `breathing` `night-street`
 
-### 7. 70 年代复古熔岩灯
+### 8. 70 年代复古熔岩灯
 
 <img src="gifs/retro-lava-lamp-glow.gif" alt="70 年代复古熔岩灯" width="360">
 
@@ -715,7 +731,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `lava-lamp` `retro` `ambient` `loop`
 
-### 8. 芭蕾舞者跳跃落地
+### 9. 芭蕾舞者跳跃落地
 
 <img src="gifs/ballerina-leap-landing.gif" alt="芭蕾舞者跳跃落地" width="360">
 
@@ -731,7 +747,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 9. 泡泡糖吹破循环
+### 10. 泡泡糖吹破循环
 
 <img src="gifs/bubblegum-pop-loop.gif" alt="泡泡糖吹破循环" width="360">
 
@@ -747,7 +763,7 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 10. 富士山水粉旅行海报
+### 11. 富士山水粉旅行海报
 
 <img src="gifs/mount-fuji-gouache-travel-poster.gif" alt="富士山水粉旅行海报" width="360">
 
@@ -763,7 +779,7 @@ A living mid-century gouache travel-poster painting of Mount Fuji behind a five-
 
 `gouache` `travel-poster` `japan` `cherry-blossom`
 
-### 11. 罗马斗兽场水粉旅行海报
+### 12. 罗马斗兽场水粉旅行海报
 
 <img src="gifs/colosseum-gouache-travel-poster.gif" alt="罗马斗兽场水粉旅行海报" width="360">
 
@@ -779,24 +795,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `gouache` `travel-poster` `rome` `landmark`
 
-### 12. 白宫外观360度环绕航拍
-
-<img src="gifs/white-house-drone-orbit.gif" alt="白宫外观360度环绕航拍" width="360">
-
-<sub>9 帧 · 474×352 · 1.6s · GPT Image 2.6</sub>
-
-📌 **来源：** [@nima2qisi2 on X](https://x.com/nima2qisi2/status/2118295936606798006)
-
-**提示词**
-
-```text
-【白宫外观】360°环绕
-帮我做一个真实白宫外观的360°环绕模仿无人机拍摄，要真实还原建筑环境的实际外观情况，做成gif
-```
-
-`drone` `orbit` `architecture` `landmark`
-
-**[查看本分类全部 156 条 →](categories/loops_zh.md)**
+**[查看本分类全部 157 条 →](categories/loops_zh.md)**
 
 ## 像素风与界面动效
 

@@ -6812,5 +6812,55 @@
     "generatedAt": "2026-11-25",
     "via": "source",
     "bytes": 1709762
+  },
+  "white-cat-big-success-jump": {
+    "width": 312,
+    "height": 296,
+    "frames": 16,
+    "durationMs": 1750,
+    "model": "GPT Image 2.6 (ChatGPT)",
+    "generatedAt": "2026-11-26",
+    "via": "source",
+    "bytes": 492224
+  },
+  "suit-cat-osakini-shitsurei": {
+    "width": 298,
+    "height": 318,
+    "frames": 16,
+    "durationMs": 2250,
+    "model": "GPT Image 2.6 (ChatGPT)",
+    "generatedAt": "2026-11-26",
+    "via": "source",
+    "bytes": 417230
+  },
+  "flower-costume-cat-dance": {
+    "width": 360,
+    "height": 360,
+    "frames": 65,
+    "durationMs": 5410,
+    "model": "GPT Image 2.6 (ChatGPT)",
+    "generatedAt": "2026-11-26",
+    "via": "source",
+    "bytes": 1579988
+  },
+  "rainy-window-coffee-steam": {
+    "width": 480,
+    "height": 480,
+    "frames": 30,
+    "durationMs": 2500,
+    "model": "GPT Image 2.6 (ChatGPT)",
+    "generatedAt": "2026-11-26",
+    "via": "source",
+    "bytes": 1660663
+  },
+  "cat-typing-keyboard-fast": {
+    "width": 360,
+    "height": 360,
+    "frames": 44,
+    "durationMs": 3660,
+    "model": "GPT Image 2.6 (ChatGPT)",
+    "generatedAt": "2026-11-26",
+    "via": "source",
+    "bytes": 1938335
   }
 }
