@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 639+ Cases
+# Awesome AI GIF Prompts · 641+ Cases
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-639-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--26-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-641-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--27-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Our own examples were generated from the exact prompt shown, with no editing; community picks are marked with their source and credited to their creators.
 
-> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-26**. ⭐ Star or 👀 watch the repo to get new cases.
+> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-27**. ⭐ Star or 👀 watch the repo to get new cases.
 >
 > 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
@@ -29,8 +29,8 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 - [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 94 prompts
 - [Ambient Loops](#ambient-loops) · 157 prompts
 - [Pixel Art & UI Motion](#pixel-art-ui-motion) · 102 prompts
-- [Science & Explainers](#science-explainers) · 18 prompts
-- [Holidays & Greetings](#holidays-greetings) · 3 prompts
+- [Science & Explainers](#science-explainers) · 19 prompts
+- [Holidays & Greetings](#holidays-greetings) · 4 prompts
 - [Product Showcase](#product-showcase) · 13 prompts
 - [Food & Drinks](#food-drinks) · 9 prompts
 - [Animated Avatars](#animated-avatars) · 7 prompts
@@ -1000,9 +1000,25 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 ## Science & Explainers
 
-The 12 newest of 18 prompts in this category. [See all 18 →](categories/explainers.md)
+The 12 newest of 19 prompts in this category. [See all 19 →](categories/explainers.md)
 
-### 1. Light Bulb Halo Pulse
+### 1. How a Submarine Dives and Surfaces
+
+<img src="gifs/submarine-dive-surface-explainer.gif" alt="How a Submarine Dives and Surfaces" width="360">
+
+<sub>8 frames · 358×540 · 2.8s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [谭世隆 on Zhihu](https://zhuanlan.zhihu.com/p/2102475589890454799)
+
+**Prompt**
+
+```text
+创建一个Gif，用动画的形式描绘潜水艇的上升与下沉的原理
+```
+
+`science` `submarine` `buoyancy` `diagram` `chinese`
+
+### 2. Light Bulb Halo Pulse
 
 <img src="gifs/light-bulb-halo-pulse.gif" alt="Light Bulb Halo Pulse" width="360">
 
@@ -1018,7 +1034,7 @@ A single centered minimalist light bulb, its soft golden halo gently pulsing bri
 
 `explainer` `light-bulb` `minimal`
 
-### 2. Luminol Chemiluminescence Vortex
+### 3. Luminol Chemiluminescence Vortex
 
 <img src="gifs/luminol-beaker-vortex.gif" alt="Luminol Chemiluminescence Vortex" width="360">
 
@@ -1038,7 +1054,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chemistry` `luminol` `experiment` `science`
 
-### 3. Osaka Castle Construction Process
+### 4. Osaka Castle Construction Process
 
 <img src="gifs/osaka-castle-construction.gif" alt="Osaka Castle Construction Process" width="360">
 
@@ -1054,7 +1070,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `castle` `construction` `history` `process`
 
-### 4. Water Cycle Classroom Diagram
+### 5. Water Cycle Classroom Diagram
 
 <img src="gifs/water-cycle-classroom-diagram.gif" alt="Water Cycle Classroom Diagram" width="360">
 
@@ -1072,7 +1088,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `water-cycle` `education` `flat-design` `diagram` `chinese-labels`
 
-### 5. Paper invoice to spreadsheet via AI, 4 panels
+### 6. Paper invoice to spreadsheet via AI, 4 panels
 
 <img src="gifs/invoice-ai-scan-flow.gif" alt="Paper invoice to spreadsheet via AI, 4 panels" width="360">
 
@@ -1088,7 +1104,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `workflow` `business` `japanese`
 
-### 6. Seed sprouting in a soil cutaway
+### 7. Seed sprouting in a soil cutaway
 
 <img src="gifs/seed-sprout-soil-cutaway.gif" alt="Seed sprouting in a soil cutaway" width="360">
 
@@ -1104,7 +1120,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `science` `plant` `education`
 
-### 7. Annual revenue bar chart growing
+### 8. Annual revenue bar chart growing
 
 <img src="gifs/revenue-bar-chart-grow.gif" alt="Annual revenue bar chart growing" width="360">
 
@@ -1120,7 +1136,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chart` `business` `data`
 
-### 8. Sicilian Defense chess opening
+### 9. Sicilian Defense chess opening
 
 <img src="gifs/sicilian-defense-chess.gif" alt="Sicilian Defense chess opening" width="360">
 
@@ -1136,7 +1152,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 9. Speaker sound waves
+### 10. Speaker sound waves
 
 <img src="gifs/sound-wave-speaker.gif" alt="Speaker sound waves" width="360">
 
@@ -1150,7 +1166,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 10. Photosynthesis in a leaf
+### 11. Photosynthesis in a leaf
 
 <img src="gifs/photosynthesis-leaf-flow.gif" alt="Photosynthesis in a leaf" width="360">
 
@@ -1164,7 +1180,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 11. Seesaw lever balance
+### 12. Seesaw lever balance
 
 <img src="gifs/seesaw-lever-balance.gif" alt="Seesaw lever balance" width="360">
 
@@ -1178,25 +1194,27 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 12. Prism splits light
+**[See all 19 prompts in this category →](categories/explainers.md)**
 
-<img src="gifs/prism-rainbow-split.gif" alt="Prism splits light" width="360">
+## Holidays & Greetings
 
-<sub>16 frames · 380×252 · 1.9s · gpt-image-2.6 · generated 2026-11-17</sub>
+### 1. Gift Box Pops Open with a Little Ghost
+
+<img src="gifs/clay-gift-box-ghost-pop.gif" alt="Gift Box Pops Open with a Little Ghost" width="360">
+
+<sub>9 frames · 414×414 · 1.3s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [谭世隆 on Zhihu](https://zhuanlan.zhihu.com/p/2102475589890454799)
 
 **Prompt**
 
 ```text
-A white beam of light enters a glass triangular prism and fans out into a rainbow on the other side, the rainbow shimmering gently. Dark background, clean science illustration, fixed camera.
+创建一个卡通3D礼物盒打开然后里面有一个白色小鬼跳出来的惊喜gif，宽高比1:1，采用卡通blender3d渲染的圆润质感，有果冻或弹簧般的力学反馈。
 ```
 
-`light` `prism` `physics`
+`gift` `surprise` `3d` `blender` `squash-and-stretch` `chinese`
 
-**[See all 18 prompts in this category →](categories/explainers.md)**
-
-## Holidays & Greetings
-
-### 1. Felt-style birthday cake with a party kitten
+### 2. Felt-style birthday cake with a party kitten
 
 <img src="gifs/felt-birthday-cake-kitten.gif" alt="Felt-style birthday cake with a party kitten" width="360">
 
@@ -1212,7 +1230,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `birthday` `felt` `greeting`
 
-### 2. Thank-you pie with rising steam
+### 3. Thank-you pie with rising steam
 
 <img src="gifs/harvest-pie-steam.gif" alt="Thank-you pie with rising steam" width="360">
 
@@ -1226,7 +1244,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 3. Gingerbread house waving
+### 4. Gingerbread house waving
 
 <img src="gifs/gingerbread-door-wave.gif" alt="Gingerbread house waving" width="360">
 

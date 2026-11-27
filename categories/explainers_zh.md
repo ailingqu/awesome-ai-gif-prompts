@@ -1,8 +1,24 @@
-# 科普讲解动图 · 18 条提示词
+# 科普讲解动图 · 19 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 灯泡光晕明暗呼吸
+### 1. 潜水艇上浮与下沉原理动画
+
+<img src="../gifs/submarine-dive-surface-explainer.gif" alt="潜水艇上浮与下沉原理动画" width="360">
+
+<sub>8 帧 · 358×540 · 2.8s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [谭世隆 on Zhihu](https://zhuanlan.zhihu.com/p/2102475589890454799)
+
+**提示词**
+
+```text
+创建一个Gif，用动画的形式描绘潜水艇的上升与下沉的原理
+```
+
+`science` `submarine` `buoyancy` `diagram` `chinese`
+
+### 2. 灯泡光晕明暗呼吸
 
 <img src="../gifs/light-bulb-halo-pulse.gif" alt="灯泡光晕明暗呼吸" width="360">
 
@@ -18,7 +34,7 @@ A single centered minimalist light bulb, its soft golden halo gently pulsing bri
 
 `explainer` `light-bulb` `minimal`
 
-### 2. 烧杯漩涡鲁米诺化学发光
+### 3. 烧杯漩涡鲁米诺化学发光
 
 <img src="../gifs/luminol-beaker-vortex.gif" alt="烧杯漩涡鲁米诺化学发光" width="360">
 
@@ -38,7 +54,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chemistry` `luminol` `experiment` `science`
 
-### 3. 大阪城建造过程
+### 4. 大阪城建造过程
 
 <img src="../gifs/osaka-castle-construction.gif" alt="大阪城建造过程" width="360">
 
@@ -54,7 +70,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `castle` `construction` `history` `process`
 
-### 4. 水循环科普示意动图
+### 5. 水循环科普示意动图
 
 <img src="../gifs/water-cycle-classroom-diagram.gif" alt="水循环科普示意动图" width="360">
 
@@ -72,7 +88,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `water-cycle` `education` `flat-design` `diagram` `chinese-labels`
 
-### 5. 纸质发票经 AI 识别入表（四格流程）
+### 6. 纸质发票经 AI 识别入表（四格流程）
 
 <img src="../gifs/invoice-ai-scan-flow.gif" alt="纸质发票经 AI 识别入表（四格流程）" width="360">
 
@@ -88,7 +104,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `workflow` `business` `japanese`
 
-### 6. 土壤剖面里种子发芽
+### 7. 土壤剖面里种子发芽
 
 <img src="../gifs/seed-sprout-soil-cutaway.gif" alt="土壤剖面里种子发芽" width="360">
 
@@ -104,7 +120,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `science` `plant` `education`
 
-### 7. 年度营收柱状图逐年增长
+### 8. 年度营收柱状图逐年增长
 
 <img src="../gifs/revenue-bar-chart-grow.gif" alt="年度营收柱状图逐年增长" width="360">
 
@@ -120,7 +136,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chart` `business` `data`
 
-### 8. 西西里防御开局动画
+### 9. 西西里防御开局动画
 
 <img src="../gifs/sicilian-defense-chess.gif" alt="西西里防御开局动画" width="360">
 
@@ -136,7 +152,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 9. 扬声器声波传播
+### 10. 扬声器声波传播
 
 <img src="../gifs/sound-wave-speaker.gif" alt="扬声器声波传播" width="360">
 
@@ -150,7 +166,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 10. 叶片光合作用示意
+### 11. 叶片光合作用示意
 
 <img src="../gifs/photosynthesis-leaf-flow.gif" alt="叶片光合作用示意" width="360">
 
@@ -164,7 +180,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 11. 跷跷板杠杆平衡
+### 12. 跷跷板杠杆平衡
 
 <img src="../gifs/seesaw-lever-balance.gif" alt="跷跷板杠杆平衡" width="360">
 
@@ -178,7 +194,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 12. 三棱镜分光
+### 13. 三棱镜分光
 
 <img src="../gifs/prism-rainbow-split.gif" alt="三棱镜分光" width="360">
 
@@ -192,7 +208,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `light` `prism` `physics`
 
-### 13. 行星绕日运行
+### 14. 行星绕日运行
 
 <img src="../gifs/solar-system-orbit.gif" alt="行星绕日运行" width="360">
 
@@ -206,7 +222,7 @@ A flat top-down diagram of a glowing sun with four colorful planets moving along
 
 `solar-system` `astronomy` `diagram`
 
-### 14. 心脏跳动示意
+### 15. 心脏跳动示意
 
 <img src="../gifs/heart-pump-diagram.gif" alt="心脏跳动示意" width="360">
 
@@ -220,7 +236,7 @@ A friendly simplified anatomical heart in red and blue squeezes and relaxes in a
 
 `heart` `biology` `infographic`
 
-### 15. 豆子发芽地下剖面
+### 16. 豆子发芽地下剖面
 
 <img src="../gifs/bean-roots-cutaway.gif" alt="豆子发芽地下剖面" width="360">
 
@@ -234,7 +250,7 @@ A cutaway of a soil pot shows a bean seed splitting open, a root reaching down a
 
 `plant` `germination` `biology`
 
-### 16. 月相变化
+### 17. 月相变化
 
 <img src="../gifs/moon-phases-cycle.gif" alt="月相变化" width="360">
 
@@ -248,7 +264,7 @@ A single moon centered in a square frame of dark starry sky goes through its pha
 
 `moon` `astronomy` `science`
 
-### 17. 水循环示意
+### 18. 水循环示意
 
 <img src="../gifs/water-cycle-loop.gif" alt="水循环示意" width="360">
 
@@ -262,7 +278,7 @@ A friendly cutaway landscape showing the water cycle: vapor rises from a lake, g
 
 `water-cycle` `science` `diagram`
 
-### 18. 单摆来回摆动
+### 19. 单摆来回摆动
 
 <img src="../gifs/pendulum-swing-trace.gif" alt="单摆来回摆动" width="360">
 

@@ -1,8 +1,24 @@
-# Holidays & Greetings · 3 prompts
+# Holidays & Greetings · 4 prompts
 
 [← README](../README.md)
 
-### 1. Felt-style birthday cake with a party kitten
+### 1. Gift Box Pops Open with a Little Ghost
+
+<img src="../gifs/clay-gift-box-ghost-pop.gif" alt="Gift Box Pops Open with a Little Ghost" width="360">
+
+<sub>9 frames · 414×414 · 1.3s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **Source:** [谭世隆 on Zhihu](https://zhuanlan.zhihu.com/p/2102475589890454799)
+
+**Prompt**
+
+```text
+创建一个卡通3D礼物盒打开然后里面有一个白色小鬼跳出来的惊喜gif，宽高比1:1，采用卡通blender3d渲染的圆润质感，有果冻或弹簧般的力学反馈。
+```
+
+`gift` `surprise` `3d` `blender` `squash-and-stretch` `chinese`
+
+### 2. Felt-style birthday cake with a party kitten
 
 <img src="../gifs/felt-birthday-cake-kitten.gif" alt="Felt-style birthday cake with a party kitten" width="360">
 
@@ -18,7 +34,7 @@
 
 `birthday` `felt` `greeting`
 
-### 2. Thank-you pie with rising steam
+### 3. Thank-you pie with rising steam
 
 <img src="../gifs/harvest-pie-steam.gif" alt="Thank-you pie with rising steam" width="360">
 
@@ -32,7 +48,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 3. Gingerbread house waving
+### 4. Gingerbread house waving
 
 <img src="../gifs/gingerbread-door-wave.gif" alt="Gingerbread house waving" width="360">
 

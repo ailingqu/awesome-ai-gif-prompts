@@ -8779,6 +8779,47 @@
         "handle": "asei_ikarashi",
         "profile_url": "https://x.com/asei_ikarashi"
       }
+    },
+    {
+      "id": "clay-gift-box-ghost-pop",
+      "category": "holidays",
+      "title": "Gift Box Pops Open with a Little Ghost",
+      "title_zh": "3D 礼物盒打开蹦出白色小鬼",
+      "prompt": "创建一个卡通3D礼物盒打开然后里面有一个白色小鬼跳出来的惊喜gif，宽高比1:1，采用卡通blender3d渲染的圆润质感，有果冻或弹簧般的力学反馈。",
+      "tags": [
+        "gift",
+        "surprise",
+        "3d",
+        "blender",
+        "squash-and-stretch",
+        "chinese"
+      ],
+      "source": {
+        "platform": "Zhihu",
+        "url": "https://zhuanlan.zhihu.com/p/2102475589890454799",
+        "author": "谭世隆",
+        "profile_url": "https://www.zhihu.com/people/tan-shi-long"
+      }
+    },
+    {
+      "id": "submarine-dive-surface-explainer",
+      "category": "explainers",
+      "title": "How a Submarine Dives and Surfaces",
+      "title_zh": "潜水艇上浮与下沉原理动画",
+      "prompt": "创建一个Gif，用动画的形式描绘潜水艇的上升与下沉的原理",
+      "tags": [
+        "science",
+        "submarine",
+        "buoyancy",
+        "diagram",
+        "chinese"
+      ],
+      "source": {
+        "platform": "Zhihu",
+        "url": "https://zhuanlan.zhihu.com/p/2102475589890454799",
+        "author": "谭世隆",
+        "profile_url": "https://www.zhihu.com/people/tan-shi-long"
+      }
     }
   ]
 }

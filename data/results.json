@@ -6862,5 +6862,25 @@
     "generatedAt": "2026-11-26",
     "via": "source",
     "bytes": 1938335
+  },
+  "clay-gift-box-ghost-pop": {
+    "width": 414,
+    "height": 414,
+    "frames": 9,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6 (ChatGPT)",
+    "generatedAt": "2026-11-27",
+    "via": "source",
+    "bytes": 370003
+  },
+  "submarine-dive-surface-explainer": {
+    "width": 358,
+    "height": 540,
+    "frames": 8,
+    "durationMs": 2830,
+    "model": "GPT Image 2.6 (ChatGPT)",
+    "generatedAt": "2026-11-27",
+    "via": "source",
+    "bytes": 723590
   }
 }

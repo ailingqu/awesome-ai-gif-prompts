@@ -1,8 +1,24 @@
-# 节日与祝福 · 3 条提示词
+# 节日与祝福 · 4 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 羊毛毡风生日蛋糕与戴帽小猫
+### 1. 3D 礼物盒打开蹦出白色小鬼
+
+<img src="../gifs/clay-gift-box-ghost-pop.gif" alt="3D 礼物盒打开蹦出白色小鬼" width="360">
+
+<sub>9 帧 · 414×414 · 1.3s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [谭世隆 on Zhihu](https://zhuanlan.zhihu.com/p/2102475589890454799)
+
+**提示词**
+
+```text
+创建一个卡通3D礼物盒打开然后里面有一个白色小鬼跳出来的惊喜gif，宽高比1:1，采用卡通blender3d渲染的圆润质感，有果冻或弹簧般的力学反馈。
+```
+
+`gift` `surprise` `3d` `blender` `squash-and-stretch` `chinese`
+
+### 2. 羊毛毡风生日蛋糕与戴帽小猫
 
 <img src="../gifs/felt-birthday-cake-kitten.gif" alt="羊毛毡风生日蛋糕与戴帽小猫" width="360">
 
@@ -18,7 +34,7 @@
 
 `birthday` `felt` `greeting`
 
-### 2. 冒热气的感恩节南瓜派
+### 3. 冒热气的感恩节南瓜派
 
 <img src="../gifs/harvest-pie-steam.gif" alt="冒热气的感恩节南瓜派" width="360">
 
@@ -32,7 +48,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 3. 姜饼屋门口挥手的小姜饼人
+### 4. 姜饼屋门口挥手的小姜饼人
 
 <img src="../gifs/gingerbread-door-wave.gif" alt="姜饼屋门口挥手的小姜饼人" width="360">
 

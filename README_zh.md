@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 639+ 个案例
+# Awesome AI GIF Prompts · 641+ 个案例
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-639-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--26-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-641-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--27-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。自有示例都是用所列提示词原样生成的，未做任何后期修改；社区精选标注了来源并署名作者。
 
-> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-26**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
+> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-27**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
 >
 > 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
@@ -29,8 +29,8 @@
 - [快闪与品牌动效](#快闪与品牌动效) · 94 条提示词
 - [氛围循环动画](#氛围循环动画) · 157 条提示词
 - [像素风与界面动效](#像素风与界面动效) · 102 条提示词
-- [科普讲解动图](#科普讲解动图) · 18 条提示词
-- [节日与祝福](#节日与祝福) · 3 条提示词
+- [科普讲解动图](#科普讲解动图) · 19 条提示词
+- [节日与祝福](#节日与祝福) · 4 条提示词
 - [电商与产品展示](#电商与产品展示) · 13 条提示词
 - [美食饮品](#美食饮品) · 9 条提示词
 - [动态头像](#动态头像) · 7 条提示词
@@ -1000,9 +1000,25 @@ Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered 
 
 ## 科普讲解动图
 
-这里展示本分类最新的 12 条（共 18 条）。[查看全部 18 条 →](categories/explainers_zh.md)
+这里展示本分类最新的 12 条（共 19 条）。[查看全部 19 条 →](categories/explainers_zh.md)
 
-### 1. 灯泡光晕明暗呼吸
+### 1. 潜水艇上浮与下沉原理动画
+
+<img src="gifs/submarine-dive-surface-explainer.gif" alt="潜水艇上浮与下沉原理动画" width="360">
+
+<sub>8 帧 · 358×540 · 2.8s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [谭世隆 on Zhihu](https://zhuanlan.zhihu.com/p/2102475589890454799)
+
+**提示词**
+
+```text
+创建一个Gif，用动画的形式描绘潜水艇的上升与下沉的原理
+```
+
+`science` `submarine` `buoyancy` `diagram` `chinese`
+
+### 2. 灯泡光晕明暗呼吸
 
 <img src="gifs/light-bulb-halo-pulse.gif" alt="灯泡光晕明暗呼吸" width="360">
 
@@ -1018,7 +1034,7 @@ A single centered minimalist light bulb, its soft golden halo gently pulsing bri
 
 `explainer` `light-bulb` `minimal`
 
-### 2. 烧杯漩涡鲁米诺化学发光
+### 3. 烧杯漩涡鲁米诺化学发光
 
 <img src="gifs/luminol-beaker-vortex.gif" alt="烧杯漩涡鲁米诺化学发光" width="360">
 
@@ -1038,7 +1054,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chemistry` `luminol` `experiment` `science`
 
-### 3. 大阪城建造过程
+### 4. 大阪城建造过程
 
 <img src="gifs/osaka-castle-construction.gif" alt="大阪城建造过程" width="360">
 
@@ -1054,7 +1070,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `castle` `construction` `history` `process`
 
-### 4. 水循环科普示意动图
+### 5. 水循环科普示意动图
 
 <img src="gifs/water-cycle-classroom-diagram.gif" alt="水循环科普示意动图" width="360">
 
@@ -1072,7 +1088,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `water-cycle` `education` `flat-design` `diagram` `chinese-labels`
 
-### 5. 纸质发票经 AI 识别入表（四格流程）
+### 6. 纸质发票经 AI 识别入表（四格流程）
 
 <img src="gifs/invoice-ai-scan-flow.gif" alt="纸质发票经 AI 识别入表（四格流程）" width="360">
 
@@ -1088,7 +1104,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `workflow` `business` `japanese`
 
-### 6. 土壤剖面里种子发芽
+### 7. 土壤剖面里种子发芽
 
 <img src="gifs/seed-sprout-soil-cutaway.gif" alt="土壤剖面里种子发芽" width="360">
 
@@ -1104,7 +1120,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `science` `plant` `education`
 
-### 7. 年度营收柱状图逐年增长
+### 8. 年度营收柱状图逐年增长
 
 <img src="gifs/revenue-bar-chart-grow.gif" alt="年度营收柱状图逐年增长" width="360">
 
@@ -1120,7 +1136,7 @@ C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 
 `chart` `business` `data`
 
-### 8. 西西里防御开局动画
+### 9. 西西里防御开局动画
 
 <img src="gifs/sicilian-defense-chess.gif" alt="西西里防御开局动画" width="360">
 
@@ -1136,7 +1152,7 @@ A simple animation of the Sicilian Defense opening on a chess board, flat vector
 
 `chess` `opening` `diagram`
 
-### 9. 扬声器声波传播
+### 10. 扬声器声波传播
 
 <img src="gifs/sound-wave-speaker.gif" alt="扬声器声波传播" width="360">
 
@@ -1150,7 +1166,7 @@ Side view diagram of a loudspeaker whose cone pushes in and out, sending evenly 
 
 `sound` `physics` `waves`
 
-### 10. 叶片光合作用示意
+### 11. 叶片光合作用示意
 
 <img src="gifs/photosynthesis-leaf-flow.gif" alt="叶片光合作用示意" width="360">
 
@@ -1164,7 +1180,7 @@ Simple science diagram of a green leaf: yellow sun rays enter from the top, blue
 
 `photosynthesis` `biology` `diagram`
 
-### 11. 跷跷板杠杆平衡
+### 12. 跷跷板杠杆平衡
 
 <img src="gifs/seesaw-lever-balance.gif" alt="跷跷板杠杆平衡" width="360">
 
@@ -1178,25 +1194,27 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `lever` `physics` `simple-machines`
 
-### 12. 三棱镜分光
+**[查看本分类全部 19 条 →](categories/explainers_zh.md)**
 
-<img src="gifs/prism-rainbow-split.gif" alt="三棱镜分光" width="360">
+## 节日与祝福
 
-<sub>16 帧 · 380×252 · 1.9s · gpt-image-2.6 · 生成于 2026-11-17</sub>
+### 1. 3D 礼物盒打开蹦出白色小鬼
+
+<img src="gifs/clay-gift-box-ghost-pop.gif" alt="3D 礼物盒打开蹦出白色小鬼" width="360">
+
+<sub>9 帧 · 414×414 · 1.3s · GPT Image 2.6 (ChatGPT)</sub>
+
+📌 **来源：** [谭世隆 on Zhihu](https://zhuanlan.zhihu.com/p/2102475589890454799)
 
 **提示词**
 
 ```text
-A white beam of light enters a glass triangular prism and fans out into a rainbow on the other side, the rainbow shimmering gently. Dark background, clean science illustration, fixed camera.
+创建一个卡通3D礼物盒打开然后里面有一个白色小鬼跳出来的惊喜gif，宽高比1:1，采用卡通blender3d渲染的圆润质感，有果冻或弹簧般的力学反馈。
 ```
 
-`light` `prism` `physics`
+`gift` `surprise` `3d` `blender` `squash-and-stretch` `chinese`
 
-**[查看本分类全部 18 条 →](categories/explainers_zh.md)**
-
-## 节日与祝福
-
-### 1. 羊毛毡风生日蛋糕与戴帽小猫
+### 2. 羊毛毡风生日蛋糕与戴帽小猫
 
 <img src="gifs/felt-birthday-cake-kitten.gif" alt="羊毛毡风生日蛋糕与戴帽小猫" width="360">
 
@@ -1212,7 +1230,7 @@ A white beam of light enters a glass triangular prism and fans out into a rainbo
 
 `birthday` `felt` `greeting`
 
-### 2. 冒热气的感恩节南瓜派
+### 3. 冒热气的感恩节南瓜派
 
 <img src="gifs/harvest-pie-steam.gif" alt="冒热气的感恩节南瓜派" width="360">
 
@@ -1226,7 +1244,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 3. 姜饼屋门口挥手的小姜饼人
+### 4. 姜饼屋门口挥手的小姜饼人
 
 <img src="gifs/gingerbread-door-wave.gif" alt="姜饼屋门口挥手的小姜饼人" width="360">
 
