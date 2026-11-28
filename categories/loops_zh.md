@@ -1,8 +1,40 @@
-# 氛围循环动画 · 157 条提示词
+# 氛围循环动画 · 159 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 雨天窗边的咖啡热气
+### 1. 纸船驶过人行道上的雨水坑
+
+<img src="../gifs/paper-boat-sidewalk-rain-puddle.gif" alt="纸船驶过人行道上的雨水坑" width="360">
+
+<sub>9 帧 · 384×384 · 1.8s · GPT Image 2.6 Flare (API)</sub>
+
+📌 **来源：** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**提示词**
+
+```text
+Looping animation of a tiny paper boat sailing through a rain puddle on a city sidewalk, ripples spreading, flat illustrated style.
+```
+
+`paper-boat` `rain` `puddle` `flat-illustration`
+
+### 2. 水彩橘猫在阳光窗台上眨眼甩尾
+
+<img src="../gifs/watercolor-ginger-cat-sunny-windowsill.gif" alt="水彩橘猫在阳光窗台上眨眼甩尾" width="360">
+
+<sub>9 帧 · 432×768 · 1.3s · GPT Image 2.6 Flare (API)</sub>
+
+📌 **来源：** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**提示词**
+
+```text
+Looping animation of a ginger cat on a sunny windowsill, slowly blinking and flicking its tail, watercolor style.
+```
+
+`cat` `watercolor` `windowsill` `cozy`
+
+### 3. 雨天窗边的咖啡热气
 
 <img src="../gifs/rainy-window-coffee-steam.gif" alt="雨天窗边的咖啡热气" width="360">
 
@@ -18,7 +50,7 @@
 
 `rain` `coffee` `cozy` `lofi` `minimal-prompt`
 
-### 2. 金色云隙中振翅的白鸽
+### 4. 金色云隙中振翅的白鸽
 
 <img src="../gifs/golden-cloud-dove-light-rays.gif" alt="金色云隙中振翅的白鸽" width="360">
 
@@ -34,7 +66,7 @@ A seamless looping GIF of a radiant white dove hovering gently in the center of 
 
 `dove` `clouds` `light-rays` `serene`
 
-### 3. 指纹隧道里的斑马
+### 5. 指纹隧道里的斑马
 
 <img src="../gifs/fingerprint-zebra-tunnel.gif" alt="指纹隧道里的斑马" width="360">
 
@@ -56,7 +88,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `zebra` `surreal` `monochrome`
 
-### 4. 黄雨衣女孩和小象河边散步
+### 6. 黄雨衣女孩和小象河边散步
 
 <img src="../gifs/raincoat-girl-baby-elephant.gif" alt="黄雨衣女孩和小象河边散步" width="360">
 
@@ -72,7 +104,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `3d` `animatic` `elephant`
 
-### 5. 紫色灵感火花画出青色圆环
+### 7. 紫色灵感火花画出青色圆环
 
 <img src="../gifs/purple-spark-cyan-orbit.gif" alt="紫色灵感火花画出青色圆环" width="360">
 
@@ -88,7 +120,7 @@ Create a seamless animated GIF of a purple rounded creative spark that gently pu
 
 `abstract` `spark` `minimal`
 
-### 6. 夕阳水面：金叶到黑伞小船
+### 8. 夕阳水面：金叶到黑伞小船
 
 <img src="../gifs/golden-leaf-sunset-water.gif" alt="夕阳水面：金叶到黑伞小船" width="360">
 
@@ -105,7 +137,7 @@ A surreal scene featuring a small black boat with a billowing gold cloth inside,
 
 `nature` `water` `sunset` `calm`
 
-### 7. 雨夜街头蜷睡的橘猫
+### 9. 雨夜街头蜷睡的橘猫
 
 <img src="../gifs/street-tabby-cat-sleeping.gif" alt="雨夜街头蜷睡的橘猫" width="360">
 
@@ -121,7 +153,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `sleeping` `breathing` `night-street`
 
-### 8. 70 年代复古熔岩灯
+### 10. 70 年代复古熔岩灯
 
 <img src="../gifs/retro-lava-lamp-glow.gif" alt="70 年代复古熔岩灯" width="360">
 
@@ -139,7 +171,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `lava-lamp` `retro` `ambient` `loop`
 
-### 9. 芭蕾舞者跳跃落地
+### 11. 芭蕾舞者跳跃落地
 
 <img src="../gifs/ballerina-leap-landing.gif" alt="芭蕾舞者跳跃落地" width="360">
 
@@ -155,7 +187,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 10. 泡泡糖吹破循环
+### 12. 泡泡糖吹破循环
 
 <img src="../gifs/bubblegum-pop-loop.gif" alt="泡泡糖吹破循环" width="360">
 
@@ -171,7 +203,7 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 11. 富士山水粉旅行海报
+### 13. 富士山水粉旅行海报
 
 <img src="../gifs/mount-fuji-gouache-travel-poster.gif" alt="富士山水粉旅行海报" width="360">
 
@@ -187,7 +219,7 @@ A living mid-century gouache travel-poster painting of Mount Fuji behind a five-
 
 `gouache` `travel-poster` `japan` `cherry-blossom`
 
-### 12. 罗马斗兽场水粉旅行海报
+### 14. 罗马斗兽场水粉旅行海报
 
 <img src="../gifs/colosseum-gouache-travel-poster.gif" alt="罗马斗兽场水粉旅行海报" width="360">
 
@@ -203,7 +235,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `gouache` `travel-poster` `rome` `landmark`
 
-### 13. 白宫外观360度环绕航拍
+### 15. 白宫外观360度环绕航拍
 
 <img src="../gifs/white-house-drone-orbit.gif" alt="白宫外观360度环绕航拍" width="360">
 
@@ -220,7 +252,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `drone` `orbit` `architecture` `landmark`
 
-### 14. 金门大桥水粉旅行海报
+### 16. 金门大桥水粉旅行海报
 
 <img src="../gifs/golden-gate-gouache-travel-poster.gif" alt="金门大桥水粉旅行海报" width="360">
 
@@ -236,7 +268,7 @@ A living mid-century gouache travel-poster painting of the Golden Gate Bridge se
 
 `gouache` `travel-poster` `bridge` `waves`
 
-### 15. 雪林提灯小猴
+### 17. 雪林提灯小猴
 
 <img src="../gifs/lantern-monkey-snowy-forest.gif" alt="雪林提灯小猴" width="360">
 
@@ -252,7 +284,7 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 `monkey` `lantern` `snow` `seamless`
 
-### 16. 拉各斯街头机器人跳舞
+### 18. 拉各斯街头机器人跳舞
 
 <img src="../gifs/robot-afrobeats-lagos-street.gif" alt="拉各斯街头机器人跳舞" width="360">
 
@@ -268,7 +300,7 @@ Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. M
 
 `robot` `dance` `afrobeats` `street`
 
-### 17. 纽约雪景水晶球
+### 19. 纽约雪景水晶球
 
 <img src="../gifs/nyc-snow-globe.gif" alt="纽约雪景水晶球" width="360">
 
@@ -284,7 +316,7 @@ generate an animated gif of a beautiful NYC snow globe
 
 `snow-globe` `city` `winter` `snow`
 
-### 18. 水面漂浮的纸船
+### 20. 水面漂浮的纸船
 
 <img src="../gifs/paper-boat-bobbing.gif" alt="水面漂浮的纸船" width="360">
 
@@ -300,7 +332,7 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 `paper-boat` `water` `seamless` `calm`
 
-### 19. 机器人冲咖啡
+### 21. 机器人冲咖啡
 
 <img src="../gifs/robot-brewing-coffee.gif" alt="机器人冲咖啡" width="360">
 
@@ -316,7 +348,7 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 `robot` `coffee` `brewing` `short-prompt`
 
-### 20. 冬日庭院劈柴老爷爷
+### 22. 冬日庭院劈柴老爷爷
 
 <img src="../gifs/grandpa-chopping-wood-winter.gif" alt="冬日庭院劈柴老爷爷" width="360">
 
@@ -332,7 +364,7 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 `winter` `wood-chopping` `yard` `everyday`
 
-### 21. 橘色小猫扑向镜头
+### 23. 橘色小猫扑向镜头
 
 <img src="../gifs/ginger-kitten-boops-lens.gif" alt="橘色小猫扑向镜头" width="360">
 
@@ -348,7 +380,7 @@ Animated 9-frame looping GIF. Fixed camera at floor level, bright cozy living ro
 
 `kitten` `photoreal` `camera` `playful`
 
-### 22. 黏土小猫玩海洋球
+### 24. 黏土小猫玩海洋球
 
 <img src="../gifs/claymation-kitten-ball-pit.gif" alt="黏土小猫玩海洋球" width="360">
 
@@ -364,7 +396,7 @@ generate an animated gif of a claymation kitten playing in a plastic ball pit
 
 `kitten` `claymation` `ball-pit` `cute`
 
-### 23. 屋顶小宇航员与发光纸星星
+### 25. 屋顶小宇航员与发光纸星星
 
 <img src="../gifs/rooftop-astronaut-glowing-paper-star.gif" alt="屋顶小宇航员与发光纸星星" width="360">
 
@@ -380,7 +412,7 @@ Create a short, seamless looping GIF in a whimsical cinematic illustration style
 
 `astronaut` `night` `mini-story` `illustration`
 
-### 24. 悉尼旅行手账与摇曳棕榈影
+### 26. 悉尼旅行手账与摇曳棕榈影
 
 <img src="../gifs/sydney-travel-journal-palm-shadow.gif" alt="悉尼旅行手账与摇曳棕榈影" width="360">
 
@@ -400,7 +432,7 @@ Keep the same journal, photos, sketch and heading in every frame. Overhead camer
 
 `cinemagraph` `travel` `scrapbook` `journal` `shadow`
 
-### 25. 窗边橘猫慢慢眨眼
+### 27. 窗边橘猫慢慢眨眼
 
 <img src="../gifs/window-orange-cat-blink.gif" alt="窗边橘猫慢慢眨眼" width="360">
 
@@ -416,7 +448,7 @@ Keep the same journal, photos, sketch and heading in every frame. Overhead camer
 
 `cat` `cozy` `illustration`
 
-### 26. 水彩绘本小镇樱花飘落
+### 28. 水彩绘本小镇樱花飘落
 
 <img src="../gifs/watercolor-sakura-town-breeze.gif" alt="水彩绘本小镇樱花飘落" width="360">
 
@@ -432,7 +464,7 @@ Keep the same journal, photos, sketch and heading in every frame. Overhead camer
 
 `watercolor` `sakura` `storybook`
 
-### 27. 复古黄铜节拍器摆动
+### 29. 复古黄铜节拍器摆动
 
 <img src="../gifs/brass-metronome-swing.gif" alt="复古黄铜节拍器摆动" width="360">
 
@@ -448,7 +480,7 @@ Clean studio illustration on a muted sage-green background, locked dead-center f
 
 `metronome` `mechanical` `loop`
 
-### 28. 雪夜篝火（16 帧）
+### 30. 雪夜篝火（16 帧）
 
 <img src="../gifs/snowy-twilight-campfire.gif" alt="雪夜篝火（16 帧）" width="360">
 
@@ -464,7 +496,7 @@ Flat storybook winter landscape illustration, locked wide camera. In a quiet twi
 
 `winter` `campfire` `storybook`
 
-### 29. 雨夜窗外路灯倒影涟漪
+### 31. 雨夜窗外路灯倒影涟漪
 
 <img src="../gifs/rainy-dusk-window-puddle.gif" alt="雨夜窗外路灯倒影涟漪" width="360">
 
@@ -480,7 +512,7 @@ Cozy lo-fi anime illustration seen through a dark wooden apartment window at dus
 
 `rain` `lo-fi` `anime`
 
-### 30. 晨雾中的广州塔
+### 32. 晨雾中的广州塔
 
 <img src="../gifs/canton-tower-morning-mist.gif" alt="晨雾中的广州塔" width="360">
 
@@ -496,7 +528,7 @@ Cozy lo-fi anime illustration seen through a dark wooden apartment window at dus
 
 `city` `mist` `river`
 
-### 31. 树枝上扇动翅膀的橙色小鸟
+### 33. 树枝上扇动翅膀的橙色小鸟
 
 <img src="../gifs/orange-bird-branch-flap.gif" alt="树枝上扇动翅膀的橙色小鸟" width="360">
 
@@ -512,7 +544,7 @@ Create a looping animation of a small orange bird on a stationary branch against
 
 `bird` `loop` `api`
 
-### 32. 雪花球里的小木屋
+### 34. 雪花球里的小木屋
 
 <img src="../gifs/snow-globe-cabin-shake.gif" alt="雪花球里的小木屋" width="360">
 
@@ -526,7 +558,7 @@ A glass snow globe with a tiny red cabin and pine trees inside; snowflakes swirl
 
 `snow-globe` `winter` `cozy`
 
-### 33. 糖炒栗子
+### 35. 糖炒栗子
 
 <img src="../gifs/chestnut-roast-pan.gif" alt="糖炒栗子" width="360">
 
@@ -540,7 +572,7 @@ A big iron wok of chestnuts and dark sand is stirred by a wooden paddle, steam c
 
 `chestnut` `street-food` `winter`
 
-### 34. 路灯下的初雪
+### 36. 路灯下的初雪
 
 <img src="../gifs/street-lamp-first-snow.gif" alt="路灯下的初雪" width="360">
 
@@ -554,7 +586,7 @@ Big soft snowflakes drift down through the warm cone of an old street lamp on a 
 
 `snow` `night` `street`
 
-### 35. 窗上霜花蔓延
+### 37. 窗上霜花蔓延
 
 <img src="../gifs/window-frost-spread.gif" alt="窗上霜花蔓延" width="360">
 
@@ -568,7 +600,7 @@ Delicate fern-like frost patterns creep across a cold window pane from the corne
 
 `frost` `winter` `macro`
 
-### 36. 孔明灯升空
+### 38. 孔明灯升空
 
 <img src="../gifs/sky-lanterns-rise.gif" alt="孔明灯升空" width="360">
 
@@ -582,7 +614,7 @@ Dozens of warm glowing paper lanterns float slowly up into a deep blue night sky
 
 `lantern` `night` `festival`
 
-### 37. 瓢虫与露珠
+### 39. 瓢虫与露珠
 
 <img src="../gifs/ladybug-dew-slide.gif" alt="瓢虫与露珠" width="360">
 
@@ -596,7 +628,7 @@ A ladybug walks along a curved green leaf while a dewdrop at the leaf tip swells
 
 `ladybug` `macro` `nature`
 
-### 38. 山洞里打呼的熊
+### 40. 山洞里打呼的熊
 
 <img src="../gifs/bear-cave-snore.gif" alt="山洞里打呼的熊" width="360">
 
@@ -610,7 +642,7 @@ A brown bear sleeps curled up in a cozy cave, its belly rising and falling as a 
 
 `bear` `hibernation` `winter`
 
-### 39. 海獭仰浮打盹
+### 41. 海獭仰浮打盹
 
 <img src="../gifs/sea-otter-float-nap.gif" alt="海獭仰浮打盹" width="360">
 
@@ -624,7 +656,7 @@ A sea otter floats on its back in calm water, holding a small shell on its belly
 
 `otter` `sleep` `calm`
 
-### 40. 沙漠上空的彗星
+### 42. 沙漠上空的彗星
 
 <img src="../gifs/comet-desert-night.gif" alt="沙漠上空的彗星" width="360">
 
@@ -638,7 +670,7 @@ A bright comet with a long glowing tail drifts slowly across a starry sky above 
 
 `comet` `night` `sky`
 
-### 41. 发光菌丝峡谷桥
+### 43. 发光菌丝峡谷桥
 
 <img src="../gifs/mycelium-bridge-glow.gif" alt="发光菌丝峡谷桥" width="360">
 
@@ -652,7 +684,7 @@ A delicate bridge woven from glowing white fungal threads spans a misty canyon a
 
 `fantasy` `bridge` `glow`
 
-### 42. 稚拙几何手绘脸
+### 44. 稚拙几何手绘脸
 
 <img src="../gifs/geo-doodle-face-wobble.gif" alt="稚拙几何手绘脸" width="360">
 
@@ -666,7 +698,7 @@ A naive hand-drawn portrait of an imaginary character built from uneven circles,
 
 `illustration` `geometric` `ink`
 
-### 43. 海湾浪花动态照片
+### 45. 海湾浪花动态照片
 
 <img src="../gifs/cove-waves-cinemagraph.gif" alt="海湾浪花动态照片" width="360">
 
@@ -682,7 +714,7 @@ A quiet rocky cove at golden hour where only the sea moves: small waves roll in 
 
 `sea` `cinemagraph` `calm`
 
-### 44. 牡丹缓缓绽放
+### 46. 牡丹缓缓绽放
 
 <img src="../gifs/peony-bloom-open.gif" alt="牡丹缓缓绽放" width="360">
 
@@ -698,7 +730,7 @@ A single pink peony bud slowly unfurls its layered petals into a full bloom, a f
 
 `flower` `bloom` `macro`
 
-### 45. 蜗牛壳小屋亮灯
+### 47. 蜗牛壳小屋亮灯
 
 <img src="../gifs/snail-shell-house-lights.gif" alt="蜗牛壳小屋亮灯" width="360">
 
@@ -712,7 +744,7 @@ A snail carrying a tiny cottage on its back inches along a mossy log as the litt
 
 `snail` `cottage` `storybook`
 
-### 46. 阳光中的海龟
+### 48. 阳光中的海龟
 
 <img src="../gifs/sea-turtle-sunrays.gif" alt="阳光中的海龟" width="360">
 
@@ -726,7 +758,7 @@ A green sea turtle paddles slowly through shafts of sunlight with small fish dri
 
 `turtle` `ocean` `calm`
 
-### 47. 拉坯转盘
+### 49. 拉坯转盘
 
 <img src="../gifs/pottery-wheel-bowl.gif" alt="拉坯转盘" width="360">
 
@@ -740,7 +772,7 @@ Clay-covered hands shape a bowl on a spinning pottery wheel, its rim rising slow
 
 `pottery` `craft` `calm`
 
-### 48. 枯山水耙沙
+### 50. 枯山水耙沙
 
 <img src="../gifs/zen-sand-rake.gif" alt="枯山水耙沙" width="360">
 
@@ -754,7 +786,7 @@ A wooden rake draws smooth curving lines through white sand around a mossy stone
 
 `zen` `garden` `calm`
 
-### 49. 火山剖面岩浆上升
+### 51. 火山剖面岩浆上升
 
 <img src="../gifs/volcano-cutaway-rise.gif" alt="火山剖面岩浆上升" width="360">
 
@@ -768,7 +800,7 @@ A cross-section of a cone volcano with labeled layers; glowing magma climbs the 
 
 `cutaway` `volcano` `science`
 
-### 50. 蚁巢剖面
+### 52. 蚁巢剖面
 
 <img src="../gifs/ant-nest-cutaway.gif" alt="蚁巢剖面" width="360">
 
@@ -782,7 +814,7 @@ A cross-section of an underground ant nest; ants carry crumbs and leaves along w
 
 `cutaway` `ants` `science`
 
-### 51. 潜艇剖面图
+### 53. 潜艇剖面图
 
 <img src="../gifs/submarine-cutaway.gif" alt="潜艇剖面图" width="360">
 
@@ -796,7 +828,7 @@ A cutaway view of a yellow submarine showing small rooms; tiny crew members walk
 
 `cutaway` `submarine` `infographic`
 
-### 52. 星辰钟碎裂
+### 54. 星辰钟碎裂
 
 <img src="../gifs/celestial-clock-shatter.gif" alt="星辰钟碎裂" width="360">
 
@@ -810,7 +842,7 @@ A brass astronomical clock with tiny planets on its rings cracks across the face
 
 `clock` `stars` `fantasy`
 
-### 53. 云朵倒咖啡
+### 55. 云朵倒咖啡
 
 <img src="../gifs/cloud-pours-coffee.gif" alt="云朵倒咖啡" width="360">
 
@@ -824,7 +856,7 @@ A fluffy white cloud with a sleepy face tilts and pours a thin stream of coffee 
 
 `cloud` `coffee` `morning`
 
-### 54. 种子发芽
+### 56. 种子发芽
 
 <img src="../gifs/seed-sprout-pot.gif" alt="种子发芽" width="360">
 
@@ -838,7 +870,7 @@ A seed in a small clay pot pushes up a green sprout that unfurls two leaves, a d
 
 `plant` `sprout` `growth`
 
-### 55. 雨中温室
+### 57. 雨中温室
 
 <img src="../gifs/rainy-greenhouse.gif" alt="雨中温室" width="360">
 
@@ -852,7 +884,7 @@ Rain streaks down the glass panes of a small greenhouse full of potted plants, d
 
 `greenhouse` `rain` `plants`
 
-### 56. 蝠鲼滑翔
+### 58. 蝠鲼滑翔
 
 <img src="../gifs/manta-ray-glide.gif" alt="蝠鲼滑翔" width="360">
 
@@ -866,7 +898,7 @@ A manta ray glides through blue water, its wings rising and falling slowly while
 
 `ocean` `manta` `underwater`
 
-### 57. 深夜洗衣房
+### 59. 深夜洗衣房
 
 <img src="../gifs/laundromat-night-spin.gif" alt="深夜洗衣房" width="360">
 
@@ -880,7 +912,7 @@ A front-loading washer spins colorful clothes behind its round glass door in an 
 
 `laundromat` `night` `lofi`
 
-### 58. 玻璃生态瓶起雾
+### 60. 玻璃生态瓶起雾
 
 <img src="../gifs/terrarium-mist.gif" alt="玻璃生态瓶起雾" width="360">
 
@@ -894,7 +926,7 @@ Inside a glass terrarium with moss and tiny ferns, soft mist curls and a single 
 
 `terrarium` `plants` `mist`
 
-### 59. 黄铜齿轮转动
+### 61. 黄铜齿轮转动
 
 <img src="../gifs/brass-gears-turn.gif" alt="黄铜齿轮转动" width="360">
 
@@ -908,7 +940,7 @@ A cluster of interlocking brass gears turns smoothly at different speeds, light 
 
 `gears` `steampunk` `machine`
 
-### 60. 海边吊床
+### 62. 海边吊床
 
 <img src="../gifs/beach-hammock-sway.gif" alt="海边吊床" width="360">
 
@@ -922,7 +954,7 @@ An empty striped hammock sways between two palm trees while small waves roll ont
 
 `beach` `hammock` `summer`
 
-### 61. 风吹麦浪
+### 63. 风吹麦浪
 
 <img src="../gifs/wheat-field-wind.gif" alt="风吹麦浪" width="360">
 
@@ -936,7 +968,7 @@ Golden wheat sways in waves across a field as fluffy clouds drift slowly overhea
 
 `wheat` `wind` `nature`
 
-### 62. 月下小船
+### 64. 月下小船
 
 <img src="../gifs/moon-boat-rock.gif" alt="月下小船" width="360">
 
@@ -950,7 +982,7 @@ A small wooden rowboat rocks gently on dark water under a full moon, its reflect
 
 `boat` `moon` `night`
 
-### 63. 图书馆光束浮尘
+### 65. 图书馆光束浮尘
 
 <img src="../gifs/library-dust-sunbeam.gif" alt="图书馆光束浮尘" width="360">
 
@@ -964,7 +996,7 @@ Golden dust motes drift slowly through a beam of sunlight in a quiet wooden libr
 
 `library` `light` `calm`
 
-### 64. 古典油画里的猫眨眼
+### 66. 古典油画里的猫眨眼
 
 <img src="../gifs/painting-cat-blinks.gif" alt="古典油画里的猫眨眼" width="360">
 
@@ -978,7 +1010,7 @@ An old oil painting in an ornate gold frame shows a noble cat wearing a lace ruf
 
 `painting` `cat` `museum`
 
-### 65. 方盒子变成曲面建筑
+### 67. 方盒子变成曲面建筑
 
 <img src="../gifs/cube-morph-pavilion.gif" alt="方盒子变成曲面建筑" width="360">
 
@@ -992,7 +1024,7 @@ A plain white cube architectural model on a concrete plinth smoothly melts and s
 
 `architecture` `morph` `model`
 
-### 66. 毛毡小羊过山坡
+### 68. 毛毡小羊过山坡
 
 <img src="../gifs/felt-sheep-hill-walk.gif" alt="毛毡小羊过山坡" width="360">
 
@@ -1008,7 +1040,7 @@ A needle-felted wool sheep trots across a rolling felt hill with tiny felt flowe
 
 `felt` `sheep` `craft`
 
-### 67. 折纸狐狸展开
+### 69. 折纸狐狸展开
 
 <img src="../gifs/origami-fox-unfold.gif" alt="折纸狐狸展开" width="360">
 
@@ -1022,7 +1054,7 @@ A flat sheet of orange paper folds itself into an origami fox that turns its hea
 
 `paper` `origami` `fox`
 
-### 68. 灯泡脑袋拼贴画
+### 70. 灯泡脑袋拼贴画
 
 <img src="../gifs/bulb-head-collage.gif" alt="灯泡脑袋拼贴画" width="360">
 
@@ -1036,7 +1068,7 @@ Cut-paper collage of a figure with a light-bulb head; gears inside the bulb turn
 
 `collage` `idea` `paper`
 
-### 69. 接雪花的冬日小兔
+### 71. 接雪花的冬日小兔
 
 <img src="../gifs/winter-bunny-snowflakes.gif" alt="接雪花的冬日小兔" width="360">
 
@@ -1050,7 +1082,7 @@ A small bunny in a green knitted scarf looks up and catches falling snowflakes o
 
 `winter` `bunny` `cozy`
 
-### 70. 小机器人和科学家看试管
+### 72. 小机器人和科学家看试管
 
 <img src="../gifs/lab-robot-test-tube.gif" alt="小机器人和科学家看试管" width="360">
 
@@ -1064,7 +1096,7 @@ A scientist in a white coat and a small round robot lean in to watch a test tube
 
 `science` `robot` `illustration`
 
-### 71. 公园大泡泡
+### 73. 公园大泡泡
 
 <img src="../gifs/bubble-wand-park.gif" alt="公园大泡泡" width="360">
 
@@ -1078,7 +1110,7 @@ A giant soap bubble wobbles and drifts across a green park, rainbow colors swirl
 
 `ambient` `bubble` `summer`
 
-### 72. 秋日窗边一杯茶
+### 74. 秋日窗边一杯茶
 
 <img src="../gifs/autumn-tea-steam.gif" alt="秋日窗边一杯茶" width="360">
 
@@ -1092,7 +1124,7 @@ A cup of tea on a wooden table by a window, steam curling up while maple leaves 
 
 `ambient` `autumn` `tea`
 
-### 73. 海边打盹的猫
+### 75. 海边打盹的猫
 
 <img src="../gifs/seaside-cat-nap.gif" alt="海边打盹的猫" width="360">
 
@@ -1106,7 +1138,7 @@ A calico cat naps on a sunny harbor wall, its tail flicking lazily while small w
 
 `ambient` `cat` `sea`
 
-### 74. 黄昏路面电车
+### 76. 黄昏路面电车
 
 <img src="../gifs/tram-city-dusk.gif" alt="黄昏路面电车" width="360">
 
@@ -1120,7 +1152,7 @@ A small yellow tram glides past a row of pastel buildings at dusk, its windows g
 
 `ambient` `city` `travel`
 
-### 75. 星河沙漏
+### 77. 星河沙漏
 
 <img src="../gifs/hourglass-galaxy.gif" alt="星河沙漏" width="360">
 
@@ -1134,7 +1166,7 @@ A glass hourglass where tiny glowing stars trickle down instead of sand, forming
 
 `ambient` `space` `magic`
 
-### 76. 壁炉边烘袜子
+### 78. 壁炉边烘袜子
 
 <img src="../gifs/fireplace-sock-dry.gif" alt="壁炉边烘袜子" width="360">
 
@@ -1148,7 +1180,7 @@ Knitted socks hang on a line above a crackling fireplace, flames dancing and the
 
 `ambient` `cozy` `winter`
 
-### 77. 廊下风铃
+### 79. 廊下风铃
 
 <img src="../gifs/windchime-porch.gif" alt="廊下风铃" width="360">
 
@@ -1162,7 +1194,7 @@ A glass wind chime on a wooden porch sways in a summer breeze, its paper tag flu
 
 `ambient` `summer` `japan`
 
-### 78. 雪夜拉面摊
+### 80. 雪夜拉面摊
 
 <img src="../gifs/snowy-ramen-stall.gif" alt="雪夜拉面摊" width="360">
 
@@ -1176,7 +1208,7 @@ A tiny street ramen stall at night, steam rising from a pot and paper lanterns s
 
 `ambient` `food` `snow`
 
-### 79. 俯视锦鲤池
+### 81. 俯视锦鲤池
 
 <img src="../gifs/koi-pond-overhead.gif" alt="俯视锦鲤池" width="360">
 
@@ -1190,7 +1222,7 @@ Top-down view of a dark pond where three orange and white koi glide in a slow ci
 
 `ambient` `fish` `water`
 
-### 80. 雨夜蜡烛店橱窗
+### 82. 雨夜蜡烛店橱窗
 
 <img src="../gifs/candle-shop-window.gif" alt="雨夜蜡烛店橱窗" width="360">
 
@@ -1204,7 +1236,7 @@ A small candle shop window at night with dozens of candles flickering softly whi
 
 `ambient` `rain` `cozy`
 
-### 81. 发光蘑菇林
+### 83. 发光蘑菇林
 
 <img src="../gifs/glow-mushroom-forest.gif" alt="发光蘑菇林" width="360">
 
@@ -1218,7 +1250,7 @@ A mossy forest floor at night with clusters of bioluminescent blue mushrooms who
 
 `fantasy` `night` `nature`
 
-### 82. 八音盒小舞者
+### 84. 八音盒小舞者
 
 <img src="../gifs/music-box-dancer.gif" alt="八音盒小舞者" width="360">
 
@@ -1232,7 +1264,7 @@ Inside an open wooden music box lined with red velvet, a small porcelain dancer 
 
 `vintage` `music-box` `object`
 
-### 83. 风吹沙丘
+### 85. 风吹沙丘
 
 <img src="../gifs/desert-dune-wind.gif" alt="风吹沙丘" width="360">
 
@@ -1246,7 +1278,7 @@ Fine sand streams off the sharp crest of a golden desert dune in the wind, rippl
 
 `desert` `landscape` `wind`
 
-### 84. 潮池小螃蟹
+### 86. 潮池小螃蟹
 
 <img src="../gifs/tide-pool-crab.gif" alt="潮池小螃蟹" width="360">
 
@@ -1260,7 +1292,7 @@ A small orange crab scuttles sideways between pebbles in a clear tide pool as ge
 
 `nature` `ocean` `macro`
 
-### 85. 烤箱里膨胀的面包
+### 87. 烤箱里膨胀的面包
 
 <img src="../gifs/oven-bread-rise.gif" alt="烤箱里膨胀的面包" width="360">
 
@@ -1274,7 +1306,7 @@ Through a glowing oven window, a braided loaf slowly puffs up and turns golden w
 
 `baking` `kitchen` `cozy`
 
-### 86. 河灯漂流
+### 88. 河灯漂流
 
 <img src="../gifs/river-lantern-float.gif" alt="河灯漂流" width="360">
 
@@ -1288,7 +1320,7 @@ Paper lotus lanterns with candle flames float slowly down a dark river at night,
 
 `lantern` `night` `festival`
 
-### 87. 绘本小熊泡茶
+### 89. 绘本小熊泡茶
 
 <img src="../gifs/bear-tea-picturebook.gif" alt="绘本小熊泡茶" width="360">
 
@@ -1302,7 +1334,7 @@ a picture-book watercolor scene of a small brown bear in a striped apron pouring
 
 `picture-book` `watercolor` `cozy`
 
-### 88. 海岸敞篷车
+### 90. 海岸敞篷车
 
 <img src="../gifs/coastal-convertible.gif" alt="海岸敞篷车" width="360">
 
@@ -1316,7 +1348,7 @@ A vintage red convertible drives along a cliffside coastal road at sunset, the c
 
 `car` `road-trip` `cinematic`
 
-### 89. 剪纸分层森林
+### 91. 剪纸分层森林
 
 <img src="../gifs/paper-parallax-forest.gif" alt="剪纸分层森林" width="360">
 
@@ -1330,7 +1362,7 @@ A layered cut-paper diorama of a pine forest at dusk, five paper layers in deepe
 
 `paper-craft` `parallax` `scenery`
 
-### 90. 赛博粉彩神社
+### 92. 赛博粉彩神社
 
 <img src="../gifs/cyber-pastel-shrine.gif" alt="赛博粉彩神社" width="360">
 
@@ -1344,7 +1376,7 @@ A small shrine gate on a floating island in soft pastel pink and lilac, glowing 
 
 `cyber` `pastel` `scenery`
 
-### 91. 皮影戏书生
+### 93. 皮影戏书生
 
 <img src="../gifs/shadow-puppet-turn.gif" alt="皮影戏书生" width="360">
 
@@ -1358,7 +1390,7 @@ A traditional Chinese leather shadow puppet of a scholar holding a fan, transluc
 
 `shadow-puppet` `chinese` `folk-art`
 
-### 92. 雪夜书店橱窗
+### 94. 雪夜书店橱窗
 
 <img src="../gifs/bookshop-window-snow.gif" alt="雪夜书店橱窗" width="360">
 
@@ -1372,7 +1404,7 @@ A cozy bookshop window at night with warm light; a gray cat sleeps on a stack of
 
 `cozy` `snow` `cat`
 
-### 93. 落叶绕着长椅打转
+### 95. 落叶绕着长椅打转
 
 <img src="../gifs/park-bench-leaves.gif" alt="落叶绕着长椅打转" width="360">
 
@@ -1386,7 +1418,7 @@ Golden and red autumn leaves swirl in a little gust around an empty wooden park 
 
 `autumn` `park` `wind`
 
-### 94. 帐篷上空的流星雨
+### 96. 帐篷上空的流星雨
 
 <img src="../gifs/meteor-tent-night.gif" alt="帐篷上空的流星雨" width="360">
 
@@ -1400,7 +1432,7 @@ A small glowing orange tent on a hill under a deep blue sky, meteors streaking a
 
 `night` `camping` `stars`
 
-### 95. 雨天斑马线上的伞
+### 97. 雨天斑马线上的伞
 
 <img src="../gifs/crosswalk-umbrellas.gif" alt="雨天斑马线上的伞" width="360">
 
@@ -1414,7 +1446,7 @@ Top-down view of a rainy crosswalk where colorful umbrellas move across the whit
 
 `rain` `city` `top-down`
 
-### 96. 茶叶在玻璃壶里舒展
+### 98. 茶叶在玻璃壶里舒展
 
 <img src="../gifs/tea-leaves-unfurl.gif" alt="茶叶在玻璃壶里舒展" width="360">
 
@@ -1428,7 +1460,7 @@ Inside a clear glass teapot, rolled green tea leaves slowly unfurl and drift dow
 
 `tea` `macro` `calm`
 
-### 97. 黄昏摩天轮
+### 99. 黄昏摩天轮
 
 <img src="../gifs/dusk-ferris-wheel.gif" alt="黄昏摩天轮" width="360">
 
@@ -1442,7 +1474,7 @@ A ferris wheel at a seaside fair turns slowly at dusk, its bulb lights twinkling
 
 `fair` `dusk` `lights`
 
-### 98. 天台晾衣随风摆
+### 100. 天台晾衣随风摆
 
 <img src="../gifs/rooftop-laundry-breeze.gif" alt="天台晾衣随风摆" width="360">
 
@@ -1456,7 +1488,7 @@ Colorful laundry hangs on a line across a city rooftop, shirts and sheets flappi
 
 `city` `breeze` `calm`
 
-### 99. 熔岩灯气泡
+### 101. 熔岩灯气泡
 
 <img src="../gifs/lava-lamp-glow.gif" alt="熔岩灯气泡" width="360">
 
@@ -1470,7 +1502,7 @@ A retro lava lamp on a dark shelf: orange wax blobs slowly rise, stretch, split,
 
 `retro` `lamp` `ambient`
 
-### 100. 翠鸟入水
+### 102. 翠鸟入水
 
 <img src="../gifs/kingfisher-dive.gif" alt="翠鸟入水" width="360">
 
@@ -1484,7 +1516,7 @@ A bright blue and orange kingfisher dives from a branch into a calm river, a cro
 
 `bird` `nature` `splash`
 
-### 101. 浇花喷出彩虹
+### 103. 浇花喷出彩虹
 
 <img src="../gifs/garden-hose-rainbow.gif" alt="浇花喷出彩虹" width="360">
 
@@ -1498,7 +1530,7 @@ A gardener in a wide straw hat, seen from behind, sprays a fan of water over a s
 
 `garden` `summer` `rainbow`
 
-### 102. 撕纸海浪
+### 104. 撕纸海浪
 
 <img src="../gifs/torn-paper-waves.gif" alt="撕纸海浪" width="360">
 
@@ -1512,7 +1544,7 @@ Layered torn-paper ocean waves in shades of blue roll forward one behind another
 
 `paper` `ocean` `collage`
 
-### 103. 孔版印刷色块漂移
+### 105. 孔版印刷色块漂移
 
 <img src="../gifs/risograph-blob-drift.gif" alt="孔版印刷色块漂移" width="360">
 
@@ -1526,7 +1558,7 @@ Four flat textured shapes in risograph colors (pink, teal, yellow, blue) slowly 
 
 `abstract` `background` `texture`
 
-### 104. 烤棉花糖
+### 106. 烤棉花糖
 
 <img src="../gifs/marshmallow-roast.gif" alt="烤棉花糖" width="360">
 
@@ -1540,7 +1572,7 @@ A marshmallow on a stick held over a campfire at night, slowly turning golden br
 
 `camping` `food` `cozy`
 
-### 105. 石桥上的樱花雨
+### 107. 石桥上的樱花雨
 
 <img src="../gifs/sakura-stone-bridge.gif" alt="石桥上的樱花雨" width="360">
 
@@ -1554,7 +1586,7 @@ An arched stone bridge over a quiet stream lined with cherry trees in full bloom
 
 `spring` `flowers` `japan`
 
-### 106. 日出时的热气球
+### 108. 日出时的热气球
 
 <img src="../gifs/hot-air-balloons.gif" alt="日出时的热气球" width="360">
 
@@ -1568,7 +1600,7 @@ Several colorful hot-air balloons drifting gently over a canyon at sunrise, the 
 
 `travel` `sunrise` `sky`
 
-### 107. 木屋上空的极光
+### 109. 木屋上空的极光
 
 <img src="../gifs/aurora-cabin.gif" alt="木屋上空的极光" width="360">
 
@@ -1582,7 +1614,7 @@ A small wooden cabin with glowing windows in a snowy valley, green and violet au
 
 `night` `winter` `aurora`
 
-### 108. 刷抹茶
+### 110. 刷抹茶
 
 <img src="../gifs/matcha-whisk.gif" alt="刷抹茶" width="360">
 
@@ -1596,7 +1628,7 @@ A bamboo whisk briskly whisking bright green matcha in a dark ceramic bowl, fine
 
 `tea` `food` `asmr`
 
-### 109. 火车窗外的田野
+### 111. 火车窗外的田野
 
 <img src="../gifs/train-window-fields.gif" alt="火车窗外的田野" width="360">
 
@@ -1610,7 +1642,7 @@ The view through a train window on a sunny afternoon: green rice fields and dist
 
 `travel` `train` `scenery`
 
-### 110. 摇曳的海带森林
+### 112. 摇曳的海带森林
 
 <img src="../gifs/kelp-forest-sway.gif" alt="摇曳的海带森林" width="360">
 
@@ -1624,7 +1656,7 @@ An underwater kelp forest with tall golden-green kelp swaying in the current, su
 
 `ocean` `calm` `nature`
 
-### 111. 萤火虫环绕的盆景
+### 113. 萤火虫环绕的盆景
 
 <img src="../gifs/bonsai-fireflies.gif" alt="萤火虫环绕的盆景" width="360">
 
@@ -1638,7 +1670,7 @@ A small bonsai pine in a ceramic pot on a wooden shelf at dusk, a few fireflies 
 
 `calm` `nature` `night`
 
-### 112. 屋顶上捧纸星星的宇航员
+### 114. 屋顶上捧纸星星的宇航员
 
 <img src="../gifs/rooftop-astronaut-star.gif" alt="屋顶上捧纸星星的宇航员" width="360">
 
@@ -1652,7 +1684,7 @@ A small astronaut sitting on a city rooftop at night holding a folded paper star
 
 `night` `dreamy` `space`
 
-### 113. 旅行手账上的棕榈影
+### 115. 旅行手账上的棕榈影
 
 <img src="../gifs/palm-shadow-journal.gif" alt="旅行手账上的棕榈影" width="360">
 
@@ -1666,7 +1698,7 @@ An open travel journal on a sunny café table with taped photos and a handwritte
 
 `cinemagraph` `travel` `shadow`
 
-### 114. 水墨月夜窗前
+### 116. 水墨月夜窗前
 
 <img src="../gifs/ink-moon-pipa.gif" alt="水墨月夜窗前" width="360">
 
@@ -1680,7 +1712,7 @@ A Chinese ink-wash painting of a moonlit round window with a pipa lute leaning a
 
 `ink` `chinese` `moon`
 
-### 115. 排灯节油灯
+### 117. 排灯节油灯
 
 <img src="../gifs/diya-lamps-glow.gif" alt="排灯节油灯" width="360">
 
@@ -1694,7 +1726,7 @@ A row of small clay diya oil lamps on a stone step decorated with a colorful ran
 
 `festival` `diwali` `lights`
 
-### 116. 绘本风：小兔子浇花
+### 118. 绘本风：小兔子浇花
 
 <img src="../gifs/storybook-bunny-garden.gif" alt="绘本风：小兔子浇花" width="360">
 
@@ -1710,7 +1742,7 @@ A children's picture-book page in soft watercolor and colored pencil: a little b
 
 `storybook` `watercolor` `kids`
 
-### 117. 转动的黑胶唱片
+### 119. 转动的黑胶唱片
 
 <img src="../gifs/vinyl-turntable.gif" alt="转动的黑胶唱片" width="360">
 
@@ -1724,7 +1756,7 @@ A vinyl record spinning on a wooden turntable with the tonearm resting on it, wa
 
 `music` `lofi` `cozy`
 
-### 118. 夹起拉面
+### 120. 夹起拉面
 
 <img src="../gifs/ramen-steam-lift.gif" alt="夹起拉面" width="360">
 
@@ -1738,7 +1770,7 @@ A bowl of ramen with a soft-boiled egg and green onions, chopsticks lifting a bu
 
 `food` `anime` `steam`
 
-### 119. 回转寿司传送带
+### 121. 回转寿司传送带
 
 <img src="../gifs/sushi-conveyor.gif" alt="回转寿司传送带" width="360">
 
@@ -1752,7 +1784,7 @@ A sushi conveyor belt in a small restaurant with colorful plates of nigiri slidi
 
 `food` `anime` `conveyor`
 
-### 120. 书桌上的烛光
+### 122. 书桌上的烛光
 
 <img src="../gifs/desk-candle-flicker.gif" alt="书桌上的烛光" width="360">
 
@@ -1766,7 +1798,7 @@ A lit candle on an old wooden writing desk beside an open notebook and fountain 
 
 `candle` `cozy` `cinemagraph`
 
-### 121. 发光水母
+### 123. 发光水母
 
 <img src="../gifs/jellyfish-glow.gif" alt="发光水母" width="360">
 
@@ -1780,7 +1812,7 @@ A single translucent jellyfish drifting in the deep ocean, its bell pulsing slow
 
 `ocean` `glow` `ambient`
 
-### 122. 剪纸风河谷小船
+### 124. 剪纸风河谷小船
 
 <img src="../gifs/papercut-river-boat.gif" alt="剪纸风河谷小船" width="360">
 
@@ -1794,7 +1826,7 @@ Layered paper-cut art of a river valley: paper waves slide across, a little pape
 
 `papercut` `craft` `layers`
 
-### 123. 清晨湖面的涟漪
+### 125. 清晨湖面的涟漪
 
 <img src="../gifs/lake-ripple-dawn.gif" alt="清晨湖面的涟漪" width="360">
 
@@ -1808,7 +1840,7 @@ A calm mountain lake at dawn, everything still except soft ripples spreading acr
 
 `landscape` `water` `cinemagraph`
 
-### 124. 窗台伸懒腰的橘猫
+### 126. 窗台伸懒腰的橘猫
 
 <img src="../gifs/windowsill-cat-stretch.gif" alt="窗台伸懒腰的橘猫" width="360">
 
@@ -1822,7 +1854,7 @@ An orange tabby cat on a sunny windowsill stretching its front legs, yawning wid
 
 `cat` `cozy` `watercolor`
 
-### 125. 刚出炉的酸面包冒热气
+### 127. 刚出炉的酸面包冒热气
 
 <img src="../gifs/sourdough-steam.gif" alt="刚出炉的酸面包冒热气" width="360">
 
@@ -1836,7 +1868,7 @@ A freshly baked sourdough loaf on a floured wooden board, still except for thin 
 
 `food` `steam` `cinemagraph`
 
-### 126. 唐代舞姬转袖
+### 128. 唐代舞姬转袖
 
 <img src="../gifs/tang-court-dancer.gif" alt="唐代舞姬转袖" width="360">
 
@@ -1850,7 +1882,7 @@ A court dancer in flowing red and gold Tang-dynasty robes spinning in place, her
 
 `chinese` `dance` `mural`
 
-### 127. 纸鹤从贺卡上起飞
+### 129. 纸鹤从贺卡上起飞
 
 <img src="../gifs/origami-crane-takeoff.gif" alt="纸鹤从贺卡上起飞" width="360">
 
@@ -1864,7 +1896,7 @@ A folded white paper crane sitting on an open greeting card flaps its creased pa
 
 `paper` `message` `watercolor`
 
-### 128. 地铁进站的那阵风
+### 130. 地铁进站的那阵风
 
 <img src="../gifs/subway-wind-girl.gif" alt="地铁进站的那阵风" width="360">
 
@@ -1878,7 +1910,7 @@ A girl with long dark hair and a yellow raincoat standing on a subway platform a
 
 `anime` `wind` `cinemagraph`
 
-### 129. 做咖啡的机器人
+### 131. 做咖啡的机器人
 
 <img src="../gifs/robot-barista.gif" alt="做咖啡的机器人" width="360">
 
@@ -1892,7 +1924,7 @@ A small white robot barista with one arm pouring steamed milk into a cup of coff
 
 `robot` `coffee` `cafe`
 
-### 130. 黏土面团面包师
+### 132. 黏土面团面包师
 
 <img src="../gifs/clay-baker-mascot.gif" alt="黏土面团面包师" width="360">
 
@@ -1906,7 +1938,7 @@ A round clay dough mascot in a little white chef hat kneading a piece of dough o
 
 `clay` `mascot` `cooking`
 
-### 131. 纸雕灯里的江南
+### 133. 纸雕灯里的江南
 
 <img src="../gifs/lantern-koi-garden.gif" alt="纸雕灯里的江南" width="360">
 
@@ -1920,7 +1952,7 @@ A layered paper-cut lantern scene of a southern Chinese water town with a stone 
 
 `paper-cut` `chinese` `lantern`
 
-### 132. 振翅的老鹰
+### 134. 振翅的老鹰
 
 <img src="../gifs/eagle-wing-flap.gif" alt="振翅的老鹰" width="360">
 
@@ -1934,7 +1966,7 @@ A golden eagle flying in place with powerful wing beats, feathers rippling, isol
 
 `bird` `flight` `animal`
 
-### 133. 烧杯荧光漩涡
+### 135. 烧杯荧光漩涡
 
 <img src="../gifs/beaker-glow-vortex.gif" alt="烧杯荧光漩涡" width="360">
 
@@ -1948,7 +1980,7 @@ A glass lab beaker on a dark bench with a swirling vortex of glowing teal liquid
 
 `science` `glow` `liquid`
 
-### 134. 玻璃蝴蝶与投影
+### 136. 玻璃蝴蝶与投影
 
 <img src="../gifs/glass-butterfly.gif" alt="玻璃蝴蝶与投影" width="360">
 
@@ -1962,7 +1994,7 @@ A butterfly made of clear glass perched on a white table, slowly opening and clo
 
 `glass` `butterfly` `light`
 
-### 135. 峡谷瀑布与水雾
+### 137. 峡谷瀑布与水雾
 
 <img src="../gifs/canyon-waterfall.gif" alt="峡谷瀑布与水雾" width="360">
 
@@ -1976,7 +2008,7 @@ A tall waterfall pouring into a deep green canyon pool, mist rising and ripples 
 
 `nature` `waterfall` `cinemagraph`
 
-### 136. 雨夜摸柴犬
+### 138. 雨夜摸柴犬
 
 <img src="../gifs/rain-shiba-pet.gif" alt="雨夜摸柴犬" width="360">
 
@@ -1990,7 +2022,7 @@ A girl with a clear umbrella crouching on a wet city street at night to pet a sh
 
 `rain` `dog` `night`
 
-### 137. 冬日院子里劈柴
+### 139. 冬日院子里劈柴
 
 <img src="../gifs/woodcutter-winter.gif" alt="冬日院子里劈柴" width="360">
 
@@ -2004,7 +2036,7 @@ An old man in a thick wool coat raising an axe and splitting a log on a stump in
 
 `winter` `rural` `work`
 
-### 138. 街头跳舞的机器人
+### 140. 街头跳舞的机器人
 
 <img src="../gifs/street-robot-dance.gif" alt="街头跳舞的机器人" width="360">
 
@@ -2018,7 +2050,7 @@ A boxy orange robot doing a robotic pop-and-lock dance on a graffiti-covered cit
 
 `robot` `dance` `street`
 
-### 139. 水面上起伏的纸船
+### 141. 水面上起伏的纸船
 
 <img src="../gifs/paper-boat-ripples.gif" alt="水面上起伏的纸船" width="360">
 
@@ -2032,7 +2064,7 @@ A white folded paper boat bobbing gently on calm water, small ripples spreading 
 
 `water` `paper` `calm`
 
-### 140. 青山上的风车
+### 142. 青山上的风车
 
 <img src="../gifs/windmill-hills.gif" alt="青山上的风车" width="360">
 
@@ -2046,7 +2078,7 @@ A white wooden windmill on rolling green hills, its four sails turning slowly wh
 
 `landscape` `windmill` `calm`
 
-### 141. 海边骑车的鹈鹕
+### 143. 海边骑车的鹈鹕
 
 <img src="../gifs/pelican-bicycle.gif" alt="海边骑车的鹈鹕" width="360">
 
@@ -2060,7 +2092,7 @@ A pelican riding a red bicycle along a seaside promenade, legs pedaling and its 
 
 `animal` `bicycle` `classic-test`
 
-### 142. 球池里的黏土小猫
+### 144. 球池里的黏土小猫
 
 <img src="../gifs/clay-kitten-ballpit.gif" alt="球池里的黏土小猫" width="360">
 
@@ -2074,7 +2106,7 @@ A clay kitten popping its head out of a ball pit full of colorful plastic balls,
 
 `clay` `cat` `playful`
 
-### 143. 雪花球里的城市
+### 145. 雪花球里的城市
 
 <img src="../gifs/city-snow-globe.gif" alt="雪花球里的城市" width="360">
 
@@ -2088,7 +2120,7 @@ A snow globe holding a miniature city of red-brick apartment blocks and a little
 
 `snow-globe` `city` `winter`
 
-### 144. 雪花球里嚎叫的哈士奇
+### 146. 雪花球里嚎叫的哈士奇
 
 <img src="../gifs/husky-snow-globe.gif" alt="雪花球里嚎叫的哈士奇" width="360">
 
@@ -2102,7 +2134,7 @@ A tiny husky inside a glass snow globe sitting on a snowy mound and howling up a
 
 `snow-globe` `dog` `winter`
 
-### 145. 茶壶蒸汽变成爱心
+### 147. 茶壶蒸汽变成爱心
 
 <img src="../gifs/teapot-steam-heart.gif" alt="茶壶蒸汽变成爱心" width="360">
 
@@ -2116,7 +2148,7 @@ A copper teapot on a windowsill on a rainy afternoon, steam rising from the spou
 
 `steam` `cozy` `clay`
 
-### 146. 涂鸦小怪兽活了
+### 148. 涂鸦小怪兽活了
 
 <img src="../gifs/doodle-monster.gif" alt="涂鸦小怪兽活了" width="360">
 
@@ -2130,7 +2162,7 @@ A crude crayon doodle of a little purple blob monster with two eyes on wobbly st
 
 `loop` `doodle` `cute`
 
-### 147. 水墨奔马
+### 149. 水墨奔马
 
 <img src="../gifs/ink-wash-horse.gif" alt="水墨奔马" width="360">
 
@@ -2144,7 +2176,7 @@ A racehorse with a jockey galloping to the right in a loose Chinese ink-wash pai
 
 `loop` `ink-wash` `animal`
 
-### 148. 街角咖啡馆动态照片
+### 150. 街角咖啡馆动态照片
 
 <img src="../gifs/cafe-cinemagraph.gif" alt="街角咖啡馆动态照片" width="360">
 
@@ -2160,7 +2192,7 @@ A cinemagraph of a quiet street café terrace in the morning: everything is perf
 
 `loop` `cinemagraph` `photo`
 
-### 149. Lo-fi 学习循环
+### 151. Lo-fi 学习循环
 
 <img src="../gifs/lofi-study-loop.gif" alt="Lo-fi 学习循环" width="360">
 
@@ -2174,7 +2206,7 @@ A girl with headphones writing in a notebook at a desk at night, her pencil movi
 
 `loop` `lofi` `study`
 
-### 150. 苔石上打盹的小狐狸
+### 152. 苔石上打盹的小狐狸
 
 <img src="../gifs/sleepy-fox-rock.gif" alt="苔石上打盹的小狐狸" width="360">
 
@@ -2188,7 +2220,7 @@ A small orange fox curled up asleep on a mossy rock, its tail gently swaying and
 
 `loop` `animal` `calm`
 
-### 151. 雪林提灯的小猴子
+### 153. 雪林提灯的小猴子
 
 <img src="../gifs/lantern-monkey-snow.gif" alt="雪林提灯的小猴子" width="360">
 
@@ -2204,7 +2236,7 @@ A small monkey in an olive-green hooded coat standing in a snowy pine forest at 
 
 `loop` `character` `winter`
 
-### 152. 壁炉边睡觉的猫
+### 154. 壁炉边睡觉的猫
 
 <img src="../gifs/cat-by-fireplace.gif" alt="壁炉边睡觉的猫" width="360">
 
@@ -2220,7 +2252,7 @@ A ginger cat curled up asleep on a rug in front of a crackling fireplace, its bo
 
 `loop` `cozy` `cat`
 
-### 153. 夜晚的灯塔
+### 155. 夜晚的灯塔
 
 <img src="../gifs/lighthouse-night.gif" alt="夜晚的灯塔" width="360">
 
@@ -2234,7 +2266,7 @@ A white lighthouse on a rocky shore at night, its beam sweeping slowly across a 
 
 `loop` `seascape` `night`
 
-### 154. 鱼缸里的金鱼
+### 156. 鱼缸里的金鱼
 
 <img src="../gifs/goldfish-bowl.gif" alt="鱼缸里的金鱼" width="360">
 
@@ -2248,7 +2280,7 @@ A round glass fishbowl on a windowsill with one orange goldfish swimming a slow 
 
 `loop` `pet` `calm`
 
-### 155. 雨窗与绿植
+### 157. 雨窗与绿植
 
 <img src="../gifs/rain-on-window.gif" alt="雨窗与绿植" width="360">
 
@@ -2262,7 +2294,7 @@ A rainy window at dusk with a small potted plant on the sill, raindrops sliding 
 
 `loop` `lofi` `weather`
 
-### 156. 冒热气的咖啡
+### 158. 冒热气的咖啡
 
 <img src="../gifs/steaming-coffee.gif" alt="冒热气的咖啡" width="360">
 
@@ -2276,7 +2308,7 @@ A steaming cup of coffee on a small wooden table, steam curling and drifting upw
 
 `loop` `food` `cozy`
 
-### 157. 窗边读书·白天到夜晚
+### 159. 窗边读书·白天到夜晚
 
 <img src="../gifs/window-day-to-night.gif" alt="窗边读书·白天到夜晚" width="360">
 

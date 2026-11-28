@@ -8820,6 +8820,84 @@
         "author": "谭世隆",
         "profile_url": "https://www.zhihu.com/people/tan-shi-long"
       }
+    },
+    {
+      "id": "retro-christmas-dancer-cartoon-glasses",
+      "category": "holidays",
+      "title": "Retro Christmas Dancer with Cartoon-Eye Glasses",
+      "title_zh": "复古圣诞舞者与卡通眼镜",
+      "prompt": "Looping animation. A pretty, stylish young woman with an eye-catching, one-of-a-kind look: a tall, glossy retro pompadour of pastel mint hair fading to silver tips, tiny gold hoop earrings, a dusting of freckles, rosy cheeks and a confident, playful smile. She wears normal-size retro cat-eye novelty glasses with glossy red frames; instead of see-through lenses, each lens shows a big printed cartoon eye with long lashes, and the cartoon pupils glance left and right and blink in a smooth loop. Her outfit is a fitted red velvet Christmas coat with fluffy white fur trim and a wide black belt with a big gold buckle encrusted with sapphires that sparkle and glow as she moves. She dances smoothly and gently: a soft shoulder shimmy, a slight side-to-side sway, and her hands rolling in small circles close to her body, all small, flowing movements. Behind her, on a vibrant blue background, Christmas ornaments, candy canes, wrapped gifts and snowflakes float and drift across the screen in bouncy rows, like the floating graphics of a 1990s dance-pop music video. Playful retro studio-portrait style, bright saturated colors, smooth seamless loop.",
+      "tags": [
+        "christmas",
+        "dance",
+        "retro",
+        "90s",
+        "portrait"
+      ],
+      "source": {
+        "platform": "useapi.net",
+        "url": "https://useapi.net/docs/articles/gpt-image-2-6-gif-api",
+        "author": "useapi.net",
+        "profile_url": "https://useapi.net"
+      }
+    },
+    {
+      "id": "pixel-campfire-sleeping-fox",
+      "category": "pixel-ui",
+      "title": "Pixel Campfire with a Sleeping Fox",
+      "title_zh": "像素篝火旁熟睡的狐狸",
+      "prompt": "Looping pixel-art animation of a cozy campfire at night under a starry sky, flames flickering, sparks rising, a fox sleeping beside it",
+      "tags": [
+        "pixel-art",
+        "campfire",
+        "fox",
+        "night",
+        "cozy"
+      ],
+      "source": {
+        "platform": "useapi.net",
+        "url": "https://useapi.net/docs/articles/gpt-image-2-6-gif-api",
+        "author": "useapi.net",
+        "profile_url": "https://useapi.net"
+      }
+    },
+    {
+      "id": "watercolor-ginger-cat-sunny-windowsill",
+      "category": "loops",
+      "title": "Watercolor Ginger Cat on a Sunny Windowsill",
+      "title_zh": "水彩橘猫在阳光窗台上眨眼甩尾",
+      "prompt": "Looping animation of a ginger cat on a sunny windowsill, slowly blinking and flicking its tail, watercolor style.",
+      "tags": [
+        "cat",
+        "watercolor",
+        "windowsill",
+        "cozy"
+      ],
+      "source": {
+        "platform": "useapi.net",
+        "url": "https://useapi.net/docs/articles/gpt-image-2-6-gif-api",
+        "author": "useapi.net",
+        "profile_url": "https://useapi.net"
+      }
+    },
+    {
+      "id": "paper-boat-sidewalk-rain-puddle",
+      "category": "loops",
+      "title": "Paper Boat Sailing Through a Sidewalk Puddle",
+      "title_zh": "纸船驶过人行道上的雨水坑",
+      "prompt": "Looping animation of a tiny paper boat sailing through a rain puddle on a city sidewalk, ripples spreading, flat illustrated style.",
+      "tags": [
+        "paper-boat",
+        "rain",
+        "puddle",
+        "flat-illustration"
+      ],
+      "source": {
+        "platform": "useapi.net",
+        "url": "https://useapi.net/docs/articles/gpt-image-2-6-gif-api",
+        "author": "useapi.net",
+        "profile_url": "https://useapi.net"
+      }
     }
   ]
 }

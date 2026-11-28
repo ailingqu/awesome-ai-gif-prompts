@@ -6882,5 +6882,45 @@
     "generatedAt": "2026-11-27",
     "via": "source",
     "bytes": 723590
+  },
+  "retro-christmas-dancer-cartoon-glasses": {
+    "width": 480,
+    "height": 854,
+    "frames": 12,
+    "durationMs": 1580,
+    "model": "GPT Image 2.6 Sunburst (API)",
+    "generatedAt": "2026-11-28",
+    "via": "source",
+    "bytes": 2378572
+  },
+  "pixel-campfire-sleeping-fox": {
+    "width": 480,
+    "height": 270,
+    "frames": 15,
+    "durationMs": 1250,
+    "model": "GPT Image 2.6 Sunburst (API)",
+    "generatedAt": "2026-11-28",
+    "via": "source",
+    "bytes": 741026
+  },
+  "watercolor-ginger-cat-sunny-windowsill": {
+    "width": 432,
+    "height": 768,
+    "frames": 9,
+    "durationMs": 1330,
+    "model": "GPT Image 2.6 Flare (API)",
+    "generatedAt": "2026-11-28",
+    "via": "source",
+    "bytes": 1584567
+  },
+  "paper-boat-sidewalk-rain-puddle": {
+    "width": 384,
+    "height": 384,
+    "frames": 9,
+    "durationMs": 1830,
+    "model": "GPT Image 2.6 Flare (API)",
+    "generatedAt": "2026-11-28",
+    "via": "source",
+    "bytes": 582279
   }
 }

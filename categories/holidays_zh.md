@@ -1,8 +1,24 @@
-# 节日与祝福 · 4 条提示词
+# 节日与祝福 · 5 条提示词
 
 [← README](../README_zh.md)
 
-### 1. 3D 礼物盒打开蹦出白色小鬼
+### 1. 复古圣诞舞者与卡通眼镜
+
+<img src="../gifs/retro-christmas-dancer-cartoon-glasses.gif" alt="复古圣诞舞者与卡通眼镜" width="360">
+
+<sub>12 帧 · 480×854 · 1.6s · GPT Image 2.6 Sunburst (API)</sub>
+
+📌 **来源：** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**提示词**
+
+```text
+Looping animation. A pretty, stylish young woman with an eye-catching, one-of-a-kind look: a tall, glossy retro pompadour of pastel mint hair fading to silver tips, tiny gold hoop earrings, a dusting of freckles, rosy cheeks and a confident, playful smile. She wears normal-size retro cat-eye novelty glasses with glossy red frames; instead of see-through lenses, each lens shows a big printed cartoon eye with long lashes, and the cartoon pupils glance left and right and blink in a smooth loop. Her outfit is a fitted red velvet Christmas coat with fluffy white fur trim and a wide black belt with a big gold buckle encrusted with sapphires that sparkle and glow as she moves. She dances smoothly and gently: a soft shoulder shimmy, a slight side-to-side sway, and her hands rolling in small circles close to her body, all small, flowing movements. Behind her, on a vibrant blue background, Christmas ornaments, candy canes, wrapped gifts and snowflakes float and drift across the screen in bouncy rows, like the floating graphics of a 1990s dance-pop music video. Playful retro studio-portrait style, bright saturated colors, smooth seamless loop.
+```
+
+`christmas` `dance` `retro` `90s` `portrait`
+
+### 2. 3D 礼物盒打开蹦出白色小鬼
 
 <img src="../gifs/clay-gift-box-ghost-pop.gif" alt="3D 礼物盒打开蹦出白色小鬼" width="360">
 
@@ -18,7 +34,7 @@
 
 `gift` `surprise` `3d` `blender` `squash-and-stretch` `chinese`
 
-### 2. 羊毛毡风生日蛋糕与戴帽小猫
+### 3. 羊毛毡风生日蛋糕与戴帽小猫
 
 <img src="../gifs/felt-birthday-cake-kitten.gif" alt="羊毛毡风生日蛋糕与戴帽小猫" width="360">
 
@@ -34,7 +50,7 @@
 
 `birthday` `felt` `greeting`
 
-### 3. 冒热气的感恩节南瓜派
+### 4. 冒热气的感恩节南瓜派
 
 <img src="../gifs/harvest-pie-steam.gif" alt="冒热气的感恩节南瓜派" width="360">
 
@@ -48,7 +64,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 4. 姜饼屋门口挥手的小姜饼人
+### 5. 姜饼屋门口挥手的小姜饼人
 
 <img src="../gifs/gingerbread-door-wave.gif" alt="姜饼屋门口挥手的小姜饼人" width="360">
 

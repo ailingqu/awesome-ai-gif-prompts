@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 641+ Cases
+# Awesome AI GIF Prompts · 645+ Cases
 
 **English** · [简体中文](README_zh.md)
 
-![prompts](https://img.shields.io/badge/prompts-641-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--27-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-645-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--28-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of prompts for making **animated GIFs directly with AI** — stickers, reactions, flash cuts, brand reels, ambient loops and pixel art. Our own examples were generated from the exact prompt shown, with no editing; community picks are marked with their source and credited to their creators.
 
-> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-27**. ⭐ Star or 👀 watch the repo to get new cases.
+> 🔄 **Updated daily** — 10 new prompts tested by us plus 40+ credited community picks from X and the web, almost every day. Last update: **2026-11-28**. ⭐ Star or 👀 watch the repo to get new cases.
 >
 > 🎞️ **Try these prompts online:** paste any prompt into the [ViNano AI GIF Generator](https://vinano.ai/gif-generator) — text or a photo in, looping GIF out, powered by GPT Image 2.6.
 
@@ -27,10 +27,10 @@ A curated collection of prompts for making **animated GIFs directly with AI** �
 - [How these GIFs are made](#how-these-gifs-are-made)
 - [Stickers & Reactions](#stickers-reactions) · 236 prompts
 - [Flash Cuts & Brand Reels](#flash-cuts-brand-reels) · 94 prompts
-- [Ambient Loops](#ambient-loops) · 157 prompts
-- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 102 prompts
+- [Ambient Loops](#ambient-loops) · 159 prompts
+- [Pixel Art & UI Motion](#pixel-art-ui-motion) · 103 prompts
 - [Science & Explainers](#science-explainers) · 19 prompts
-- [Holidays & Greetings](#holidays-greetings) · 4 prompts
+- [Holidays & Greetings](#holidays-greetings) · 5 prompts
 - [Product Showcase](#product-showcase) · 13 prompts
 - [Food & Drinks](#food-drinks) · 9 prompts
 - [Animated Avatars](#animated-avatars) · 7 prompts
@@ -592,9 +592,41 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 ## Ambient Loops
 
-The 12 newest of 157 prompts in this category. [See all 157 →](categories/loops.md)
+The 12 newest of 159 prompts in this category. [See all 159 →](categories/loops.md)
 
-### 1. Rainy Window with Coffee Steam
+### 1. Paper Boat Sailing Through a Sidewalk Puddle
+
+<img src="gifs/paper-boat-sidewalk-rain-puddle.gif" alt="Paper Boat Sailing Through a Sidewalk Puddle" width="360">
+
+<sub>9 frames · 384×384 · 1.8s · GPT Image 2.6 Flare (API)</sub>
+
+📌 **Source:** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**Prompt**
+
+```text
+Looping animation of a tiny paper boat sailing through a rain puddle on a city sidewalk, ripples spreading, flat illustrated style.
+```
+
+`paper-boat` `rain` `puddle` `flat-illustration`
+
+### 2. Watercolor Ginger Cat on a Sunny Windowsill
+
+<img src="gifs/watercolor-ginger-cat-sunny-windowsill.gif" alt="Watercolor Ginger Cat on a Sunny Windowsill" width="360">
+
+<sub>9 frames · 432×768 · 1.3s · GPT Image 2.6 Flare (API)</sub>
+
+📌 **Source:** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**Prompt**
+
+```text
+Looping animation of a ginger cat on a sunny windowsill, slowly blinking and flicking its tail, watercolor style.
+```
+
+`cat` `watercolor` `windowsill` `cozy`
+
+### 3. Rainy Window with Coffee Steam
 
 <img src="gifs/rainy-window-coffee-steam.gif" alt="Rainy Window with Coffee Steam" width="360">
 
@@ -610,7 +642,7 @@ The 12 newest of 157 prompts in this category. [See all 157 →](categories/loop
 
 `rain` `coffee` `cozy` `lofi` `minimal-prompt`
 
-### 2. White Dove in Golden Cloud Light
+### 4. White Dove in Golden Cloud Light
 
 <img src="gifs/golden-cloud-dove-light-rays.gif" alt="White Dove in Golden Cloud Light" width="360">
 
@@ -626,7 +658,7 @@ A seamless looping GIF of a radiant white dove hovering gently in the center of 
 
 `dove` `clouds` `light-rays` `serene`
 
-### 3. Zebra in a Fingerprint Tunnel
+### 5. Zebra in a Fingerprint Tunnel
 
 <img src="gifs/fingerprint-zebra-tunnel.gif" alt="Zebra in a Fingerprint Tunnel" width="360">
 
@@ -648,7 +680,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `zebra` `surreal` `monochrome`
 
-### 4. Riverbank Walk with a Baby Elephant
+### 6. Riverbank Walk with a Baby Elephant
 
 <img src="gifs/raincoat-girl-baby-elephant.gif" alt="Riverbank Walk with a Baby Elephant" width="360">
 
@@ -664,7 +696,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `3d` `animatic` `elephant`
 
-### 5. Purple Spark Tracing a Cyan Circle
+### 7. Purple Spark Tracing a Cyan Circle
 
 <img src="gifs/purple-spark-cyan-orbit.gif" alt="Purple Spark Tracing a Cyan Circle" width="360">
 
@@ -680,7 +712,7 @@ Create a seamless animated GIF of a purple rounded creative spark that gently pu
 
 `abstract` `spark` `minimal`
 
-### 6. Golden Leaf to Umbrella Boat at Sunset
+### 8. Golden Leaf to Umbrella Boat at Sunset
 
 <img src="gifs/golden-leaf-sunset-water.gif" alt="Golden Leaf to Umbrella Boat at Sunset" width="360">
 
@@ -697,7 +729,7 @@ A surreal scene featuring a small black boat with a billowing gold cloth inside,
 
 `nature` `water` `sunset` `calm`
 
-### 7. Street Tabby Cat Asleep in the Rain
+### 9. Street Tabby Cat Asleep in the Rain
 
 <img src="gifs/street-tabby-cat-sleeping.gif" alt="Street Tabby Cat Asleep in the Rain" width="360">
 
@@ -713,7 +745,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `sleeping` `breathing` `night-street`
 
-### 8. Retro 1970s Lava Lamp
+### 10. Retro 1970s Lava Lamp
 
 <img src="gifs/retro-lava-lamp-glow.gif" alt="Retro 1970s Lava Lamp" width="360">
 
@@ -731,7 +763,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `lava-lamp` `retro` `ambient` `loop`
 
-### 9. Ballerina Leap and Landing
+### 11. Ballerina Leap and Landing
 
 <img src="gifs/ballerina-leap-landing.gif" alt="Ballerina Leap and Landing" width="360">
 
@@ -747,7 +779,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 10. Bubblegum Pop Studio Loop
+### 12. Bubblegum Pop Studio Loop
 
 <img src="gifs/bubblegum-pop-loop.gif" alt="Bubblegum Pop Studio Loop" width="360">
 
@@ -763,45 +795,29 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 11. Mount Fuji Gouache Travel Poster
-
-<img src="gifs/mount-fuji-gouache-travel-poster.gif" alt="Mount Fuji Gouache Travel Poster" width="360">
-
-<sub>96 frames · 480×640 · 8.0s · GPT Image 2.6</sub>
-
-📌 **Source:** [@devteamdrew on X](https://x.com/devteamdrew/status/2118308538564989025)
-
-**Prompt**
-
-```text
-A living mid-century gouache travel-poster painting of Mount Fuji behind a five-storey Japanese pagoda, static locked-off camera, seamless looping animation. The pagoda is vermilion-orange with deep teal-slate tiled roofs, a slender spire, and a dark evergreen tree beside it. Fuji sits small and distant in dusty blue-grey with a snow-white cap and ragged dry-brush ridges, over a pale mist field. Foreground cherry trees in soft coral-pink blossom with dark trunks frame the bottom, and tiny figures stand on pale speckled ground. Warm cream paper-grain sky fills the upper half. Matte flat gouache with ragged, flaking edges, visible bristle marks and speckled holes. Subtle motion only: blossom petals drift down, branches sway faintly, tiny figures shift, a bell-like gentle shimmer on the light. Soft spring morning light, vertical 3:4, perfect loop.
-```
-
-`gouache` `travel-poster` `japan` `cherry-blossom`
-
-### 12. Colosseum Gouache Travel Poster
-
-<img src="gifs/colosseum-gouache-travel-poster.gif" alt="Colosseum Gouache Travel Poster" width="360">
-
-<sub>96 frames · 480×640 · 8.0s · GPT Image 2.6</sub>
-
-📌 **Source:** [@devteamdrew on X](https://x.com/devteamdrew/status/2118308538564989025)
-
-**Prompt**
-
-```text
-A living mid-century gouache travel-poster painting of the Roman Colosseum, locked-off static camera, a seamless looping animation. The ruined amphitheater sits low in the frame in sun-bleached ochre, sand and travertine with dusty rose and pale blue-grey arches, painted in dry-brush gouache with flaky, speckled edges and worn-away patches. A tall Italian stone pine in dark green and bottle-green leans in from the right, a vintage teal street lamp on the left, rose-coral flowering shrubs at the base. Open warm cream paper-textured sky fills the upper two thirds with fine paper grain. Gentle motion only: a few tiny birds drift across the sky, a cyclist rides slowly along the piazza, a small scooter, a couple in coral and mustard strolling, pine foliage barely sways. Soft warm afternoon light, long pale shadows, flat matte shapes, vertical 3:4, perfect loop.
-```
-
-`gouache` `travel-poster` `rome` `landmark`
-
-**[See all 157 prompts in this category →](categories/loops.md)**
+**[See all 159 prompts in this category →](categories/loops.md)**
 
 ## Pixel Art & UI Motion
 
-The 12 newest of 102 prompts in this category. [See all 102 →](categories/pixel-ui.md)
+The 12 newest of 103 prompts in this category. [See all 103 →](categories/pixel-ui.md)
 
-### 1. Pixel Japanese Fantasy City
+### 1. Pixel Campfire with a Sleeping Fox
+
+<img src="gifs/pixel-campfire-sleeping-fox.gif" alt="Pixel Campfire with a Sleeping Fox" width="360">
+
+<sub>15 frames · 480×270 · 1.3s · GPT Image 2.6 Sunburst (API)</sub>
+
+📌 **Source:** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**Prompt**
+
+```text
+Looping pixel-art animation of a cozy campfire at night under a starry sky, flames flickering, sparks rising, a fox sleeping beside it
+```
+
+`pixel-art` `campfire` `fox` `night` `cozy`
+
+### 2. Pixel Japanese Fantasy City
 
 <img src="gifs/pixel-japanese-fantasy-city.gif" alt="Pixel Japanese Fantasy City" width="360">
 
@@ -817,7 +833,7 @@ The 12 newest of 102 prompts in this category. [See all 102 →](categories/pixe
 
 `pixel-art` `city` `japanese` `fantasy` `minimal-prompt`
 
-### 2. Obsidian Flame Sword Cursor
+### 3. Obsidian Flame Sword Cursor
 
 <img src="gifs/obsidian-sword-flame-cursor.gif" alt="Obsidian Flame Sword Cursor" width="360">
 
@@ -833,7 +849,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `cursor` `game-ui` `sprite-sheet`
 
-### 3. Pixel Cat Typing in a Rainy Café
+### 4. Pixel Cat Typing in a Rainy Café
 
 <img src="gifs/pixel-headphone-cat-rainy-cafe.gif" alt="Pixel Cat Typing in a Rainy Café" width="360">
 
@@ -849,7 +865,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `pixel-art` `cat` `lofi` `rain` `cafe`
 
-### 4. 8-bit Ox Walk Cycle Sprite
+### 5. 8-bit Ox Walk Cycle Sprite
 
 <img src="gifs/pixel-ox-walk-cycle.gif" alt="8-bit Ox Walk Cycle Sprite" width="360">
 
@@ -867,7 +883,7 @@ cycle, flat sky blue background, crisp pixels, no blur.
 
 `pixel-art` `sprite` `walk-cycle` `game`
 
-### 5. Pixel Hero Sword Slash
+### 6. Pixel Hero Sword Slash
 
 <img src="gifs/pixel-hero-sword-slash.gif" alt="Pixel Hero Sword Slash" width="360">
 
@@ -884,7 +900,7 @@ GIFを作成。ドット絵の勇者。
 
 `pixel-art` `hero` `sword` `fx`
 
-### 6. Green CTA button with light sweep
+### 7. Green CTA button with light sweep
 
 <img src="gifs/green-quote-button-shine.gif" alt="Green CTA button with light sweep" width="360">
 
@@ -900,7 +916,7 @@ GIFを作成。ドット絵の勇者。
 
 `button` `ui` `japanese`
 
-### 7. Lightbulb icon glows on
+### 8. Lightbulb icon glows on
 
 <img src="gifs/lightbulb-icon-glow.gif" alt="Lightbulb icon glows on" width="360">
 
@@ -916,7 +932,7 @@ GIFを作成。ドット絵の勇者。
 
 `icon` `flat` `education`
 
-### 8. Pixel-art lightning strike
+### 9. Pixel-art lightning strike
 
 <img src="gifs/pixel-lightning-strike.gif" alt="Pixel-art lightning strike" width="360">
 
@@ -932,7 +948,7 @@ Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, re
 
 `pixel-art` `game-fx` `lightning`
 
-### 9. Pixel-art fire pillar
+### 10. Pixel-art fire pillar
 
 <img src="gifs/pixel-fire-pillar-burst.gif" alt="Pixel-art fire pillar" width="360">
 
@@ -948,7 +964,7 @@ Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 
 
 `pixel-art` `game-fx` `fire-pillar`
 
-### 10. Pixel-art volcano eruption
+### 11. Pixel-art volcano eruption
 
 <img src="gifs/pixel-volcano-eruption.gif" alt="Pixel-art volcano eruption" width="360">
 
@@ -964,7 +980,7 @@ Make an animated GIF of a pixel-art volcano eruption seen from far away, for the
 
 `pixel-art` `game-fx` `eruption`
 
-### 11. Pixel-art energy beam
+### 12. Pixel-art energy beam
 
 <img src="gifs/pixel-energy-beam-blast.gif" alt="Pixel-art energy beam" width="360">
 
@@ -980,23 +996,7 @@ Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wi
 
 `pixel-art` `game-fx` `beam`
 
-### 12. Pixel-art explosion with mushroom cloud
-
-<img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="Pixel-art explosion with mushroom cloud" width="360">
-
-<sub>15 frames · 316×302 · 1.3s · GPT Image 2.6</sub>
-
-📌 **Source:** [@kasperzackgames on GitHub](https://github.com/kasperzackgames/chatgpt-pixel-effects)
-
-**Prompt**
-
-```text
-Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered as large as you can (at least 512x512). 16 frames, about 80 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide, so the explosion has a lot of detail (about 120 art pixels tall at its peak). The camera does not move. The bottom edge of the frame is the ground line, and the explosion hits the ground at the bottom centre, at the same point in every frame. Don't draw the ground itself. Sequence: a tiny spark on the ground; one bright white flash frame; a huge orange and yellow fireball that grows until it fills about three quarters of the frame height and rises into a mushroom cloud with a fiery stem; debris chunks and sparks flying out in arcs; a thin dust ring rolling sideways along the ground; the fire breaks up into a light grey smoke column that rises and drifts; glowing embers fade out until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 20 colours (white, yellows, oranges, reds, dark reds and four neutral greys for the smoke). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.
-```
-
-`pixel-art` `game-fx` `explosion`
-
-**[See all 102 prompts in this category →](categories/pixel-ui.md)**
+**[See all 103 prompts in this category →](categories/pixel-ui.md)**
 
 ## Science & Explainers
 
@@ -1198,7 +1198,23 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 ## Holidays & Greetings
 
-### 1. Gift Box Pops Open with a Little Ghost
+### 1. Retro Christmas Dancer with Cartoon-Eye Glasses
+
+<img src="gifs/retro-christmas-dancer-cartoon-glasses.gif" alt="Retro Christmas Dancer with Cartoon-Eye Glasses" width="360">
+
+<sub>12 frames · 480×854 · 1.6s · GPT Image 2.6 Sunburst (API)</sub>
+
+📌 **Source:** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**Prompt**
+
+```text
+Looping animation. A pretty, stylish young woman with an eye-catching, one-of-a-kind look: a tall, glossy retro pompadour of pastel mint hair fading to silver tips, tiny gold hoop earrings, a dusting of freckles, rosy cheeks and a confident, playful smile. She wears normal-size retro cat-eye novelty glasses with glossy red frames; instead of see-through lenses, each lens shows a big printed cartoon eye with long lashes, and the cartoon pupils glance left and right and blink in a smooth loop. Her outfit is a fitted red velvet Christmas coat with fluffy white fur trim and a wide black belt with a big gold buckle encrusted with sapphires that sparkle and glow as she moves. She dances smoothly and gently: a soft shoulder shimmy, a slight side-to-side sway, and her hands rolling in small circles close to her body, all small, flowing movements. Behind her, on a vibrant blue background, Christmas ornaments, candy canes, wrapped gifts and snowflakes float and drift across the screen in bouncy rows, like the floating graphics of a 1990s dance-pop music video. Playful retro studio-portrait style, bright saturated colors, smooth seamless loop.
+```
+
+`christmas` `dance` `retro` `90s` `portrait`
+
+### 2. Gift Box Pops Open with a Little Ghost
 
 <img src="gifs/clay-gift-box-ghost-pop.gif" alt="Gift Box Pops Open with a Little Ghost" width="360">
 
@@ -1214,7 +1230,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `gift` `surprise` `3d` `blender` `squash-and-stretch` `chinese`
 
-### 2. Felt-style birthday cake with a party kitten
+### 3. Felt-style birthday cake with a party kitten
 
 <img src="gifs/felt-birthday-cake-kitten.gif" alt="Felt-style birthday cake with a party kitten" width="360">
 
@@ -1230,7 +1246,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `birthday` `felt` `greeting`
 
-### 3. Thank-you pie with rising steam
+### 4. Thank-you pie with rising steam
 
 <img src="gifs/harvest-pie-steam.gif" alt="Thank-you pie with rising steam" width="360">
 
@@ -1244,7 +1260,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 4. Gingerbread house waving
+### 5. Gingerbread house waving
 
 <img src="gifs/gingerbread-door-wave.gif" alt="Gingerbread house waving" width="360">
 

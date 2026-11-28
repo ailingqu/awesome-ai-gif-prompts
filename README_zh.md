@@ -1,12 +1,12 @@
-# Awesome AI GIF Prompts · 641+ 个案例
+# Awesome AI GIF Prompts · 645+ 个案例
 
 [English](README.md) · **简体中文**
 
-![prompts](https://img.shields.io/badge/prompts-641-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--27-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![prompts](https://img.shields.io/badge/prompts-645-ff713a) ![model](https://img.shields.io/badge/model-GPT%20Image%202.6-8a63d2) ![updated](https://img.shields.io/badge/updated-2026--11--28-2ea44f) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-2bb3a3) [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选 **AI 直出 GIF 动图** 提示词合集：表情包、反应图、快闪、品牌动效、氛围循环、像素风。自有示例都是用所列提示词原样生成的，未做任何后期修改；社区精选标注了来源并署名作者。
 
-> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-27**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
+> 🔄 **每日更新**：几乎每天新增 10 条我们实测的提示词，外加 40+ 条标注来源的 X 与网络社区精选，最近更新：**2026-11-28**。点 ⭐ Star 或 👀 Watch 第一时间看到新案例。
 >
 > 🎞️ **在线试用：** 把任意提示词粘贴到 [ViNano AI GIF Generator](https://vinano.ai/gif-generator)，输入文字或上传照片即可得到循环 GIF（由 GPT Image 2.6 驱动）。
 
@@ -27,10 +27,10 @@
 - [这些 GIF 是怎么生成的](#这些-gif-是怎么生成的)
 - [表情包与贴纸](#表情包与贴纸) · 236 条提示词
 - [快闪与品牌动效](#快闪与品牌动效) · 94 条提示词
-- [氛围循环动画](#氛围循环动画) · 157 条提示词
-- [像素风与界面动效](#像素风与界面动效) · 102 条提示词
+- [氛围循环动画](#氛围循环动画) · 159 条提示词
+- [像素风与界面动效](#像素风与界面动效) · 103 条提示词
 - [科普讲解动图](#科普讲解动图) · 19 条提示词
-- [节日与祝福](#节日与祝福) · 4 条提示词
+- [节日与祝福](#节日与祝福) · 5 条提示词
 - [电商与产品展示](#电商与产品展示) · 13 条提示词
 - [美食饮品](#美食饮品) · 9 条提示词
 - [动态头像](#动态头像) · 7 条提示词
@@ -592,9 +592,41 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 ## 氛围循环动画
 
-这里展示本分类最新的 12 条（共 157 条）。[查看全部 157 条 →](categories/loops_zh.md)
+这里展示本分类最新的 12 条（共 159 条）。[查看全部 159 条 →](categories/loops_zh.md)
 
-### 1. 雨天窗边的咖啡热气
+### 1. 纸船驶过人行道上的雨水坑
+
+<img src="gifs/paper-boat-sidewalk-rain-puddle.gif" alt="纸船驶过人行道上的雨水坑" width="360">
+
+<sub>9 帧 · 384×384 · 1.8s · GPT Image 2.6 Flare (API)</sub>
+
+📌 **来源：** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**提示词**
+
+```text
+Looping animation of a tiny paper boat sailing through a rain puddle on a city sidewalk, ripples spreading, flat illustrated style.
+```
+
+`paper-boat` `rain` `puddle` `flat-illustration`
+
+### 2. 水彩橘猫在阳光窗台上眨眼甩尾
+
+<img src="gifs/watercolor-ginger-cat-sunny-windowsill.gif" alt="水彩橘猫在阳光窗台上眨眼甩尾" width="360">
+
+<sub>9 帧 · 432×768 · 1.3s · GPT Image 2.6 Flare (API)</sub>
+
+📌 **来源：** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**提示词**
+
+```text
+Looping animation of a ginger cat on a sunny windowsill, slowly blinking and flicking its tail, watercolor style.
+```
+
+`cat` `watercolor` `windowsill` `cozy`
+
+### 3. 雨天窗边的咖啡热气
 
 <img src="gifs/rainy-window-coffee-steam.gif" alt="雨天窗边的咖啡热气" width="360">
 
@@ -610,7 +642,7 @@ Kernels in a red and white striped bowl burst into fluffy popcorn one by one, so
 
 `rain` `coffee` `cozy` `lofi` `minimal-prompt`
 
-### 2. 金色云隙中振翅的白鸽
+### 4. 金色云隙中振翅的白鸽
 
 <img src="gifs/golden-cloud-dove-light-rays.gif" alt="金色云隙中振翅的白鸽" width="360">
 
@@ -626,7 +658,7 @@ A seamless looping GIF of a radiant white dove hovering gently in the center of 
 
 `dove` `clouds` `light-rays` `serene`
 
-### 3. 指纹隧道里的斑马
+### 5. 指纹隧道里的斑马
 
 <img src="gifs/fingerprint-zebra-tunnel.gif" alt="指纹隧道里的斑马" width="360">
 
@@ -648,7 +680,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `zebra` `surreal` `monochrome`
 
-### 4. 黄雨衣女孩和小象河边散步
+### 6. 黄雨衣女孩和小象河边散步
 
 <img src="gifs/raincoat-girl-baby-elephant.gif" alt="黄雨衣女孩和小象河边散步" width="360">
 
@@ -664,7 +696,7 @@ PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, mini
 
 `3d` `animatic` `elephant`
 
-### 5. 紫色灵感火花画出青色圆环
+### 7. 紫色灵感火花画出青色圆环
 
 <img src="gifs/purple-spark-cyan-orbit.gif" alt="紫色灵感火花画出青色圆环" width="360">
 
@@ -680,7 +712,7 @@ Create a seamless animated GIF of a purple rounded creative spark that gently pu
 
 `abstract` `spark` `minimal`
 
-### 6. 夕阳水面：金叶到黑伞小船
+### 8. 夕阳水面：金叶到黑伞小船
 
 <img src="gifs/golden-leaf-sunset-water.gif" alt="夕阳水面：金叶到黑伞小船" width="360">
 
@@ -697,7 +729,7 @@ A surreal scene featuring a small black boat with a billowing gold cloth inside,
 
 `nature` `water` `sunset` `calm`
 
-### 7. 雨夜街头蜷睡的橘猫
+### 9. 雨夜街头蜷睡的橘猫
 
 <img src="gifs/street-tabby-cat-sleeping.gif" alt="雨夜街头蜷睡的橘猫" width="360">
 
@@ -713,7 +745,7 @@ A chubby orange-and-white tabby cat, orange head and ears, cream-white chest and
 
 `cat` `sleeping` `breathing` `night-street`
 
-### 8. 70 年代复古熔岩灯
+### 10. 70 年代复古熔岩灯
 
 <img src="gifs/retro-lava-lamp-glow.gif" alt="70 年代复古熔岩灯" width="360">
 
@@ -731,7 +763,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `lava-lamp` `retro` `ambient` `loop`
 
-### 9. 芭蕾舞者跳跃落地
+### 11. 芭蕾舞者跳跃落地
 
 <img src="gifs/ballerina-leap-landing.gif" alt="芭蕾舞者跳跃落地" width="360">
 
@@ -747,7 +779,7 @@ The lamp glows and casts warm light on the wall. Seamless loop.
 
 `ballet` `dance` `leap` `short-prompt`
 
-### 10. 泡泡糖吹破循环
+### 12. 泡泡糖吹破循环
 
 <img src="gifs/bubblegum-pop-loop.gif" alt="泡泡糖吹破循环" width="360">
 
@@ -763,45 +795,29 @@ A seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde b
 
 `bubblegum` `studio` `photoreal` `loop`
 
-### 11. 富士山水粉旅行海报
-
-<img src="gifs/mount-fuji-gouache-travel-poster.gif" alt="富士山水粉旅行海报" width="360">
-
-<sub>96 帧 · 480×640 · 8.0s · GPT Image 2.6</sub>
-
-📌 **来源：** [@devteamdrew on X](https://x.com/devteamdrew/status/2118308538564989025)
-
-**提示词**
-
-```text
-A living mid-century gouache travel-poster painting of Mount Fuji behind a five-storey Japanese pagoda, static locked-off camera, seamless looping animation. The pagoda is vermilion-orange with deep teal-slate tiled roofs, a slender spire, and a dark evergreen tree beside it. Fuji sits small and distant in dusty blue-grey with a snow-white cap and ragged dry-brush ridges, over a pale mist field. Foreground cherry trees in soft coral-pink blossom with dark trunks frame the bottom, and tiny figures stand on pale speckled ground. Warm cream paper-grain sky fills the upper half. Matte flat gouache with ragged, flaking edges, visible bristle marks and speckled holes. Subtle motion only: blossom petals drift down, branches sway faintly, tiny figures shift, a bell-like gentle shimmer on the light. Soft spring morning light, vertical 3:4, perfect loop.
-```
-
-`gouache` `travel-poster` `japan` `cherry-blossom`
-
-### 12. 罗马斗兽场水粉旅行海报
-
-<img src="gifs/colosseum-gouache-travel-poster.gif" alt="罗马斗兽场水粉旅行海报" width="360">
-
-<sub>96 帧 · 480×640 · 8.0s · GPT Image 2.6</sub>
-
-📌 **来源：** [@devteamdrew on X](https://x.com/devteamdrew/status/2118308538564989025)
-
-**提示词**
-
-```text
-A living mid-century gouache travel-poster painting of the Roman Colosseum, locked-off static camera, a seamless looping animation. The ruined amphitheater sits low in the frame in sun-bleached ochre, sand and travertine with dusty rose and pale blue-grey arches, painted in dry-brush gouache with flaky, speckled edges and worn-away patches. A tall Italian stone pine in dark green and bottle-green leans in from the right, a vintage teal street lamp on the left, rose-coral flowering shrubs at the base. Open warm cream paper-textured sky fills the upper two thirds with fine paper grain. Gentle motion only: a few tiny birds drift across the sky, a cyclist rides slowly along the piazza, a small scooter, a couple in coral and mustard strolling, pine foliage barely sways. Soft warm afternoon light, long pale shadows, flat matte shapes, vertical 3:4, perfect loop.
-```
-
-`gouache` `travel-poster` `rome` `landmark`
-
-**[查看本分类全部 157 条 →](categories/loops_zh.md)**
+**[查看本分类全部 159 条 →](categories/loops_zh.md)**
 
 ## 像素风与界面动效
 
-这里展示本分类最新的 12 条（共 102 条）。[查看全部 102 条 →](categories/pixel-ui_zh.md)
+这里展示本分类最新的 12 条（共 103 条）。[查看全部 103 条 →](categories/pixel-ui_zh.md)
 
-### 1. 像素风日式奇幻城市
+### 1. 像素篝火旁熟睡的狐狸
+
+<img src="gifs/pixel-campfire-sleeping-fox.gif" alt="像素篝火旁熟睡的狐狸" width="360">
+
+<sub>15 帧 · 480×270 · 1.3s · GPT Image 2.6 Sunburst (API)</sub>
+
+📌 **来源：** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**提示词**
+
+```text
+Looping pixel-art animation of a cozy campfire at night under a starry sky, flames flickering, sparks rising, a fox sleeping beside it
+```
+
+`pixel-art` `campfire` `fox` `night` `cozy`
+
+### 2. 像素风日式奇幻城市
 
 <img src="gifs/pixel-japanese-fantasy-city.gif" alt="像素风日式奇幻城市" width="360">
 
@@ -817,7 +833,7 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 `pixel-art` `city` `japanese` `fantasy` `minimal-prompt`
 
-### 2. 黑曜石火焰剑光标
+### 3. 黑曜石火焰剑光标
 
 <img src="gifs/obsidian-sword-flame-cursor.gif" alt="黑曜石火焰剑光标" width="360">
 
@@ -833,7 +849,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `cursor` `game-ui` `sprite-sheet`
 
-### 3. 雨天咖啡馆里敲键盘的像素橘猫
+### 4. 雨天咖啡馆里敲键盘的像素橘猫
 
 <img src="gifs/pixel-headphone-cat-rainy-cafe.gif" alt="雨天咖啡馆里敲键盘的像素橘猫" width="360">
 
@@ -849,7 +865,7 @@ An animation sprite sheet for a fantasy desktop cursor, inspired by a flaming-sw
 
 `pixel-art` `cat` `lofi` `rain` `cafe`
 
-### 4. 8 位像素小牛行走循环
+### 5. 8 位像素小牛行走循环
 
 <img src="gifs/pixel-ox-walk-cycle.gif" alt="8 位像素小牛行走循环" width="360">
 
@@ -867,7 +883,7 @@ cycle, flat sky blue background, crisp pixels, no blur.
 
 `pixel-art` `sprite` `walk-cycle` `game`
 
-### 5. 像素勇者挥剑特效
+### 6. 像素勇者挥剑特效
 
 <img src="gifs/pixel-hero-sword-slash.gif" alt="像素勇者挥剑特效" width="360">
 
@@ -884,7 +900,7 @@ GIFを作成。ドット絵の勇者。
 
 `pixel-art` `hero` `sword` `fx`
 
-### 6. 绿色询价按钮流光
+### 7. 绿色询价按钮流光
 
 <img src="gifs/green-quote-button-shine.gif" alt="绿色询价按钮流光" width="360">
 
@@ -900,7 +916,7 @@ GIFを作成。ドット絵の勇者。
 
 `button` `ui` `japanese`
 
-### 7. 灯泡图标慢慢亮起
+### 8. 灯泡图标慢慢亮起
 
 <img src="gifs/lightbulb-icon-glow.gif" alt="灯泡图标慢慢亮起" width="360">
 
@@ -916,7 +932,7 @@ GIFを作成。ドット絵の勇者。
 
 `icon` `flat` `education`
 
-### 8. 像素闪电劈落特效
+### 9. 像素闪电劈落特效
 
 <img src="gifs/pixel-lightning-strike.gif" alt="像素闪电劈落特效" width="360">
 
@@ -932,7 +948,7 @@ Make an animated GIF of a pixel-art lightning strike for a 2D side-view game, re
 
 `pixel-art` `game-fx` `lightning`
 
-### 9. 像素火柱喷发特效
+### 10. 像素火柱喷发特效
 
 <img src="gifs/pixel-fire-pillar-burst.gif" alt="像素火柱喷发特效" width="360">
 
@@ -948,7 +964,7 @@ Make an animated GIF of a pixel-art fire pillar erupting from the ground, for a 
 
 `pixel-art` `game-fx` `fire-pillar`
 
-### 10. 像素火山喷发特效
+### 11. 像素火山喷发特效
 
 <img src="gifs/pixel-volcano-eruption.gif" alt="像素火山喷发特效" width="360">
 
@@ -964,7 +980,7 @@ Make an animated GIF of a pixel-art volcano eruption seen from far away, for the
 
 `pixel-art` `game-fx` `eruption`
 
-### 11. 像素能量光束特效
+### 12. 像素能量光束特效
 
 <img src="gifs/pixel-energy-beam-blast.gif" alt="像素能量光束特效" width="360">
 
@@ -980,23 +996,7 @@ Make an animated GIF of a pixel-art energy beam for a 2D side-view game, in a wi
 
 `pixel-art` `game-fx` `beam`
 
-### 12. 像素爆炸与蘑菇云特效
-
-<img src="gifs/pixel-explosion-mushroom-cloud.gif" alt="像素爆炸与蘑菇云特效" width="360">
-
-<sub>15 帧 · 316×302 · 1.3s · GPT Image 2.6</sub>
-
-📌 **来源：** [@kasperzackgames on GitHub](https://github.com/kasperzackgames/chatgpt-pixel-effects)
-
-**提示词**
-
-```text
-Make an animated GIF of a pixel-art explosion for a 2D side-view game, rendered as large as you can (at least 512x512). 16 frames, about 80 ms per frame. Use fine pixel art: each art pixel is only 2 to 3 image pixels wide, so the explosion has a lot of detail (about 120 art pixels tall at its peak). The camera does not move. The bottom edge of the frame is the ground line, and the explosion hits the ground at the bottom centre, at the same point in every frame. Don't draw the ground itself. Sequence: a tiny spark on the ground; one bright white flash frame; a huge orange and yellow fireball that grows until it fills about three quarters of the frame height and rises into a mushroom cloud with a fiery stem; debris chunks and sparks flying out in arcs; a thin dust ring rolling sideways along the ground; the fire breaks up into a light grey smoke column that rises and drifts; glowing embers fade out until the frame is empty. True pixel art: crisp pixels on one even grid, hard edges, no anti-aliasing, no blur, no soft gradients, a limited palette of about 20 colours (white, yellows, oranges, reds, dark reds and four neutral greys for the smoke). Background: flat solid pure magenta #FF00FF in every frame, nothing else. No text, no borders.
-```
-
-`pixel-art` `game-fx` `explosion`
-
-**[查看本分类全部 102 条 →](categories/pixel-ui_zh.md)**
+**[查看本分类全部 103 条 →](categories/pixel-ui_zh.md)**
 
 ## 科普讲解动图
 
@@ -1198,7 +1198,23 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 ## 节日与祝福
 
-### 1. 3D 礼物盒打开蹦出白色小鬼
+### 1. 复古圣诞舞者与卡通眼镜
+
+<img src="gifs/retro-christmas-dancer-cartoon-glasses.gif" alt="复古圣诞舞者与卡通眼镜" width="360">
+
+<sub>12 帧 · 480×854 · 1.6s · GPT Image 2.6 Sunburst (API)</sub>
+
+📌 **来源：** [useapi.net on useapi.net](https://useapi.net/docs/articles/gpt-image-2-6-gif-api)
+
+**提示词**
+
+```text
+Looping animation. A pretty, stylish young woman with an eye-catching, one-of-a-kind look: a tall, glossy retro pompadour of pastel mint hair fading to silver tips, tiny gold hoop earrings, a dusting of freckles, rosy cheeks and a confident, playful smile. She wears normal-size retro cat-eye novelty glasses with glossy red frames; instead of see-through lenses, each lens shows a big printed cartoon eye with long lashes, and the cartoon pupils glance left and right and blink in a smooth loop. Her outfit is a fitted red velvet Christmas coat with fluffy white fur trim and a wide black belt with a big gold buckle encrusted with sapphires that sparkle and glow as she moves. She dances smoothly and gently: a soft shoulder shimmy, a slight side-to-side sway, and her hands rolling in small circles close to her body, all small, flowing movements. Behind her, on a vibrant blue background, Christmas ornaments, candy canes, wrapped gifts and snowflakes float and drift across the screen in bouncy rows, like the floating graphics of a 1990s dance-pop music video. Playful retro studio-portrait style, bright saturated colors, smooth seamless loop.
+```
+
+`christmas` `dance` `retro` `90s` `portrait`
+
+### 2. 3D 礼物盒打开蹦出白色小鬼
 
 <img src="gifs/clay-gift-box-ghost-pop.gif" alt="3D 礼物盒打开蹦出白色小鬼" width="360">
 
@@ -1214,7 +1230,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `gift` `surprise` `3d` `blender` `squash-and-stretch` `chinese`
 
-### 2. 羊毛毡风生日蛋糕与戴帽小猫
+### 3. 羊毛毡风生日蛋糕与戴帽小猫
 
 <img src="gifs/felt-birthday-cake-kitten.gif" alt="羊毛毡风生日蛋糕与戴帽小猫" width="360">
 
@@ -1230,7 +1246,7 @@ A simple wooden seesaw on a triangle pivot tips one way as a heavy block drops o
 
 `birthday` `felt` `greeting`
 
-### 3. 冒热气的感恩节南瓜派
+### 4. 冒热气的感恩节南瓜派
 
 <img src="gifs/harvest-pie-steam.gif" alt="冒热气的感恩节南瓜派" width="360">
 
@@ -1244,7 +1260,7 @@ A whole pumpkin pie on a checkered cloth with three curls of steam rising and fa
 
 `thanksgiving` `pie` `thank you`
 
-### 4. 姜饼屋门口挥手的小姜饼人
+### 5. 姜饼屋门口挥手的小姜饼人
 
 <img src="gifs/gingerbread-door-wave.gif" alt="姜饼屋门口挥手的小姜饼人" width="360">
 
